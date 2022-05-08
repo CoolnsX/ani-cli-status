@@ -6,9 +6,12 @@ gen_img() {
 }
 
 #intializing
+base_url="https://goload.pro"
 font="font/iosevka-regular.ttf"
 agent="Mozilla/5.0 (Linux; Android 11; moto g(9) power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36"
-refr=$(curl -s "https://goload.pro/videos/boruto-naruto-next-generations-episode-200" | sed -nE 's/.*iframe src="(.*)" al.*/\1/p')
+url=$(curl -A "$agent" -s "$base_url" | sed -nE 's_.*<a href="/videos/([^"]*)">_\1_p' | tail -15 | shuf | head -1)
+[ -z "$url" ] && exit 0 || printf "\033[1;35mSelected $url\n\033[1;36mLoading Episode.."
+refr=$(curl -A "$agent" -s "$base_url/videos/$url" | sed -nE 's/.*iframe src="(.*)" al.*/\1/p')
 resp="$(curl -s "https:$refr")"
 links=$(printf "%s" "$resp" | sed -nE 's/.*data-status="1".*data-video="(.*)">.*/\1/p')
 printf "\33[2K\r\033[1;32m link providers>>\033[0m\n$links\n"
