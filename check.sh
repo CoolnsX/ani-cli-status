@@ -34,7 +34,7 @@ fb_video=$(curl -s -X POST "https://fembed-hd.com/api/source/$fb_id" -H "x-reque
 #doodstream link
 printf "\n\033[1;34mFetching doodstream links"
 dood_id=$(printf "$links" | sed -n "s_.*dood.*/e/__p")
-dood_link=$(curl -A "$agent" -s "https://dood.ws/d/$dood_id" | sed -nE 's/<a href="(.*)" class="btn.*justify.*/\1/p') && printf "$dood_link" && sleep 2 && dood_video=$(curl -A "$agent" -s "https://dood.ws${dood_link}" | sed -nE "s/.*window.open.*'(.*)',.*/\1/p") && [ -z "$dood_video" ] && gen_img "doodstream" "0" || (gen_img "doodstream" "$(printf "%s\n" "$dood_video" | wc -l)" && printf "$dood_video") &
+dood_link=$(curl -A "$agent" -s "https://dood.ws/d/$dood_id" | sed -nE 's/<a href="(.*)" class="btn.*justify.*/\1/p') && printf "$dood_link" && gen_img "doodstream" "0" || (gen_img "doodstream" "$(printf "%s\n" "$dood_video" | wc -l)" && printf "$dood_video") &
 
 #mp4upload link
 printf "\n\033[1;34mFetching mp4upload links"
