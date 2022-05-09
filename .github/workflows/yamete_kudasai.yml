@@ -10,11 +10,6 @@ jobs:
     runs-on: ubuntu-latest    
     steps:
       - uses: actions/checkout@v3
-      
-      - name: Dependency
-        run: |
-          sudo apt-get update
-          sudo apt-get install imagemagick curl openssl grep -y
           
       - name: run me uwu
         run: sh ./check.sh
