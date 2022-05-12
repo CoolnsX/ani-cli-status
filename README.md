@@ -4,7 +4,8 @@ Provides the ani-cli script status..
 # description
 This script scrapes from animixplay homepage by fetching the random anime and then extracting the links from it..
 <br>
-Some providers may show ```No link returnrd``` due to lack of links in the randomly selected anime
+
+Some providers may show ```No link returned``` due to lack of links in the randomly selected anime
  
 # gogoanime
 
