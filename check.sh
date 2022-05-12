@@ -60,7 +60,8 @@ rush=$(printf "%s" "$tmp" | jq -r '.data[] | select(.type == "RUSH").items[].url
 #mixdrop link
 mix_id=$(printf "%s" "$rush_links" | sed -nE 's_.*mixdrop.*/e/(.*)_\1_p')
 [ -z "$mix_id" ] || printf "\n\033[1;34mFetching mixdrop links < $mix_id"
-mix_video=$(curl -s -A "$agent" "https://mixdrop.bz/e/$mix_id" | sed -nE "s_.*\|MDCore\|(.*)\|(.*)\|(.*)\|(.*)\|(.*)\|(.*)\|referrer\|(.*)\|thumbs.*\|v\|\_t\|(.*)\|(.*)\|vfile.*_https://\1-\2.\5.\6/v/\3.\4?\1=\7\&e=\8\&\_t=\9_p") && [ -z "$mix_video" ] && gen_img "mixdrop" "0" || gen_img "mixdrop" "$(printf "%s\n" "$mix_video" | wc -l)"
+mix_data=$(curl -s -A "$agent" "https://mixdrop.bz/e/$mix_id") 
+mix_video=$(printf "%s" "$mix_data" | sed -nE "s_.*\|MDCore\|(.*)\|(.*)\|(.*)\|(.*)\|(.*)\|(.*)\|referrer\|(.*)\|thumbs.*\|v\|\_t\|(.*)\|(.*)\|vfile.*_https://\1-\2.\5.\6/v/\3.\4?\1=\7\&e=\8\&\_t=\9_p") && [ -z "$mix_video" ] && mix_video=$(printf "%s" "$mix_data" | sed -nE "s_.*'\|MDCore\|(.*)\|(.*)\|(.*)\|(.*)\|(.*)\|referrer\|(.*)\|thumbs.*\|\_t\|(.*)\|(.*)\|vfile.*_https://a-\1.\3.\5/v/\2.\4?s=\6\&e=\7\&\_t=\8_p") && [ -z "$mix_video" ] && gen_img "mixdrop" "0" || gen_img "mixdrop" "$(printf "%s\n" "$mix_video" | wc -l)"
 
 #fetching al stream links
 al=$(printf "%s" "$tmp" | jq -r '.data[] | select(.type == "AL").items[].url' | head -1)
