@@ -2,7 +2,7 @@
 
 gen_img() {
     [ "$2" -eq 0 ] && convert -fill white -background darkred -pointsize 72 -font "$font" label:"\ ✗ No link returned " images/$1.jpg || convert -fill white -background darkgreen -pointsize 72 -font "$font" label:"\ ✓ $2 link(s) returned " images/$1.jpg
-    printf "\n\033[1;32m$1 image geneated"
+    printf "\n\033[1;32m$1 image generated!!"
 }
 
 #intializing
@@ -42,39 +42,28 @@ dood_id=$(printf "%s" "$links" | sed -n "s_.*dood.*/e/__p")
 [ -z "$dood_id" ] || printf "\n\033[1;34mFetching doodstream links < $dood_id"
 dood_link=$(curl -A "$agent" -s "https://dood.ws/d/$dood_id" | sed -nE 's/<a href="(.*)" class="btn.*justify.*/\1/p') && [ -z "$dood_link" ] && gen_img "doodstream" "0" || gen_img "doodstream" "$(printf "%s\n" "$dood_link" | wc -l)" &
 
-#mp4upload link
+#mp4upload (gogo) link
 mp4up_link=$(printf "%s" "$links" | grep "mp4upload")
 [ -z "$mp4up_link" ] || printf "\n\033[1;34mFetching mp4upload links < $mp4up_link"
 mp4up_video=$(curl -A "$agent" -s "$mp4up_link" -H "DNT: 1" -e "https:$refr" | sed -nE 's_.*embed\|(.*)\|.*blank.*\|(.*)\|(.*)\|(.*)\|(.*)\|src.*_https://\1.mp4upload.com:\5/d/\4/\3.\2_p') && [ -z "$mp4up_video" ] && gen_img "mp4upload" "0" || gen_img "mp4upload" "$(printf "%s\n" "$mp4up_video" | wc -l)" &
 
-#ping to get rush, al link
-tmp=$(curl -s -H "x-requested-with:XMLHttpRequest" -X POST https://animixplay.to/api/search -d "recomended=$ext_id" -A "$agent")
-
-#fetching rush stream links
-rush=$(printf "%s" "$tmp" | jq -r '.data[] | select(.type == "RUSH").items[].url' | head -1)
-[ -z "$rush" ] || rush_data=$(curl -s "${base_url}${rush}" -A "$agent" | sed -nE 's_.*epslistplace.*>(.*)</div>_\1_p')
-[ -z "$rush_data" ] || rush_ep=$(printf "%s" "$rush_data" | jq -r '."eptotal"') && rush_ep=$((rush_ep - 1))
-[ -z "$rush_ep" ] || rush_links=$(printf "%s" "$rush_data" | jq -r ".\"${rush_ep}\"[].vid")
-[ -z "$rush_links" ] || printf "\n\033[1;32m link providers (RUSH)>>\033[0m\n%s\n" "$rush_links"
-
-#mixdrop link
-mix_id=$(printf "%s" "$rush_links" | sed -nE 's_.*mixdrop.*/e/(.*)_\1_p')
-[ -z "$mix_id" ] || printf "\n\033[1;34mFetching mixdrop links < $mix_id"
-mix_data=$(curl -s -A "$agent" "https://mixdrop.bz/e/$mix_id") 
-mix_video=$(printf "%s" "$mix_data" | sed -nE "s_.*\|MDCore\|(.*)\|(.*)\|(.*)\|(.*)\|(.*)\|(.*)\|referrer\|(.*)\|thumbs.*\|v\|\_t\|(.*)\|(.*)\|vfile.*_https://\1-\2.\5.\6/v/\3.\4?\1=\7\&e=\8\&\_t=\9_p") && [ -z "$mix_video" ] && mix_video=$(printf "%s" "$mix_data" | sed -nE "s_.*'\|MDCore\|(.*)\|(.*)\|(.*)\|(.*)\|(.*)\|referrer\|(.*)\|thumbs.*\|\_t\|(.*)\|(.*)\|vfile.*_https://a-\1.\3.\5/v/\2.\4?s=\6\&e=\7\&\_t=\8_p") && [ -z "$mix_video" ] && gen_img "mixdrop" "0" || gen_img "mixdrop" "$(printf "%s\n" "$mix_video" | wc -l)"
-
 #fetching al stream links
-al=$(printf "%s" "$tmp" | jq -r '.data[] | select(.type == "AL").items[].url' | head -1)
+al=$(curl -s -H "x-requested-with:XMLHttpRequest" -X POST "https://animixplay.to/api/search" -d "recomended=$ext_id" -A "$agent" | jq -r '.data[] | select(.type == "AL").items[0].url')
 [ -z "$al" ] || al_data=$(curl -s "${base_url}${al}" -A "$agent" | sed -nE 's_.*epslistplace.*>(.*)</div>_\1_p')
 [ -z "$al_data" ] || al_ep=$(printf "%s" "$al_data" | jq -r '."eptotal"') && al_ep=$((al_ep - 1))
 [ -z "$al_ep" ] || al_links=$(printf "%s" "$al_data" | jq -r ".\"${al_ep}\"[]")
-[ -z "$al_links" ] || printf "\n\033[1;32m link providers (AL)>>\033[0m\n%s\n" "$al_links"
+[ -z "$al_links" ] || printf "\n\n\033[1;32m link providers (AL)>>\033[0m\n%s\n" "$al_links"
+
+#mp4upload (al) link
+mp4up_al_link=$(printf "%s" "$al_links" | grep "mp4upload")
+[ -z "$mp4up_al_link" ] || printf "\n\033[1;34mFetching mp4upload (al) links < $mp4up_al_link"
+mp4up_al_video=$(curl -A "$agent" -s "$mp4up_al_link" -H "DNT: 1" -e "https:$refr" -L | sed -nE 's_.*embed\|(.*)\|.*blank.*\|(.*)\|(.*)\|(.*)\|(.*)\|src.*_https://\1.mp4upload.com:\5/d/\4/\3.\2_p') && [ -z "$mp4up_al_video" ] && gen_img "mp4upload_al" "0" || gen_img "mp4upload_al" "$(printf "%s\n" "$mp4up_al_video" | wc -l)" &
 
 #streamlare
 lare_id=$(printf "%s" "$al_links" | sed -nE 's_.*streamlare.*/e/(.*)_\1_p')
 [ -z "$lare_id" ] || printf "\n\033[1;34mFetching streamlare links < $lare_id"
 lare_token=$(curl -s -A "$agent" "https://streamlare.com/e/$lare_id" | sed -nE 's/.*csrf-token.*content="(.*)">/\1/p')
-lare_video=$(curl -s -A "$agent" -H "x-requested-with:XMLHttpRequest" -X POST "https://streamlare.com/api/video/download/get" -d "{\"id\":\"$lare_id\"}" -H "x-csrf-token:$lare_token" -H "content-type:application/json;charset=UTF-8" | tr -d '\\' | sed -nE 's/.*label":"([^"]*)",.*url":"([^"]*)".*/\1 >\2/p') && [ -z "$lare_video" ] && gen_img "streamlare" "0" || gen_img "streamlare" "$(printf "%s\n" "$lare_video" | wc -l)"
+lare_video=$(curl -s -A "$agent" -H "x-requested-with:XMLHttpRequest" -X POST "https://streamlare.com/api/video/download/get" -d "{\"id\":\"$lare_id\"}" -H "x-csrf-token:$lare_token" -H "content-type:application/json;charset=UTF-8" | tr -d '\\' | sed -nE 's/.*label":"([^"]*)",.*url":"([^"]*)".*/\1 >\2/p') && [ -z "$lare_video" ] && gen_img "streamlare" "0" || gen_img "streamlare" "$(printf "%s\n" "$lare_video" | wc -l)" &
 
 #odnoklassniki (okru) links
 ok_id=$(printf "%s" "$al_links" | sed -nE 's_.*ok.*videoembed/(.*)_\1_p')

@@ -19,7 +19,7 @@ Some providers may show ```No link returned``` due to lack of links in the rando
 
 <img src="./images/doodstream.jpg">
 
-# mp4upload
+# mp4upload (GOGO)
 
 <img src="./images/mp4upload.jpg">
 
@@ -31,6 +31,6 @@ Some providers may show ```No link returned``` due to lack of links in the rando
 
 <img src="./images/streamlare.jpg">
 
-# mixdrop
+# mp4upload (AL)
 
-<img src="./images/mixdrop.jpg">
+<img src="./images/mp4upload_al.jpg">
