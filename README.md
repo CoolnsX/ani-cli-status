@@ -5,32 +5,36 @@ Provides the ani-cli script status..
 This script scrapes from animixplay homepage by fetching the random anime and then extracting the links from it..
 <br>
 
-Some providers may show ```No link returned``` due to lack of links in the randomly selected anime
+Some providers may show ```No link returned``` due to absence of links in the randomly selected anime
  
-# gogoanime
+#Gogoanime
+
+## gogo direct links
 
 <img src="./images/gogoplay.jpg">
 
-# xstreamcdn
+## xstreamcdn
 
 <img src="./images/xstreamcdn.jpg">
 
-# doodstream
+## doodstream
 
 <img src="./images/doodstream.jpg">
 
-# mp4upload (GOGO)
+## mp4upload (GOGO)
 
 <img src="./images/mp4upload.jpg">
 
-# okru
+# Allanime
+
+## okru
 
 <img src="./images/okru.jpg">
 
-# streamlare
+## streamlare
 
 <img src="./images/streamlare.jpg">
 
-# mp4upload (AL)
+## mp4upload (AL)
 
 <img src="./images/mp4upload_al.jpg">
