@@ -7,7 +7,7 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 Some providers may show ```No link returned``` due to absence of links in the randomly selected anime
  
-#Gogoanime
+# Gogoanime
 
 ## gogo direct links
 
