@@ -17,20 +17,21 @@ ext_id=$(printf "%s" "$data" | sed -nE "s/.*malid = '(.*)';/\1/p")
 data=$(printf "%s" "$data" | sed -nE 's_.*epslistplace.*>(.*)</div>_\1_p')
 ep=$(printf "%s" "$data" | jq -r '."eptotal"') && ep=$((ep - 1))
 refr=$(printf "%s" "$data" | jq -r ".\"$ep\"")
-resp="$(curl -s "https:$refr")"
-links=$(printf "%s" "$resp" | sed -nE 's/.*data-status="1".*data-video="(.*)">.*/\1/p')
+resp="$(curl -A "$agent" -s "https:$refr" | sed -nE 's/.*class="container-(.*)">/\1/p ; s/.*class="wrapper container-(.*)">/\1/p ; s/.*class=".*videocontent-(.*)">/\1/p ; s/.*data-value="(.*)">.*/\1/p ; s/.*data-status="1".*data-video="(.*)">.*/\1/p')"
+links=$(printf "%s" "$resp" | sed -n '5,$ p')
 
 [ -z "$links" ] || printf "\33[2K\r\033[1;32m link providers (GOGO)>>\033[0m\n%s\n" "$links"
 
 #scraping goload direct links
 id=$(printf "%s" "$refr" | sed -nE 's/.*id=(.*)&title.*/\1/p')
 printf "\n\033[1;34mFetching goload links < $id"
-secret_key=$(printf "%s" "$resp" | sed -nE 's/.*class="container-(.*)">/\1/p' | tr -d "\n" | od -A n -t x1 | tr -d " |\n")
-iv=$(printf "%s" "$resp" | sed -nE 's/.*class="wrapper container-(.*)">/\1/p' | tr -d "\n" | od -A n -t x1 | tr -d " |\n")
-second_key=$(printf "%s" "$resp" | sed -nE 's/.*class=".*videocontent-(.*)">/\1/p' | tr -d "\n" | od -A n -t x1 | tr -d " |\n")
-token=$(printf "%s" "$resp" | sed -nE 's/.*data-value="(.*)">.*/\1/p' | base64 -d | openssl enc -d -aes256 -K "$secret_key" -iv "$iv" | sed -nE 's/.*&(token.*)/\1/p')
-ajax=$(printf '%s' "$id" |openssl enc -e -aes256 -K "$secret_key" -iv "$iv" -a)
-go_video=$(curl -s -H "X-Requested-With:XMLHttpRequest" "https://goload.pro/encrypt-ajax.php?id=${ajax}&alias=${id}&${token}" | sed -e 's/{"data":"//' -e 's/"}/\n/' -e 's/\\//g' | base64 -d | openssl enc -d -aes256 -K "$second_key" -iv "$iv" | sed -e 's/\].*/\]/' -e 's/\\//g' | grep -Eo 'https:\/\/[-a-zA-Z0-9@:%._\+~#=][a-zA-Z0-9][-a-zA-Z0-9@:%_\+.~#?&\/\/=]*') && [ -z "$go_video" ] && gen_img "gogoplay" "0" || gen_img "gogoplay" "$(printf "%s\n" "$go_video" | wc -l)" &
+secret_key=$(printf "%s" "$resp" | sed -n '2p' | tr -d "\n" | od -A n -t x1 | tr -d " |\n")
+iv=$(printf "%s" "$resp" | sed -n '3p' | tr -d "\n" | od -A n -t x1 | tr -d " |\n")
+second_key=$(printf "%s" "$resp" | sed -n '4p' | tr -d "\n" | od -A n -t x1 | tr -d " |\n")
+token=$(printf "%s" "$resp" | head -1 | base64 -d | openssl enc -d -aes256 -K "$secret_key" -iv "$iv" | sed -nE 's/.*&(token.*)/\1/p')
+ajax=$(printf '%s' "$id" | openssl enc -e -aes256 -K "$secret_key" -iv "$iv" -a)
+go_video=$(curl -s -H "X-Requested-With:XMLHttpRequest" "https://goload.pro/encrypt-ajax.php?id=${ajax}&alias=${id}&${token}" | sed -e 's/{"data":"//' -e 's/"}/\n/' -e 's/\\//g' | base64 -d | openssl enc -d -aes256 -K "$second_key" -iv "$iv" | sed -e 's/\].*/\]/' -e 's/\\//g' | grep -Eo 'https:\/\/[-a-zA-Z0-9@:%._\+~#=][a-zA-Z0-9][-a-zA-Z0-9@:%_\+.~#?&\/\/=]*')
+[ -z "$go_video" ] && gen_img "gogoplay" "0" || gen_img "gogoplay" "$(printf "%s\n" "$go_video" | wc -l)" &
 
 #xstreamcdn(fembed) links
 fb_id=$(printf "%s" "$links" | sed -n "s_.*fembed.*/v/__p")
