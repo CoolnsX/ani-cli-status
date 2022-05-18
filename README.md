@@ -3,9 +3,12 @@ Provides the ani-cli script status..
 
 # description
 This script scrapes from animixplay homepage by fetching the random anime and then extracting the links from it..
-<br>
 
-Some providers may show ```No link returned``` due to absence of links in the randomly selected anime
+#### Selected Episode details
+
+Episode Name: boruto naruto next generations ep249
+
+Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep249
  
 # Gogoanime
 
