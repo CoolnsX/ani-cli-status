@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: zuihou de zhaohuan shi ep5
+Episode Name: gaikotsu kishi sama tadaima isekai e odekakechuu ep7
 
-Episode Link: https://animixplay.to/v1/zuihou-de-zhaohuan-shi/ep5
+Episode Link: https://animixplay.to/v1/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu/ep7
  
 # Gogoanime
 
