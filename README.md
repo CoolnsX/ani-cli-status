@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shin ikkitousen
+Episode Name: deaimon ep7
 
-Episode Link: https://animixplay.to/v1/shin-ikkitousen
+Episode Link: https://animixplay.to/v1/deaimon/ep7
  
 # Gogoanime
 
