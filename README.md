@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: birdie wing golf girls story ep7
+Episode Name: blackrock shooter dawn fall ep7
 
-Episode Link: https://animixplay.to/v1/birdie-wing-golf-girls-story/ep7
+Episode Link: https://animixplay.to/v1/blackrock-shooter-dawn-fall/ep7
  
 # Gogoanime
 
