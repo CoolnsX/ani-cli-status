@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: blackrock shooter dawn fall ep7
+Episode Name: komi san wa comyushou desu 2nd season ep7
 
-Episode Link: https://animixplay.to/v1/blackrock-shooter-dawn-fall/ep7
+Episode Link: https://animixplay.to/v1/komi-san-wa-comyushou-desu-2nd-season/ep7
  
 # Gogoanime
 
