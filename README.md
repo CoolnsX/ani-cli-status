@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kaginado season 2 ep6
+Episode Name: strike the blood final ep2
 
-Episode Link: https://animixplay.to/v1/kaginado-season-2/ep6
+Episode Link: https://animixplay.to/v1/strike-the-blood-final/ep2
  
 # Gogoanime
 
