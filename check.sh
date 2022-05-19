@@ -17,13 +17,12 @@ data=$(curl -A "$agent" -s "${base_url}${url}" | sed -nE "s/.*malid = '(.*)';/\1
 ext_id=$(printf "%s" "$data" | tail -1)
 data=$(printf "%s" "$data" | head -1)
 ep=$(printf "%s" "$data" | jq -r '."eptotal"') && ep=$((ep - 1))
-refr=$(printf "%s" "$data" | jq -r ".\"$ep\"")
-resp="$(curl -A "$agent" -s "https:$refr" | sed -nE 's/.*class="container-(.*)">/\1/p ; s/.*class="wrapper container-(.*)">/\1/p ; s/.*class=".*videocontent-(.*)">/\1/p ; s/.*data-value="(.*)">.*/\1/p ; s/.*data-status="1".*data-video="(.*)">.*/\1/p')"
+id=$(printf "%s" "$data" | jq -r ".\"$ep\"" | sed -nE 's/.*id=(.*)&title.*/\1/p')
+resp="$(curl -A "$agent" -s "https://goload.pro/streaming.php?id=$id" | sed -nE 's/.*class="container-(.*)">/\1/p ; s/.*class="wrapper container-(.*)">/\1/p ; s/.*class=".*videocontent-(.*)">/\1/p ; s/.*data-value="(.*)">.*/\1/p ; s/.*data-status="1".*data-video="(.*)">.*/\1/p')"
 links=$(printf "%s" "$resp" | sed -n '5,$ p')
 [ -z "$links" ] || printf "\33[2K\r\033[1;32m link providers (GOGO)>>\033[0m\n%s\n" "$links"
 
 #scraping goload direct links
-id=$(printf "%s" "$refr" | sed -nE 's/.*id=(.*)&title.*/\1/p')
 [ -z "$id" ] && gen_img "gogoplay" "! No" "embed link" "#a26b03" || printf "\n\033[1;34mFetching goload links < $id"
 secret_key=$(printf "%s" "$resp" | sed -n '2p' | tr -d "\n" | od -A n -t x1 | tr -d " |\n")
 iv=$(printf "%s" "$resp" | sed -n '3p' | tr -d "\n" | od -A n -t x1 | tr -d " |\n")
@@ -46,7 +45,7 @@ dood_id=$(printf "%s" "$links" | sed -n "s_.*dood.*/e/__p")
 #mp4upload (gogo) link
 mp4up_link=$(printf "%s" "$links" | grep "mp4upload")
 [ -z "$mp4up_link" ] && gen_img "mp4upload" "! No" "embed link" "#a26b03" || printf "\n\033[1;34mFetching mp4upload links < $mp4up_link"
-[ -z "$mp4up_link" ] || (mp4up_video=$(curl -A "$agent" -s "$mp4up_link" -H "DNT: 1" -e "https:$refr" | sed -nE 's_.*embed\|(.*)\|.*blank.*\|(.*)\|(.*)\|(.*)\|(.*)\|src.*_https://\1.mp4upload.com:\5/d/\4/\3.\2_p') && [ -z "$mp4up_video" ] && gen_img "mp4upload" "✗ No" "link returned" "darkred" || gen_img "mp4upload" "✓ $(printf "%s\n" "$mp4up_link" | wc -l)" "link returned" "darkgreen") &
+[ -z "$mp4up_link" ] || (mp4up_video=$(curl -A "$agent" -s "$mp4up_link" -H "DNT: 1" | sed -nE 's_.*embed\|(.*)\|.*blank.*\|(.*)\|(.*)\|(.*)\|(.*)\|src.*_https://\1.mp4upload.com:\5/d/\4/\3.\2_p') && [ -z "$mp4up_video" ] && gen_img "mp4upload" "✗ No" "link returned" "darkred" || gen_img "mp4upload" "✓ $(printf "%s\n" "$mp4up_link" | wc -l)" "link returned" "darkgreen") &
 
 #fetching al stream links
 al=$(curl -s -H "x-requested-with:XMLHttpRequest" -X POST "https://animixplay.to/api/search" -d "recomended=$ext_id" -A "$agent" | jq -r '.data[] | select(.type == "AL").items[0].url')
@@ -58,7 +57,7 @@ al=$(curl -s -H "x-requested-with:XMLHttpRequest" -X POST "https://animixplay.to
 #mp4upload (al) link
 mp4up_al_link=$(printf "%s" "$al_links" | grep "mp4upload")
 [ -z "$mp4up_al_link" ] && gen_img "mp4upload_al" "! No" "embed link" "#a26b03" || printf "\n\033[1;34mFetching mp4upload (al) links < $mp4up_al_link"
-[ -z "$mp4up_al_link" ] || (mp4up_al_video=$(curl -A "$agent" -s "$mp4up_al_link" -H "DNT: 1" -e "https:$refr" -L | sed -nE 's_.*embed\|(.*)\|.*blank.*\|(.*)\|(.*)\|(.*)\|(.*)\|src.*_https://\1.mp4upload.com:\5/d/\4/\3.\2_p') && [ -z "$mp4up_al_video" ]  && gen_img "mp4upload_al" "✗ No" "link returned" "darkred" || gen_img "mp4upload_al" "✓ $(printf "%s\n" "$mp4up_al_link" | wc -l)" "link returned" "darkgreen") &
+[ -z "$mp4up_al_link" ] || (mp4up_al_video=$(curl -A "$agent" -s "$mp4up_al_link" -H "DNT: 1" -L | sed -nE 's_.*embed\|(.*)\|.*blank.*\|(.*)\|(.*)\|(.*)\|(.*)\|src.*_https://\1.mp4upload.com:\5/d/\4/\3.\2_p') && [ -z "$mp4up_al_video" ]  && gen_img "mp4upload_al" "✗ No" "link returned" "darkred" || gen_img "mp4upload_al" "✓ $(printf "%s\n" "$mp4up_al_link" | wc -l)" "link returned" "darkgreen") &
 
 #streamlare
 lare_id=$(printf "%s" "$al_links" | sed -nE 's_.*streamlare.*/e/(.*)_\1_p')
