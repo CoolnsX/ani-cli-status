@@ -5,17 +5,13 @@ gen_img() {
     printf "\n\033[1;32m$1 image generated!!"
 }
 
-update_readme(){
-    sed -i -E "s_Episode Name: (.*)_Episode Name: $(printf "$1" | cut -d"/" -f3- | tr "[:punct:]" " ")_g ; s_animixplay.to(.*)_animixplay.to$1_g" README.md
-}
-
 #intializing
 base_url="https://animixplay.to"
 font="font/iosevka-regular.ttf"
 agent="Mozilla/5.0 (Linux; Android 11; moto g(9) power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36"
 url=$(curl -s "$base_url" -A "$agent" | sed -nE 's_.*href="(/v1.*)" title.*_\1_p' | tail -15 | shuf | sed -n '5p')
 [ -z "$url" ] && exit 0 || printf "\033[1;35mSelected $url\n\033[1;36mLoading Episode.."
-update_readme "$url" &
+sed -i -E "s_Episode Name: (.*)_Episode Name: $(printf "$url" | cut -d"/" -f3- | tr "[:punct:]" " ")_g ; s_${base_url}(.*)_${base_url}${url}_g" README.md &
 data=$(curl -A "$agent" -s "${base_url}${url}" | sed -nE "s/.*malid = '(.*)';/\1/p ; s_.*epslistplace.*>(.*)</div>_\1_p")
 
 ext_id=$(printf "%s" "$data" | tail -1)
