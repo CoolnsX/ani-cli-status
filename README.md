@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kaginado season 2 ep6
+Episode Name: blackrock shooter dawn fall ep7
 
-Episode Link: https://animixplay.to/v1/kaginado-season-2/ep6
+Episode Link: https://animixplay.to/v1/blackrock-shooter-dawn-fall/ep7
  
 # Gogoanime
 
