@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: zuihou de zhaohuan shi ep5
+Episode Name: komi san wa comyushou desu 2nd season ep7
 
-Episode Link: https://animixplay.to/v1/zuihou-de-zhaohuan-shi/ep5
+Episode Link: https://animixplay.to/v1/komi-san-wa-comyushou-desu-2nd-season/ep7
  
 # Gogoanime
 
