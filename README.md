@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shachiku san wa youjo yuurei ni iyasaretai ep7
+Episode Name: mewkledreamy mix ep17
 
-Episode Link: https://animixplay.to/v1/shachiku-san-wa-youjo-yuurei-ni-iyasaretai/ep7
+Episode Link: https://animixplay.to/v1/mewkledreamy-mix/ep17
  
 # Gogoanime
 
