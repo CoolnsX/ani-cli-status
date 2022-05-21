@@ -14,7 +14,7 @@ agent="Mozilla/5.0 (Linux; Android 11; moto g(9) power) AppleWebKit/537.36 (KHTM
 sed -i -E "s_Episode Name: (.*)_Episode Name: $(printf "$url" | cut -d"/" -f3- | tr "[:punct:]" " ")_g ; s_${base_url}(.*)_${base_url}${url}_g" README.md &
 data=$(curl -A "$agent" -s "${base_url}${url}" | sed -nE "s/.*malid = '(.*)';/\1/p ; s_.*epslistplace.*>(.*)</div>_\1_p")
 
-ext_id=$(printf "%s" "$data" | tail -1)
+ext_id=$(printf "%s" "$data" | tail -1 | tr -d "[:alpha:]|[:punct:]")
 data=$(printf "%s" "$data" | head -1)
 ep=$(printf "%s" "$data" | jq -r '."eptotal"') && ep=$((ep - 1))
 id=$(printf "%s" "$data" | jq -r ".\"$ep\"" | sed -nE 's/.*id=(.*)&title.*/\1/p')
