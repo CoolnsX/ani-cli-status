@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: douluo dalu 2nd season ep183
+Episode Name: kaguya sama wa kokurasetai ultra romantic ep7
 
-Episode Link: https://animixplay.to/v1/douluo-dalu-2nd-season/ep183
+Episode Link: https://animixplay.to/v1/kaguya-sama-wa-kokurasetai-ultra-romantic/ep7
  
 # Gogoanime
 
