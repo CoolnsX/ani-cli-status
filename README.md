@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shokei shoujo no virgin road ep8
+Episode Name: rikei ga koi ni ochita no de shoumei shitemita heart ep8
 
-Episode Link: https://animixplay.to/v1/shokei-shoujo-no-virgin-road/ep8
+Episode Link: https://animixplay.to/v1/rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita-heart/ep8
  
 # Gogoanime
 
