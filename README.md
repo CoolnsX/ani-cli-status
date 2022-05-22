@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kawaii dake ja nai shikimori san ep6
+Episode Name: dragon quest dai no daibouken 2020 ep78
 
-Episode Link: https://animixplay.to/v1/kawaii-dake-ja-nai-shikimori-san/ep6
+Episode Link: https://animixplay.to/v1/dragon-quest-dai-no-daibouken-2020/ep78
  
 # Gogoanime
 
