@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yatogame chan kansatsu nikki 4th season ep7
+Episode Name: kunoichi tsubaki no mune no uchi ep7
 
-Episode Link: https://animixplay.to/v1/yatogame-chan-kansatsu-nikki-4th-season/ep7
+Episode Link: https://animixplay.to/v1/kunoichi-tsubaki-no-mune-no-uchi/ep7
  
 # Gogoanime
 
