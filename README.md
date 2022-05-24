@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: blackrock shooter dawn fall ep8
+Episode Name: kunoichi tsubaki no mune no uchi ep7
 
-Episode Link: https://animixplay.to/v1/blackrock-shooter-dawn-fall/ep8
+Episode Link: https://animixplay.to/v1/kunoichi-tsubaki-no-mune-no-uchi/ep7
  
 # Gogoanime
 
