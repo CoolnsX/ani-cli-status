@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kingdom 4th season ep7
+Episode Name: shin ikkitousen ep2
 
-Episode Link: https://animixplay.to/v1/kingdom-4th-season/ep7
+Episode Link: https://animixplay.to/v1/shin-ikkitousen/ep2
  
 # Gogoanime
 
