@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: zuihou de zhaohuan shi ep6
+Episode Name: delicious partyprecure ep11
 
-Episode Link: https://animixplay.to/v1/zuihou-de-zhaohuan-shi/ep6
+Episode Link: https://animixplay.to/v1/delicious-partyprecure/ep11
  
 # Gogoanime
 
