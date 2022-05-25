@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yuusha yamemasu ep8
+Episode Name: digimon ghost game ep26
 
-Episode Link: https://animixplay.to/v1/yuusha-yamemasu/ep8
+Episode Link: https://animixplay.to/v1/digimon-ghost-game/ep26
  
 # Gogoanime
 
