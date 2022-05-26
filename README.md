@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: boruto naruto next generations ep250
+Episode Name: healer girl ep8
 
-Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep250
+Episode Link: https://animixplay.to/v1/healer-girl/ep8
  
 # Gogoanime
 
