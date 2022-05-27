@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mahoutsukai reimeiki ep7
+Episode Name: ginga eiyuu densetsu die neue these gekitotsu ep11
 
-Episode Link: https://animixplay.to/v1/mahoutsukai-reimeiki/ep7
+Episode Link: https://animixplay.to/v1/ginga-eiyuu-densetsu-die-neue-these-gekitotsu/ep11
  
 # Gogoanime
 
