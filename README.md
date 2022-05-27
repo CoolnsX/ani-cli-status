@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: machikado mazoku 2 choume ep7
+Episode Name: summertime render ep7
 
-Episode Link: https://animixplay.to/v1/machikado-mazoku-2-choume/ep7
+Episode Link: https://animixplay.to/v1/summertime-render/ep7
  
 # Gogoanime
 
