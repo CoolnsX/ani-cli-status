@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: deaimon ep8
+Episode Name: estab life great escape ep11
 
-Episode Link: https://animixplay.to/v1/deaimon/ep8
+Episode Link: https://animixplay.to/v1/estab-life-great-escape/ep11
  
 # Gogoanime
 
