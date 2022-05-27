@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: summertime render ep7
+Episode Name: mahoutsukai reimeiki ep7
 
-Episode Link: https://animixplay.to/v1/summertime-render/ep7
+Episode Link: https://animixplay.to/v1/mahoutsukai-reimeiki/ep7
  
 # Gogoanime
 
