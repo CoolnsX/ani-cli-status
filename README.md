@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: build divide code white ep8
+Episode Name: onipan ep7
 
-Episode Link: https://animixplay.to/v1/build-divide-code-white/ep8
+Episode Link: https://animixplay.to/v1/onipan/ep7
  
 # Gogoanime
 
