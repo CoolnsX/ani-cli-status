@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: rikei ga koi ni ochita no de shoumei shitemita heart ep9
+Episode Name: cue ep20
 
-Episode Link: https://animixplay.to/v1/rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita-heart/ep9
+Episode Link: https://animixplay.to/v1/cue/ep20
  
 # Gogoanime
 
