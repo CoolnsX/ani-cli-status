@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kakkou no iinazuke ep6
+Episode Name: gunjou no fanfare ep9
 
-Episode Link: https://animixplay.to/v1/kakkou-no-iinazuke/ep6
+Episode Link: https://animixplay.to/v1/gunjou-no-fanfare/ep9
  
 # Gogoanime
 
