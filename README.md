@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kingdom 4th season chinese name ep8
+Episode Name: one piece ep1019
 
-Episode Link: https://animixplay.to/v1/kingdom-4th-season-chinese-name/ep8
+Episode Link: https://animixplay.to/v1/one-piece/ep1019
  
 # Gogoanime
 
