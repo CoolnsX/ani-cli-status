@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: gunjou no fanfare ep9
+Episode Name: baraou no souretsu ep20
 
-Episode Link: https://animixplay.to/v1/gunjou-no-fanfare/ep9
+Episode Link: https://animixplay.to/v1/baraou-no-souretsu/ep20
  
 # Gogoanime
 
