@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: pokemon 2019 ep112
+Episode Name: spy x family ep8
 
-Episode Link: https://animixplay.to/v1/pokemon-2019/ep112
+Episode Link: https://animixplay.to/v1/spy-x-family/ep8
  
 # Gogoanime
 
