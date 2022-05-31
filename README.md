@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yatogame chan kansatsu nikki 4th season ep8
+Episode Name: ao ashi ep8
 
-Episode Link: https://animixplay.to/v1/yatogame-chan-kansatsu-nikki-4th-season/ep8
+Episode Link: https://animixplay.to/v1/ao-ashi/ep8
  
 # Gogoanime
 
