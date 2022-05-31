@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: ao ashi ep8
+Episode Name: kunoichi tsubaki no mune no uchi ep8
 
-Episode Link: https://animixplay.to/v1/ao-ashi/ep8
+Episode Link: https://animixplay.to/v1/kunoichi-tsubaki-no-mune-no-uchi/ep8
  
 # Gogoanime
 
