@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: gunjou no fanfare ep9
+Episode Name: otome game sekai wa mob ni kibishii sekai desu ep9
 
-Episode Link: https://animixplay.to/v1/gunjou-no-fanfare/ep9
+Episode Link: https://animixplay.to/v1/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu/ep9
  
 # Gogoanime
 
