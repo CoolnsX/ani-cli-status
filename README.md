@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: holo no graffiti ep159
+Episode Name: shijou saikyou no daimaou murabito a ni tensei suru ep9
 
-Episode Link: https://animixplay.to/v1/holo-no-graffiti/ep159
+Episode Link: https://animixplay.to/v1/shijou-saikyou-no-daimaou-murabito-a-ni-tensei-suru/ep9
  
 # Gogoanime
 
