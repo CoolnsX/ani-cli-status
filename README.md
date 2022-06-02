@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: honzuki no gekokujou shisho ni naru tame ni wa shudan wo erandeiraremasen 3rd season ep8
+Episode Name: holo no graffiti ep159
 
-Episode Link: https://animixplay.to/v1/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-3rd-season/ep8
+Episode Link: https://animixplay.to/v1/holo-no-graffiti/ep159
  
 # Gogoanime
 
