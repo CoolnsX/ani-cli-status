@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: rpg fudousan ep9
+Episode Name: honzuki no gekokujou shisho ni naru tame ni wa shudan wo erandeiraremasen 3rd season ep8
 
-Episode Link: https://animixplay.to/v1/rpg-fudousan/ep9
+Episode Link: https://animixplay.to/v1/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-3rd-season/ep8
  
 # Gogoanime
 
