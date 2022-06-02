@@ -18,6 +18,10 @@ id=$(printf "%s" "$data" | head -1 | tr "," "\n" | sed '/extra/d' | sed -nE 's_"
 resp="$(curl -A "$agent" -s "https://goload.pro/streaming.php?id=$id" | sed -nE 's/.*class="container-(.*)">/\1/p ; s/.*class="wrapper container-(.*)">/\1/p ; s/.*class=".*videocontent-(.*)">/\1/p ; s/.*data-value="(.*)">.*/\1/p ; s/.*data-status="1".*data-video="(.*)">.*/\1/p')"
 [ -z "$resp" ] || printf "\33[2K\r\033[1;32m link providers (GOGO)>>\033[0m\n%s\n" "$resp"
 
+#scraping animixplay direct links
+[ -z "$id" ] && gen_img "animixplay" "! No" "embed link" "#a26b03" || printf "\n\033[1;34mFetching animixplay links < $id"
+[ -z "$id" ] || (ani_video="$(curl -s "https://animixplay.to/api/live$(printf "%sLTXs3GrU8we9O%s" "$id" "$(printf "$id" | base64)" | base64)" -A "uwu" -I | sed -nE 's_location: (.*)_\1_p' | cut -d"#" -f2 | base64 -d)" && [ -z "$ani_video" ] && gen_img "animixplay" "✗ No" "link returned" "darkred" || gen_img "animixplay" "✓ $(printf "%s\n" "$fb_video" | wc -l)" "link returned" "darkgreen") &
+
 #scraping goload direct links
 [ -z "$id" ] && gen_img "gogoplay" "! No" "embed link" "#a26b03" || printf "\n\033[1;34mFetching goload links < $id"
 secret_key=$(printf "%s" "$resp" | sed -n '2p' | tr -d "\n" | od -A n -t x1 | tr -d " |\n")

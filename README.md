@@ -10,7 +10,13 @@ Episode Name: shijou saikyou no daimaou murabito a ni tensei suru ep9
 
 Episode Link: https://animixplay.to/v1/shijou-saikyou-no-daimaou-murabito-a-ni-tensei-suru/ep9
  
-# Gogoanime
+# Animixplay >>
+
+## animixplay direct links
+
+<img src="./images/animixplay.jpg">
+
+# Gogoanime >>
 
 ## gogo direct links
 
@@ -28,7 +34,7 @@ Episode Link: https://animixplay.to/v1/shijou-saikyou-no-daimaou-murabito-a-ni-t
 
 <img src="./images/mp4upload.jpg">
 
-# Allanime
+# Allanime >>
 
 ## okru
 
