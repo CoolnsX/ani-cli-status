@@ -47,6 +47,8 @@ mp4up_link=$(printf "%s" "$resp" | grep "mp4upload")
 [ -z "$mp4up_link" ] && gen_img "mp4upload" "! No" "embed link" "#a26b03" || printf "\n\033[1;34mFetching mp4upload links < $mp4up_link"
 [ -z "$mp4up_link" ] || (mp4up_video=$(curl -A "$agent" -s "$mp4up_link" -H "DNT: 1" | sed -nE 's_.*embed\|(.*)\|.*blank.*\|(.*)\|(.*)\|(.*)\|(.*)\|src.*_https://\1.mp4upload.com:\5/d/\4/\3.\2_p') && [ -z "$mp4up_video" ] && gen_img "mp4upload" "✗ No" "link returned" "darkred" || gen_img "mp4upload" "✓ $(printf "%s\n" "$mp4up_link" | wc -l)" "link returned" "darkgreen") &
 
+wait
+
 #fetching al stream links
 al=$(curl -s -H "x-requested-with:XMLHttpRequest" -X POST "https://animixplay.to/api/search" -d "recomended=$ext_id" -A "$agent" | sed -nE 's_.*"AL","items":\[(.*)\]\},.*_\1_p' | tr '{|}' '\n' | sed -nE 's_"url":"(.*)",.*title.*_\1_p' | sed 's/-dub//' | head -1)
 [ -z "$al" ] || al_data=$(curl -s "${base_url}${al}" -A "$agent" | sed -nE 's_.*epslistplace.*>(.*)</div>_\1_p')
