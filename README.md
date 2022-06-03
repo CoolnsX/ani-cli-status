@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kaginado season 2 ep8
+Episode Name: blackrock shooter dawn fall ep9
 
-Episode Link: https://animixplay.to/v1/kaginado-season-2/ep8
+Episode Link: https://animixplay.to/v1/blackrock-shooter-dawn-fall/ep9
  
 # Animixplay >>
 
