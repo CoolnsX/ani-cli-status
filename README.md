@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: deaimon ep9
+Episode Name: koi wa sekai seifuku no ato de ep9
 
-Episode Link: https://animixplay.to/v1/deaimon/ep9
+Episode Link: https://animixplay.to/v1/koi-wa-sekai-seifuku-no-ato-de/ep9
  
 # Animixplay >>
 
