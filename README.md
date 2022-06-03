@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: gaikotsu kishi sama tadaima isekai e odekakechuu ep9
+Episode Name: machikado mazoku 2 choume ep8
 
-Episode Link: https://animixplay.to/v1/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu/ep9
+Episode Link: https://animixplay.to/v1/machikado-mazoku-2-choume/ep8
  
 # Animixplay >>
 
