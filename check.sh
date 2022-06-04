@@ -73,6 +73,10 @@ ok_id=$(printf "%s" "$al_links" | sed -nE 's_.*ok.*videoembed/(.*)_\1_p')
 
 wait
 
-hent_video=$(curl -s https://hentaimama.io/wp-admin/admin-ajax.php -d "action=get_player_contents&a=$(curl -s "https://hentaimama.io" | sed -nE 's_.*id="post-hot-([^"]*)".*_\1_p' | shuf)" -H X-Requested-With:XMLHttpRequest | tr -d '\\' | tr ',' '\n' | sed -nE 's/.*src="(.*)" width.*/\1/p') && [ -z "$hent_video" ] && gen_img "hentaimama" "✗ No" "link returned" "darkred" || gen_img "hentaimama" "✓ $(printf "%s\n" "$hent_video" | wc -l)" "links returned" "darkgreen" &
+#scraping hentaimama
+hent_video=$(curl -s https://hentaimama.io/wp-admin/admin-ajax.php -d "action=get_player_contents&a=$(curl -s "https://hentaimama.io" | sed -nE 's_.*id="post-hot-([^"]*)".*_\1_p' | shuf | head -1)" -H X-Requested-With:XMLHttpRequest | tr -d '\\' | tr ',' '\n' | sed -nE 's/.*src="(.*)" width.*/\1/p') && [ -z "$hent_video" ] && gen_img "hentaimama" "✗ No" "link returned" "darkred" || gen_img "hentaimama" "✓ $(printf "%s\n" "$hent_video" | wc -l)" "links returned" "darkgreen" &
+
+#scraping theflix
+flix_video=$(curl -s "https://theflix.to:5679/movies/videos/$(curl -s "https://theflix.to" | sed -nE 's|.*id="__NEXT_DATA__" type="application/json">(.*)</script><script nomodule="".*|\1|p' | jq -r '.props.pageProps.moviesListTrending.docs[].videos[]' | shuf | head -1)/request-access?contentUsageType=Viewing" -b "theflix.ipiid=$(curl -X POST -sc - -o /dev/null 'https://theflix.to:5679/authorization/session/continue?contentUsageType=Viewing' -A "$agent" | sed -n 's/.*ipiid\t//p')" | sed -nE 's/.*url\":"([^"]*)",.*id.*/\1/p') && [ -z "$flix_video" ] && gen_img "theflix" "✗ No" "link returned" "darkred" || gen_img "theflix" "✓ $(printf "%s\n" "$flix_video" | wc -l)" "link returned" "darkgreen" &
 
 wait
