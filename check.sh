@@ -72,3 +72,7 @@ ok_id=$(printf "%s" "$al_links" | sed -nE 's_.*ok.*videoembed/(.*)_\1_p')
 [ -z "$ok_id" ] || (ok_video=$(curl -s "https://odnoklassniki.ru/videoembed/$ok_id" -A "$agent" | sed -nE 's_.*data-options="([^"]*)".*_\1_p' | sed -e 's/&quot;/"/g' -e 's/\u0026/\&/g' -e 's/amp;//g' | tr -d '\\' | sed -nE 's/.*videos":(.*),"metadataE.*/\1/p' | tr '{|}' '\n' | sed -nE 's/"name":"mobile","url":"(.*)",.*/144p >\1/p ; s/"name":"lowest","url":"(.*)",.*/240p >\1/p ; s/"name":"low","url":"(.*)",.*/360p >\1/p ; s/"name":"sd","url":"(.*)",.*/480p >\1/p ; s/"name":"hd","url":"(.*)",.*/720p >\1/p ; s/"name":"full","url":"(.*)",.*/1080p >\1/p') && [ -z "$ok_video" ] && gen_img "okru" "✗ No" "link returned" "darkred" || gen_img "okru" "✓ $(printf "%s\n" "$ok_video" | wc -l)" "links returned" "darkgreen") &
 
 wait
+
+hent_video=$(curl -s https://hentaimama.io/wp-admin/admin-ajax.php -d "action=get_player_contents&a=$(curl -s "https://hentaimama.io" | sed -nE 's_.*id="post-hot-([^"]*)".*_\1_p' | shuf)" -H X-Requested-With:XMLHttpRequest | tr -d '\\' | tr ',' '\n' | sed -nE 's/.*src="(.*)" width.*/\1/p') && [ -z "$hent_video" ] && gen_img "hentaimama" "✗ No" "link returned" "darkred" || gen_img "hentaimama" "✓ $(printf "%s\n" "$hent_video" | wc -l)" "links returned" "darkgreen" &
+
+wait
