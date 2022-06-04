@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: dance dance danseur ep9
+Episode Name: heroine tarumono kiraware heroine to naisho no oshigoto ep9
 
-Episode Link: https://animixplay.to/v1/dance-dance-danseur/ep9
+Episode Link: https://animixplay.to/v1/heroine-tarumono-kiraware-heroine-to-naisho-no-oshigoto/ep9
  
 # Animixplay >>
 
