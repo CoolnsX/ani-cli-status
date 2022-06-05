@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: rikei ga koi ni ochita no de shoumei shitemita heart ep10
+Episode Name: kunoichi tsubaki no mune no uchi ep9
 
-Episode Link: https://animixplay.to/v1/rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita-heart/ep10
+Episode Link: https://animixplay.to/v1/kunoichi-tsubaki-no-mune-no-uchi/ep9
  
 # Animixplay >>
 
