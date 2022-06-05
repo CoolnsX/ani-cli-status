@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: love live nijigasaki gakuen school idol doukoukai 2nd season ep10
+Episode Name: kingdom 4th season chinese name ep9
 
-Episode Link: https://animixplay.to/v1/love-live-nijigasaki-gakuen-school-idol-doukoukai-2nd-season/ep10
+Episode Link: https://animixplay.to/v1/kingdom-4th-season-chinese-name/ep9
  
 # Animixplay >>
 
