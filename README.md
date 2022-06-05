@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: pokemon 2019 ep113
+Episode Name: digimon ghost game ep28
 
-Episode Link: https://animixplay.to/v1/pokemon-2019/ep113
+Episode Link: https://animixplay.to/v1/digimon-ghost-game/ep28
  
 # Animixplay >>
 
