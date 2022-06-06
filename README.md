@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yatogame chan kansatsu nikki 4th season ep9
+Episode Name: meitantei conan zero no tea time ep6
 
-Episode Link: https://animixplay.to/v1/yatogame-chan-kansatsu-nikki-4th-season/ep9
+Episode Link: https://animixplay.to/v1/meitantei-conan-zero-no-tea-time/ep6
  
 # Animixplay >>
 
