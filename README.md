@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: holo no graffiti ep160
+Episode Name: spy x family ep9
 
-Episode Link: https://animixplay.to/v1/holo-no-graffiti/ep160
+Episode Link: https://animixplay.to/v1/spy-x-family/ep9
  
 # Animixplay >>
 
