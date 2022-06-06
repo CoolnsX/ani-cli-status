@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: blackrock shooter dawn fall ep10
+Episode Name: meitantei conan zero no tea time ep6
 
-Episode Link: https://animixplay.to/v1/blackrock-shooter-dawn-fall/ep10
+Episode Link: https://animixplay.to/v1/meitantei-conan-zero-no-tea-time/ep6
  
 # Animixplay >>
 
