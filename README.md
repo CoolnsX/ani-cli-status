@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: gunjou no fanfare ep10
+Episode Name: kyoukai senki part 2 ep9
 
-Episode Link: https://animixplay.to/v1/gunjou-no-fanfare/ep10
+Episode Link: https://animixplay.to/v1/kyoukai-senki-part-2/ep9
  
 # Animixplay >>
 
