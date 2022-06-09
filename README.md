@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: boruto naruto next generations ep252
+Episode Name: kono healer mendokusai ep9
 
-Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep252
+Episode Link: https://animixplay.to/v1/kono-healer-mendokusai/ep9
  
 # Animixplay >>
 
