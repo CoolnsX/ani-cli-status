@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: aharen san wa hakarenai ep11
+Episode Name: deaimon ep10
 
-Episode Link: https://animixplay.to/v1/aharen-san-wa-hakarenai/ep11
+Episode Link: https://animixplay.to/v1/deaimon/ep10
  
 # Animixplay >>
 
