@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: summertime render ep9
+Episode Name: yuusha yamemasu ep10
 
-Episode Link: https://animixplay.to/v1/summertime-render/ep9
+Episode Link: https://animixplay.to/v1/yuusha-yamemasu/ep10
  
 # Animixplay >>
 
