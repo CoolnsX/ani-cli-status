@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shokei shoujo no virgin road ep11
+Episode Name: onipan ep9
 
-Episode Link: https://animixplay.to/v1/shokei-shoujo-no-virgin-road/ep11
+Episode Link: https://animixplay.to/v1/onipan/ep9
  
 # Animixplay >>
 
