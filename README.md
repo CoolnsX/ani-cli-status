@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: love live nijigasaki gakuen school idol doukoukai 2nd season ep11
+Episode Name: shokei shoujo no virgin road ep11
 
-Episode Link: https://animixplay.to/v1/love-live-nijigasaki-gakuen-school-idol-doukoukai-2nd-season/ep11
+Episode Link: https://animixplay.to/v1/shokei-shoujo-no-virgin-road/ep11
  
 # Animixplay >>
 
