@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: rpg fudousan ep10
+Episode Name: mahoutsukai reimeiki ep9
 
-Episode Link: https://animixplay.to/v1/rpg-fudousan/ep10
+Episode Link: https://animixplay.to/v1/mahoutsukai-reimeiki/ep9
  
 # Animixplay >>
 
