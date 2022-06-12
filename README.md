@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: gunjou no fanfare ep11
+Episode Name: cue ep22
 
-Episode Link: https://animixplay.to/v1/gunjou-no-fanfare/ep11
+Episode Link: https://animixplay.to/v1/cue/ep22
  
 # Animixplay >>
 
