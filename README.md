@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: hololive alternative teaser pvs ep2
+Episode Name: delicious partyprecure ep14
 
-Episode Link: https://animixplay.to/v1/hololive-alternative-teaser-pvs/ep2
+Episode Link: https://animixplay.to/v1/delicious-partyprecure/ep14
  
 # Animixplay >>
 
