@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: ao ashi ep10
+Episode Name: hololive alternative teaser pvs ep2
 
-Episode Link: https://animixplay.to/v1/ao-ashi/ep10
+Episode Link: https://animixplay.to/v1/hololive-alternative-teaser-pvs/ep2
  
 # Animixplay >>
 
