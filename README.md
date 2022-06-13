@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: detective conan ep1046
+Episode Name: yatogame chan kansatsu nikki 4th season ep10
 
-Episode Link: https://animixplay.to/v1/detective-conan/ep1046
+Episode Link: https://animixplay.to/v1/yatogame-chan-kansatsu-nikki-4th-season/ep10
  
 # Animixplay >>
 
