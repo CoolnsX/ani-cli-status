@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kawaii dake ja nai shikimori san ep8
+Episode Name: kingdom 4th season chinese name ep10
 
-Episode Link: https://animixplay.to/v1/kawaii-dake-ja-nai-shikimori-san/ep8
+Episode Link: https://animixplay.to/v1/kingdom-4th-season-chinese-name/ep10
  
 # Animixplay >>
 
