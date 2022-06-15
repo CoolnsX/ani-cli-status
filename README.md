@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kyoukai senki part 2 ep10
+Episode Name: boruto naruto next generations ep253
 
-Episode Link: https://animixplay.to/v1/kyoukai-senki-part-2/ep10
+Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep253
  
 # Animixplay >>
 
