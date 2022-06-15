@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: otome game sekai wa mob ni kibishii sekai desu ep11
+Episode Name: kyoukai senki part 2 ep10
 
-Episode Link: https://animixplay.to/v1/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu/ep11
+Episode Link: https://animixplay.to/v1/kyoukai-senki-part-2/ep10
  
 # Animixplay >>
 
