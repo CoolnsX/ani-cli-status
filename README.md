@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: deaimon ep11
+Episode Name: kono healer mendokusai ep10
 
-Episode Link: https://animixplay.to/v1/deaimon/ep11
+Episode Link: https://animixplay.to/v1/kono-healer-mendokusai/ep10
  
 # Animixplay >>
 
