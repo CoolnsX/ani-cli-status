@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: tomodachi game ep11
+Episode Name: baraou no souretsu ep22
 
-Episode Link: https://animixplay.to/v1/tomodachi-game/ep11
+Episode Link: https://animixplay.to/v1/baraou-no-souretsu/ep22
  
 # Animixplay >>
 
