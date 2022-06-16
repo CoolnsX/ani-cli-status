@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: honzuki no gekokujou shisho ni naru tame ni wa shudan wo erandeiraremasen 3rd season ep10
+Episode Name: tomodachi game ep11
 
-Episode Link: https://animixplay.to/v1/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-3rd-season/ep10
+Episode Link: https://animixplay.to/v1/tomodachi-game/ep11
  
 # Animixplay >>
 
