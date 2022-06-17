@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: tomodachi game ep11
+Episode Name: shachiku san wa youjo yuurei ni iyasaretai ep11
 
-Episode Link: https://animixplay.to/v1/tomodachi-game/ep11
+Episode Link: https://animixplay.to/v1/shachiku-san-wa-youjo-yuurei-ni-iyasaretai/ep11
  
 # Animixplay >>
 
