@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: tate no yuusha no nariagari 2nd season ep11
+Episode Name: shachiku san wa youjo yuurei ni iyasaretai ep11
 
-Episode Link: https://animixplay.to/v1/tate-no-yuusha-no-nariagari-2nd-season/ep11
+Episode Link: https://animixplay.to/v1/shachiku-san-wa-youjo-yuurei-ni-iyasaretai/ep11
  
 # Animixplay >>
 
