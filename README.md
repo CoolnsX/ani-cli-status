@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: pokemon 2019 ep115
+Episode Name: koi wa sekai seifuku no ato de ep11
 
-Episode Link: https://animixplay.to/v1/pokemon-2019/ep115
+Episode Link: https://animixplay.to/v1/koi-wa-sekai-seifuku-no-ato-de/ep11
  
 # Animixplay >>
 
