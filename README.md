@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: detective conan ep1047
+Episode Name: ao ashi ep11
 
-Episode Link: https://animixplay.to/v1/detective-conan/ep1047
+Episode Link: https://animixplay.to/v1/ao-ashi/ep11
  
 # Animixplay >>
 
