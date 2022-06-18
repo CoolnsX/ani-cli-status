@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: birdie wing golf girls story ep11
+Episode Name: machikado mazoku 2 choume ep10
 
-Episode Link: https://animixplay.to/v1/birdie-wing-golf-girls-story/ep11
+Episode Link: https://animixplay.to/v1/machikado-mazoku-2-choume/ep10
  
 # Animixplay >>
 
