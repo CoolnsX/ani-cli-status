@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: koi wa sekai seifuku no ato de ep11
+Episode Name: mahoutsukai reimeiki ep10
 
-Episode Link: https://animixplay.to/v1/koi-wa-sekai-seifuku-no-ato-de/ep11
+Episode Link: https://animixplay.to/v1/mahoutsukai-reimeiki/ep10
  
 # Animixplay >>
 
