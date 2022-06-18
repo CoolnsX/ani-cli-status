@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kaguya sama wa kokurasetai ultra romantic ep11
+Episode Name: pokemon 2019 ep115
 
-Episode Link: https://animixplay.to/v1/kaguya-sama-wa-kokurasetai-ultra-romantic/ep11
+Episode Link: https://animixplay.to/v1/pokemon-2019/ep115
  
 # Animixplay >>
 
