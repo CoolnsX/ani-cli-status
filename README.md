@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: boruto naruto next generations ep254
+Episode Name: summertime render ep10
 
-Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep254
+Episode Link: https://animixplay.to/v1/summertime-render/ep10
  
 # Animixplay >>
 
