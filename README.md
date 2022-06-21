@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: build divide code white ep11
+Episode Name: kunoichi tsubaki no mune no uchi ep11
 
-Episode Link: https://animixplay.to/v1/build-divide-code-white/ep11
+Episode Link: https://animixplay.to/v1/kunoichi-tsubaki-no-mune-no-uchi/ep11
  
 # Animixplay >>
 
