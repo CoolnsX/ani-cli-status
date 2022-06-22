@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: baraou no souretsu ep23
+Episode Name: kingdom 4th season ep11
 
-Episode Link: https://animixplay.to/v1/baraou-no-souretsu/ep23
+Episode Link: https://animixplay.to/v1/kingdom-4th-season/ep11
  
 # Animixplay >>
 
