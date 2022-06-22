@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kakkou no iinazuke ep9
+Episode Name: delicious partyprecure ep15
 
-Episode Link: https://animixplay.to/v1/kakkou-no-iinazuke/ep9
+Episode Link: https://animixplay.to/v1/delicious-partyprecure/ep15
  
 # Animixplay >>
 
