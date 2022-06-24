@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: tate no yuusha no nariagari 2nd season ep12
+Episode Name: gaikotsu kishi sama tadaima isekai e odekakechuu ep12
 
-Episode Link: https://animixplay.to/v1/tate-no-yuusha-no-nariagari-2nd-season/ep12
+Episode Link: https://animixplay.to/v1/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu/ep12
  
 # Animixplay >>
 
