@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kyoukai senki part 2 ep11
+Episode Name: mahoutsukai reimeiki ep11
 
-Episode Link: https://animixplay.to/v1/kyoukai-senki-part-2/ep11
+Episode Link: https://animixplay.to/v1/mahoutsukai-reimeiki/ep11
  
 # Animixplay >>
 
