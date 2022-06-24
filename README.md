@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: boruto naruto next generations ep254
+Episode Name: zuihou de zhaohuan shi ep10
 
-Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep254
+Episode Link: https://animixplay.to/v1/zuihou-de-zhaohuan-shi/ep10
  
 # Animixplay >>
 
