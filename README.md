@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: deaimon ep12
+Episode Name: tate no yuusha no nariagari 2nd season ep12
 
-Episode Link: https://animixplay.to/v1/deaimon/ep12
+Episode Link: https://animixplay.to/v1/tate-no-yuusha-no-nariagari-2nd-season/ep12
  
 # Animixplay >>
 
