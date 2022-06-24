@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: rpg fudousan ep12
+Episode Name: koi wa sekai seifuku no ato de ep12
 
-Episode Link: https://animixplay.to/v1/rpg-fudousan/ep12
+Episode Link: https://animixplay.to/v1/koi-wa-sekai-seifuku-no-ato-de/ep12
  
 # Animixplay >>
 
