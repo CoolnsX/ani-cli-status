@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: love all play ep13
+Episode Name: dragon quest dai no daibouken 2020 ep83
 
-Episode Link: https://animixplay.to/v1/love-all-play/ep13
+Episode Link: https://animixplay.to/v1/dragon-quest-dai-no-daibouken-2020/ep83
  
 # Animixplay >>
 
