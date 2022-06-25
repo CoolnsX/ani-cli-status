@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: heroine tarumono kiraware heroine to naisho no oshigoto ep12
+Episode Name: onipan ep11
 
-Episode Link: https://animixplay.to/v1/heroine-tarumono-kiraware-heroine-to-naisho-no-oshigoto/ep12
+Episode Link: https://animixplay.to/v1/onipan/ep11
  
 # Animixplay >>
 
