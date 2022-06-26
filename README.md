@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kono healer mendokusai ep12
+Episode Name: detective conan ep1048
 
-Episode Link: https://animixplay.to/v1/kono-healer-mendokusai/ep12
+Episode Link: https://animixplay.to/v1/detective-conan/ep1048
  
 # Animixplay >>
 
