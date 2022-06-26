@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: machikado mazoku 2 choume ep11
+Episode Name: spy x family ep12
 
-Episode Link: https://animixplay.to/v1/machikado-mazoku-2-choume/ep11
+Episode Link: https://animixplay.to/v1/spy-x-family/ep12
  
 # Animixplay >>
 
