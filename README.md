@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kunoichi tsubaki no mune no uchi ep12
+Episode Name: love live nijigasaki gakuen school idol doukoukai 2nd season ep13
 
-Episode Link: https://animixplay.to/v1/kunoichi-tsubaki-no-mune-no-uchi/ep12
+Episode Link: https://animixplay.to/v1/love-live-nijigasaki-gakuen-school-idol-doukoukai-2nd-season/ep13
  
 # Animixplay >>
 
