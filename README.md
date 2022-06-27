@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: build divide code white ep12
+Episode Name: kaguya sama wa kokurasetai ultra romantic ep13
 
-Episode Link: https://animixplay.to/v1/build-divide-code-white/ep12
+Episode Link: https://animixplay.to/v1/kaguya-sama-wa-kokurasetai-ultra-romantic/ep13
  
 # Animixplay >>
 
