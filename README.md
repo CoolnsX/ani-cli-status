@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: boruto naruto next generations ep255
+Episode Name: kawaii dake ja nai shikimori san ep10
 
-Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep255
+Episode Link: https://animixplay.to/v1/kawaii-dake-ja-nai-shikimori-san/ep10
  
 # Animixplay >>
 
