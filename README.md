@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: delicious partyprecure ep16
+Episode Name: kaguya sama wa kokurasetai ultra romantic ep13
 
-Episode Link: https://animixplay.to/v1/delicious-partyprecure/ep16
+Episode Link: https://animixplay.to/v1/kaguya-sama-wa-kokurasetai-ultra-romantic/ep13
  
 # Animixplay >>
 
