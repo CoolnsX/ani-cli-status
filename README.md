@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: douluo dalu 2nd season ep188
+Episode Name: holo no graffiti ep162
 
-Episode Link: https://animixplay.to/v1/douluo-dalu-2nd-season/ep188
+Episode Link: https://animixplay.to/v1/holo-no-graffiti/ep162
  
 # Animixplay >>
 
