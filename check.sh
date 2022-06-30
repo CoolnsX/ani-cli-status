@@ -2,10 +2,12 @@
 
 gen_img() {
     convert -fill white -background "$4" -pointsize 72 -font "iosevka-regular.ttf" label:"\ $2 $3 " images/$1.jpg
+    printf "$1 : $2 $3\n" >> results
     printf "\n\033[1;32m$1 image generated!!"
 }
 
 #intializing
+printf "" > results
 base_url="https://animixplay.to"
 agent="Mozilla/5.0 (Linux; Android 11; moto g(9) power) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36"
 [ -z "$*" ] && url=$(curl -s "$base_url" -A "$agent" | sed -nE 's_.*href="(/v1.*)" title.*_\1_p' | shuf | head -1) || url=$*
