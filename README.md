@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kawaii dake ja nai shikimori san ep10
+Episode Name: zuihou de zhaohuan shi ep11
 
-Episode Link: https://animixplay.to/v1/kawaii-dake-ja-nai-shikimori-san/ep10
+Episode Link: https://animixplay.to/v1/zuihou-de-zhaohuan-shi/ep11
  
 # Animixplay >>
 
