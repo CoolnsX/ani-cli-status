@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: one piece ep1023
+Episode Name: delicious partyprecure ep16
 
-Episode Link: https://animixplay.to/v1/one-piece/ep1023
+Episode Link: https://animixplay.to/v1/delicious-partyprecure/ep16
  
 # Animixplay >>
 
