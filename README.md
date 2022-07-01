@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: tate no yuusha no nariagari 2nd season ep13
+Episode Name: onipan ep12
 
-Episode Link: https://animixplay.to/v1/tate-no-yuusha-no-nariagari-2nd-season/ep13
+Episode Link: https://animixplay.to/v1/onipan/ep12
  
 # Animixplay >>
 
