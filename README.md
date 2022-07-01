@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mahoutsukai reimeiki ep12
+Episode Name: gunjou no fanfare ep13
 
-Episode Link: https://animixplay.to/v1/mahoutsukai-reimeiki/ep12
+Episode Link: https://animixplay.to/v1/gunjou-no-fanfare/ep13
  
 # Animixplay >>
 
