@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: zuihou de zhaohuan shi ep11
+Episode Name: dragon quest dai no daibouken 2020 ep84
 
-Episode Link: https://animixplay.to/v1/zuihou-de-zhaohuan-shi/ep11
+Episode Link: https://animixplay.to/v1/dragon-quest-dai-no-daibouken-2020/ep84
  
 # Animixplay >>
 
