@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kami kuzuidol
+Episode Name: one piece ep1024
 
-Episode Link: https://animixplay.to/v1/kami-kuzuidol
+Episode Link: https://animixplay.to/v1/one-piece/ep1024
  
 # Animixplay >>
 
