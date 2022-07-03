@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: bastard ankoku no hakaishin ona ep13
+Episode Name: engage kiss
 
-Episode Link: https://animixplay.to/v1/bastard-ankoku-no-hakaishin-ona/ep13
+Episode Link: https://animixplay.to/v1/engage-kiss
  
 # Animixplay >>
 
