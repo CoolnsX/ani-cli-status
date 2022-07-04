@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kunoichi tsubaki no mune no uchi ep13
+Episode Name: cardfight vanguard willdress
 
-Episode Link: https://animixplay.to/v1/kunoichi-tsubaki-no-mune-no-uchi/ep13
+Episode Link: https://animixplay.to/v1/cardfight-vanguard-willdress
  
 # Animixplay >>
 
