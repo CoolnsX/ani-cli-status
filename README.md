@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: boruto naruto next generations ep256
+Episode Name: kunoichi tsubaki no mune no uchi ep13
 
-Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep256
+Episode Link: https://animixplay.to/v1/kunoichi-tsubaki-no-mune-no-uchi/ep13
  
 # Animixplay >>
 
