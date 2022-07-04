@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: engage kiss
+Episode Name: digimon ghost game ep32
 
-Episode Link: https://animixplay.to/v1/engage-kiss
+Episode Link: https://animixplay.to/v1/digimon-ghost-game/ep32
  
 # Animixplay >>
 
