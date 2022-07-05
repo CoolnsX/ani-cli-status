@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: dragon quest dai no daibouken 2020 ep84
+Episode Name: delicious partyprecure ep17
 
-Episode Link: https://animixplay.to/v1/dragon-quest-dai-no-daibouken-2020/ep84
+Episode Link: https://animixplay.to/v1/delicious-partyprecure/ep17
  
 # Animixplay >>
 
