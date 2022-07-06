@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: tokyo mew mew new
+Episode Name: one piece ep1023
 
-Episode Link: https://animixplay.to/v1/tokyo-mew-mew-new
+Episode Link: https://animixplay.to/v1/one-piece/ep1023
  
 # Animixplay >>
 
