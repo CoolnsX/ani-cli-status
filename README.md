@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: youkoso jitsuryoku shijou shugi no kyoushitsu e tv 2nd season
+Episode Name: cardfight vanguard willdress
 
-Episode Link: https://animixplay.to/v1/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-2nd-season
+Episode Link: https://animixplay.to/v1/cardfight-vanguard-willdress
  
 # Animixplay >>
 
