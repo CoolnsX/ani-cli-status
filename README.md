@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kinsou no vermeil gakeppuchi majutsushi wa saikyou no yakusai to mahou sekai wo tsukisusumu
+Episode Name: zuihou de zhaohuan shi ep12
 
-Episode Link: https://animixplay.to/v1/kinsou-no-vermeil-gakeppuchi-majutsushi-wa-saikyou-no-yakusai-to-mahou-sekai-wo-tsukisusumu
+Episode Link: https://animixplay.to/v1/zuihou-de-zhaohuan-shi/ep12
  
 # Animixplay >>
 
