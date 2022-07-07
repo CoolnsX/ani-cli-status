@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: made in abyss retsujitsu no ougonkyou
+Episode Name: isekai ojisan
 
-Episode Link: https://animixplay.to/v1/made-in-abyss-retsujitsu-no-ougonkyou
+Episode Link: https://animixplay.to/v1/isekai-ojisan
  
 # Animixplay >>
 
