@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: isekai ojisan
+Episode Name: sword art online progressive movie hoshi naki yoru no aria
 
-Episode Link: https://animixplay.to/v1/isekai-ojisan
+Episode Link: https://animixplay.to/v1/sword-art-online-progressive-movie-hoshi-naki-yoru-no-aria
  
 # Animixplay >>
 
