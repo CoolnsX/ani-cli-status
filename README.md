@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: one piece ep1023
+Episode Name: mamahaha no tsurego ga motokano datta
 
-Episode Link: https://animixplay.to/v1/one-piece/ep1023
+Episode Link: https://animixplay.to/v1/mamahaha-no-tsurego-ga-motokano-datta
  
 # Animixplay >>
 
