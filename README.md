@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: zuihou de zhaohuan shi ep12
+Episode Name: yurei deco
 
-Episode Link: https://animixplay.to/v1/zuihou-de-zhaohuan-shi/ep12
+Episode Link: https://animixplay.to/v1/yurei-deco
  
 # Animixplay >>
 
