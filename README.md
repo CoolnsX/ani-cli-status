@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yurei deco
+Episode Name: renmei kuugun koukuu mahou ongakutai luminous witches
 
-Episode Link: https://animixplay.to/v1/yurei-deco
+Episode Link: https://animixplay.to/v1/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches
  
 # Animixplay >>
 
