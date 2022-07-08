@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: overlord ple ple pleiades 4
+Episode Name: prima doll
 
-Episode Link: https://animixplay.to/v1/overlord-ple-ple-pleiades-4
+Episode Link: https://animixplay.to/v1/prima-doll
  
 # Animixplay >>
 
