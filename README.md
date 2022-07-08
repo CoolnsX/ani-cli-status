@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yofukashi no uta
+Episode Name: bucchigire
 
-Episode Link: https://animixplay.to/v1/yofukashi-no-uta
+Episode Link: https://animixplay.to/v1/bucchigire
  
 # Animixplay >>
 
