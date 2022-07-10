@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: rwby hyousetsu teikoku ep2
+Episode Name: kawaii dake ja nai shikimori san ep12
 
-Episode Link: https://animixplay.to/v1/rwby-hyousetsu-teikoku/ep2
+Episode Link: https://animixplay.to/v1/kawaii-dake-ja-nai-shikimori-san/ep12
  
 # Animixplay >>
 
