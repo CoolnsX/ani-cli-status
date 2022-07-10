@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: prima doll
+Episode Name: kuro no shoukanshi
 
-Episode Link: https://animixplay.to/v1/prima-doll
+Episode Link: https://animixplay.to/v1/kuro-no-shoukanshi
  
 # Animixplay >>
 
