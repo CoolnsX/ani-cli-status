@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: detective conan ep1049
+Episode Name: dr stone ryuusui
 
-Episode Link: https://animixplay.to/v1/detective-conan/ep1049
+Episode Link: https://animixplay.to/v1/dr-stone-ryuusui
  
 # Animixplay >>
 
