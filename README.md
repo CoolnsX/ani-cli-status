@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: delicious partyprecure ep18
+Episode Name: rwby hyousetsu teikoku ep2
 
-Episode Link: https://animixplay.to/v1/delicious-partyprecure/ep18
+Episode Link: https://animixplay.to/v1/rwby-hyousetsu-teikoku/ep2
  
 # Animixplay >>
 
