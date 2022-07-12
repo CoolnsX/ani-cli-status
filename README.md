@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: digimon ghost game ep33
+Episode Name: cardfight vanguard willdress ep2
 
-Episode Link: https://animixplay.to/v1/digimon-ghost-game/ep33
+Episode Link: https://animixplay.to/v1/cardfight-vanguard-willdress/ep2
  
 # Animixplay >>
 
