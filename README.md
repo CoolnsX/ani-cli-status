@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: ao ashi ep14
+Episode Name: kinsou no vermeil gakeppuchi majutsushi wa saikyou no yakusai to mahou sekai wo tsukisusumu ep2
 
-Episode Link: https://animixplay.to/v1/ao-ashi/ep14
+Episode Link: https://animixplay.to/v1/kinsou-no-vermeil-gakeppuchi-majutsushi-wa-saikyou-no-yakusai-to-mahou-sekai-wo-tsukisusumu/ep2
  
 # Animixplay >>
 
