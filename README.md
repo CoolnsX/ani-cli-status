@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: made in abyss retsujitsu no ougonkyou ep2
+Episode Name: shin tennis no ouji sama u 17 world cup ep2
 
-Episode Link: https://animixplay.to/v1/made-in-abyss-retsujitsu-no-ougonkyou/ep2
+Episode Link: https://animixplay.to/v1/shin-tennis-no-ouji-sama-u-17-world-cup/ep2
  
 # Animixplay >>
 
