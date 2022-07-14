@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: holo no graffiti ep164
+Episode Name: boruto naruto next generations ep257
 
-Episode Link: https://animixplay.to/v1/holo-no-graffiti/ep164
+Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep257
  
 # Animixplay >>
 
