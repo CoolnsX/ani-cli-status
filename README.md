@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: orient awajishima gekitou hen
+Episode Name: cardfight vanguard willdress ep2
 
-Episode Link: https://animixplay.to/v1/orient-awajishima-gekitou-hen
+Episode Link: https://animixplay.to/v1/cardfight-vanguard-willdress/ep2
  
 # Animixplay >>
 
