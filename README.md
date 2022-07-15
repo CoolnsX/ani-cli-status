@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: isekai ojisan ep2
+Episode Name: isekai meikyuu de harem wo uncensored ep2
 
-Episode Link: https://animixplay.to/v1/isekai-ojisan/ep2
+Episode Link: https://animixplay.to/v1/isekai-meikyuu-de-harem-wo-uncensored/ep2
  
 # Animixplay >>
 
