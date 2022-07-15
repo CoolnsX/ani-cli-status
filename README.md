@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: wanmei shijie ep67
+Episode Name: isekai ojisan ep2
 
-Episode Link: https://animixplay.to/v1/wanmei-shijie/ep67
+Episode Link: https://animixplay.to/v1/isekai-ojisan/ep2
  
 # Animixplay >>
 
