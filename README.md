@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: soredemo ayumu wa yosetekuru ep2
+Episode Name: love all play ep15
 
-Episode Link: https://animixplay.to/v1/soredemo-ayumu-wa-yosetekuru/ep2
+Episode Link: https://animixplay.to/v1/love-all-play/ep15
  
 # Animixplay >>
 
