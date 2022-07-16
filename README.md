@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: wanmei shijie ep67
+Episode Name: shoot goal to the future ep3
 
-Episode Link: https://animixplay.to/v1/wanmei-shijie/ep67
+Episode Link: https://animixplay.to/v1/shoot-goal-to-the-future/ep3
  
 # Animixplay >>
 
