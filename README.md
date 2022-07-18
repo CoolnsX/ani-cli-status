@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: delicious partyprecure ep19
+Episode Name: extreme hearts ep2
 
-Episode Link: https://animixplay.to/v1/delicious-partyprecure/ep19
+Episode Link: https://animixplay.to/v1/extreme-hearts/ep2
  
 # Animixplay >>
 
