@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: renmei kuugun koukuu mahou ongakutai luminous witches ep3
+Episode Name: utawarerumono futari no hakuoro ep4
 
-Episode Link: https://animixplay.to/v1/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches/ep3
+Episode Link: https://animixplay.to/v1/utawarerumono-futari-no-hakuoro/ep4
  
 # Animixplay >>
 
