@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: engage kiss ep3
+Episode Name: yurei deco ep3
 
-Episode Link: https://animixplay.to/v1/engage-kiss/ep3
+Episode Link: https://animixplay.to/v1/yurei-deco/ep3
  
 # Animixplay >>
 
