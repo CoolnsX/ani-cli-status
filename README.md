@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: lycoris recoil ep3
+Episode Name: overlord iv ep3
 
-Episode Link: https://animixplay.to/v1/lycoris-recoil/ep3
+Episode Link: https://animixplay.to/v1/overlord-iv/ep3
  
 # Animixplay >>
 
