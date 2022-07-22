@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: obey me season 2
+Episode Name: wanmei shijie ep68
 
-Episode Link: https://animixplay.to/v1/obey-me-season-2
+Episode Link: https://animixplay.to/v1/wanmei-shijie/ep68
  
 # Animixplay >>
 
