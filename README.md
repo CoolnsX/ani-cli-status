@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: dungeon ni deai wo motomeru no wa machigatteiru darou ka iv
+Episode Name: isekai meikyuu de harem wo uncensored ep3
 
-Episode Link: https://animixplay.to/v1/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv
+Episode Link: https://animixplay.to/v1/isekai-meikyuu-de-harem-wo-uncensored/ep3
  
 # Animixplay >>
 
