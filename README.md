@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: summertime render ep15
+Episode Name: tokyo mew mew new ep3
 
-Episode Link: https://animixplay.to/v1/summertime-render/ep15
+Episode Link: https://animixplay.to/v1/tokyo-mew-mew-new/ep3
  
 # Animixplay >>
 
