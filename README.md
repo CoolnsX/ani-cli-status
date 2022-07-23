@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: lycoris recoil ep4
+Episode Name: obey me season 2
 
-Episode Link: https://animixplay.to/v1/lycoris-recoil/ep4
+Episode Link: https://animixplay.to/v1/obey-me-season-2
  
 # Animixplay >>
 
