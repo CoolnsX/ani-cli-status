@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: bucchigire ep3
+Episode Name: dragon quest dai no daibouken 2020 ep87
 
-Episode Link: https://animixplay.to/v1/bucchigire/ep3
+Episode Link: https://animixplay.to/v1/dragon-quest-dai-no-daibouken-2020/ep87
  
 # Animixplay >>
 
