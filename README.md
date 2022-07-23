@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shadows house 2nd season ep3
+Episode Name: isekai meikyuu de harem wo uncensored ep3
 
-Episode Link: https://animixplay.to/v1/shadows-house-2nd-season/ep3
+Episode Link: https://animixplay.to/v1/isekai-meikyuu-de-harem-wo-uncensored/ep3
  
 # Animixplay >>
 
