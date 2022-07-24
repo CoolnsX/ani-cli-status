@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: pokemon 2019 ep118
+Episode Name: delicious partyprecure ep20
 
-Episode Link: https://animixplay.to/v1/pokemon-2019/ep118
+Episode Link: https://animixplay.to/v1/delicious-partyprecure/ep20
  
 # Animixplay >>
 
