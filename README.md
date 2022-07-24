@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: holo no graffiti ep167
+Episode Name: kingdom 4th season ep16
 
-Episode Link: https://animixplay.to/v1/holo-no-graffiti/ep167
+Episode Link: https://animixplay.to/v1/kingdom-4th-season/ep16
  
 # Animixplay >>
 
