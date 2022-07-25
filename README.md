@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: teppen ep4
+Episode Name: holo no graffiti ep167
 
-Episode Link: https://animixplay.to/v1/teppen/ep4
+Episode Link: https://animixplay.to/v1/holo-no-graffiti/ep167
  
 # Animixplay >>
 
