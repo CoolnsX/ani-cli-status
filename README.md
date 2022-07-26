@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: isekai yakkyoku ep3
+Episode Name: yurei deco ep4
 
-Episode Link: https://animixplay.to/v1/isekai-yakkyoku/ep3
+Episode Link: https://animixplay.to/v1/yurei-deco/ep4
  
 # Animixplay >>
 
