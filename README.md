@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: holo no graffiti ep167
+Episode Name: utawarerumono futari no hakuoro ep5
 
-Episode Link: https://animixplay.to/v1/holo-no-graffiti/ep167
+Episode Link: https://animixplay.to/v1/utawarerumono-futari-no-hakuoro/ep5
  
 # Animixplay >>
 
