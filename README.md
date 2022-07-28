@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: overlord ple ple pleiades 4 ep2
+Episode Name: isekai meikyuu de harem wo uncensored ep4
 
-Episode Link: https://animixplay.to/v1/overlord-ple-ple-pleiades-4/ep2
+Episode Link: https://animixplay.to/v1/isekai-meikyuu-de-harem-wo-uncensored/ep4
  
 # Animixplay >>
 
