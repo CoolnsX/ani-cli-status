@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: hataraku maou sama 2nd season ep3
+Episode Name: shin tennis no ouji sama u 17 world cup ep4
 
-Episode Link: https://animixplay.to/v1/hataraku-maou-sama-2nd-season/ep3
+Episode Link: https://animixplay.to/v1/shin-tennis-no-ouji-sama-u-17-world-cup/ep4
  
 # Animixplay >>
 
