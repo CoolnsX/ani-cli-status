@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yofukashi no uta ep4
+Episode Name: kinsou no vermeil gakeppuchi majutsushi wa saikyou no yakusai to mahou sekai wo tsukisusumu ep4
 
-Episode Link: https://animixplay.to/v1/yofukashi-no-uta/ep4
+Episode Link: https://animixplay.to/v1/kinsou-no-vermeil-gakeppuchi-majutsushi-wa-saikyou-no-yakusai-to-mahou-sekai-wo-tsukisusumu/ep4
  
 # Animixplay >>
 
