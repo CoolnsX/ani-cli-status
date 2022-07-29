@@ -22,7 +22,7 @@ resp="$(curl -A "$agent" -s "https://goload.pro/streaming.php?id=$id" | sed -nE 
 
 #scraping animixplay direct links
 [ -z "$id" ] && gen_img "animixplay" "! No" "embed link" "#a26b03" || printf "\n\033[1;34mFetching animixplay links < $id"
-[ -z "$id" ] || (ani_video="$(curl -s "https://animixplay.to/api/live$(printf "%sLTXs3GrU8we9O%s" "$id" "$(printf "$id" | base64)" | base64)" -A "uwu" -I | sed -nE 's_location: (.*)_\1_p' | cut -d"#" -f2 | base64 -d)" && [ -z "$ani_video" ] && gen_img "animixplay" "✗ No" "link returned" "darkred" || gen_img "animixplay" "✓ $(printf "%s\n" "$fb_video" | wc -l)" "link returned" "darkgreen") &
+[ -z "$id" ] || (ani_video="$(curl -s "https://animixplay.to/api/live$(printf "%sLTXs3GrU8we9O%s" "$id" "$(printf "$id" | base64)" | base64)" -A "uwu" -I | sed -nE 's_location: (.*)_\1_p' | cut -d"#" -f2 | base64 -d)" && [ -z "$ani_video" ] && gen_img "animixplay" "✗ No" "link returned" "darkred" || gen_img "animixplay" "✓ $(printf "%s\n" "$fb_video" | wc -l)" "link returned" "darkgreen")
 
 #scraping goload direct links
 [ -z "$id" ] && gen_img "gogoplay" "! No" "embed link" "#a26b03" || printf "\n\033[1;34mFetching goload links < $id"
@@ -32,12 +32,12 @@ second_key=$(printf "%s" "$resp" | sed -n '4p' | tr -d "\n" | od -A n -t x1 | tr
 token=$(printf "%s" "$resp" | head -1 | base64 -d | openssl enc -d -aes256 -K "$secret_key" -iv "$iv" | sed -nE 's/.*&(token.*)/\1/p')
 ajax=$(printf '%s' "$id" | openssl enc -e -aes256 -K "$secret_key" -iv "$iv" -a)
 [ -z "$id" ] || go_video=$(curl -s -H "X-Requested-With:XMLHttpRequest" "https://goload.pro/encrypt-ajax.php?id=${ajax}&alias=${id}&${token}" | sed -e 's/{"data":"//' -e 's/"}/\n/' -e 's/\\//g' | base64 -d | openssl enc -d -aes256 -K "$second_key" -iv "$iv" | sed -e 's/\].*/\]/' -e 's/\\//g' | grep -Eo 'https:\/\/[-a-zA-Z0-9@:%._\+~#=][a-zA-Z0-9][-a-zA-Z0-9@:%_\+.~#?&\/\/=]*')
-[ -z "$id" ] || ([ -z "$go_video" ] && gen_img "gogoplay" "✗ No" "link returned" "darkred" || gen_img "gogoplay" "✓ $(printf "%s\n" "$go_video" | wc -l)" "link(s) returned" "darkgreen") &
+[ -z "$id" ] || ([ -z "$go_video" ] && gen_img "gogoplay" "✗ No" "link returned" "darkred" || gen_img "gogoplay" "✓ $(printf "%s\n" "$go_video" | wc -l)" "link(s) returned" "darkgreen")
 
 #xstreamcdn(fembed) links
 fb_id=$(printf "%s" "$resp" | sed -n "s_.*fembed.*/v/__p")
 [ -z "$fb_id" ] && gen_img "xstreamcdn" "! No" "embed link" "#a26b03" || printf "\n\033[1;34mFetching xstreamcdn links < $fb_id"
-[ -z "$fb_id" ] || (fb_video=$(curl -s -X POST "https://fembed-hd.com/api/source/$fb_id" -H "x-requested-with:XMLHttpRequest" | sed -e 's/\\//g' -e 's/.*data"://' | tr "}" "\n" | sed -nE 's/.*file":"(.*)","label":"(.*)",.*type.*/\2 > \1/p') && [ -z "$fb_video" ] && gen_img "xstreamcdn" "✗ No" "link returned" "darkred" || gen_img "xstreamcdn" "✓ $(printf "%s\n" "$fb_video" | wc -l)" "links returned" "darkgreen") &
+[ -z "$fb_id" ] || (fb_video=$(curl -s -X POST "https://fembed-hd.com/api/source/$fb_id" -H "x-requested-with:XMLHttpRequest" | sed -e 's/\\//g' -e 's/.*data"://' | tr "}" "\n" | sed -nE 's/.*file":"(.*)","label":"(.*)",.*type.*/\2 > \1/p') && [ -z "$fb_video" ] && gen_img "xstreamcdn" "✗ No" "link returned" "darkred" || gen_img "xstreamcdn" "✓ $(printf "%s\n" "$fb_video" | wc -l)" "links returned" "darkgreen")
 
 #doodstream link
 dood_id=$(printf "%s" "$resp" | sed -n "s_.*dood.*/e/__p")
@@ -82,3 +82,4 @@ hent_video=$(curl -s https://hentaimama.io/wp-admin/admin-ajax.php -d "action=ge
 flix_video=$(curl -s "https://theflix.to:5679/movies/videos/$(curl -s "https://theflix.to" | sed -nE 's|.*id="__NEXT_DATA__" type="application/json">(.*)</script><script nomodule="".*|\1|p' | jq -r '.props.pageProps.moviesListTrending.docs[].videos[]' | shuf | head -1)/request-access?contentUsageType=Viewing" -b "theflix.ipiid=$(curl -X POST -sc - -o /dev/null 'https://theflix.to:5679/authorization/session/continue?contentUsageType=Viewing' -A "$agent" | sed -n 's/.*ipiid\t//p')" | sed -nE 's/.*url\":"([^"]*)",.*id.*/\1/p') && [ -z "$flix_video" ] && gen_img "theflix" "✗ No" "link returned" "darkred" || gen_img "theflix" "✓ $(printf "%s\n" "$flix_video" | wc -l)" "link returned" "darkgreen" &
 
 wait
+sed -i '4,$d' results
