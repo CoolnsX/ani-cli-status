@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: ao ashi ep17
+Episode Name: pokemon 2019 ep119
 
-Episode Link: https://animixplay.to/v1/ao-ashi/ep17
+Episode Link: https://animixplay.to/v1/pokemon-2019/ep119
  
 # Animixplay >>
 
