@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: isekai meikyuu de harem wo uncensored ep4
+Episode Name: dragon quest dai no daibouken 2020 ep88
 
-Episode Link: https://animixplay.to/v1/isekai-meikyuu-de-harem-wo-uncensored/ep4
+Episode Link: https://animixplay.to/v1/dragon-quest-dai-no-daibouken-2020/ep88
  
 # Animixplay >>
 
