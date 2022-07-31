@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: teppen ep5
+Episode Name: boruto naruto next generations ep260
 
-Episode Link: https://animixplay.to/v1/teppen/ep5
+Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep260
  
 # Animixplay >>
 
