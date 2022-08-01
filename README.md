@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: saikin yatotta maid ga ayashii ep2
+Episode Name: digimon ghost game ep36
 
-Episode Link: https://animixplay.to/v1/saikin-yatotta-maid-ga-ayashii/ep2
+Episode Link: https://animixplay.to/v1/digimon-ghost-game/ep36
  
 # Animixplay >>
 
