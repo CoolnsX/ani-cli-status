@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kingdom 4th season ep17
+Episode Name: youkoso jitsuryoku shijou shugi no kyoushitsu e tv 2nd season ep5
 
-Episode Link: https://animixplay.to/v1/kingdom-4th-season/ep17
+Episode Link: https://animixplay.to/v1/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-2nd-season/ep5
  
 # Animixplay >>
 
