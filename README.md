@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: utawarerumono futari no hakuoro ep6
+Episode Name: isekai yakkyoku ep4
 
-Episode Link: https://animixplay.to/v1/utawarerumono-futari-no-hakuoro/ep6
+Episode Link: https://animixplay.to/v1/isekai-yakkyoku/ep4
  
 # Animixplay >>
 
