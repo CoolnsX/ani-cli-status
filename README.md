@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: one piece ep1027
+Episode Name: orient awajishima gekitou hen ep4
 
-Episode Link: https://animixplay.to/v1/one-piece/ep1027
+Episode Link: https://animixplay.to/v1/orient-awajishima-gekitou-hen/ep4
  
 # Animixplay >>
 
