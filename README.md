@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: rwby hyousetsu teikoku ep5
+Episode Name: saikin yatotta maid ga ayashii ep2
 
-Episode Link: https://animixplay.to/v1/rwby-hyousetsu-teikoku/ep5
+Episode Link: https://animixplay.to/v1/saikin-yatotta-maid-ga-ayashii/ep2
  
 # Animixplay >>
 
