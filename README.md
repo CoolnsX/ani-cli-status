@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: meng qi shi shen huanxi zhui hun ep6
+Episode Name: holo no graffiti ep168
 
-Episode Link: https://animixplay.to/v1/meng-qi-shi-shen-huanxi-zhui-hun/ep6
+Episode Link: https://animixplay.to/v1/holo-no-graffiti/ep168
  
 # Animixplay >>
 
