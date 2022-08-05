@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kumichou musume to sewagakari ep5
+Episode Name: overlord ple ple pleiades 4 ep5
 
-Episode Link: https://animixplay.to/v1/kumichou-musume-to-sewagakari/ep5
+Episode Link: https://animixplay.to/v1/overlord-ple-ple-pleiades-4/ep5
  
 # Animixplay >>
 
