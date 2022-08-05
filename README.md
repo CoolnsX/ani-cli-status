@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yofukashi no uta ep5
+Episode Name: shadows house 2nd season ep5
 
-Episode Link: https://animixplay.to/v1/yofukashi-no-uta/ep5
+Episode Link: https://animixplay.to/v1/shadows-house-2nd-season/ep5
  
 # Animixplay >>
 
