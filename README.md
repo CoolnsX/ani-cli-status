@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: soredemo ayumu wa yosetekuru ep5
+Episode Name: bucchigire ep5
 
-Episode Link: https://animixplay.to/v1/soredemo-ayumu-wa-yosetekuru/ep5
+Episode Link: https://animixplay.to/v1/bucchigire/ep5
  
 # Animixplay >>
 
