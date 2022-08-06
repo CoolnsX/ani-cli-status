@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shin tennis no ouji sama u 17 world cup ep5
+Episode Name: teppen ep6
 
-Episode Link: https://animixplay.to/v1/shin-tennis-no-ouji-sama-u-17-world-cup/ep5
+Episode Link: https://animixplay.to/v1/teppen/ep6
  
 # Animixplay >>
 
