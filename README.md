@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: one piece ep1028
+Episode Name: boruto naruto next generations ep261
 
-Episode Link: https://animixplay.to/v1/one-piece/ep1028
+Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep261
  
 # Animixplay >>
 
