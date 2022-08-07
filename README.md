@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: digimon ghost game ep37
+Episode Name: love all play ep18
 
-Episode Link: https://animixplay.to/v1/digimon-ghost-game/ep37
+Episode Link: https://animixplay.to/v1/love-all-play/ep18
  
 # Animixplay >>
 
