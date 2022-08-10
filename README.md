@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: boruto naruto next generations ep261
+Episode Name: bai yao pu 3rd season ep4
 
-Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep261
+Episode Link: https://animixplay.to/v1/bai-yao-pu-3rd-season/ep4
  
 # Animixplay >>
 
