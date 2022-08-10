@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: renmei kuugun koukuu mahou ongakutai luminous witches ep6
+Episode Name: cardfight vanguard willdress ep6
 
-Episode Link: https://animixplay.to/v1/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches/ep6
+Episode Link: https://animixplay.to/v1/cardfight-vanguard-willdress/ep6
  
 # Animixplay >>
 
