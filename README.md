@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: bai yao pu 3rd season ep4
+Episode Name: tensei kenja no isekai life dai 2 no shokugyou wo ete sekai saikyou ni narimashita ep7
 
-Episode Link: https://animixplay.to/v1/bai-yao-pu-3rd-season/ep4
+Episode Link: https://animixplay.to/v1/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita/ep7
  
 # Animixplay >>
 
