@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shadowverse flame ep20
+Episode Name: hoshi no samidare ep6
 
-Episode Link: https://animixplay.to/v1/shadowverse-flame/ep20
+Episode Link: https://animixplay.to/v1/hoshi-no-samidare/ep6
  
 # Animixplay >>
 
