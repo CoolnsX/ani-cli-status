@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shoot goal to the future ep7
+Episode Name: shadowverse flame ep20
 
-Episode Link: https://animixplay.to/v1/shoot-goal-to-the-future/ep7
+Episode Link: https://animixplay.to/v1/shadowverse-flame/ep20
  
 # Animixplay >>
 
