@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: one piece ep1029
+Episode Name: saikin yatotta maid ga ayashii ep3
 
-Episode Link: https://animixplay.to/v1/one-piece/ep1029
+Episode Link: https://animixplay.to/v1/saikin-yatotta-maid-ga-ayashii/ep3
  
 # Animixplay >>
 
