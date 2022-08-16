@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shoot goal to the future ep7
+Episode Name: fuuto tantei ep3
 
-Episode Link: https://animixplay.to/v1/shoot-goal-to-the-future/ep7
+Episode Link: https://animixplay.to/v1/fuuto-tantei/ep3
  
 # Animixplay >>
 
