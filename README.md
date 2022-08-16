@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kingdom 4th season ep19
+Episode Name: lycoris recoil ep7
 
-Episode Link: https://animixplay.to/v1/kingdom-4th-season/ep19
+Episode Link: https://animixplay.to/v1/lycoris-recoil/ep7
  
 # Animixplay >>
 
