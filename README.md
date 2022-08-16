@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: digimon ghost game ep38
+Episode Name: wan jie du zun 2nd season ep2
 
-Episode Link: https://animixplay.to/v1/digimon-ghost-game/ep38
+Episode Link: https://animixplay.to/v1/wan-jie-du-zun-2nd-season/ep2
  
 # Animixplay >>
 
