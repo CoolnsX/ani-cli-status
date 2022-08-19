@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: tekken bloodline ep6
+Episode Name: isekai meikyuu de harem wo ep7
 
-Episode Link: https://animixplay.to/v1/tekken-bloodline/ep6
+Episode Link: https://animixplay.to/v1/isekai-meikyuu-de-harem-wo/ep7
  
 # Animixplay >>
 
