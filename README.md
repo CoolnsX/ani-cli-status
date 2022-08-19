@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: meng qi shi shen huanxi zhui hun ep8
+Episode Name: shin tennis no ouji sama u 17 world cup ep7
 
-Episode Link: https://animixplay.to/v1/meng-qi-shi-shen-huanxi-zhui-hun/ep8
+Episode Link: https://animixplay.to/v1/shin-tennis-no-ouji-sama-u-17-world-cup/ep7
  
 # Animixplay >>
 
