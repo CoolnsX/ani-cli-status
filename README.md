@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: isekai ojisan ep5
+Episode Name: tekken bloodline ep6
 
-Episode Link: https://animixplay.to/v1/isekai-ojisan/ep5
+Episode Link: https://animixplay.to/v1/tekken-bloodline/ep6
  
 # Animixplay >>
 
