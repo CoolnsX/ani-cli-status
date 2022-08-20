@@ -25,25 +25,3 @@ Episode Link: https://animixplay.to/v1/lycoris-recoil/ep8
 ## xstreamcdn
 
 <img src="./images/xstreamcdn.jpg">
-
-## doodstream
-
-<img src="./images/doodstream.jpg">
-
-## mp4upload (GOGO)
-
-<img src="./images/mp4upload.jpg">
-
-# Allanime >>
-
-## okru
-
-<img src="./images/okru.jpg">
-
-## streamlare
-
-<img src="./images/streamlare.jpg">
-
-## mp4upload (AL)
-
-<img src="./images/mp4upload_al.jpg">
