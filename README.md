@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: ao ashi ep19
+Episode Name: bucchigire ep7
 
-Episode Link: https://animixplay.to/v1/ao-ashi/ep19
+Episode Link: https://animixplay.to/v1/bucchigire/ep7
  
 # Animixplay >>
 
