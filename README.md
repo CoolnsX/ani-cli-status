@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: wanmei shijie ep72
+Episode Name: kanojo okarishimasu 2nd season ep8
 
-Episode Link: https://animixplay.to/v1/wanmei-shijie/ep72
+Episode Link: https://animixplay.to/v1/kanojo-okarishimasu-2nd-season/ep8
  
 # Animixplay >>
 
