@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: saikin yatotta maid ga ayashii ep4
+Episode Name: kami kuzuidol ep8
 
-Episode Link: https://animixplay.to/v1/saikin-yatotta-maid-ga-ayashii/ep4
+Episode Link: https://animixplay.to/v1/kami-kuzuidol/ep8
  
 # Animixplay >>
 
