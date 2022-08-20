@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kanojo okarishimasu 2nd season ep8
+Episode Name: tekken bloodline ep6
 
-Episode Link: https://animixplay.to/v1/kanojo-okarishimasu-2nd-season/ep8
+Episode Link: https://animixplay.to/v1/tekken-bloodline/ep6
  
 # Animixplay >>
 
