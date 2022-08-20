@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: summertime render ep19
+Episode Name: hataraku maou sama 2nd season ep6
 
-Episode Link: https://animixplay.to/v1/summertime-render/ep19
+Episode Link: https://animixplay.to/v1/hataraku-maou-sama-2nd-season/ep6
  
 # Animixplay >>
 
