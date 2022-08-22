@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: lycoris recoil ep8
+Episode Name: yurei deco ep8
 
-Episode Link: https://animixplay.to/v1/lycoris-recoil/ep8
+Episode Link: https://animixplay.to/v1/yurei-deco/ep8
  
 # Animixplay >>
 
