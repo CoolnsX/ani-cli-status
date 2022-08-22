@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: extreme hearts ep7
+Episode Name: bai yao pu 3rd season ep6
 
-Episode Link: https://animixplay.to/v1/extreme-hearts/ep7
+Episode Link: https://animixplay.to/v1/bai-yao-pu-3rd-season/ep6
  
 # Animixplay >>
 
