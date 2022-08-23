@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: fuuto tantei ep4
+Episode Name: holo no graffiti ep171
 
-Episode Link: https://animixplay.to/v1/fuuto-tantei/ep4
+Episode Link: https://animixplay.to/v1/holo-no-graffiti/ep171
  
 # Animixplay >>
 
