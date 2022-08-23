@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: bai yao pu 3rd season ep6
+Episode Name: saikin yatotta maid ga ayashii ep4
 
-Episode Link: https://animixplay.to/v1/bai-yao-pu-3rd-season/ep6
+Episode Link: https://animixplay.to/v1/saikin-yatotta-maid-ga-ayashii/ep4
  
 # Animixplay >>
 
