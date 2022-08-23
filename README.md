@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: meng qi shi shen huanxi zhui hun ep9
+Episode Name: digimon ghost game ep39
 
-Episode Link: https://animixplay.to/v1/meng-qi-shi-shen-huanxi-zhui-hun/ep9
+Episode Link: https://animixplay.to/v1/digimon-ghost-game/ep39
  
 # Animixplay >>
 
