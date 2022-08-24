@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: isekai yakkyoku ep7
+Episode Name: orient awajishima gekitou hen ep7
 
-Episode Link: https://animixplay.to/v1/isekai-yakkyoku/ep7
+Episode Link: https://animixplay.to/v1/orient-awajishima-gekitou-hen/ep7
  
 # Animixplay >>
 
