@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: overlord ple ple pleiades 4 ep8
+Episode Name: isekai yakkyoku ep7
 
-Episode Link: https://animixplay.to/v1/overlord-ple-ple-pleiades-4/ep8
+Episode Link: https://animixplay.to/v1/isekai-yakkyoku/ep7
  
 # Animixplay >>
 
