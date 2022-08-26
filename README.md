@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: youkoso jitsuryoku shijou shugi no kyoushitsu e tv 2nd season ep8
+Episode Name: isekai meikyuu de harem wo uncensored ep8
 
-Episode Link: https://animixplay.to/v1/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-2nd-season/ep8
+Episode Link: https://animixplay.to/v1/isekai-meikyuu-de-harem-wo-uncensored/ep8
  
 # Animixplay >>
 
