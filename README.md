@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yofukashi no uta ep8
+Episode Name: dungeon ni deai wo motomeru no wa machigatteiru darou ka iv ep6
 
-Episode Link: https://animixplay.to/v1/yofukashi-no-uta/ep8
+Episode Link: https://animixplay.to/v1/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv/ep6
  
 # Animixplay >>
 
