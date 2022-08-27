@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: summertime render ep20
+Episode Name: shadowverse flame ep22
 
-Episode Link: https://animixplay.to/v1/summertime-render/ep20
+Episode Link: https://animixplay.to/v1/shadowverse-flame/ep22
  
 # Animixplay >>
 
