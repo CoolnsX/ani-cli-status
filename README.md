@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shadows house 2nd season ep8
+Episode Name: yowai 5000 nen no soushoku dragon iwarenaki jaryuu nintei ep6
 
-Episode Link: https://animixplay.to/v1/shadows-house-2nd-season/ep8
+Episode Link: https://animixplay.to/v1/yowai-5000-nen-no-soushoku-dragon-iwarenaki-jaryuu-nintei/ep6
  
 # Animixplay >>
 
