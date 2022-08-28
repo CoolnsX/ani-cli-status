@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: delicious partyprecure ep25
+Episode Name: dragon quest dai no daibouken 2020 ep92
 
-Episode Link: https://animixplay.to/v1/delicious-partyprecure/ep25
+Episode Link: https://animixplay.to/v1/dragon-quest-dai-no-daibouken-2020/ep92
  
 # Animixplay >>
 
