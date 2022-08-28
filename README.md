@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: dragon quest dai no daibouken 2020 ep92
+Episode Name: one piece densetsu no log akagami no shanks
 
-Episode Link: https://animixplay.to/v1/dragon-quest-dai-no-daibouken-2020/ep92
+Episode Link: https://animixplay.to/v1/one-piece-densetsu-no-log-akagami-no-shanks
  
 # Animixplay >>
 
