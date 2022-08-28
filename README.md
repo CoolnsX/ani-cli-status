@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: douluo dalu 2nd season ep197
+Episode Name: pokemon 2019 ep122
 
-Episode Link: https://animixplay.to/v1/douluo-dalu-2nd-season/ep197
+Episode Link: https://animixplay.to/v1/pokemon-2019/ep122
  
 # Animixplay >>
 
