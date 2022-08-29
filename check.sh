@@ -42,7 +42,7 @@ fb_id=$(printf "%s" "$resp" | sed -n "s_.*fembed.*/v/__p")
 #doodstream link
 dood_id=$(printf "%s" "$resp" | sed -n "s_.*dood.*/e/__p")
 [ -z "$dood_id" ] && gen_img "doodstream" "! No" "embed link" "#a26b03" || printf "\n\033[1;34mFetching doodstream links < $dood_id"
-[ -z "$dood_id" ] || (dood_link=$(curl -A "$agent" -s "https://dood.ws/d/$dood_id" | sed -nE 's_.*a href="(/download[^"]*)".*_\1_p') && [ -z "$dood_link" ] && gen_img "doodstream" "✗ No" "link returned" "darkred" || gen_img "doodstream" "✓ $(printf "%s\n" "$dood_link" | wc -l)" "link returned" "darkgreen") &
+[ -z "$dood_id" ] || (dood_link=$(curl -A "$agent" -sL "https://dood.wf/d/$dood_id" | sed -nE 's_.*a href="(/download[^"]*)".*_\1_p') && [ -z "$dood_link" ] && gen_img "doodstream" "✗ No" "link returned" "darkred" || gen_img "doodstream" "✓ $(printf "%s\n" "$dood_link" | wc -l)" "link returned" "darkgreen") &
 
 #mp4upload (gogo) link
 mp4up_link=$(printf "%s" "$resp" | grep "mp4upload")
