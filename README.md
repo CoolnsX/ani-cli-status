@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: youkoso jitsuryoku shijou shugi no kyoushitsu e tv 2nd season ep9
+Episode Name: one piece densetsu no log akagami no shanks
 
-Episode Link: https://animixplay.to/v1/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-2nd-season/ep9
+Episode Link: https://animixplay.to/v1/one-piece-densetsu-no-log-akagami-no-shanks
  
 # Animixplay >>
 
