@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: teppen ep9
+Episode Name: kingdom 4th season ep21
 
-Episode Link: https://animixplay.to/v1/teppen/ep9
+Episode Link: https://animixplay.to/v1/kingdom-4th-season/ep21
  
 # Animixplay >>
 
