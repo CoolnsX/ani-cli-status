@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: bai yao pu 3rd season ep7
+Episode Name: meng qi shi shen huanxi zhui hun ep10
 
-Episode Link: https://animixplay.to/v1/bai-yao-pu-3rd-season/ep7
+Episode Link: https://animixplay.to/v1/meng-qi-shi-shen-huanxi-zhui-hun/ep10
  
 # Animixplay >>
 
