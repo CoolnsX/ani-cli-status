@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yao shen ji 5th season ep90
+Episode Name: jojo no kimyou na bouken part 6 stone ocean part 2 ep12
 
-Episode Link: https://animixplay.to/v1/yao-shen-ji-5th-season/ep90
+Episode Link: https://animixplay.to/v1/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-2/ep12
  
 # Animixplay >>
 
