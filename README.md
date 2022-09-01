@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: jashin chan dropkick x ep9
+Episode Name: overlord iv ep9
 
-Episode Link: https://animixplay.to/v1/jashin-chan-dropkick-x/ep9
+Episode Link: https://animixplay.to/v1/overlord-iv/ep9
  
 # Animixplay >>
 
