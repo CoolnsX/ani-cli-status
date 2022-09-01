@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: orient awajishima gekitou hen ep8
+Episode Name: tunshi xingkong 2nd season ep25
 
-Episode Link: https://animixplay.to/v1/orient-awajishima-gekitou-hen/ep8
+Episode Link: https://animixplay.to/v1/tunshi-xingkong-2nd-season/ep25
  
 # Animixplay >>
 
