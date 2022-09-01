@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: bai yao pu 3rd season ep7
+Episode Name: orient awajishima gekitou hen ep8
 
-Episode Link: https://animixplay.to/v1/bai-yao-pu-3rd-season/ep7
+Episode Link: https://animixplay.to/v1/orient-awajishima-gekitou-hen/ep8
  
 # Animixplay >>
 
