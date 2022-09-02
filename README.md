@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shin tennis no ouji sama u 17 world cup ep9
+Episode Name: obey me season 2 ep4
 
-Episode Link: https://animixplay.to/v1/shin-tennis-no-ouji-sama-u-17-world-cup/ep9
+Episode Link: https://animixplay.to/v1/obey-me-season-2/ep4
  
 # Animixplay >>
 
