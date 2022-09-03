@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: ao ashi ep21
+Episode Name: kanojo okarishimasu 2nd season ep10
 
-Episode Link: https://animixplay.to/v1/ao-ashi/ep21
+Episode Link: https://animixplay.to/v1/kanojo-okarishimasu-2nd-season/ep10
  
 # Animixplay >>
 
