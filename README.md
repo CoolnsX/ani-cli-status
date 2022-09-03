@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: prima doll ep9
+Episode Name: wanmei shijie ep74
 
-Episode Link: https://animixplay.to/v1/prima-doll/ep9
+Episode Link: https://animixplay.to/v1/wanmei-shijie/ep74
  
 # Animixplay >>
 
