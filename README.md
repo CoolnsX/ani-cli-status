@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shadows house 2nd season ep9
+Episode Name: isekai ojisan ep7
 
-Episode Link: https://animixplay.to/v1/shadows-house-2nd-season/ep9
+Episode Link: https://animixplay.to/v1/isekai-ojisan/ep7
  
 # Animixplay >>
 
