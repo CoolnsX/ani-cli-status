@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: detective conan ep1055
+Episode Name: yao shen ji 5th season ep91
 
-Episode Link: https://animixplay.to/v1/detective-conan/ep1055
+Episode Link: https://animixplay.to/v1/yao-shen-ji-5th-season/ep91
  
 # Animixplay >>
 
