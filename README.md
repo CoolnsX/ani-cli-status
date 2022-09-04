@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: love all play ep21
+Episode Name: engage kiss ep10
 
-Episode Link: https://animixplay.to/v1/love-all-play/ep21
+Episode Link: https://animixplay.to/v1/engage-kiss/ep10
  
 # Animixplay >>
 
