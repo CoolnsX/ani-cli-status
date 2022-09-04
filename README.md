@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kuro no shoukanshi ep9
+Episode Name: shoot goal to the future ep10
 
-Episode Link: https://animixplay.to/v1/kuro-no-shoukanshi/ep9
+Episode Link: https://animixplay.to/v1/shoot-goal-to-the-future/ep10
  
 # Animixplay >>
 
