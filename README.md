@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: orient awajishima gekitou hen ep9
+Episode Name: kingdom 4th season ep22
 
-Episode Link: https://animixplay.to/v1/orient-awajishima-gekitou-hen/ep9
+Episode Link: https://animixplay.to/v1/kingdom-4th-season/ep22
  
 # Animixplay >>
 
