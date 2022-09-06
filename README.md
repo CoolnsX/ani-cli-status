@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: renmei kuugun koukuu mahou ongakutai luminous witches ep9
+Episode Name: orient awajishima gekitou hen ep9
 
-Episode Link: https://animixplay.to/v1/renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches/ep9
+Episode Link: https://animixplay.to/v1/orient-awajishima-gekitou-hen/ep9
  
 # Animixplay >>
 
