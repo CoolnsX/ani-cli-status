@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kakkou no iinazuke ep19
+Episode Name: lycoris recoil ep10
 
-Episode Link: https://animixplay.to/v1/kakkou-no-iinazuke/ep19
+Episode Link: https://animixplay.to/v1/lycoris-recoil/ep10
  
 # Animixplay >>
 
