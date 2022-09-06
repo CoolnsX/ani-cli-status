@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: isekai yakkyoku ep9
+Episode Name: saikin yatotta maid ga ayashii ep6
 
-Episode Link: https://animixplay.to/v1/isekai-yakkyoku/ep9
+Episode Link: https://animixplay.to/v1/saikin-yatotta-maid-ga-ayashii/ep6
  
 # Animixplay >>
 
