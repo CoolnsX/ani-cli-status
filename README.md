@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: tensei kenja no isekai life dai 2 no shokugyou wo ete sekai saikyou ni narimashita ep11
+Episode Name: fuuto tantei ep6
 
-Episode Link: https://animixplay.to/v1/tensei-kenja-no-isekai-life-dai-2-no-shokugyou-wo-ete-sekai-saikyou-ni-narimashita/ep11
+Episode Link: https://animixplay.to/v1/fuuto-tantei/ep6
  
 # Animixplay >>
 
