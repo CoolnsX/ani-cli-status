@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: hataraku maou sama 2nd season ep9
+Episode Name: wanmei shijie ep75
 
-Episode Link: https://animixplay.to/v1/hataraku-maou-sama-2nd-season/ep9
+Episode Link: https://animixplay.to/v1/wanmei-shijie/ep75
  
 # Animixplay >>
 
