@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: overlord ple ple pleiades 4 ep10
+Episode Name: tokyo mew mew new ep10
 
-Episode Link: https://animixplay.to/v1/overlord-ple-ple-pleiades-4/ep10
+Episode Link: https://animixplay.to/v1/tokyo-mew-mew-new/ep10
  
 # Animixplay >>
 
