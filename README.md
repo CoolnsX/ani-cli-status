@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shadowverse flame ep24
+Episode Name: soredemo ayumu wa yosetekuru ep10
 
-Episode Link: https://animixplay.to/v1/shadowverse-flame/ep24
+Episode Link: https://animixplay.to/v1/soredemo-ayumu-wa-yosetekuru/ep10
  
 # Animixplay >>
 
