@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: ao ashi ep22
+Episode Name: dragon quest dai no daibouken 2020 ep94
 
-Episode Link: https://animixplay.to/v1/ao-ashi/ep22
+Episode Link: https://animixplay.to/v1/dragon-quest-dai-no-daibouken-2020/ep94
  
 # Animixplay >>
 
