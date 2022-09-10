@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: summertime render ep22
+Episode Name: yofukashi no uta ep10
 
-Episode Link: https://animixplay.to/v1/summertime-render/ep22
+Episode Link: https://animixplay.to/v1/yofukashi-no-uta/ep10
  
 # Animixplay >>
 
