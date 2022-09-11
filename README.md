@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shoot goal to the future ep11
+Episode Name: saikin yatotta maid ga ayashii ep7
 
-Episode Link: https://animixplay.to/v1/shoot-goal-to-the-future/ep11
+Episode Link: https://animixplay.to/v1/saikin-yatotta-maid-ga-ayashii/ep7
  
 # Animixplay >>
 
