@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: extreme hearts ep10
+Episode Name: shoot goal to the future ep11
 
-Episode Link: https://animixplay.to/v1/extreme-hearts/ep10
+Episode Link: https://animixplay.to/v1/shoot-goal-to-the-future/ep11
  
 # Animixplay >>
 
