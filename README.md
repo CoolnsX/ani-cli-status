@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: cardfight vanguard willdress ep11
+Episode Name: holo no graffiti ep173
 
-Episode Link: https://animixplay.to/v1/cardfight-vanguard-willdress/ep11
+Episode Link: https://animixplay.to/v1/holo-no-graffiti/ep173
  
 # Animixplay >>
 
