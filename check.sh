@@ -16,8 +16,8 @@ sed -i -E "s_Episode Name: (.*)_Episode Name: $(printf "$url" | cut -d"/" -f3- |
 data=$(curl -A "$agent" -s "${base_url}${url}" | sed -nE "s/.*malid = '(.*)';/\1/p ; s_.*epslistplace.*>(.*)</div>_\1_p")
 
 ext_id=$(printf "%s" "$data" | tail -1 | tr -d "[:alpha:]|[:punct:]")
-id=$(printf "%s" "$data" | head -1 | tr "," "\n" | sed '/extra/d' | sed -nE 's_".*":"(.*)".*_\1_p' | tail -1 | sed -nE 's/.*id=(.*)&title.*/\1/p')
-resp="$(curl -A "$agent" -s "https://goload.pro/streaming.php?id=$id" | sed -nE 's/.*class="container-(.*)">/\1/p ; s/.*class="wrapper container-(.*)">/\1/p ; s/.*class=".*videocontent-(.*)">/\1/p ; s/.*data-value="(.*)">.*/\1/p ; s/.*data-status="1".*data-video="(.*)">.*/\1/p')"
+id=$(printf "%s" "$data" | head -1 | tr "," "\n" | sed '/extra/d' | sed -nE 's_".*":"(.*)".*_\1_p' | tail -1 | sed -nE 's/.*id=([^&]*).*/\1/p')
+resp="$(curl -A "$agent" -sL "https://gogohd.net/streaming.php?id=$id" | sed -nE 's/.*class="container-(.*)">/\1/p ; s/.*class="wrapper container-(.*)">/\1/p ; s/.*class=".*videocontent-(.*)">/\1/p ; s/.*data-value="(.*)">.*/\1/p ; s/.*data-status="1".*data-video="(.*)">.*/\1/p')"
 [ -z "$resp" ] || printf "\33[2K\r\033[1;32m link providers (GOGO)>>\033[0m\n%s\n" "$resp"
 
 #scraping animixplay direct links
@@ -31,7 +31,7 @@ iv=$(printf "%s" "$resp" | sed -n '3p' | tr -d "\n" | od -A n -t x1 | tr -d " |\
 second_key=$(printf "%s" "$resp" | sed -n '4p' | tr -d "\n" | od -A n -t x1 | tr -d " |\n")
 token=$(printf "%s" "$resp" | head -1 | base64 -d | openssl enc -d -aes256 -K "$secret_key" -iv "$iv" | sed -nE 's/.*&(token.*)/\1/p')
 ajax=$(printf '%s' "$id" | openssl enc -e -aes256 -K "$secret_key" -iv "$iv" -a)
-[ -z "$id" ] || go_video=$(curl -s -H "X-Requested-With:XMLHttpRequest" "https://goload.pro/encrypt-ajax.php?id=${ajax}&alias=${id}&${token}" | sed -e 's/{"data":"//' -e 's/"}/\n/' -e 's/\\//g' | base64 -d | openssl enc -d -aes256 -K "$second_key" -iv "$iv" | sed -e 's/\].*/\]/' -e 's/\\//g' | grep -Eo 'https:\/\/[-a-zA-Z0-9@:%._\+~#=][a-zA-Z0-9][-a-zA-Z0-9@:%_\+.~#?&\/\/=]*')
+[ -z "$id" ] || go_video=$(curl -sL -H "X-Requested-With:XMLHttpRequest" "https://gogohd.net/encrypt-ajax.php?id=${ajax}&alias=${id}&${token}" | sed -e 's/{"data":"//' -e 's/"}/\n/' -e 's/\\//g' | base64 -d | openssl enc -d -aes256 -K "$second_key" -iv "$iv" | sed -e 's/\].*/\]/' -e 's/\\//g' | grep -Eo 'https:\/\/[-a-zA-Z0-9@:%._\+~#=][a-zA-Z0-9][-a-zA-Z0-9@:%_\+.~#?&\/\/=]*')
 [ -z "$id" ] || ([ -z "$go_video" ] && gen_img "gogoplay" "✗ No" "link returned" "darkred" || gen_img "gogoplay" "✓ $(printf "%s\n" "$go_video" | wc -l)" "link(s) returned" "darkgreen")
 
 #xstreamcdn(fembed) links
