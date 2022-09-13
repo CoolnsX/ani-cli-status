@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yurei deco ep11
+Episode Name: boruto naruto next generations ep266
 
-Episode Link: https://animixplay.to/v1/yurei-deco/ep11
+Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep266
  
 # Animixplay >>
 
