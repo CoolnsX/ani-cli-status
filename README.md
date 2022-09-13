@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: utawarerumono futari no hakuoro ep12
+Episode Name: teppen ep10
 
-Episode Link: https://animixplay.to/v1/utawarerumono-futari-no-hakuoro/ep12
+Episode Link: https://animixplay.to/v1/teppen/ep10
  
 # Animixplay >>
 
