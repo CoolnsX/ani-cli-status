@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shine post ep9
+Episode Name: yao shen ji 5th season ep94
 
-Episode Link: https://animixplay.to/v1/shine-post/ep9
+Episode Link: https://animixplay.to/v1/yao-shen-ji-5th-season/ep94
  
 # Animixplay >>
 
