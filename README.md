@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yao shen ji 5th season ep94
+Episode Name: isekai meikyuu de harem wo ep11
 
-Episode Link: https://animixplay.to/v1/yao-shen-ji-5th-season/ep94
+Episode Link: https://animixplay.to/v1/isekai-meikyuu-de-harem-wo/ep11
  
 # Animixplay >>
 
