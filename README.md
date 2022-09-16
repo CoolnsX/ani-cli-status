@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: overlord ple ple pleiades 4 ep11
+Episode Name: bastard ankoku no hakaishin ona part 2 ep11
 
-Episode Link: https://animixplay.to/v1/overlord-ple-ple-pleiades-4/ep11
+Episode Link: https://animixplay.to/v1/bastard-ankoku-no-hakaishin-ona-part-2/ep11
  
 # Animixplay >>
 
