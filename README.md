@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mamahaha no tsurego ga motokano datta ep11
+Episode Name: obey me season 2 ep5
 
-Episode Link: https://animixplay.to/v1/mamahaha-no-tsurego-ga-motokano-datta/ep11
+Episode Link: https://animixplay.to/v1/obey-me-season-2/ep5
  
 # Animixplay >>
 
