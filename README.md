@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: bastard ankoku no hakaishin ona part 2 ep11
+Episode Name: wanmei shijie ep76
 
-Episode Link: https://animixplay.to/v1/bastard-ankoku-no-hakaishin-ona-part-2/ep11
+Episode Link: https://animixplay.to/v1/wanmei-shijie/ep76
  
 # Animixplay >>
 
