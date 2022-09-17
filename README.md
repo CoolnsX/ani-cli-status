@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shen yin wangzuo ep24
+Episode Name: douluo dalu 2nd season ep200
 
-Episode Link: https://animixplay.to/v1/shen-yin-wangzuo/ep24
+Episode Link: https://animixplay.to/v1/douluo-dalu-2nd-season/ep200
  
 # Animixplay >>
 
