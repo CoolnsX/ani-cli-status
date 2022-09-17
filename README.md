@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: dungeon ni deai wo motomeru no wa machigatteiru darou ka iv ep9
+Episode Name: shadows house 2nd season ep11
 
-Episode Link: https://animixplay.to/v1/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv/ep9
+Episode Link: https://animixplay.to/v1/shadows-house-2nd-season/ep11
  
 # Animixplay >>
 
