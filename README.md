@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: lycoris recoil ep12
+Episode Name: yowai 5000 nen no soushoku dragon iwarenaki jaryuu nintei ep9
 
-Episode Link: https://animixplay.to/v1/lycoris-recoil/ep12
+Episode Link: https://animixplay.to/v1/yowai-5000-nen-no-soushoku-dragon-iwarenaki-jaryuu-nintei/ep9
  
 # Animixplay >>
 
