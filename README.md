@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: detective conan ep1056
+Episode Name: pokemon 2019 ep125
 
-Episode Link: https://animixplay.to/v1/detective-conan/ep1056
+Episode Link: https://animixplay.to/v1/pokemon-2019/ep125
  
 # Animixplay >>
 
