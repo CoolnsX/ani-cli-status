@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shoot goal to the future ep12
+Episode Name: love all play ep23
 
-Episode Link: https://animixplay.to/v1/shoot-goal-to-the-future/ep12
+Episode Link: https://animixplay.to/v1/love-all-play/ep23
  
 # Animixplay >>
 
