@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: isekai yakkyoku ep11
+Episode Name: one piece ep1033
 
-Episode Link: https://animixplay.to/v1/isekai-yakkyoku/ep11
+Episode Link: https://animixplay.to/v1/one-piece/ep1033
  
 # Animixplay >>
 
