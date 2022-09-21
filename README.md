@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: orient awajishima gekitou hen ep11
+Episode Name: yao shen ji 5th season ep96
 
-Episode Link: https://animixplay.to/v1/orient-awajishima-gekitou-hen/ep11
+Episode Link: https://animixplay.to/v1/yao-shen-ji-5th-season/ep96
  
 # Animixplay >>
 
