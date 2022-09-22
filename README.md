@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yofukashi no uta ep12
+Episode Name: bai yao pu 3rd season ep10
 
-Episode Link: https://animixplay.to/v1/yofukashi-no-uta/ep12
+Episode Link: https://animixplay.to/v1/bai-yao-pu-3rd-season/ep10
  
 # Animixplay >>
 
