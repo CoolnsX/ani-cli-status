@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shen yin wangzuo ep25
+Episode Name: tunshi xingkong 2nd season ep28
 
-Episode Link: https://animixplay.to/v1/shen-yin-wangzuo/ep25
+Episode Link: https://animixplay.to/v1/tunshi-xingkong-2nd-season/ep28
  
 # Animixplay >>
 
