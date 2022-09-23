@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: jujutsu kaisen 0
+Episode Name: overlord iv ep12
 
-Episode Link: https://animixplay.to/v1/jujutsu-kaisen-0
+Episode Link: https://animixplay.to/v1/overlord-iv/ep12
  
 # Animixplay >>
 
