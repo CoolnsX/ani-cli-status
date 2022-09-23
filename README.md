@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: isekai meikyuu de harem wo ep12
+Episode Name: jujutsu kaisen 0
 
-Episode Link: https://animixplay.to/v1/isekai-meikyuu-de-harem-wo/ep12
+Episode Link: https://animixplay.to/v1/jujutsu-kaisen-0
  
 # Animixplay >>
 
