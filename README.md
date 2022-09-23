@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shadows house 2nd season ep12
+Episode Name: jujutsu kaisen 0
 
-Episode Link: https://animixplay.to/v1/shadows-house-2nd-season/ep12
+Episode Link: https://animixplay.to/v1/jujutsu-kaisen-0
  
 # Animixplay >>
 
