@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mamahaha no tsurego ga motokano datta ep12
+Episode Name: kumichou musume to sewagakari ep12
 
-Episode Link: https://animixplay.to/v1/mamahaha-no-tsurego-ga-motokano-datta/ep12
+Episode Link: https://animixplay.to/v1/kumichou-musume-to-sewagakari/ep12
  
 # Animixplay >>
 
