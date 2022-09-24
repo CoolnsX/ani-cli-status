@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: warau arsnotoria sun ep12
+Episode Name: shin tennis no ouji sama u 17 world cup ep12
 
-Episode Link: https://animixplay.to/v1/warau-arsnotoria-sun/ep12
+Episode Link: https://animixplay.to/v1/shin-tennis-no-ouji-sama-u-17-world-cup/ep12
  
 # Animixplay >>
 
