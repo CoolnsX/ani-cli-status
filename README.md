@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yao shen ji 5th season ep97
+Episode Name: bucchigire ep12
 
-Episode Link: https://animixplay.to/v1/yao-shen-ji-5th-season/ep97
+Episode Link: https://animixplay.to/v1/bucchigire/ep12
  
 # Animixplay >>
 
