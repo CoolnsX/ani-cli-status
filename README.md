@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: akuyaku reijou nanode last boss wo kattemimashita
+Episode Name: utawarerumono futari no hakuoro ep14
 
-Episode Link: https://animixplay.to/v1/akuyaku-reijou-nanode-last-boss-wo-kattemimashita
+Episode Link: https://animixplay.to/v1/utawarerumono-futari-no-hakuoro/ep14
  
 # Animixplay >>
 
