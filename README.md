@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: youkoso jitsuryoku shijou shugi no kyoushitsu e tv 2nd season ep13
+Episode Name: chokotto anime kemono friends 3 ep26
 
-Episode Link: https://animixplay.to/v1/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-2nd-season/ep13
+Episode Link: https://animixplay.to/v1/chokotto-anime-kemono-friends-3/ep26
  
 # Animixplay >>
 
