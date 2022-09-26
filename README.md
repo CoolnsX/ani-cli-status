@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: isekai yakkyoku ep12
+Episode Name: shadowverse flame ep26
 
-Episode Link: https://animixplay.to/v1/isekai-yakkyoku/ep12
+Episode Link: https://animixplay.to/v1/shadowverse-flame/ep26
  
 # Animixplay >>
 
