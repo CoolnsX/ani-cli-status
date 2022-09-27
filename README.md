@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: isekai yakkyoku ep12
+Episode Name: akuyaku reijou nanode last boss wo kattemimashita
 
-Episode Link: https://animixplay.to/v1/isekai-yakkyoku/ep12
+Episode Link: https://animixplay.to/v1/akuyaku-reijou-nanode-last-boss-wo-kattemimashita
  
 # Animixplay >>
 
