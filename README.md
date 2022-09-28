@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yao shen ji 5th season ep98
+Episode Name: kingdom 4th season ep25
 
-Episode Link: https://animixplay.to/v1/yao-shen-ji-5th-season/ep98
+Episode Link: https://animixplay.to/v1/kingdom-4th-season/ep25
  
 # Animixplay >>
 
