@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: engage kiss ep13
+Episode Name: akuyaku reijou nanode last boss wo kattemimashita
 
-Episode Link: https://animixplay.to/v1/engage-kiss/ep13
+Episode Link: https://animixplay.to/v1/akuyaku-reijou-nanode-last-boss-wo-kattemimashita
  
 # Animixplay >>
 
