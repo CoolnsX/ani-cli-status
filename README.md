@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shadowverse flame ep26
+Episode Name: boruto naruto next generations ep268
 
-Episode Link: https://animixplay.to/v1/shadowverse-flame/ep26
+Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep268
  
 # Animixplay >>
 
