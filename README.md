@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yao shen ji 5th season ep98
+Episode Name: shin tennis no ouji sama u 17 world cup ep13
 
-Episode Link: https://animixplay.to/v1/yao-shen-ji-5th-season/ep98
+Episode Link: https://animixplay.to/v1/shin-tennis-no-ouji-sama-u-17-world-cup/ep13
  
 # Animixplay >>
 
