@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: tunshi xingkong 2nd season ep29
+Episode Name: saikin yatotta maid ga ayashii ep9
 
-Episode Link: https://animixplay.to/v1/tunshi-xingkong-2nd-season/ep29
+Episode Link: https://animixplay.to/v1/saikin-yatotta-maid-ga-ayashii/ep9
  
 # Animixplay >>
 
