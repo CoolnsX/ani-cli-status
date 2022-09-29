@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: hataraku maou sama 2nd season ep12
+Episode Name: shen yin wangzuo ep26
 
-Episode Link: https://animixplay.to/v1/hataraku-maou-sama-2nd-season/ep12
+Episode Link: https://animixplay.to/v1/shen-yin-wangzuo/ep26
  
 # Animixplay >>
 
