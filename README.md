@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yao shen ji 5th season ep98
+Episode Name: yojouhan time machine blues ep3
 
-Episode Link: https://animixplay.to/v1/yao-shen-ji-5th-season/ep98
+Episode Link: https://animixplay.to/v1/yojouhan-time-machine-blues/ep3
  
 # Animixplay >>
 
