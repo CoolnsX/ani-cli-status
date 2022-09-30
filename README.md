@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: wanmei shijie ep78
+Episode Name: pantheon ep6
 
-Episode Link: https://animixplay.to/v1/wanmei-shijie/ep78
+Episode Link: https://animixplay.to/v1/pantheon/ep6
  
 # Animixplay >>
 
