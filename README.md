@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: dungeon ni deai wo motomeru no wa machigatteiru darou ka iv ep11
+Episode Name: shen yin wangzuo ep26
 
-Episode Link: https://animixplay.to/v1/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv/ep11
+Episode Link: https://animixplay.to/v1/shen-yin-wangzuo/ep26
  
 # Animixplay >>
 
