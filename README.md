@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: boku no hero academia 6th season
+Episode Name: one piece ep1035
 
-Episode Link: https://animixplay.to/v1/boku-no-hero-academia-6th-season
+Episode Link: https://animixplay.to/v1/one-piece/ep1035
  
 # Animixplay >>
 
