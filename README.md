@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: noumin kanren no skill bakka agetetara nazeka tsuyoku natta
+Episode Name: berserk ougon jidai hen memorial edition
 
-Episode Link: https://animixplay.to/v1/noumin-kanren-no-skill-bakka-agetetara-nazeka-tsuyoku-natta
+Episode Link: https://animixplay.to/v1/berserk-ougon-jidai-hen-memorial-edition
  
 # Animixplay >>
 
