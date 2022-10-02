@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: berserk ougon jidai hen memorial edition
+Episode Name: kakkou no iinazuke ep24
 
-Episode Link: https://animixplay.to/v1/berserk-ougon-jidai-hen-memorial-edition
+Episode Link: https://animixplay.to/v1/kakkou-no-iinazuke/ep24
  
 # Animixplay >>
 
