@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: one piece ep1035
+Episode Name: koukyuu no karasu
 
-Episode Link: https://animixplay.to/v1/one-piece/ep1035
+Episode Link: https://animixplay.to/v1/koukyuu-no-karasu
  
 # Animixplay >>
 
