@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: uzaki chan wa asobitai double
+Episode Name: shinobi no ittoki
 
-Episode Link: https://animixplay.to/v1/uzaki-chan-wa-asobitai-double
+Episode Link: https://animixplay.to/v1/shinobi-no-ittoki
  
 # Animixplay >>
 
