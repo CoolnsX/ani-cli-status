@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: detective conan ep1058
+Episode Name: akuyaku reijou nanode last boss wo kattemimashita ep2
 
-Episode Link: https://animixplay.to/v1/detective-conan/ep1058
+Episode Link: https://animixplay.to/v1/akuyaku-reijou-nanode-last-boss-wo-kattemimashita/ep2
  
 # Animixplay >>
 
