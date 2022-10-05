@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: boruto naruto next generations ep269
+Episode Name: yuusha party wo tsuihou sareta beast tamer saikyoushu no nekomimi shoujo to deau
 
-Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep269
+Episode Link: https://animixplay.to/v1/yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyoushu-no-nekomimi-shoujo-to-deau
  
 # Animixplay >>
 
