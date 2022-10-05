@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: vazzrock the animation
+Episode Name: futoku no guild
 
-Episode Link: https://animixplay.to/v1/vazzrock-the-animation
+Episode Link: https://animixplay.to/v1/futoku-no-guild
  
 # Animixplay >>
 
