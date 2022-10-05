@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: one piece ep1035
+Episode Name: noumin kanren no skill bakka agetetara nazeka tsuyoku natta
 
-Episode Link: https://animixplay.to/v1/one-piece/ep1035
+Episode Link: https://animixplay.to/v1/noumin-kanren-no-skill-bakka-agetetara-nazeka-tsuyoku-natta
  
 # Animixplay >>
 
