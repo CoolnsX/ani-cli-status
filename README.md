@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mob psycho 100 iii
+Episode Name: xian wang de richang shenghuo 3 ep2
 
-Episode Link: https://animixplay.to/v1/mob-psycho-100-iii
+Episode Link: https://animixplay.to/v1/xian-wang-de-richang-shenghuo-3/ep2
  
 # Animixplay >>
 
