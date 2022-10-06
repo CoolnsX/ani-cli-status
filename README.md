@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: muv luv alternative 2nd season
+Episode Name: shinmai renkinjutsushi no tenpo keiei
 
-Episode Link: https://animixplay.to/v1/muv-luv-alternative-2nd-season
+Episode Link: https://animixplay.to/v1/shinmai-renkinjutsushi-no-tenpo-keiei
  
 # Animixplay >>
 
