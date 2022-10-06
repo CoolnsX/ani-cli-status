@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: akiba maid sensou
+Episode Name: yojouhan time machine blues ep4
 
-Episode Link: https://animixplay.to/v1/akiba-maid-sensou
+Episode Link: https://animixplay.to/v1/yojouhan-time-machine-blues/ep4
  
 # Animixplay >>
 
