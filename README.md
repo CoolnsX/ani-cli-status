@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: wu shen zhu zai ep272
+Episode Name: golden kamuy 4th season
 
-Episode Link: https://animixplay.to/v1/wu-shen-zhu-zai/ep272
+Episode Link: https://animixplay.to/v1/golden-kamuy-4th-season
  
 # Animixplay >>
 
