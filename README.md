@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: human bug daigaku
+Episode Name: akiba maid sensou
 
-Episode Link: https://animixplay.to/v1/human-bug-daigaku
+Episode Link: https://animixplay.to/v1/akiba-maid-sensou
  
 # Animixplay >>
 
