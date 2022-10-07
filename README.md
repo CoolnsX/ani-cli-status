@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mushikaburi hime
+Episode Name: human bug daigaku
 
-Episode Link: https://animixplay.to/v1/mushikaburi-hime
+Episode Link: https://animixplay.to/v1/human-bug-daigaku
  
 # Animixplay >>
 
