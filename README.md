@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mairimashita iruma kun 3rd season
+Episode Name: mob psycho 100 iii
 
-Episode Link: https://animixplay.to/v1/mairimashita-iruma-kun-3rd-season
+Episode Link: https://animixplay.to/v1/mob-psycho-100-iii
  
 # Animixplay >>
 
