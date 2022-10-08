@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: reiwa no di gi charat
+Episode Name: tunshi xingkong 2nd season ep30
 
-Episode Link: https://animixplay.to/v1/reiwa-no-di-gi-charat
+Episode Link: https://animixplay.to/v1/tunshi-xingkong-2nd-season/ep30
  
 # Animixplay >>
 
