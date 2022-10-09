@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: noumin kanren no skill bakka agetetara nazeka tsuyoku natta ep2
+Episode Name: koukyuu no karasu ep2
 
-Episode Link: https://animixplay.to/v1/noumin-kanren-no-skill-bakka-agetetara-nazeka-tsuyoku-natta/ep2
+Episode Link: https://animixplay.to/v1/koukyuu-no-karasu/ep2
  
 # Animixplay >>
 
