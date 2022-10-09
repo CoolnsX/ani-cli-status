@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: utawarerumono futari no hakuoro ep16
+Episode Name: yowamushi pedal limit break
 
-Episode Link: https://animixplay.to/v1/utawarerumono-futari-no-hakuoro/ep16
+Episode Link: https://animixplay.to/v1/yowamushi-pedal-limit-break
  
 # Animixplay >>
 
