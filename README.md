@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: noumin kanren no skill bakka agetetara nazeka tsuyoku natta ep2
+Episode Name: peter grill to kenja no jikan super extra
 
-Episode Link: https://animixplay.to/v1/noumin-kanren-no-skill-bakka-agetetara-nazeka-tsuyoku-natta/ep2
+Episode Link: https://animixplay.to/v1/peter-grill-to-kenja-no-jikan-super-extra
  
 # Animixplay >>
 
