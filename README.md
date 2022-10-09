@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: koukyuu no karasu ep2
+Episode Name: berserk ougon jidai hen memorial edition ep2
 
-Episode Link: https://animixplay.to/v1/koukyuu-no-karasu/ep2
+Episode Link: https://animixplay.to/v1/berserk-ougon-jidai-hen-memorial-edition/ep2
  
 # Animixplay >>
 
