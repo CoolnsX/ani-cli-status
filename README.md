@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: peter grill to kenja no jikan super extra
+Episode Name: one piece dai tettei kaibou gekitou 5 nin no shin sedai
 
-Episode Link: https://animixplay.to/v1/peter-grill-to-kenja-no-jikan-super-extra
+Episode Link: https://animixplay.to/v1/one-piece-dai-tettei-kaibou-gekitou-5-nin-no-shin-sedai
  
 # Animixplay >>
 
