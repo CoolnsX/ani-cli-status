@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: xian wang de richang shenghuo 3 ep3
+Episode Name: one piece dai tettei kaibou gekitou 5 nin no shin sedai
 
-Episode Link: https://animixplay.to/v1/xian-wang-de-richang-shenghuo-3/ep3
+Episode Link: https://animixplay.to/v1/one-piece-dai-tettei-kaibou-gekitou-5-nin-no-shin-sedai
  
 # Animixplay >>
 
