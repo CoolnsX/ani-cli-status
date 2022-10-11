@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: idolish7 third beat part 2 ep2
+Episode Name: boruto naruto next generations ep270
 
-Episode Link: https://animixplay.to/v1/idolish7-third-beat-part-2/ep2
+Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep270
  
 # Animixplay >>
 
