@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: bleach sennen kessen hen
+Episode Name: poputepipikku 2nd season ep2
 
-Episode Link: https://animixplay.to/v1/bleach-sennen-kessen-hen
+Episode Link: https://animixplay.to/v1/poputepipikku-2nd-season/ep2
  
 # Animixplay >>
 
