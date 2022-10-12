@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: saikin yatotta maid ga ayashii ep11
+Episode Name: golden kamuy 4th season ep2
 
-Episode Link: https://animixplay.to/v1/saikin-yatotta-maid-ga-ayashii/ep11
+Episode Link: https://animixplay.to/v1/golden-kamuy-4th-season/ep2
  
 # Animixplay >>
 
