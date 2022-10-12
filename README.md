@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: fuufu ijou koibito miman
+Episode Name: one piece dai tettei kaibou gekitou 5 nin no shin sedai
 
-Episode Link: https://animixplay.to/v1/fuufu-ijou-koibito-miman
+Episode Link: https://animixplay.to/v1/one-piece-dai-tettei-kaibou-gekitou-5-nin-no-shin-sedai
  
 # Animixplay >>
 
