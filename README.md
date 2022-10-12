@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: fuufu ijou koibito miman
+Episode Name: peter grill to kenja no jikan super extra
 
-Episode Link: https://animixplay.to/v1/fuufu-ijou-koibito-miman
+Episode Link: https://animixplay.to/v1/peter-grill-to-kenja-no-jikan-super-extra
  
 # Animixplay >>
 
