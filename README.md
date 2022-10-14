@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: akiba maid sensou ep2
+Episode Name: ginga eiyuu densetsu die neue these sakubou ep3
 
-Episode Link: https://animixplay.to/v1/akiba-maid-sensou/ep2
+Episode Link: https://animixplay.to/v1/ginga-eiyuu-densetsu-die-neue-these-sakubou/ep3
  
 # Animixplay >>
 
