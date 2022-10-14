@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shinmai renkinjutsushi no tenpo keiei ep2
+Episode Name: urusei yatsura 2022
 
-Episode Link: https://animixplay.to/v1/shinmai-renkinjutsushi-no-tenpo-keiei/ep2
+Episode Link: https://animixplay.to/v1/urusei-yatsura-2022
  
 # Animixplay >>
 
