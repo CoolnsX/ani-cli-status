@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mob psycho 100 iii ep2
+Episode Name: peter grill to kenja no jikan super extra uncensored
 
-Episode Link: https://animixplay.to/v1/mob-psycho-100-iii/ep2
+Episode Link: https://animixplay.to/v1/peter-grill-to-kenja-no-jikan-super-extra-uncensored
  
 # Animixplay >>
 
