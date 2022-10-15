@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: ginga eiyuu densetsu die neue these sakubou ep3
+Episode Name: urusei yatsura 2022
 
-Episode Link: https://animixplay.to/v1/ginga-eiyuu-densetsu-die-neue-these-sakubou/ep3
+Episode Link: https://animixplay.to/v1/urusei-yatsura-2022
  
 # Animixplay >>
 
