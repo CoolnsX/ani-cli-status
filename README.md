@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: obey me season 2 ep7
+Episode Name: ginga eiyuu densetsu die neue these sakubou ep3
 
-Episode Link: https://animixplay.to/v1/obey-me-season-2/ep7
+Episode Link: https://animixplay.to/v1/ginga-eiyuu-densetsu-die-neue-these-sakubou/ep3
  
 # Animixplay >>
 
