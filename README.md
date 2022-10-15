@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: seiken densetsu legend of mana the teardrop crystal ep2
+Episode Name: dragon quest dai no daibouken 2020 ep99
 
-Episode Link: https://animixplay.to/v1/seiken-densetsu-legend-of-mana-the-teardrop-crystal/ep2
+Episode Link: https://animixplay.to/v1/dragon-quest-dai-no-daibouken-2020/ep99
  
 # Animixplay >>
 
