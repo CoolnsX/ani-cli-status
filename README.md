@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: dragon quest dai no daibouken 2020 ep99
+Episode Name: boku no hero academia 6th season ep3
 
-Episode Link: https://animixplay.to/v1/dragon-quest-dai-no-daibouken-2020/ep99
+Episode Link: https://animixplay.to/v1/boku-no-hero-academia-6th-season/ep3
  
 # Animixplay >>
 
