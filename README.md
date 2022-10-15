@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: hoshi no samidare ep14
+Episode Name: mairimashita iruma kun 3rd season ep2
 
-Episode Link: https://animixplay.to/v1/hoshi-no-samidare/ep14
+Episode Link: https://animixplay.to/v1/mairimashita-iruma-kun-3rd-season/ep2
  
 # Animixplay >>
 
