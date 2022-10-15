@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: ani ni tsukeru kusuri wa nai 5 ep12
+Episode Name: pokemon 2019 ep128
 
-Episode Link: https://animixplay.to/v1/ani-ni-tsukeru-kusuri-wa-nai-5/ep12
+Episode Link: https://animixplay.to/v1/pokemon-2019/ep128
  
 # Animixplay >>
 
