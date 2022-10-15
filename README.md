@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: douluo dalu 2nd season ep204
+Episode Name: reiwa no di gi charat ep2
 
-Episode Link: https://animixplay.to/v1/douluo-dalu-2nd-season/ep204
+Episode Link: https://animixplay.to/v1/reiwa-no-di-gi-charat/ep2
  
 # Animixplay >>
 
