@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mobile suit gundam the witch from mercury ep3
+Episode Name: xian wang de richang shenghuo 3 ep4
 
-Episode Link: https://animixplay.to/v1/mobile-suit-gundam-the-witch-from-mercury/ep3
+Episode Link: https://animixplay.to/v1/xian-wang-de-richang-shenghuo-3/ep4
  
 # Animixplay >>
 
