@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: xian wang de richang shenghuo 3 ep4
+Episode Name: utawarerumono futari no hakuoro ep17
 
-Episode Link: https://animixplay.to/v1/xian-wang-de-richang-shenghuo-3/ep4
+Episode Link: https://animixplay.to/v1/utawarerumono-futari-no-hakuoro/ep17
  
 # Animixplay >>
 
