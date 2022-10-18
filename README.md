@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: boruto naruto next generations ep271
+Episode Name: shinmai renkinjutsushi no tenpo keiei ep3
 
-Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep271
+Episode Link: https://animixplay.to/v1/shinmai-renkinjutsushi-no-tenpo-keiei/ep3
  
 # Animixplay >>
 
