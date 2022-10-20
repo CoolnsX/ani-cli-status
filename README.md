@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: tunshi xingkong 2nd season ep32
+Episode Name: tensei shitara ken deshita ep4
 
-Episode Link: https://animixplay.to/v1/tunshi-xingkong-2nd-season/ep32
+Episode Link: https://animixplay.to/v1/tensei-shitara-ken-deshita/ep4
  
 # Animixplay >>
 
