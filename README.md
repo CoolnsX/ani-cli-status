@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kage no jitsuryokusha ni naritakute ep3
+Episode Name: tunshi xingkong 2nd season ep32
 
-Episode Link: https://animixplay.to/v1/kage-no-jitsuryokusha-ni-naritakute/ep3
+Episode Link: https://animixplay.to/v1/tunshi-xingkong-2nd-season/ep32
  
 # Animixplay >>
 
