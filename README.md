@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: renai flops ep2
+Episode Name: do it yourself ep3
 
-Episode Link: https://animixplay.to/v1/renai-flops/ep2
+Episode Link: https://animixplay.to/v1/do-it-yourself/ep3
  
 # Animixplay >>
 
