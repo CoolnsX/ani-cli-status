@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: muv luv alternative 2nd season ep3
+Episode Name: futoku no guild uncensored ep3
 
-Episode Link: https://animixplay.to/v1/muv-luv-alternative-2nd-season/ep3
+Episode Link: https://animixplay.to/v1/futoku-no-guild-uncensored/ep3
  
 # Animixplay >>
 
