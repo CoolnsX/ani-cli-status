@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: fuufu ijou koibito miman ep2
+Episode Name: shinobi no ittoki ep3
 
-Episode Link: https://animixplay.to/v1/fuufu-ijou-koibito-miman/ep2
+Episode Link: https://animixplay.to/v1/shinobi-no-ittoki/ep3
  
 # Animixplay >>
 
