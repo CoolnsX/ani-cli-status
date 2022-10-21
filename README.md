@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: urusei yatsura 2022 ep2
+Episode Name: peter grill to kenja no jikan super extra uncensored ep2
 
-Episode Link: https://animixplay.to/v1/urusei-yatsura-2022/ep2
+Episode Link: https://animixplay.to/v1/peter-grill-to-kenja-no-jikan-super-extra-uncensored/ep2
  
 # Animixplay >>
 
