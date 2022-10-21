@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: ginga eiyuu densetsu die neue these sakubou ep4
+Episode Name: muv luv alternative 2nd season ep3
 
-Episode Link: https://animixplay.to/v1/ginga-eiyuu-densetsu-die-neue-these-sakubou/ep4
+Episode Link: https://animixplay.to/v1/muv-luv-alternative-2nd-season/ep3
  
 # Animixplay >>
 
