@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mushikaburi hime ep3
+Episode Name: chainsaw man ep2
 
-Episode Link: https://animixplay.to/v1/mushikaburi-hime/ep3
+Episode Link: https://animixplay.to/v1/chainsaw-man/ep2
  
 # Animixplay >>
 
