@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: muv luv alternative 2nd season ep3
+Episode Name: urusei yatsura 2022 ep2
 
-Episode Link: https://animixplay.to/v1/muv-luv-alternative-2nd-season/ep3
+Episode Link: https://animixplay.to/v1/urusei-yatsura-2022/ep2
  
 # Animixplay >>
 
