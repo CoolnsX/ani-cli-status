@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: uchi no shishou wa shippo ga nai ep4
+Episode Name: reiwa no di gi charat ep3
 
-Episode Link: https://animixplay.to/v1/uchi-no-shishou-wa-shippo-ga-nai/ep4
+Episode Link: https://animixplay.to/v1/reiwa-no-di-gi-charat/ep3
  
 # Animixplay >>
 
