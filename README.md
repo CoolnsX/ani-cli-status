@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shadowverse flame ep29
+Episode Name: akiba maid sensou ep3
 
-Episode Link: https://animixplay.to/v1/shadowverse-flame/ep29
+Episode Link: https://animixplay.to/v1/akiba-maid-sensou/ep3
  
 # Animixplay >>
 
