@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: pantheon ep8
+Episode Name: akiba maid sensou ep3
 
-Episode Link: https://animixplay.to/v1/pantheon/ep8
+Episode Link: https://animixplay.to/v1/akiba-maid-sensou/ep3
  
 # Animixplay >>
 
