@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 4 nin wa sorezore uso wo tsuku ep2
+Episode Name: bocchi the rock ep3
 
-Episode Link: https://animixplay.to/v1/4-nin-wa-sorezore-uso-wo-tsuku/ep2
+Episode Link: https://animixplay.to/v1/bocchi-the-rock/ep3
  
 # Animixplay >>
 
