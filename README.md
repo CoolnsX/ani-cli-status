@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: noumin kanren no skill bakka agetetara nazeka tsuyoku natta ep4
+Episode Name: akuyaku reijou nanode last boss wo kattemimashita ep5
 
-Episode Link: https://animixplay.to/v1/noumin-kanren-no-skill-bakka-agetetara-nazeka-tsuyoku-natta/ep4
+Episode Link: https://animixplay.to/v1/akuyaku-reijou-nanode-last-boss-wo-kattemimashita/ep5
  
 # Animixplay >>
 
