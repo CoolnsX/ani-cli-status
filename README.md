@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: boruto naruto next generations ep272
+Episode Name: fumetsu no anata e 2nd season
 
-Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep272
+Episode Link: https://animixplay.to/v1/fumetsu-no-anata-e-2nd-season
  
 # Animixplay >>
 
