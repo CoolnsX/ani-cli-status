@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: blue lock ep3
+Episode Name: mobile suit gundam the witch from mercury ep4
 
-Episode Link: https://animixplay.to/v1/blue-lock/ep3
+Episode Link: https://animixplay.to/v1/mobile-suit-gundam-the-witch-from-mercury/ep4
  
 # Animixplay >>
 
