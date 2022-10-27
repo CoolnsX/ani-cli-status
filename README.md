@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: idolish7 third beat part 2 ep4
+Episode Name: do it yourself ep4
 
-Episode Link: https://animixplay.to/v1/idolish7-third-beat-part-2/ep4
+Episode Link: https://animixplay.to/v1/do-it-yourself/ep4
  
 # Animixplay >>
 
