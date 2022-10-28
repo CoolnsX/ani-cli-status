@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: chainsaw man ep3
+Episode Name: kage no jitsuryokusha ni naritakute ep4
 
-Episode Link: https://animixplay.to/v1/chainsaw-man/ep3
+Episode Link: https://animixplay.to/v1/kage-no-jitsuryokusha-ni-naritakute/ep4
  
 # Animixplay >>
 
