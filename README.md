@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: eternal boys ep3
+Episode Name: wanmei shijie ep82
 
-Episode Link: https://animixplay.to/v1/eternal-boys/ep3
+Episode Link: https://animixplay.to/v1/wanmei-shijie/ep82
  
 # Animixplay >>
 
