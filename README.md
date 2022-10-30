@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: poputepipikku 2nd season ep5
+Episode Name: 4 nin wa sorezore uso wo tsuku ep3
 
-Episode Link: https://animixplay.to/v1/poputepipikku-2nd-season/ep5
+Episode Link: https://animixplay.to/v1/4-nin-wa-sorezore-uso-wo-tsuku/ep3
  
 # Animixplay >>
 
