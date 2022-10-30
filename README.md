@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: boku no hero academia 6th season ep5
+Episode Name: noumin kanren no skill bakka agetetara nazeka tsuyoku natta ep5
 
-Episode Link: https://animixplay.to/v1/boku-no-hero-academia-6th-season/ep5
+Episode Link: https://animixplay.to/v1/noumin-kanren-no-skill-bakka-agetetara-nazeka-tsuyoku-natta/ep5
  
 # Animixplay >>
 
