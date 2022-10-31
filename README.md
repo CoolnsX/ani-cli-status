@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: bocchi the rock ep4
+Episode Name: yowamushi pedal limit break ep4
 
-Episode Link: https://animixplay.to/v1/bocchi-the-rock/ep4
+Episode Link: https://animixplay.to/v1/yowamushi-pedal-limit-break/ep4
  
 # Animixplay >>
 
