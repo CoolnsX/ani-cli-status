@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shinobi no ittoki ep5
+Episode Name: boruto naruto next generations ep273
 
-Episode Link: https://animixplay.to/v1/shinobi-no-ittoki/ep5
+Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep273
  
 # Animixplay >>
 
