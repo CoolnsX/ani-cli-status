@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kage no jitsuryokusha ni naritakute ep5
+Episode Name: shinmai renkinjutsushi no tenpo keiei ep5
 
-Episode Link: https://animixplay.to/v1/kage-no-jitsuryokusha-ni-naritakute/ep5
+Episode Link: https://animixplay.to/v1/shinmai-renkinjutsushi-no-tenpo-keiei/ep5
  
 # Animixplay >>
 
