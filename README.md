@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: idolish7 third beat part 2 ep5
+Episode Name: delicious partyprecure ep34
 
-Episode Link: https://animixplay.to/v1/idolish7-third-beat-part-2/ep5
+Episode Link: https://animixplay.to/v1/delicious-partyprecure/ep34
  
 # Animixplay >>
 
