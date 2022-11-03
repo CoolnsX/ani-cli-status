@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mob psycho 100 iii ep5
+Episode Name: tunshi xingkong 2nd season ep34
 
-Episode Link: https://animixplay.to/v1/mob-psycho-100-iii/ep5
+Episode Link: https://animixplay.to/v1/tunshi-xingkong-2nd-season/ep34
  
 # Animixplay >>
 
