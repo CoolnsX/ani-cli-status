@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: meitantei conan hannin no hanzawa san ep5
+Episode Name: tensei shitara ken deshita ep6
 
-Episode Link: https://animixplay.to/v1/meitantei-conan-hannin-no-hanzawa-san/ep5
+Episode Link: https://animixplay.to/v1/tensei-shitara-ken-deshita/ep6
  
 # Animixplay >>
 
