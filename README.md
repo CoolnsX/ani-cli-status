@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kancolle itsuka ano umi de
+Episode Name: human bug daigaku ep5
 
-Episode Link: https://animixplay.to/v1/kancolle-itsuka-ano-umi-de
+Episode Link: https://animixplay.to/v1/human-bug-daigaku/ep5
  
 # Animixplay >>
 
