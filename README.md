@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: meitantei conan hannin no hanzawa san ep5
+Episode Name: chainsaw man ep4
 
-Episode Link: https://animixplay.to/v1/meitantei-conan-hannin-no-hanzawa-san/ep5
+Episode Link: https://animixplay.to/v1/chainsaw-man/ep4
  
 # Animixplay >>
 
