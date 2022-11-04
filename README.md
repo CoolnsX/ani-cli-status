@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: chainsaw man ep4
+Episode Name: peter grill to kenja no jikan super extra uncensored ep4
 
-Episode Link: https://animixplay.to/v1/chainsaw-man/ep4
+Episode Link: https://animixplay.to/v1/peter-grill-to-kenja-no-jikan-super-extra-uncensored/ep4
  
 # Animixplay >>
 
