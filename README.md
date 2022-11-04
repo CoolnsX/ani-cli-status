@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: chainsaw man ep4
+Episode Name: vazzrock the animation ep5
 
-Episode Link: https://animixplay.to/v1/chainsaw-man/ep4
+Episode Link: https://animixplay.to/v1/vazzrock-the-animation/ep5
  
 # Animixplay >>
 
