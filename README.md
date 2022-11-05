@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: wanmei shijie ep83
+Episode Name: douluo dalu 2nd season ep207
 
-Episode Link: https://animixplay.to/v1/wanmei-shijie/ep83
+Episode Link: https://animixplay.to/v1/douluo-dalu-2nd-season/ep207
  
 # Animixplay >>
 
