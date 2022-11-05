@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: uchi no shishou wa shippo ga nai ep6
+Episode Name: seiken densetsu legend of mana the teardrop crystal ep5
 
-Episode Link: https://animixplay.to/v1/uchi-no-shishou-wa-shippo-ga-nai/ep6
+Episode Link: https://animixplay.to/v1/seiken-densetsu-legend-of-mana-the-teardrop-crystal/ep5
  
 # Animixplay >>
 
