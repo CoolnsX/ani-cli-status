@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mairimashita iruma kun 3rd season ep5
+Episode Name: akuyaku reijou nanode last boss wo kattemimashita ep7
 
-Episode Link: https://animixplay.to/v1/mairimashita-iruma-kun-3rd-season/ep5
+Episode Link: https://animixplay.to/v1/akuyaku-reijou-nanode-last-boss-wo-kattemimashita/ep7
  
 # Animixplay >>
 
