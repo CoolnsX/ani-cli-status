@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: blue lock ep5
+Episode Name: fuufu ijou koibito miman ep5
 
-Episode Link: https://animixplay.to/v1/blue-lock/ep5
+Episode Link: https://animixplay.to/v1/fuufu-ijou-koibito-miman/ep5
  
 # Animixplay >>
 
