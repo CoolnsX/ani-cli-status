@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: digimon ghost game ep50
+Episode Name: noumin kanren no skill bakka agetetara nazeka tsuyoku natta ep6
 
-Episode Link: https://animixplay.to/v1/digimon-ghost-game/ep50
+Episode Link: https://animixplay.to/v1/noumin-kanren-no-skill-bakka-agetetara-nazeka-tsuyoku-natta/ep6
  
 # Animixplay >>
 
