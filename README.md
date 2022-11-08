@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: chainsaw man ep5
+Episode Name: yama no susume next summit ep6
 
-Episode Link: https://animixplay.to/v1/chainsaw-man/ep5
+Episode Link: https://animixplay.to/v1/yama-no-susume-next-summit/ep6
  
 # Animixplay >>
 
