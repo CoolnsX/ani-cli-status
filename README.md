@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: xian wang de richang shenghuo 3 ep7
+Episode Name: bleach sennen kessen hen ep5
 
-Episode Link: https://animixplay.to/v1/xian-wang-de-richang-shenghuo-3/ep7
+Episode Link: https://animixplay.to/v1/bleach-sennen-kessen-hen/ep5
  
 # Animixplay >>
 
