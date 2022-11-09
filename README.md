@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: fumetsu no anata e 2nd season ep3
+Episode Name: one piece ep1039
 
-Episode Link: https://animixplay.to/v1/fumetsu-no-anata-e-2nd-season/ep3
+Episode Link: https://animixplay.to/v1/one-piece/ep1039
  
 # Animixplay >>
 
