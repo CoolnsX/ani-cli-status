@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: muv luv alternative 2nd season ep6
+Episode Name: tunshi xingkong 2nd season ep35
 
-Episode Link: https://animixplay.to/v1/muv-luv-alternative-2nd-season/ep6
+Episode Link: https://animixplay.to/v1/tunshi-xingkong-2nd-season/ep35
  
 # Animixplay >>
 
