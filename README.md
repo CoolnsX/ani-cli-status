@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mushikaburi hime ep6
+Episode Name: futoku no guild uncensored ep6
 
-Episode Link: https://animixplay.to/v1/mushikaburi-hime/ep6
+Episode Link: https://animixplay.to/v1/futoku-no-guild-uncensored/ep6
  
 # Animixplay >>
 
