@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: kage no jitsuryokusha ni naritakute ep6
+Episode Name: doupo cangqiong nian fan ep17
 
-Episode Link: https://animixplay.to/v1/kage-no-jitsuryokusha-ni-naritakute/ep6
+Episode Link: https://animixplay.to/v1/doupo-cangqiong-nian-fan/ep17
  
 # Animixplay >>
 
