@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mob psycho 100 iii ep6
+Episode Name: akiba maid sensou ep6
 
-Episode Link: https://animixplay.to/v1/mob-psycho-100-iii/ep6
+Episode Link: https://animixplay.to/v1/akiba-maid-sensou/ep6
  
 # Animixplay >>
 
