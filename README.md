@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: do it yourself ep6
+Episode Name: kage no jitsuryokusha ni naritakute ep6
 
-Episode Link: https://animixplay.to/v1/do-it-yourself/ep6
+Episode Link: https://animixplay.to/v1/kage-no-jitsuryokusha-ni-naritakute/ep6
  
 # Animixplay >>
 
