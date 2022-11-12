@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mushikaburi hime ep6
+Episode Name: obey me season 2 ep9
 
-Episode Link: https://animixplay.to/v1/mushikaburi-hime/ep6
+Episode Link: https://animixplay.to/v1/obey-me-season-2/ep9
  
 # Animixplay >>
 
