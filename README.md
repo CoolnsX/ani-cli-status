@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: douluo dalu 2nd season ep208
+Episode Name: boku no hero academia 6th season ep7
 
-Episode Link: https://animixplay.to/v1/douluo-dalu-2nd-season/ep208
+Episode Link: https://animixplay.to/v1/boku-no-hero-academia-6th-season/ep7
  
 # Animixplay >>
 
