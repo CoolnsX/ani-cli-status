@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shadowverse flame ep32
+Episode Name: reiwa no di gi charat ep6
 
-Episode Link: https://animixplay.to/v1/shadowverse-flame/ep32
+Episode Link: https://animixplay.to/v1/reiwa-no-di-gi-charat/ep6
  
 # Animixplay >>
 
