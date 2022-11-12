@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: obey me season 2 ep9
+Episode Name: hoshi no samidare ep18
 
-Episode Link: https://animixplay.to/v1/obey-me-season-2/ep9
+Episode Link: https://animixplay.to/v1/hoshi-no-samidare/ep18
  
 # Animixplay >>
 
