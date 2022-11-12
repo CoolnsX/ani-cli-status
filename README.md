@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: douluo dalu 2nd season ep208
+Episode Name: kancolle itsuka ano umi de ep2
 
-Episode Link: https://animixplay.to/v1/douluo-dalu-2nd-season/ep208
+Episode Link: https://animixplay.to/v1/kancolle-itsuka-ano-umi-de/ep2
  
 # Animixplay >>
 
