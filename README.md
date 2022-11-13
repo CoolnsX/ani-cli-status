@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: delicious partyprecure ep35
+Episode Name: 4 nin wa sorezore uso wo tsuku ep5
 
-Episode Link: https://animixplay.to/v1/delicious-partyprecure/ep35
+Episode Link: https://animixplay.to/v1/4-nin-wa-sorezore-uso-wo-tsuku/ep5
  
 # Animixplay >>
 
