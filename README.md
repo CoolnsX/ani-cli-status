@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: bleach sennen kessen hen ep6
+Episode Name: utawarerumono futari no hakuoro ep21
 
-Episode Link: https://animixplay.to/v1/bleach-sennen-kessen-hen/ep6
+Episode Link: https://animixplay.to/v1/utawarerumono-futari-no-hakuoro/ep21
  
 # Animixplay >>
 
