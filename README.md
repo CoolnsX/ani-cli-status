@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: xian wang de richang shenghuo 3 ep8
+Episode Name: idolish7 third beat part 2 ep7
 
-Episode Link: https://animixplay.to/v1/xian-wang-de-richang-shenghuo-3/ep8
+Episode Link: https://animixplay.to/v1/idolish7-third-beat-part-2/ep7
  
 # Animixplay >>
 
