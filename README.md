@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: bleach sennen kessen hen ep6
+Episode Name: fumetsu no anata e 2nd season ep4
 
-Episode Link: https://animixplay.to/v1/bleach-sennen-kessen-hen/ep6
+Episode Link: https://animixplay.to/v1/fumetsu-no-anata-e-2nd-season/ep4
  
 # Animixplay >>
 
