@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yuusha party wo tsuihou sareta beast tamer saikyoushu no nekomimi shoujo to deau ep7
+Episode Name: meitantei conan hannin no hanzawa san ep7
 
-Episode Link: https://animixplay.to/v1/yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyoushu-no-nekomimi-shoujo-to-deau/ep7
+Episode Link: https://animixplay.to/v1/meitantei-conan-hannin-no-hanzawa-san/ep7
  
 # Animixplay >>
 
