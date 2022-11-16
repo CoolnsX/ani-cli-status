@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: poputepipikku 2nd season ep7
+Episode Name: yama no susume next summit ep7
 
-Episode Link: https://animixplay.to/v1/poputepipikku-2nd-season/ep7
+Episode Link: https://animixplay.to/v1/yama-no-susume-next-summit/ep7
  
 # Animixplay >>
 
