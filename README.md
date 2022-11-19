@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: wanmei shijie ep85
+Episode Name: shadowverse flame ep33
 
-Episode Link: https://animixplay.to/v1/wanmei-shijie/ep85
+Episode Link: https://animixplay.to/v1/shadowverse-flame/ep33
  
 # Animixplay >>
 
