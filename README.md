@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: uchi no shishou wa shippo ga nai ep8
+Episode Name: noumin kanren no skill bakka agetetara nazeka tsuyoku natta ep8
 
-Episode Link: https://animixplay.to/v1/uchi-no-shishou-wa-shippo-ga-nai/ep8
+Episode Link: https://animixplay.to/v1/noumin-kanren-no-skill-bakka-agetetara-nazeka-tsuyoku-natta/ep8
  
 # Animixplay >>
 
