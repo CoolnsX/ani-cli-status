@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shadowverse flame ep33
+Episode Name: seiken densetsu legend of mana the teardrop crystal ep7
 
-Episode Link: https://animixplay.to/v1/shadowverse-flame/ep33
+Episode Link: https://animixplay.to/v1/seiken-densetsu-legend-of-mana-the-teardrop-crystal/ep7
  
 # Animixplay >>
 
