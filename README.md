@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: uchi no shishou wa shippo ga nai ep8
+Episode Name: boku no hero academia 6th season ep8
 
-Episode Link: https://animixplay.to/v1/uchi-no-shishou-wa-shippo-ga-nai/ep8
+Episode Link: https://animixplay.to/v1/boku-no-hero-academia-6th-season/ep8
  
 # Animixplay >>
 
