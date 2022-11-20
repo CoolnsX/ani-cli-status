@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: doupo cangqiong nian fan ep19
+Episode Name: 4 nin wa sorezore uso wo tsuku ep6
 
-Episode Link: https://animixplay.to/v1/doupo-cangqiong-nian-fan/ep19
+Episode Link: https://animixplay.to/v1/4-nin-wa-sorezore-uso-wo-tsuku/ep6
  
 # Animixplay >>
 
