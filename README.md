@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yowamushi pedal limit break ep6
+Episode Name: uzaki chan wa asobitai double ep8
 
-Episode Link: https://animixplay.to/v1/yowamushi-pedal-limit-break/ep6
+Episode Link: https://animixplay.to/v1/uzaki-chan-wa-asobitai-double/ep8
  
 # Animixplay >>
 
