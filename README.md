@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: akuyaku reijou nanode last boss wo kattemimashita ep9
+Episode Name: koukyuu no karasu ep8
 
-Episode Link: https://animixplay.to/v1/akuyaku-reijou-nanode-last-boss-wo-kattemimashita/ep9
+Episode Link: https://animixplay.to/v1/koukyuu-no-karasu/ep8
  
 # Animixplay >>
 
