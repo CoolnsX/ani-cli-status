@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: boruto naruto next generations ep276
+Episode Name: eternal boys ep9
 
-Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep276
+Episode Link: https://animixplay.to/v1/eternal-boys/ep9
  
 # Animixplay >>
 
