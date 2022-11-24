@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mob psycho 100 iii ep8
+Episode Name: yama no susume next summit ep8
 
-Episode Link: https://animixplay.to/v1/mob-psycho-100-iii/ep8
+Episode Link: https://animixplay.to/v1/yama-no-susume-next-summit/ep8
  
 # Animixplay >>
 
