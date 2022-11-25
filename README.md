@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: renai flops ep7
+Episode Name: vazzrock the animation ep8
 
-Episode Link: https://animixplay.to/v1/renai-flops/ep7
+Episode Link: https://animixplay.to/v1/vazzrock-the-animation/ep8
  
 # Animixplay >>
 
