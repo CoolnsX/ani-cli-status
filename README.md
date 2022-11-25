@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: urusei yatsura 2022 ep7
+Episode Name: chainsaw man ep7
 
-Episode Link: https://animixplay.to/v1/urusei-yatsura-2022/ep7
+Episode Link: https://animixplay.to/v1/chainsaw-man/ep7
  
 # Animixplay >>
 
