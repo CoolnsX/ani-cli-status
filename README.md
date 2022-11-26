@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: futoku no guild uncensored ep8
+Episode Name: tensei shitara ken deshita ep9
 
-Episode Link: https://animixplay.to/v1/futoku-no-guild-uncensored/ep8
+Episode Link: https://animixplay.to/v1/tensei-shitara-ken-deshita/ep9
  
 # Animixplay >>
 
