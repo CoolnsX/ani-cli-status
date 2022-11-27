@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shadowverse flame ep34
+Episode Name: boku no hero academia 6th season ep9
 
-Episode Link: https://animixplay.to/v1/shadowverse-flame/ep34
+Episode Link: https://animixplay.to/v1/boku-no-hero-academia-6th-season/ep9
  
 # Animixplay >>
 
