@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yuusha party wo tsuihou sareta beast tamer saikyoushu no nekomimi shoujo to deau ep9
+Episode Name: mobile suit gundam the witch from mercury ep8
 
-Episode Link: https://animixplay.to/v1/yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyoushu-no-nekomimi-shoujo-to-deau/ep9
+Episode Link: https://animixplay.to/v1/mobile-suit-gundam-the-witch-from-mercury/ep8
  
 # Animixplay >>
 
