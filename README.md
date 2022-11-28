@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: akuyaku reijou nanode last boss wo kattemimashita ep10
+Episode Name: yowamushi pedal limit break ep7
 
-Episode Link: https://animixplay.to/v1/akuyaku-reijou-nanode-last-boss-wo-kattemimashita/ep10
+Episode Link: https://animixplay.to/v1/yowamushi-pedal-limit-break/ep7
  
 # Animixplay >>
 
