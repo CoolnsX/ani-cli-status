@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: utawarerumono futari no hakuoro ep23
+Episode Name: yuusha party wo tsuihou sareta beast tamer saikyoushu no nekomimi shoujo to deau ep9
 
-Episode Link: https://animixplay.to/v1/utawarerumono-futari-no-hakuoro/ep23
+Episode Link: https://animixplay.to/v1/yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyoushu-no-nekomimi-shoujo-to-deau/ep9
  
 # Animixplay >>
 
