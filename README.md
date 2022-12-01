@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: bleach sennen kessen hen ep8
+Episode Name: kage no jitsuryokusha ni naritakute ep9
 
-Episode Link: https://animixplay.to/v1/bleach-sennen-kessen-hen/ep8
+Episode Link: https://animixplay.to/v1/kage-no-jitsuryokusha-ni-naritakute/ep9
  
 # Animixplay >>
 
