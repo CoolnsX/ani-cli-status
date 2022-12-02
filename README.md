@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: wanmei shijie ep87
+Episode Name: reiwa no di gi charat ep8
 
-Episode Link: https://animixplay.to/v1/wanmei-shijie/ep87
+Episode Link: https://animixplay.to/v1/reiwa-no-di-gi-charat/ep8
  
 # Animixplay >>
 
