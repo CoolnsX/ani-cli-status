@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: hoshi no samidare ep21
+Episode Name: ginga eiyuu densetsu die neue these sakubou ep10
 
-Episode Link: https://animixplay.to/v1/hoshi-no-samidare/ep21
+Episode Link: https://animixplay.to/v1/ginga-eiyuu-densetsu-die-neue-these-sakubou/ep10
  
 # Animixplay >>
 
