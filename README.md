@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: become the castellan in another world ep13
+Episode Name: pokemon 2019 ep134
 
-Episode Link: https://animixplay.to/v1/become-the-castellan-in-another-world/ep13
+Episode Link: https://animixplay.to/v1/pokemon-2019/ep134
  
 # Animixplay >>
 
