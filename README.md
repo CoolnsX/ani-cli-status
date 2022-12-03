@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: hoshi no samidare ep21
+Episode Name: mob psycho 100 iii ep9
 
-Episode Link: https://animixplay.to/v1/hoshi-no-samidare/ep21
+Episode Link: https://animixplay.to/v1/mob-psycho-100-iii/ep9
  
 # Animixplay >>
 
