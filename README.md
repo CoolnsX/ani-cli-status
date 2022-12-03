@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: uchi no shishou wa shippo ga nai ep10
+Episode Name: hoshi no samidare ep21
 
-Episode Link: https://animixplay.to/v1/uchi-no-shishou-wa-shippo-ga-nai/ep10
+Episode Link: https://animixplay.to/v1/hoshi-no-samidare/ep21
  
 # Animixplay >>
 
