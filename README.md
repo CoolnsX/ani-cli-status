@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: jojo no kimyou na bouken part 6 stone ocean part 3 ep14
+Episode Name: yowamushi pedal limit break ep8
 
-Episode Link: https://animixplay.to/v1/jojo-no-kimyou-na-bouken-part-6-stone-ocean-part-3/ep14
+Episode Link: https://animixplay.to/v1/yowamushi-pedal-limit-break/ep8
  
 # Animixplay >>
 
