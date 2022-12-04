@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: uzaki chan wa asobitai double ep10
+Episode Name: xian wang de richang shenghuo 3 ep11
 
-Episode Link: https://animixplay.to/v1/uzaki-chan-wa-asobitai-double/ep10
+Episode Link: https://animixplay.to/v1/xian-wang-de-richang-shenghuo-3/ep11
  
 # Animixplay >>
 
