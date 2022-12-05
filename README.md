@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: akuyaku reijou nanode last boss wo kattemimashita ep11
+Episode Name: delicious partyprecure ep38
 
-Episode Link: https://animixplay.to/v1/akuyaku-reijou-nanode-last-boss-wo-kattemimashita/ep11
+Episode Link: https://animixplay.to/v1/delicious-partyprecure/ep38
  
 # Animixplay >>
 
