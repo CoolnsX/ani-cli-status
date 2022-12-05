@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: bocchi the rock ep9
+Episode Name: boruto naruto next generations ep278
 
-Episode Link: https://animixplay.to/v1/bocchi-the-rock/ep9
+Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep278
  
 # Animixplay >>
 
