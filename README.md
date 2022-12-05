@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yowamushi pedal limit break ep8
+Episode Name: 4 nin wa sorezore uso wo tsuku ep8
 
-Episode Link: https://animixplay.to/v1/yowamushi-pedal-limit-break/ep8
+Episode Link: https://animixplay.to/v1/4-nin-wa-sorezore-uso-wo-tsuku/ep8
  
 # Animixplay >>
 
