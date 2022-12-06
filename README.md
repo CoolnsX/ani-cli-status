@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: doupo cangqiong nian fan ep21
+Episode Name: bleach sennen kessen hen ep9
 
-Episode Link: https://animixplay.to/v1/doupo-cangqiong-nian-fan/ep21
+Episode Link: https://animixplay.to/v1/bleach-sennen-kessen-hen/ep9
  
 # Animixplay >>
 
