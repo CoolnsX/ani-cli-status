@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: utawarerumono futari no hakuoro ep24
+Episode Name: peter grill to kenja no jikan super extra ep9
 
-Episode Link: https://animixplay.to/v1/utawarerumono-futari-no-hakuoro/ep24
+Episode Link: https://animixplay.to/v1/peter-grill-to-kenja-no-jikan-super-extra/ep9
  
 # Animixplay >>
 
