@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: fumetsu no anata e 2nd season ep7
+Episode Name: meitantei conan hannin no hanzawa san ep10
 
-Episode Link: https://animixplay.to/v1/fumetsu-no-anata-e-2nd-season/ep7
+Episode Link: https://animixplay.to/v1/meitantei-conan-hannin-no-hanzawa-san/ep10
  
 # Animixplay >>
 
