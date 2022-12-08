@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: akiba maid sensou ep10
+Episode Name: shen yin wangzuo ep32
 
-Episode Link: https://animixplay.to/v1/akiba-maid-sensou/ep10
+Episode Link: https://animixplay.to/v1/shen-yin-wangzuo/ep32
  
 # Animixplay >>
 
