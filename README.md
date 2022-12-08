@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: shinobi no ittoki ep10
+Episode Name: idolish7 third beat part 2 ep10
 
-Episode Link: https://animixplay.to/v1/shinobi-no-ittoki/ep10
+Episode Link: https://animixplay.to/v1/idolish7-third-beat-part-2/ep10
  
 # Animixplay >>
 
