@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: muv luv alternative 2nd season ep10
+Episode Name: peter grill to kenja no jikan super extra uncensored ep9
 
-Episode Link: https://animixplay.to/v1/muv-luv-alternative-2nd-season/ep10
+Episode Link: https://animixplay.to/v1/peter-grill-to-kenja-no-jikan-super-extra-uncensored/ep9
  
 # Animixplay >>
 
