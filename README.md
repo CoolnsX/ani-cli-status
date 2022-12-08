@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: peter grill to kenja no jikan super extra uncensored ep9
+Episode Name: isekai ojisan ep9
 
-Episode Link: https://animixplay.to/v1/peter-grill-to-kenja-no-jikan-super-extra-uncensored/ep9
+Episode Link: https://animixplay.to/v1/isekai-ojisan/ep9
  
 # Animixplay >>
 
