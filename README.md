@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: meitantei conan hannin no hanzawa san ep10
+Episode Name: gaiken shijou shugi ep8
 
-Episode Link: https://animixplay.to/v1/meitantei-conan-hannin-no-hanzawa-san/ep10
+Episode Link: https://animixplay.to/v1/gaiken-shijou-shugi/ep8
  
 # Animixplay >>
 
