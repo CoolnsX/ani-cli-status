@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: reiwa no di gi charat ep9
+Episode Name: arknights reimei zensou ep7
 
-Episode Link: https://animixplay.to/v1/reiwa-no-di-gi-charat/ep9
+Episode Link: https://animixplay.to/v1/arknights-reimei-zensou/ep7
  
 # Animixplay >>
 
