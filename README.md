@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: koukyuu no karasu ep11
+Episode Name: peter grill to kenja no jikan super extra ep10
 
-Episode Link: https://animixplay.to/v1/koukyuu-no-karasu/ep11
+Episode Link: https://animixplay.to/v1/peter-grill-to-kenja-no-jikan-super-extra/ep10
  
 # Animixplay >>
 
