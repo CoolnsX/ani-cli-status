@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mobile suit gundam the witch from mercury ep10
+Episode Name: fuufu ijou koibito miman ep10
 
-Episode Link: https://animixplay.to/v1/mobile-suit-gundam-the-witch-from-mercury/ep10
+Episode Link: https://animixplay.to/v1/fuufu-ijou-koibito-miman/ep10
  
 # Animixplay >>
 
