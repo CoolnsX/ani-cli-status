@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 4 nin wa sorezore uso wo tsuku ep9
+Episode Name: berserk ougon jidai hen memorial edition ep11
 
-Episode Link: https://animixplay.to/v1/4-nin-wa-sorezore-uso-wo-tsuku/ep9
+Episode Link: https://animixplay.to/v1/berserk-ougon-jidai-hen-memorial-edition/ep11
  
 # Animixplay >>
 
