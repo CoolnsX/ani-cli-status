@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: bleach sennen kessen hen ep10
+Episode Name: chainsaw man ep10
 
-Episode Link: https://animixplay.to/v1/bleach-sennen-kessen-hen/ep10
+Episode Link: https://animixplay.to/v1/chainsaw-man/ep10
  
 # Animixplay >>
 
