@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: tunshi xingkong 2nd season ep40
+Episode Name: idolish7 third beat part 2 ep11
 
-Episode Link: https://animixplay.to/v1/tunshi-xingkong-2nd-season/ep40
+Episode Link: https://animixplay.to/v1/idolish7-third-beat-part-2/ep11
  
 # Animixplay >>
 
