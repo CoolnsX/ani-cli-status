@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: idolish7 third beat part 2 ep11
+Episode Name: doupo cangqiong nian fan ep22
 
-Episode Link: https://animixplay.to/v1/idolish7-third-beat-part-2/ep11
+Episode Link: https://animixplay.to/v1/doupo-cangqiong-nian-fan/ep22
  
 # Animixplay >>
 
