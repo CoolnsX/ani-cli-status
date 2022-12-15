@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: renai flops ep10
+Episode Name: kage no jitsuryokusha ni naritakute ep11
 
-Episode Link: https://animixplay.to/v1/renai-flops/ep10
+Episode Link: https://animixplay.to/v1/kage-no-jitsuryokusha-ni-naritakute/ep11
  
 # Animixplay >>
 
