@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: vazzrock the animation ep11
+Episode Name: yama no susume next summit ep11
 
-Episode Link: https://animixplay.to/v1/vazzrock-the-animation/ep11
+Episode Link: https://animixplay.to/v1/yama-no-susume-next-summit/ep11
  
 # Animixplay >>
 
