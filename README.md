@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: wanmei shijie ep89
+Episode Name: ginga eiyuu densetsu die neue these sakubou ep12
 
-Episode Link: https://animixplay.to/v1/wanmei-shijie/ep89
+Episode Link: https://animixplay.to/v1/ginga-eiyuu-densetsu-die-neue-these-sakubou/ep12
  
 # Animixplay >>
 
