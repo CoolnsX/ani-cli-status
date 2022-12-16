@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: ryuukyuu timeline 2 tedako no machi tanbou
+Episode Name: human bug daigaku ep11
 
-Episode Link: https://animixplay.to/v1/ryuukyuu-timeline-2-tedako-no-machi-tanbou
+Episode Link: https://animixplay.to/v1/human-bug-daigaku/ep11
  
 # Animixplay >>
 
