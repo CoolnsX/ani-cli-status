@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: wan sheng jie japanese dub ep6
+Episode Name: hoshi no samidare ep23
 
-Episode Link: https://animixplay.to/v1/wan-sheng-jie-japanese-dub/ep6
+Episode Link: https://animixplay.to/v1/hoshi-no-samidare/ep23
  
 # Animixplay >>
 
