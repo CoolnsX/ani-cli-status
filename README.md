@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: urusei yatsura 2022 ep10
+Episode Name: pokemon 2019 ep136
 
-Episode Link: https://animixplay.to/v1/urusei-yatsura-2022/ep10
+Episode Link: https://animixplay.to/v1/pokemon-2019/ep136
  
 # Animixplay >>
 
