@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: lupin zero ep2
+Episode Name: douluo dalu 2nd season ep213
 
-Episode Link: https://animixplay.to/v1/lupin-zero/ep2
+Episode Link: https://animixplay.to/v1/douluo-dalu-2nd-season/ep213
  
 # Animixplay >>
 
