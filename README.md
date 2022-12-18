@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: delicious partyprecure ep40
+Episode Name: doupo cangqiong nian fan ep23
 
-Episode Link: https://animixplay.to/v1/delicious-partyprecure/ep40
+Episode Link: https://animixplay.to/v1/doupo-cangqiong-nian-fan/ep23
  
 # Animixplay >>
 
