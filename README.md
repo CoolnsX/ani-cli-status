@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: mairimashita iruma kun 3rd season ep11
+Episode Name: yowamushi pedal limit break ep9
 
-Episode Link: https://animixplay.to/v1/mairimashita-iruma-kun-3rd-season/ep11
+Episode Link: https://animixplay.to/v1/yowamushi-pedal-limit-break/ep9
  
 # Animixplay >>
 
