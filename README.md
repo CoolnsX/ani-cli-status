@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu ii
+Episode Name: doupo cangqiong nian fan ep23
 
-Episode Link: https://animixplay.to/v1/itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-ii
+Episode Link: https://animixplay.to/v1/doupo-cangqiong-nian-fan/ep23
  
 # Animixplay >>
 
