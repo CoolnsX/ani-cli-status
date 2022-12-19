@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: boruto naruto next generations ep280
+Episode Name: doupo cangqiong nian fan ep23
 
-Episode Link: https://animixplay.to/v1/boruto-naruto-next-generations/ep280
+Episode Link: https://animixplay.to/v1/doupo-cangqiong-nian-fan/ep23
  
 # Animixplay >>
 
