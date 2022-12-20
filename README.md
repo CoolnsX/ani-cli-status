@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: digimon ghost game ep56
+Episode Name: meitantei conan hannin no hanzawa san ep11
 
-Episode Link: https://animixplay.to/v1/digimon-ghost-game/ep56
+Episode Link: https://animixplay.to/v1/meitantei-conan-hannin-no-hanzawa-san/ep11
  
 # Animixplay >>
 
