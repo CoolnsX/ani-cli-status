@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: fumetsu no anata e 2nd season ep9
+Episode Name: itai no wa iya nano de bougyoryoku ni kyokufuri shitai to omoimasu ii
 
-Episode Link: https://animixplay.to/v1/fumetsu-no-anata-e-2nd-season/ep9
+Episode Link: https://animixplay.to/v1/itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-ii
  
 # Animixplay >>
 
