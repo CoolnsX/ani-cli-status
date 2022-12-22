@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yuri no aida ni hasamareru aru asa dummyhead ni natteita ore kun no jinsei ep10
+Episode Name: nanatsu no taizai ensa no edinburgh
 
-Episode Link: https://animixplay.to/v1/yuri-no-aida-ni-hasamareru-aru-asa-dummyhead-ni-natteita-ore-kun-no-jinsei/ep10
+Episode Link: https://animixplay.to/v1/nanatsu-no-taizai-ensa-no-edinburgh
  
 # Animixplay >>
 
