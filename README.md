@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: yama no susume next summit ep12
+Episode Name: kage no jitsuryokusha ni naritakute ep12
 
-Episode Link: https://animixplay.to/v1/yama-no-susume-next-summit/ep12
+Episode Link: https://animixplay.to/v1/kage-no-jitsuryokusha-ni-naritakute/ep12
  
 # Animixplay >>
 
