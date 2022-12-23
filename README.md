@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: meitantei conan hannin no hanzawa san ep12
+Episode Name: futoku no guild uncensored ep12
 
-Episode Link: https://animixplay.to/v1/meitantei-conan-hannin-no-hanzawa-san/ep12
+Episode Link: https://animixplay.to/v1/futoku-no-guild-uncensored/ep12
  
 # Animixplay >>
 
