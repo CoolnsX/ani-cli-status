@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho episode 29 sub
+Episode Name: Boku to Roboko episode 4 sub
 
-Episode Link: https://allanime.site/watch/CLGcBBMdCnokNjish/Yoru-wa-Neko-to-Issho/episode-29-sub
+Episode Link: https://allanime.site/watch/2jortz9G5aor2A5F7/Boku-to-Roboko/episode-4-sub
  
 # Analytics
 
