@@ -22,6 +22,6 @@ jobs:
         with:
           commit_message: "update: status"
           repository: .
-          file_pattern: images/* README.md results
+          file_pattern: images/* README.md results data total analytics.png
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
