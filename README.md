@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: boruto naruto next generations episode 281 sub
+Episode Name: FateGrand Order Fujimaru Ritsuka wa Wakaranai episode 1 sub
 
-Episode Link: https://allanime.site/vkD8H5e7HsG2lyjctw9/boruto-naruto-next-generations/episode-281-sub
+Episode Link: https://allanime.site/jvxM64ZWLjiqWoZgS/FateGrand-Order-Fujimaru-Ritsuka-wa-Wakaranai/episode-1-sub
  
 # Analytics
 
