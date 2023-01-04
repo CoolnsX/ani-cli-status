@@ -16,7 +16,7 @@ Episode Link: https://allanime.site/D2cvAhg2aq9MNjY9x/Mr-Pen-Pen/episode-1-sub
 
 # Providers
 
-##  vrv links
+##  vrv|wixmp links
 
 <img src="./images/vrv.jpg">
 
