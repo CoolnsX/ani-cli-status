@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Obey Me Season 2 episode 12 sub
+Episode Name: Mr Pen Pen episode 1 sub
 
-Episode Link: https://allanime.site/PdvpfgRJKDLkGtcR6/Obey-Me-Season-2/episode-12-sub
+Episode Link: https://allanime.site/D2cvAhg2aq9MNjY9x/Mr-Pen-Pen/episode-1-sub
  
 # Analytics
 
