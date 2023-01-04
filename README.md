@@ -12,7 +12,7 @@ Episode Link: https://allanime.site/jvxM64ZWLjiqWoZgS/FateGrand-Order-Fujimaru-R
  
 # Analytics
 
-<img src="./analytics.jpg">
+<img src="./analytics.png">
 
 # Providers
 
