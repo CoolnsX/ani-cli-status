@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mr Pen Pen episode 1 sub
+Episode Name: Renai Flops episode 12 sub
 
-Episode Link: https://allanime.site/D2cvAhg2aq9MNjY9x/Mr-Pen-Pen/episode-1-sub
+Episode Link: https://allanime.site/watch/Wobkr9CeA5LMLnq8P/Renai-Flops/episode-12-sub
  
 # Analytics
 
