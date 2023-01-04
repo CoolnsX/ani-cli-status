@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: FateGrand Order Fujimaru Ritsuka wa Wakaranai episode 1 sub
+Episode Name: Obey Me Season 2 episode 12 sub
 
-Episode Link: https://allanime.site/jvxM64ZWLjiqWoZgS/FateGrand-Order-Fujimaru-Ritsuka-wa-Wakaranai/episode-1-sub
+Episode Link: https://allanime.site/PdvpfgRJKDLkGtcR6/Obey-Me-Season-2/episode-12-sub
  
 # Analytics
 
