@@ -6,22 +6,32 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: tunshi xingkong 2nd season ep41
+Episode Name: boruto naruto next generations episode 281 sub
 
-Episode Link: https://animixplay.to/v1/tunshi-xingkong-2nd-season/ep41
+Episode Link: https://allanime.site/vkD8H5e7HsG2lyjctw9/boruto-naruto-next-generations/episode-281-sub
  
-# Animixplay >>
+# Analytics
 
-## animixplay direct links
+<img src="./analytics.jpg">
 
-<img src="./images/animixplay.jpg">
+# Providers
 
-# Gogoanime >>
+##  vrv links
+
+<img src="./images/vrv.jpg">
+
+##  pstatic links
+
+<img src="./images/pstatic.jpg">
+
+##  sharepoint links
+
+<img src="./images/sharepoint.jpg">
+
+##  usercloud links
+
+<img src="./images/usercloud.jpg">
 
 ## gogo direct links
 
 <img src="./images/gogoplay.jpg">
-
-## xstreamcdn
-
-<img src="./images/xstreamcdn.jpg">
