@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala episode 51 sub
+Episode Name: Yoru wa Neko to Issho episode 29 sub
 
-Episode Link: https://allanime.site/watch/L32rWRjwz57uxfjbB/Ninjala/episode-51-sub
+Episode Link: https://allanime.site/watch/CLGcBBMdCnokNjish/Yoru-wa-Neko-to-Issho/episode-29-sub
  
 # Analytics
 
