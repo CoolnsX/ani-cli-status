@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Star Dust episode 1 sub
+Episode Name: Obey Me Season 2 episode 12 sub
 
-Episode Link: https://allanime.site/watch/oTYgk6YW3dqpaQFi6/Star-Dust/episode-1-sub
+Episode Link: https://allanime.site/watch/PdvpfgRJKDLkGtcR6/Obey-Me-Season-2/episode-12-sub
  
 # Analytics
 
