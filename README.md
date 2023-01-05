@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Vazzrock The Animation episode 13 sub
+Episode Name: Haai Step Jun episode 5 sub
 
-Episode Link: https://allanime.site/watch/dd69sFobaK22XDCWW/Vazzrock-The-Animation/episode-13-sub
+Episode Link: https://allanime.site/watch/5dC9GDoPPJ5agJg2C/Haai-Step-Jun/episode-5-sub
  
 # Analytics
 
