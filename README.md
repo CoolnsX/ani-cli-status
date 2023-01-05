@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho episode 29 sub
+Episode Name: Kage no Jitsuryokusha ni Naritakute episode 14 sub
 
-Episode Link: https://allanime.site/watch/CLGcBBMdCnokNjish/Yoru-wa-Neko-to-Issho/episode-29-sub
+Episode Link: https://allanime.site/watch/YeWtc8REZAGKPeb6q/Kage-no-Jitsuryokusha-ni-Naritakute/episode-14-sub
  
 # Analytics
 
