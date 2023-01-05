@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Obey Me Season 2 episode 12 sub
+Episode Name: Yoru wa Neko to Issho episode 29 sub
 
-Episode Link: https://allanime.site/watch/PdvpfgRJKDLkGtcR6/Obey-Me-Season-2/episode-12-sub
+Episode Link: https://allanime.site/watch/CLGcBBMdCnokNjish/Yoru-wa-Neko-to-Issho/episode-29-sub
  
 # Analytics
 
