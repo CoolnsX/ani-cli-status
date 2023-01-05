@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Reiwa no Di Gi Charat episode 12 sub
+Episode Name: Cinderella Monogatari episode 10 sub
 
-Episode Link: https://allanime.site/watch/xCXgbLTD63NhQwPft/Reiwa-no-Di-Gi-Charat/episode-12-sub
+Episode Link: https://allanime.site/watch/hufa4NvmrpQuoYstW/Cinderella-Monogatari/episode-10-sub
  
 # Analytics
 
