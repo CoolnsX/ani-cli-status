@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Koori Zokusei Danshi to Cool na Douryou Joshi episode 1 sub
+Episode Name: Lupin Zero episode 4 sub
 
-Episode Link: https://allanime.site/watch/nKstb8KKWgf7JPoMS/Koori-Zokusei-Danshi-to-Cool-na-Douryou-Joshi/episode-1-sub
+Episode Link: https://allanime.site/watch/JwmCYRmFoHjXdEjby/Lupin-Zero/episode-4-sub
  
 # Analytics
 
