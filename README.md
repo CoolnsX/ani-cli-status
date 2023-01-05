@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Lupin Zero episode 4 sub
+Episode Name: Vazzrock The Animation episode 13 sub
 
-Episode Link: https://allanime.site/watch/JwmCYRmFoHjXdEjby/Lupin-Zero/episode-4-sub
+Episode Link: https://allanime.site/watch/dd69sFobaK22XDCWW/Vazzrock-The-Animation/episode-13-sub
  
 # Analytics
 
