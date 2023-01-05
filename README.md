@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cinderella Monogatari episode 10 sub
+Episode Name: Yoru wa Neko to Issho episode 29 sub
 
-Episode Link: https://allanime.site/watch/hufa4NvmrpQuoYstW/Cinderella-Monogatari/episode-10-sub
+Episode Link: https://allanime.site/watch/CLGcBBMdCnokNjish/Yoru-wa-Neko-to-Issho/episode-29-sub
  
 # Analytics
 
