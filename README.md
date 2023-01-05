@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Koori Zokusei Danshi to Cool na Douryou Joshi episode 1 sub
+Episode Name: Renai Flops episode 12 sub
 
-Episode Link: https://allanime.site/watch/nKstb8KKWgf7JPoMS/Koori-Zokusei-Danshi-to-Cool-na-Douryou-Joshi/episode-1-sub
+Episode Link: https://allanime.site/watch/Wobkr9CeA5LMLnq8P/Renai-Flops/episode-12-sub
  
 # Analytics
 
