@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tomochan wa Onnanoko episode 1 sub
+Episode Name: Star Dust episode 1 sub
 
-Episode Link: https://allanime.site/watch/3QCFtixZM7P628ANS/Tomochan-wa-Onnanoko/episode-1-sub
+Episode Link: https://allanime.site/watch/oTYgk6YW3dqpaQFi6/Star-Dust/episode-1-sub
  
 # Analytics
 
