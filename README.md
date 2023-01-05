@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Haai Step Jun episode 5 sub
+Episode Name: Dr Slump Aralechan episode 130 sub
 
-Episode Link: https://allanime.site/watch/5dC9GDoPPJ5agJg2C/Haai-Step-Jun/episode-5-sub
+Episode Link: https://allanime.site/watch/PGqQKyyef49RWDzsc/Dr-Slump-Aralechan/episode-130-sub
  
 # Analytics
 
