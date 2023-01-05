@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Aralechan episode 130 sub
+Episode Name: Technoroid Overmind episode 1 sub
 
-Episode Link: https://allanime.site/watch/PGqQKyyef49RWDzsc/Dr-Slump-Aralechan/episode-130-sub
+Episode Link: https://allanime.site/watch/RXxqQbvYzeTTEjdjD/Technoroid-Overmind/episode-1-sub
  
 # Analytics
 
