@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mr Pen Pen episode 1 sub
+Episode Name: Cinderella Monogatari episode 10 sub
 
-Episode Link: https://allanime.site/watch/D2cvAhg2aq9MNjY9x/Mr-Pen-Pen/episode-1-sub
+Episode Link: https://allanime.site/watch/hufa4NvmrpQuoYstW/Cinderella-Monogatari/episode-10-sub
  
 # Analytics
 
