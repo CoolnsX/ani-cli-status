@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Reiwa no Di Gi Charat episode 12 sub
+Episode Name: Chainsaw Man episode 12 sub
 
-Episode Link: https://allanime.site/watch/xCXgbLTD63NhQwPft/Reiwa-no-Di-Gi-Charat/episode-12-sub
+Episode Link: https://allanime.site/watch/osGHAaTHeoTZLTs4o/Chainsaw-Man/episode-12-sub
  
 # Analytics
 
