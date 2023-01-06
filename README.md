@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Obey Me Season 2 episode 12 sub
+Episode Name: Haai Step Jun episode 5 sub
 
-Episode Link: https://allanime.site/watch/PdvpfgRJKDLkGtcR6/Obey-Me-Season-2/episode-12-sub
+Episode Link: https://allanime.site/watch/5dC9GDoPPJ5agJg2C/Haai-Step-Jun/episode-5-sub
  
 # Analytics
 
