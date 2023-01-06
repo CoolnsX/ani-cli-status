@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Megatonkyuu Musashi Season 2 episode 10 sub
+Episode Name: Dr Slump Aralechan episode 130 sub
 
-Episode Link: https://allanime.site/watch/CCDiavJccHcMWEp8L/Megatonkyuu-Musashi-Season-2/episode-10-sub
+Episode Link: https://allanime.site/watch/PGqQKyyef49RWDzsc/Dr-Slump-Aralechan/episode-130-sub
  
 # Analytics
 
