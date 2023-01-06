@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahou no Star Magical Emi episode 35 sub
+Episode Name: Obey Me Season 2 episode 12 sub
 
-Episode Link: https://allanime.site/watch/A3BW8grHBm6pMwz4e/Mahou-no-Star-Magical-Emi/episode-35-sub
+Episode Link: https://allanime.site/watch/PdvpfgRJKDLkGtcR6/Obey-Me-Season-2/episode-12-sub
  
 # Analytics
 
