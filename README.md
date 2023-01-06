@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tomochan wa Onnanoko episode 1 sub
+Episode Name: Mahou no Star Magical Emi episode 35 sub
 
-Episode Link: https://allanime.site/watch/3QCFtixZM7P628ANS/Tomochan-wa-Onnanoko/episode-1-sub
+Episode Link: https://allanime.site/watch/A3BW8grHBm6pMwz4e/Mahou-no-Star-Magical-Emi/episode-35-sub
  
 # Analytics
 
