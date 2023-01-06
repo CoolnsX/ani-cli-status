@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ningen Fushin no Boukenshatachi ga Sekai wo Sukuu you desu episode 1 sub
+Episode Name: Megatonkyuu Musashi Season 2 episode 10 sub
 
-Episode Link: https://allanime.site/watch/8oKbcBTptm5WvEBBJ/Ningen-Fushin-no-Boukenshatachi-ga-Sekai-wo-Sukuu-you-desu/episode-1-sub
+Episode Link: https://allanime.site/watch/CCDiavJccHcMWEp8L/Megatonkyuu-Musashi-Season-2/episode-10-sub
  
 # Analytics
 
