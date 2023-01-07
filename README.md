@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ningen Fushin no Boukenshatachi ga Sekai wo Sukuu you desu episode 1 sub
+Episode Name: Inu ni Nattara Suki na Hito ni Hirowareta episode 1 sub
 
-Episode Link: https://allanime.site/watch/8oKbcBTptm5WvEBBJ/Ningen-Fushin-no-Boukenshatachi-ga-Sekai-wo-Sukuu-you-desu/episode-1-sub
+Episode Link: https://allanime.site/watch/EH8AvAtoS42vNzuQP/Inu-ni-Nattara-Suki-na-Hito-ni-Hirowareta/episode-1-sub
  
 # Analytics
 
