@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai Nonbiri Nouka episode 1 sub
+Episode Name: Technoroid Overmind episode 1 sub
 
-Episode Link: https://allanime.site/watch/f2GDdpYPTGXSxT56Z/Isekai-Nonbiri-Nouka/episode-1-sub
+Episode Link: https://allanime.site/watch/RXxqQbvYzeTTEjdjD/Technoroid-Overmind/episode-1-sub
  
 # Analytics
 
