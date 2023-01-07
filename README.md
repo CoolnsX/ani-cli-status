@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sugar Apple Fairy Tale episode 1 sub
+Episode Name: Technoroid Overmind episode 1 sub
 
-Episode Link: https://allanime.site/watch/H4eRswTRg6hdzKcJT/Sugar-Apple-Fairy-Tale/episode-1-sub
+Episode Link: https://allanime.site/watch/RXxqQbvYzeTTEjdjD/Technoroid-Overmind/episode-1-sub
  
 # Analytics
 
