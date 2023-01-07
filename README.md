@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV Fuka Shou Yakusaihen episode 1 sub
+Episode Name: Sugar Apple Fairy Tale episode 1 sub
 
-Episode Link: https://allanime.site/watch/GPGmNh83WhsBPLCmE/Dungeon-ni-Deai-wo-Motomeru-no-wa-Machigatteiru-Darou-ka-IV-Fuka-Shou-Yakusaihen/episode-1-sub
+Episode Link: https://allanime.site/watch/H4eRswTRg6hdzKcJT/Sugar-Apple-Fairy-Tale/episode-1-sub
  
 # Analytics
 
