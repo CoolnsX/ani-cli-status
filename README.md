@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nijiyon Animation episode 1 sub
+Episode Name: Inu ni Nattara Suki na Hito ni Hirowareta episode 1 sub
 
-Episode Link: https://allanime.site/watch/QfPWfzTRhKDzQPBL8/Nijiyon-Animation/episode-1-sub
+Episode Link: https://allanime.site/watch/EH8AvAtoS42vNzuQP/Inu-ni-Nattara-Suki-na-Hito-ni-Hirowareta/episode-1-sub
  
 # Analytics
 
