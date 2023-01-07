@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Wansakun episode 5 sub
+Episode Name: Aru Asa Dummy Head Mic ni Natteita Orekun no Jinsei episode 12 sub
 
-Episode Link: https://allanime.site/watch/PNiDKWiWGbsZPcwYN/Wansakun/episode-5-sub
+Episode Link: https://allanime.site/watch/9TjxgCfmGePiFJqLz/Aru-Asa-Dummy-Head-Mic-ni-Natteita-Orekun-no-Jinsei/episode-12-sub
  
 # Analytics
 
