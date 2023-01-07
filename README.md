@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV Fuka Shou Yakusaihen episode 1 sub
+Episode Name: Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endoukun to Kaisetsu no Kobayashisan episode 1 sub
 
-Episode Link: https://allanime.site/watch/GPGmNh83WhsBPLCmE/Dungeon-ni-Deai-wo-Motomeru-no-wa-Machigatteiru-Darou-ka-IV-Fuka-Shou-Yakusaihen/episode-1-sub
+Episode Link: https://allanime.site/watch/pS3NpAkFkXLmn65La/Tsundere-Akuyaku-Reijou-Liselotte-to-Jikkyou-no-Endoukun-to-Kaisetsu-no-Kobayashisan/episode-1-sub
  
 # Analytics
 
