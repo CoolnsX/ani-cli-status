@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sekai no Owari ni Shiba Inu to episode 63 sub
+Episode Name: Full Metal Panic Movie 3 Into the Blue episode 1 sub
 
-Episode Link: https://allanime.site/watch/epSt4CA4cA77ZqLG2/Sekai-no-Owari-ni-Shiba-Inu-to/episode-63-sub
+Episode Link: https://allanime.site/watch/ndJvLkmfxRRdMiDHG/Full-Metal-Panic-Movie-3-Into-the-Blue/episode-1-sub
  
 # Analytics
 
