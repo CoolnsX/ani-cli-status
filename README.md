@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV episode 1077 sub
+Episode Name: Rougo ni Sonaete Isekai de 8manmai no Kinka wo Tamemasu episode 1 sub
 
-Episode Link: https://allanime.site/watch/taSxDp8w4JTADN9hJ/Detective-Conan-TV/episode-1077-sub
+Episode Link: https://allanime.site/watch/8HNaxZuQ5eZuc3BWh/Rougo-ni-Sonaete-Isekai-de-8manmai-no-Kinka-wo-Tamemasu/episode-1-sub
  
 # Analytics
 
