@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boruto Naruto Next Generations episode 282 sub
+Episode Name: Cool Doji Danshi episode 13 sub
 
-Episode Link: https://allanime.site/watch/vkD8H5e7HsG2jctw9/Boruto-Naruto-Next-Generations/episode-282-sub
+Episode Link: https://allanime.site/watch/KYpzGNKSK3xZ24t5v/Cool-Doji-Danshi/episode-13-sub
  
 # Analytics
 
