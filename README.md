@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kidou Senshi Gundam Suisei no Majo episode 13 sub
+Episode Name: One Piece episode 1046 sub
 
-Episode Link: https://allanime.site/watch/sccqdpuks2kncorW2/Kidou-Senshi-Gundam-Suisei-no-Majo/episode-13-sub
+Episode Link: https://allanime.site/watch/ReooPAxPMsHM4KPMY/One-Piece/episode-1046-sub
  
 # Analytics
 
