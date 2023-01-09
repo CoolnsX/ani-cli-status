@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kinnikuman episode 110 sub
+Episode Name: Issho ni Sleeping Sleeping with Hinako episode 1 sub
 
-Episode Link: https://allanime.site/watch/pNi8AYhvc7Tp5JayR/Kinnikuman/episode-110-sub
+Episode Link: https://allanime.site/watch/wCwmrY2xtrfFh3Ed8/Issho-ni-Sleeping-Sleeping-with-Hinako/episode-1-sub
  
 # Analytics
 
