@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boku no Hero Academia Season 6 episode 14 sub
+Episode Name: Full Metal Panic Movie 2 One Night Stand episode 1 sub
 
-Episode Link: https://allanime.site/watch/Yr7ha4n76ofd7BeSX/Boku-no-Hero-Academia-Season-6/episode-14-sub
+Episode Link: https://allanime.site/watch/RFADKKmGK4T5C9zBF/Full-Metal-Panic-Movie-2-One-Night-Stand/episode-1-sub
  
 # Analytics
 
