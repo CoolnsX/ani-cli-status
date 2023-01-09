@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Trigun Stampede episode 1 sub
+Episode Name: Kidou Senshi Gundam Suisei no Majo episode 13 sub
 
-Episode Link: https://allanime.site/watch/hKcF5yQeMuDtjfNTg/Trigun-Stampede/episode-1-sub
+Episode Link: https://allanime.site/watch/sccqdpuks2kncorW2/Kidou-Senshi-Gundam-Suisei-no-Majo/episode-13-sub
  
 # Analytics
 
