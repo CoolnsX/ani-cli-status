@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ijiranaide Nagatorosan 2nd Attack episode 1 sub
+Episode Name: Full Metal Panic Movie 2 One Night Stand episode 1 sub
 
-Episode Link: https://allanime.site/watch/DA4gs9xnpgLC7AgDa/Ijiranaide-Nagatorosan-2nd-Attack/episode-1-sub
+Episode Link: https://allanime.site/watch/RFADKKmGK4T5C9zBF/Full-Metal-Panic-Movie-2-One-Night-Stand/episode-1-sub
  
 # Analytics
 
