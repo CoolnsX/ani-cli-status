@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tokyo Revengers Seiya Kessenhen episode 1 sub
+Episode Name: Boruto Naruto Next Generations episode 282 sub
 
-Episode Link: https://allanime.site/watch/mTmLEjh9Rqj6s8kAy/Tokyo-Revengers-Seiya-Kessenhen/episode-1-sub
+Episode Link: https://allanime.site/watch/vkD8H5e7HsG2jctw9/Boruto-Naruto-Next-Generations/episode-282-sub
  
 # Analytics
 
