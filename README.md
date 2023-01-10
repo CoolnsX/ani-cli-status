@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Issho ni Sleeping Sleeping with Hinako episode 1 sub
+Episode Name: Otonari no Tenshisama ni Itsunomanika Dame Ningen ni Sareteita Ken episode 1 sub
 
-Episode Link: https://allanime.site/watch/wCwmrY2xtrfFh3Ed8/Issho-ni-Sleeping-Sleeping-with-Hinako/episode-1-sub
+Episode Link: https://allanime.site/watch/gHQe2eBBh57QdC9hZ/Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken/episode-1-sub
  
 # Analytics
 
