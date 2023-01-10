@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Fumetsu no Anata e Season 2 episode 11 sub
+Episode Name: Benriya Saitousan Isekai ni Iku episode 1 sub
 
-Episode Link: https://allanime.site/watch/3MEC3wnrTYabhQeC3/Fumetsu-no-Anata-e-Season-2/episode-11-sub
+Episode Link: https://allanime.site/watch/tHj6qohGA7CkrXizm/Benriya-Saitousan-Isekai-ni-Iku/episode-1-sub
  
 # Analytics
 
