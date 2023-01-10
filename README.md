@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yowamushi Pedal Limit Break episode 11 sub
+Episode Name: Blue Lock episode 13 sub
 
-Episode Link: https://allanime.site/watch/Lbax2qc6Taj2NHmbZ/Yowamushi-Pedal-Limit-Break/episode-11-sub
+Episode Link: https://allanime.site/watch/Jn9L757r53Chiata9/Blue-Lock/episode-13-sub
  
 # Analytics
 
