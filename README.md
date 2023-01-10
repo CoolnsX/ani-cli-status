@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rougo ni Sonaete Isekai de 8manmai no Kinka wo Tamemasu episode 1 sub
+Episode Name: Kyuuketsuki Sugu Shinu 2 episode 1 sub
 
-Episode Link: https://allanime.site/watch/8HNaxZuQ5eZuc3BWh/Rougo-ni-Sonaete-Isekai-de-8manmai-no-Kinka-wo-Tamemasu/episode-1-sub
+Episode Link: https://allanime.site/watch/i7a93GP2ZjqCdfh6i/Kyuuketsuki-Sugu-Shinu-2/episode-1-sub
  
 # Analytics
 
