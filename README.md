@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Issho ni Training Training with Hinako episode 1 sub
+Episode Name: Nokemonotachi no Yoru episode 1 sub
 
-Episode Link: https://allanime.site/watch/52FXewRvZhxHZCrpR/Issho-ni-Training-Training-with-Hinako/episode-1-sub
+Episode Link: https://allanime.site/watch/wT7zFKYysvfHutgKz/Nokemonotachi-no-Yoru/episode-1-sub
  
 # Analytics
 
