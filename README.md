@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: One Piece episode 1046 sub
+Episode Name: Toutotsu ni Egypt Shin 2 episode 1 sub
 
-Episode Link: https://allanime.site/watch/ReooPAxPMsHM4KPMY/One-Piece/episode-1046-sub
+Episode Link: https://allanime.site/watch/6AJ6LBb5hveDPGf7J/Toutotsu-ni-Egypt-Shin-2/episode-1-sub
  
 # Analytics
 
