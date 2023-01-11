@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tondemo Skill de Isekai Hourou Meshi episode 1 sub
+Episode Name: One Piece episode 1046 sub
 
-Episode Link: https://allanime.site/watch/jyYQojecWayF54B6X/Tondemo-Skill-de-Isekai-Hourou-Meshi/episode-1-sub
+Episode Link: https://allanime.site/watch/ReooPAxPMsHM4KPMY/One-Piece/episode-1046-sub
  
 # Analytics
 
