@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kamitachi ni Hirowareta Otoko 2 episode 1 sub
+Episode Name: Tondemo Skill de Isekai Hourou Meshi episode 1 sub
 
-Episode Link: https://allanime.site/watch/eG5HmbQoTpEwyoCLy/Kamitachi-ni-Hirowareta-Otoko-2/episode-1-sub
+Episode Link: https://allanime.site/watch/jyYQojecWayF54B6X/Tondemo-Skill-de-Isekai-Hourou-Meshi/episode-1-sub
  
 # Analytics
 
