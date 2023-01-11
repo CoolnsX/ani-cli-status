@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mononogatari episode 1 sub
+Episode Name: Ijiranaide Nagatorosan 2nd Attack episode 2 sub
 
-Episode Link: https://allanime.site/watch/oSHKD2ZMyEpMXYTX5/Mononogatari/episode-1-sub
+Episode Link: https://allanime.site/watch/DA4gs9xnpgLC7AgDa/Ijiranaide-Nagatorosan-2nd-Attack/episode-2-sub
  
 # Analytics
 
