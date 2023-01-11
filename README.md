@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: D4DJ All Mix episode 1 sub
+Episode Name: Bungou Stray Dogs Season 4 episode 2 sub
 
-Episode Link: https://allanime.site/watch/CWv4JxD5KqsgvoLES/D4DJ-All-Mix/episode-1-sub
+Episode Link: https://allanime.site/watch/ngqMserTge69YDZoa/Bungou-Stray-Dogs-Season-4/episode-2-sub
  
 # Analytics
 
