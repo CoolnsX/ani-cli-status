@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kyuuketsuki Sugu Shinu 2 episode 1 sub
+Episode Name: Mononogatari episode 1 sub
 
-Episode Link: https://allanime.site/watch/i7a93GP2ZjqCdfh6i/Kyuuketsuki-Sugu-Shinu-2/episode-1-sub
+Episode Link: https://allanime.site/watch/oSHKD2ZMyEpMXYTX5/Mononogatari/episode-1-sub
  
 # Analytics
 
