@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cool Doji Danshi episode 13 sub
+Episode Name: High Card episode 1 sub
 
-Episode Link: https://allanime.site/watch/KYpzGNKSK3xZ24t5v/Cool-Doji-Danshi/episode-13-sub
+Episode Link: https://allanime.site/watch/33bCBNg5ecC4E4hy4/High-Card/episode-1-sub
  
 # Analytics
 
