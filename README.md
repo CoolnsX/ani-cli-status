@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cool Doji Danshi episode 13 sub
+Episode Name: TECHNOROID OVERMIND episode 2 sub
 
-Episode Link: https://allanime.site/watch/KYpzGNKSK3xZ24t5v/Cool-Doji-Danshi/episode-13-sub
+Episode Link: https://allanime.site/watch/RXxqQbvYzeTTEjdjD/TECHNOROID-OVERMIND/episode-2-sub
  
 # Analytics
 
