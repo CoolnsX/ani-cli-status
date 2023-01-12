@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Digimon Ghost Game episode 58 sub
+Episode Name: D4DJ All Mix episode 1 sub
 
-Episode Link: https://allanime.site/watch/mg5JRppYBTsbYvBwj/Digimon-Ghost-Game/episode-58-sub
+Episode Link: https://allanime.site/watch/CWv4JxD5KqsgvoLES/D4DJ-All-Mix/episode-1-sub
  
 # Analytics
 
