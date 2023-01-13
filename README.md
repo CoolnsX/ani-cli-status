@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ooyukiumi no Kaina episode 1 sub
+Episode Name: Tsurune Tsunagari no Issha episode 2 sub
 
-Episode Link: https://allanime.site/watch/kTXMP2k6GgDw35RZz/Ooyukiumi-no-Kaina/episode-1-sub
+Episode Link: https://allanime.site/watch/9jvX92kHuSKMKbZZr/Tsurune-Tsunagari-no-Issha/episode-2-sub
  
 # Analytics
 
