@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kyokou Suiri Mini Anime episode 18 sub
+Episode Name: Hyouken no Majutsushi ga Sekai wo Suberu episode 2 sub
 
-Episode Link: https://allanime.site/watch/DvRnDXW6mgNpT4Q8K/Kyokou-Suiri-Mini-Anime/episode-18-sub
+Episode Link: https://allanime.site/watch/8veroiWeqhvPLrBnS/Hyouken-no-Majutsushi-ga-Sekai-wo-Suberu/episode-2-sub
  
 # Analytics
 
