@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Araiguma Rascal episode 28 sub
+Episode Name: D4DJ All Mix episode 1 sub
 
-Episode Link: https://allanime.site/watch/2BfL69oW9fbiRJwgC/Araiguma-Rascal/episode-28-sub
+Episode Link: https://allanime.site/watch/CWv4JxD5KqsgvoLES/D4DJ-All-Mix/episode-1-sub
  
 # Analytics
 
