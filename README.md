@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hyouken no Majutsushi ga Sekai wo Suberu episode 2 sub
+Episode Name: Yu☆Gi☆Oh Go Rush episode 40 sub
 
-Episode Link: https://allanime.site/watch/8veroiWeqhvPLrBnS/Hyouken-no-Majutsushi-ga-Sekai-wo-Suberu/episode-2-sub
+Episode Link: https://allanime.site/watch/C6DdMx7nogeqT3uco/Yu☆Gi☆Oh-Go-Rush/episode-40-sub
  
 # Analytics
 
