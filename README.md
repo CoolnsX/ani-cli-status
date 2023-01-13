@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush episode 40 sub
+Episode Name: Araiguma Rascal episode 28 sub
 
-Episode Link: https://allanime.site/watch/C6DdMx7nogeqT3uco/Yu☆Gi☆Oh-Go-Rush/episode-40-sub
+Episode Link: https://allanime.site/watch/2BfL69oW9fbiRJwgC/Araiguma-Rascal/episode-28-sub
  
 # Analytics
 
