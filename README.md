@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Urusei Yatsura 2022 episode 13 sub
+Episode Name: Initial D Battle Stage 2 episode 1 sub
 
-Episode Link: https://allanime.site/watch/yHypNJMuHdjaA5SDk/Urusei-Yatsura-2022/episode-13-sub
+Episode Link: https://allanime.site/watch/Hk9jW2pCg5WW7poLZ/Initial-D-Battle-Stage-2/episode-1-sub
  
 # Analytics
 
