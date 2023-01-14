@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Legend of Heroes Sen no Kiseki Northern War episode 2 sub
+Episode Name: Revenger episode 2 sub
 
-Episode Link: https://allanime.site/watch/AwQnmMPSpo8KNSDAs/The-Legend-of-Heroes-Sen-no-Kiseki-Northern-War/episode-2-sub
+Episode Link: https://allanime.site/watch/XyQzjqX8H8S2fJvL9/Revenger/episode-2-sub
  
 # Analytics
 
