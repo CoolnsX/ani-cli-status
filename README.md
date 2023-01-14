@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame episode 40 sub
+Episode Name: Urusei Yatsura 2022 episode 13 sub
 
-Episode Link: https://allanime.site/watch/QJYZNwWCYS7g5BLmj/Shadowverse-Flame/episode-40-sub
+Episode Link: https://allanime.site/watch/yHypNJMuHdjaA5SDk/Urusei-Yatsura-2022/episode-13-sub
  
 # Analytics
 
