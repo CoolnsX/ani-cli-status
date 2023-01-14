@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala episode 52 sub
+Episode Name: Dr Slump Aralechan episode 131 sub
 
-Episode Link: https://allanime.site/watch/L32rWRjwz57uxfjbB/Ninjala/episode-52-sub
+Episode Link: https://allanime.site/watch/PGqQKyyef49RWDzsc/Dr-Slump-Aralechan/episode-131-sub
  
 # Analytics
 
