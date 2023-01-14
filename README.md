@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Spy Kyoushitsu episode 2 sub
+Episode Name: Urusei Yatsura 2022 episode 13 sub
 
-Episode Link: https://allanime.site/watch/4YrAiPvTvjMJc66oG/Spy-Kyoushitsu/episode-2-sub
+Episode Link: https://allanime.site/watch/yHypNJMuHdjaA5SDk/Urusei-Yatsura-2022/episode-13-sub
  
 # Analytics
 
