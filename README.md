@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: TECHNOROID OVERMIND episode 2 sub
+Episode Name: Spy Kyoushitsu episode 2 sub
 
-Episode Link: https://allanime.site/watch/RXxqQbvYzeTTEjdjD/TECHNOROID-OVERMIND/episode-2-sub
+Episode Link: https://allanime.site/watch/4YrAiPvTvjMJc66oG/Spy-Kyoushitsu/episode-2-sub
  
 # Analytics
 
