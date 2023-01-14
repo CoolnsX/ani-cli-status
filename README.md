@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Oniichan wa Oshimai episode 2 sub
+Episode Name: Yoru wa Neko to Issho episode 30 sub
 
-Episode Link: https://allanime.site/watch/PgZWjdRff4iJWx6b7/Oniichan-wa-Oshimai/episode-2-sub
+Episode Link: https://allanime.site/watch/CLGcBBMdCnokNjish/Yoru-wa-Neko-to-Issho/episode-30-sub
  
 # Analytics
 
