@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sekai no Owari ni Shiba Inu to episode 65 sub
+Episode Name: Tomochan wa Onnanoko episode 2 sub
 
-Episode Link: https://allanime.site/watch/epSt4CA4cA77ZqLG2/Sekai-no-Owari-ni-Shiba-Inu-to/episode-65-sub
+Episode Link: https://allanime.site/watch/3QCFtixZM7P628ANS/Tomochan-wa-Onnanoko/episode-2-sub
  
 # Analytics
 
