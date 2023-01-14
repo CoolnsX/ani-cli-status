@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Urusei Yatsura 2022 episode 13 sub
+Episode Name: Ninjala episode 52 sub
 
-Episode Link: https://allanime.site/watch/yHypNJMuHdjaA5SDk/Urusei-Yatsura-2022/episode-13-sub
+Episode Link: https://allanime.site/watch/L32rWRjwz57uxfjbB/Ninjala/episode-52-sub
  
 # Analytics
 
