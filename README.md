@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Trigun Stampede episode 2 sub
+Episode Name: Initial D Battle Stage 2 episode 1 sub
 
-Episode Link: https://allanime.site/watch/hKcF5yQeMuDtjfNTg/Trigun-Stampede/episode-2-sub
+Episode Link: https://allanime.site/watch/Hk9jW2pCg5WW7poLZ/Initial-D-Battle-Stage-2/episode-1-sub
  
 # Analytics
 
