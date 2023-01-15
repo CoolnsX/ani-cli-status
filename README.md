@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame episode 40 sub
+Episode Name: Detective Conan TV episode 1078 sub
 
-Episode Link: https://allanime.site/watch/QJYZNwWCYS7g5BLmj/Shadowverse-Flame/episode-40-sub
+Episode Link: https://allanime.site/watch/taSxDp8w4JTADN9hJ/Detective-Conan-TV/episode-1078-sub
  
 # Analytics
 
