@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Aralechan episode 131 sub
+Episode Name: Trigun Stampede episode 2 sub
 
-Episode Link: https://allanime.site/watch/PGqQKyyef49RWDzsc/Dr-Slump-Aralechan/episode-131-sub
+Episode Link: https://allanime.site/watch/hKcF5yQeMuDtjfNTg/Trigun-Stampede/episode-2-sub
  
 # Analytics
 
