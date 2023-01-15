@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shisontachi no Gakkou e Kayou II episode 2 sub
+Episode Name: Saikyou Onmyouji no Isekai Tenseiki episode 2 sub
 
-Episode Link: https://allanime.site/watch/zyr6mTjBhJAeJBc9m/Maou-Gakuin-no-Futekigousha-Shijou-Saikyou-no-Maou-no-Shiso-Tensei-shite-Shisontachi-no-Gakkou-e-Kayou-II/episode-2-sub
+Episode Link: https://allanime.site/watch/pJGRqiy3gj9PA6KXY/Saikyou-Onmyouji-no-Isekai-Tenseiki/episode-2-sub
  
 # Analytics
 
