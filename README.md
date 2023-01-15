@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Otonari no Tenshisama ni Itsunomanika Dame Ningen ni Sareteita Ken episode 2 sub
+Episode Name: Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endoukun to Kaisetsu no Kobayashisan episode 2 sub
 
-Episode Link: https://allanime.site/watch/gHQe2eBBh57QdC9hZ/Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken/episode-2-sub
+Episode Link: https://allanime.site/watch/pS3NpAkFkXLmn65La/Tsundere-Akuyaku-Reijou-Liselotte-to-Jikkyou-no-Endoukun-to-Kaisetsu-no-Kobayashisan/episode-2-sub
  
 # Analytics
 
