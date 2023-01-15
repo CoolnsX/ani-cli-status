@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV episode 1078 sub
+Episode Name: Spy Kyoushitsu episode 2 sub
 
-Episode Link: https://allanime.site/watch/taSxDp8w4JTADN9hJ/Detective-Conan-TV/episode-1078-sub
+Episode Link: https://allanime.site/watch/4YrAiPvTvjMJc66oG/Spy-Kyoushitsu/episode-2-sub
  
 # Analytics
 
