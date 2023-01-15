@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Initial D Battle Stage 2 episode 1 sub
+Episode Name: Detective Conan TV episode 1078 sub
 
-Episode Link: https://allanime.site/watch/Hk9jW2pCg5WW7poLZ/Initial-D-Battle-Stage-2/episode-1-sub
+Episode Link: https://allanime.site/watch/taSxDp8w4JTADN9hJ/Detective-Conan-TV/episode-1078-sub
  
 # Analytics
 
