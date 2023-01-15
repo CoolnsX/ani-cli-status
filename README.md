@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Spy Kyoushitsu episode 2 sub
+Episode Name: Dr Slump Aralechan episode 131 sub
 
-Episode Link: https://allanime.site/watch/4YrAiPvTvjMJc66oG/Spy-Kyoushitsu/episode-2-sub
+Episode Link: https://allanime.site/watch/PGqQKyyef49RWDzsc/Dr-Slump-Aralechan/episode-131-sub
  
 # Analytics
 
