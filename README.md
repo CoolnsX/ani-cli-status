@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush episode 41 sub
+Episode Name: Mou Ippon episode 2 sub
 
-Episode Link: https://allanime.site/watch/C6DdMx7nogeqT3uco/Yu☆Gi☆Oh-Go-Rush/episode-41-sub
+Episode Link: https://allanime.site/watch/ALFcvrH98JhPPxZLe/Mou-Ippon/episode-2-sub
  
 # Analytics
 
