@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mou Ippon episode 2 sub
+Episode Name: Shin Shinka no Mi Shiranai Uchi ni Kachigumi Jinsei episode 1 sub
 
-Episode Link: https://allanime.site/watch/ALFcvrH98JhPPxZLe/Mou-Ippon/episode-2-sub
+Episode Link: https://allanime.site/watch/pBWpXMsB9xnjK24yk/Shin-Shinka-no-Mi-Shiranai-Uchi-ni-Kachigumi-Jinsei/episode-1-sub
  
 # Analytics
 
