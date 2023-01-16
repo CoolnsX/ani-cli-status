@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cardfight Vanguard willDress Season 2 episode 1 sub
+Episode Name: Trigun Stampede episode 2 sub
 
-Episode Link: https://allanime.site/watch/LxBHAAaGE2oTSRkfp/Cardfight-Vanguard-willDress-Season-2/episode-1-sub
+Episode Link: https://allanime.site/watch/hKcF5yQeMuDtjfNTg/Trigun-Stampede/episode-2-sub
  
 # Analytics
 
