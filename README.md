@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boruto Naruto Next Generations episode 283 sub
+Episode Name: Cardfight Vanguard willDress Season 2 episode 1 sub
 
-Episode Link: https://allanime.site/watch/vkD8H5e7HsG2jctw9/Boruto-Naruto-Next-Generations/episode-283-sub
+Episode Link: https://allanime.site/watch/LxBHAAaGE2oTSRkfp/Cardfight-Vanguard-willDress-Season-2/episode-1-sub
  
 # Analytics
 
