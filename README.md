@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ijiranaide Nagatorosan 2nd Attack episode 3 sub
+Episode Name: Fumetsu no Anata e Season 2 episode 12 sub
 
-Episode Link: https://allanime.site/watch/DA4gs9xnpgLC7AgDa/Ijiranaide-Nagatorosan-2nd-Attack/episode-3-sub
+Episode Link: https://allanime.site/watch/3MEC3wnrTYabhQeC3/Fumetsu-no-Anata-e-Season-2/episode-12-sub
  
 # Analytics
 
