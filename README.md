@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Fumetsu no Anata e Season 2 episode 12 sub
+Episode Name: Kamitachi ni Hirowareta Otoko 2 episode 2 sub
 
-Episode Link: https://allanime.site/watch/3MEC3wnrTYabhQeC3/Fumetsu-no-Anata-e-Season-2/episode-12-sub
+Episode Link: https://allanime.site/watch/eG5HmbQoTpEwyoCLy/Kamitachi-ni-Hirowareta-Otoko-2/episode-2-sub
  
 # Analytics
 
