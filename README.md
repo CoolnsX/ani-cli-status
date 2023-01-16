@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Blue Lock episode 14 sub
+Episode Name: Tokyo Revengers Seiya Kessenhen episode 2 sub
 
-Episode Link: https://allanime.site/watch/Jn9L757r53Chiata9/Blue-Lock/episode-14-sub
+Episode Link: https://allanime.site/watch/mTmLEjh9Rqj6s8kAy/Tokyo-Revengers-Seiya-Kessenhen/episode-2-sub
  
 # Analytics
 
