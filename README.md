@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shisontachi no Gakkou e Kayou II episode 2 sub
+Episode Name: Yu☆Gi☆Oh Go Rush episode 41 sub
 
-Episode Link: https://allanime.site/watch/zyr6mTjBhJAeJBc9m/Maou-Gakuin-no-Futekigousha-Shijou-Saikyou-no-Maou-no-Shiso-Tensei-shite-Shisontachi-no-Gakkou-e-Kayou-II/episode-2-sub
+Episode Link: https://allanime.site/watch/C6DdMx7nogeqT3uco/Yu☆Gi☆Oh-Go-Rush/episode-41-sub
  
 # Analytics
 
