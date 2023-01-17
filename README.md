@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Toutotsu ni Egypt Shin 2 episode 2 sub
+Episode Name: Blue Lock episode 14 sub
 
-Episode Link: https://allanime.site/watch/6AJ6LBb5hveDPGf7J/Toutotsu-ni-Egypt-Shin-2/episode-2-sub
+Episode Link: https://allanime.site/watch/Jn9L757r53Chiata9/Blue-Lock/episode-14-sub
  
 # Analytics
 
