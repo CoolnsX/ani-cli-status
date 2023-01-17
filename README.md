@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Delicious Party♡Precure episode 43 sub
+Episode Name: Digimon Ghost Game episode 59 sub
 
-Episode Link: https://allanime.site/watch/wtQmcxqFn8rsDnFPW/Delicious-Party♡Precure/episode-43-sub
+Episode Link: https://allanime.site/watch/mg5JRppYBTsbYvBwj/Digimon-Ghost-Game/episode-59-sub
  
 # Analytics
 
