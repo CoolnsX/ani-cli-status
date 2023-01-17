@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hikari no Ou episode 1 sub
+Episode Name: Vinland Saga Season 2 episode 2 sub
 
-Episode Link: https://allanime.site/watch/rjx39fbf9qNciPL6H/Hikari-no-Ou/episode-1-sub
+Episode Link: https://allanime.site/watch/DYeWXwS86ByDEfgWX/Vinland-Saga-Season-2/episode-2-sub
  
 # Analytics
 
