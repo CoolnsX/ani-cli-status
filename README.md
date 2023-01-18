@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Oujo to Tensai Reijou no Mahou Kakumei episode 3 sub
+Episode Name: Kubosan wa Mob wo Yurusanai episode 2 sub
 
-Episode Link: https://allanime.site/watch/Z6PNbEn378pmGhMAQ/Tensei-Oujo-to-Tensai-Reijou-no-Mahou-Kakumei/episode-3-sub
+Episode Link: https://allanime.site/watch/h6voZ9jYKnku7GKA3/Kubosan-wa-Mob-wo-Yurusanai/episode-2-sub
  
 # Analytics
 
