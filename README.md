@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hikari no Ou episode 1 sub
+Episode Name: Boruto Naruto Next Generations episode 283 sub
 
-Episode Link: https://allanime.site/watch/rjx39fbf9qNciPL6H/Hikari-no-Ou/episode-1-sub
+Episode Link: https://allanime.site/watch/vkD8H5e7HsG2jctw9/Boruto-Naruto-Next-Generations/episode-283-sub
  
 # Analytics
 
