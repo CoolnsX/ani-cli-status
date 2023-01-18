@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Digimon Ghost Game episode 59 sub
+Episode Name: Bungou Stray Dogs Season 4 episode 3 sub
 
-Episode Link: https://allanime.site/watch/mg5JRppYBTsbYvBwj/Digimon-Ghost-Game/episode-59-sub
+Episode Link: https://allanime.site/watch/ngqMserTge69YDZoa/Bungou-Stray-Dogs-Season-4/episode-3-sub
  
 # Analytics
 
