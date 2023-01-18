@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Majutsushi Orphen Hagure Tabi Urbanramahen episode 1 sub
+Episode Name: Digimon Ghost Game episode 59 sub
 
-Episode Link: https://allanime.site/watch/NZsLJGnzxwoPSAbya/Majutsushi-Orphen-Hagure-Tabi-Urbanramahen/episode-1-sub
+Episode Link: https://allanime.site/watch/mg5JRppYBTsbYvBwj/Digimon-Ghost-Game/episode-59-sub
  
 # Analytics
 
