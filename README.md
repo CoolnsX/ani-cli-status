@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mononogatari episode 2 sub
+Episode Name: Kamitachi ni Hirowareta Otoko 2 episode 2 sub
 
-Episode Link: https://allanime.site/watch/oSHKD2ZMyEpMXYTX5/Mononogatari/episode-2-sub
+Episode Link: https://allanime.site/watch/eG5HmbQoTpEwyoCLy/Kamitachi-ni-Hirowareta-Otoko-2/episode-2-sub
  
 # Analytics
 
