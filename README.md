@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kyokou Suiri 2 episode 2 sub
+Episode Name: Delicious Party♡Precure episode 43 sub
 
-Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-2-sub
+Episode Link: https://allanime.site/watch/wtQmcxqFn8rsDnFPW/Delicious-Party♡Precure/episode-43-sub
  
 # Analytics
 
