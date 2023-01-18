@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boruto Naruto Next Generations episode 283 sub
+Episode Name: Ayakashi Triangle episode 2 sub
 
-Episode Link: https://allanime.site/watch/vkD8H5e7HsG2jctw9/Boruto-Naruto-Next-Generations/episode-283-sub
+Episode Link: https://allanime.site/watch/MAKvrdu5Qxfdqm2fz/Ayakashi-Triangle/episode-2-sub
  
 # Analytics
 
