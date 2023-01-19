@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ningen Fushin no Boukenshatachi ga Sekai wo Sukuu you desu episode 3 sub
+Episode Name: Boku to Roboko episode 5 sub
 
-Episode Link: https://allanime.site/watch/8oKbcBTptm5WvEBBJ/Ningen-Fushin-no-Boukenshatachi-ga-Sekai-wo-Sukuu-you-desu/episode-3-sub
+Episode Link: https://allanime.site/watch/2jortz9G5aor2A5F7/Boku-to-Roboko/episode-5-sub
  
 # Analytics
 
