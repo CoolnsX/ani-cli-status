@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kyuuketsuki Sugu Shinu 2 episode 2 sub
+Episode Name: Bungou Stray Dogs Season 4 episode 3 sub
 
-Episode Link: https://allanime.site/watch/i7a93GP2ZjqCdfh6i/Kyuuketsuki-Sugu-Shinu-2/episode-2-sub
+Episode Link: https://allanime.site/watch/ngqMserTge69YDZoa/Bungou-Stray-Dogs-Season-4/episode-3-sub
  
 # Analytics
 
