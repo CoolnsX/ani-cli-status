@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boku to Roboko episode 5 sub
+Episode Name: Ooyukiumi no Kaina episode 2 sub
 
-Episode Link: https://allanime.site/watch/2jortz9G5aor2A5F7/Boku-to-Roboko/episode-5-sub
+Episode Link: https://allanime.site/watch/kTXMP2k6GgDw35RZz/Ooyukiumi-no-Kaina/episode-2-sub
  
 # Analytics
 
