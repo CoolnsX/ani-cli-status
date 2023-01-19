@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kubosan wa Mob wo Yurusanai episode 2 sub
+Episode Name: Tomochan wa Onnanoko episode 3 sub
 
-Episode Link: https://allanime.site/watch/h6voZ9jYKnku7GKA3/Kubosan-wa-Mob-wo-Yurusanai/episode-2-sub
+Episode Link: https://allanime.site/watch/3QCFtixZM7P628ANS/Tomochan-wa-Onnanoko/episode-3-sub
  
 # Analytics
 
