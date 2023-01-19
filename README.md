@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tomochan wa Onnanoko episode 3 sub
+Episode Name: Nokemonotachi no Yoru episode 2 sub
 
-Episode Link: https://allanime.site/watch/3QCFtixZM7P628ANS/Tomochan-wa-Onnanoko/episode-3-sub
+Episode Link: https://allanime.site/watch/wT7zFKYysvfHutgKz/Nokemonotachi-no-Yoru/episode-2-sub
  
 # Analytics
 
