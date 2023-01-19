@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cool Doji Danshi episode 14 sub
+Episode Name: Ningen Fushin no Boukenshatachi ga Sekai wo Sukuu you desu episode 3 sub
 
-Episode Link: https://allanime.site/watch/KYpzGNKSK3xZ24t5v/Cool-Doji-Danshi/episode-14-sub
+Episode Link: https://allanime.site/watch/8oKbcBTptm5WvEBBJ/Ningen-Fushin-no-Boukenshatachi-ga-Sekai-wo-Sukuu-you-desu/episode-3-sub
  
 # Analytics
 
