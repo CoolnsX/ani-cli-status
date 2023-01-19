@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Majutsushi Orphen Hagure Tabi Urbanramahen episode 1 sub
+Episode Name: Sekai no Owari ni Shiba Inu to episode 66 sub
 
-Episode Link: https://allanime.site/watch/NZsLJGnzxwoPSAbya/Majutsushi-Orphen-Hagure-Tabi-Urbanramahen/episode-1-sub
+Episode Link: https://allanime.site/watch/epSt4CA4cA77ZqLG2/Sekai-no-Owari-ni-Shiba-Inu-to/episode-66-sub
  
 # Analytics
 
