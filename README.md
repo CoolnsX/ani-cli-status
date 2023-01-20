@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ooyukiumi no Kaina episode 2 sub
+Episode Name: Kage no Jitsuryokusha ni Naritakute episode 16 sub
 
-Episode Link: https://allanime.site/watch/kTXMP2k6GgDw35RZz/Ooyukiumi-no-Kaina/episode-2-sub
+Episode Link: https://allanime.site/watch/YeWtc8REZAGKPeb6q/Kage-no-Jitsuryokusha-ni-Naritakute/episode-16-sub
  
 # Analytics
 
