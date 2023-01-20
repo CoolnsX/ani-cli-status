@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ooyukiumi no Kaina episode 2 sub
+Episode Name: Urusei Yatsura 2022 episode 14 sub
 
-Episode Link: https://allanime.site/watch/kTXMP2k6GgDw35RZz/Ooyukiumi-no-Kaina/episode-2-sub
+Episode Link: https://allanime.site/watch/yHypNJMuHdjaA5SDk/Urusei-Yatsura-2022/episode-14-sub
  
 # Analytics
 
