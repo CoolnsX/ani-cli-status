@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cap Kakumei Bottleman DX episode 41 sub
+Episode Name: Benriya Saitousan Isekai ni Iku episode 2 sub
 
-Episode Link: https://allanime.site/watch/sZeSpAo8wPQS2wmFg/Cap-Kakumei-Bottleman-DX/episode-41-sub
+Episode Link: https://allanime.site/watch/tHj6qohGA7CkrXizm/Benriya-Saitousan-Isekai-ni-Iku/episode-2-sub
  
 # Analytics
 
