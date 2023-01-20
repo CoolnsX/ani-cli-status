@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: KanColle Itsuka Ano Umi de episode 6 sub
+Episode Name: Mononogatari episode 2 sub
 
-Episode Link: https://allanime.site/watch/vvgtpQoDWs8TGHyyq/KanColle-Itsuka-Ano-Umi-de/episode-6-sub
+Episode Link: https://allanime.site/watch/oSHKD2ZMyEpMXYTX5/Mononogatari/episode-2-sub
  
 # Analytics
 
