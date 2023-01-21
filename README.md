@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame episode 41 sub
+Episode Name: Sugar Apple Fairy Tale episode 3 sub
 
-Episode Link: https://allanime.site/watch/QJYZNwWCYS7g5BLmj/Shadowverse-Flame/episode-41-sub
+Episode Link: https://allanime.site/watch/H4eRswTRg6hdzKcJT/Sugar-Apple-Fairy-Tale/episode-3-sub
  
 # Analytics
 
