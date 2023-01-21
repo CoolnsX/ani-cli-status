@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV Fuka Shou Yakusaihen episode 3 sub
+Episode Name: Cardfight Vanguard willDress Season 2 episode 2 sub
 
-Episode Link: https://allanime.site/watch/GPGmNh83WhsBPLCmE/Dungeon-ni-Deai-wo-Motomeru-no-wa-Machigatteiru-Darou-ka-IV-Fuka-Shou-Yakusaihen/episode-3-sub
+Episode Link: https://allanime.site/watch/LxBHAAaGE2oTSRkfp/Cardfight-Vanguard-willDress-Season-2/episode-2-sub
  
 # Analytics
 
