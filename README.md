@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: UniteUp episode 3 sub
+Episode Name: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV Fuka Shou Yakusaihen episode 3 sub
 
-Episode Link: https://allanime.site/watch/Jfb9xyZHFGybmHkWZ/UniteUp/episode-3-sub
+Episode Link: https://allanime.site/watch/GPGmNh83WhsBPLCmE/Dungeon-ni-Deai-wo-Motomeru-no-wa-Machigatteiru-Darou-ka-IV-Fuka-Shou-Yakusaihen/episode-3-sub
  
 # Analytics
 
