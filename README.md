@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sugar Apple Fairy Tale episode 3 sub
+Episode Name: NieRAutomata Ver11a episode 3 sub
 
-Episode Link: https://allanime.site/watch/H4eRswTRg6hdzKcJT/Sugar-Apple-Fairy-Tale/episode-3-sub
+Episode Link: https://allanime.site/watch/vDLei4TQt8Xins5bh/NieRAutomata-Ver11a/episode-3-sub
  
 # Analytics
 
