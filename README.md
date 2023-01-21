@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kage no Jitsuryokusha ni Naritakute episode 16 sub
+Episode Name: Technoroid Overmind episode 3 sub
 
-Episode Link: https://allanime.site/watch/YeWtc8REZAGKPeb6q/Kage-no-Jitsuryokusha-ni-Naritakute/episode-16-sub
+Episode Link: https://allanime.site/watch/RXxqQbvYzeTTEjdjD/Technoroid-Overmind/episode-3-sub
  
 # Analytics
 
