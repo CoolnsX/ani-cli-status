@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Technoroid Overmind episode 3 sub
+Episode Name: Punirunes episode 15 sub
 
-Episode Link: https://allanime.site/watch/RXxqQbvYzeTTEjdjD/Technoroid-Overmind/episode-3-sub
+Episode Link: https://allanime.site/watch/ANWz4vrrsEC2AX39R/Punirunes/episode-15-sub
  
 # Analytics
 
