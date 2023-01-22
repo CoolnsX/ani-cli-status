@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endoukun to Kaisetsu no Kobayashisan episode 3 sub
+Episode Name: Boruto Naruto Next Generations episode 284 sub
 
-Episode Link: https://allanime.site/watch/pS3NpAkFkXLmn65La/Tsundere-Akuyaku-Reijou-Liselotte-to-Jikkyou-no-Endoukun-to-Kaisetsu-no-Kobayashisan/episode-3-sub
+Episode Link: https://allanime.site/watch/vkD8H5e7HsG2jctw9/Boruto-Naruto-Next-Generations/episode-284-sub
  
 # Analytics
 
