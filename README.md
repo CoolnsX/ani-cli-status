@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame episode 41 sub
+Episode Name: The Legend of Heroes Sen no Kiseki Northern War episode 3 sub
 
-Episode Link: https://allanime.site/watch/QJYZNwWCYS7g5BLmj/Shadowverse-Flame/episode-41-sub
+Episode Link: https://allanime.site/watch/AwQnmMPSpo8KNSDAs/The-Legend-of-Heroes-Sen-no-Kiseki-Northern-War/episode-3-sub
  
 # Analytics
 
