@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boku no Hero Academia Season 6 episode 16 sub
+Episode Name: Shadowverse Flame episode 41 sub
 
-Episode Link: https://allanime.site/watch/Yr7ha4n76ofd7BeSX/Boku-no-Hero-Academia-Season-6/episode-16-sub
+Episode Link: https://allanime.site/watch/QJYZNwWCYS7g5BLmj/Shadowverse-Flame/episode-41-sub
  
 # Analytics
 
