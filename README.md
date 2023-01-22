@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Legend of Heroes Sen no Kiseki Northern War episode 3 sub
+Episode Name: Buddy Daddies episode 3 sub
 
-Episode Link: https://allanime.site/watch/AwQnmMPSpo8KNSDAs/The-Legend-of-Heroes-Sen-no-Kiseki-Northern-War/episode-3-sub
+Episode Link: https://allanime.site/watch/JYFhv7ChppWbvLkBu/Buddy-Daddies/episode-3-sub
  
 # Analytics
 
