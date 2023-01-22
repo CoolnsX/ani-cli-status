@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Urusei Yatsura 2022 episode 14 sub
+Episode Name: Digimon Ghost Game episode 60 sub
 
-Episode Link: https://allanime.site/watch/yHypNJMuHdjaA5SDk/Urusei-Yatsura-2022/episode-14-sub
+Episode Link: https://allanime.site/watch/mg5JRppYBTsbYvBwj/Digimon-Ghost-Game/episode-60-sub
  
 # Analytics
 
