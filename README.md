@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kaiko sareta Ankoku Heishi 30dai no Slow na 2nd Life episode 3 sub
+Episode Name: Yowamushi Pedal Limit Break episode 13 sub
 
-Episode Link: https://allanime.site/watch/G8kAeW6JdpT33cKCs/Kaiko-sareta-Ankoku-Heishi-30dai-no-Slow-na-2nd-Life/episode-3-sub
+Episode Link: https://allanime.site/watch/Lbax2qc6Taj2NHmbZ/Yowamushi-Pedal-Limit-Break/episode-13-sub
  
 # Analytics
 
