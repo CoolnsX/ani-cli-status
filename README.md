@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yowamushi Pedal Limit Break episode 13 sub
+Episode Name: Eiyuuou Bu wo Kiwameru Tame Tenseisu Soshite Sekai Saikyou no Minarai Kishi♀ episode 3 sub
 
-Episode Link: https://allanime.site/watch/Lbax2qc6Taj2NHmbZ/Yowamushi-Pedal-Limit-Break/episode-13-sub
+Episode Link: https://allanime.site/watch/u5yyo9kbg8ML3AJg4/Eiyuuou-Bu-wo-Kiwameru-Tame-Tenseisu-Soshite-Sekai-Saikyou-no-Minarai-Kishi♀/episode-3-sub
  
 # Analytics
 
