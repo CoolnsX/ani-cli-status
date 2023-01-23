@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: UniteUp episode 3 sub
+Episode Name: Kyokou Suiri 2 episode 3 sub
 
-Episode Link: https://allanime.site/watch/Jfb9xyZHFGybmHkWZ/UniteUp/episode-3-sub
+Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-3-sub
  
 # Analytics
 
