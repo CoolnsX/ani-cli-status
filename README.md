@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Koori Zokusei Danshi to Cool na Douryou Joshi episode 4 sub
+Episode Name: Vinland Saga Season 2 episode 3 sub
 
-Episode Link: https://allanime.site/watch/nKstb8KKWgf7JPoMS/Koori-Zokusei-Danshi-to-Cool-na-Douryou-Joshi/episode-4-sub
+Episode Link: https://allanime.site/watch/DYeWXwS86ByDEfgWX/Vinland-Saga-Season-2/episode-3-sub
  
 # Analytics
 
