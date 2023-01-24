@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: High Card episode 3 sub
+Episode Name: Sekai no Owari ni Shiba Inu to episode 68 sub
 
-Episode Link: https://allanime.site/watch/33bCBNg5ecC4E4hy4/High-Card/episode-3-sub
+Episode Link: https://allanime.site/watch/epSt4CA4cA77ZqLG2/Sekai-no-Owari-ni-Shiba-Inu-to/episode-68-sub
  
 # Analytics
 
