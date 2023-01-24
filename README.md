@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boruto Naruto Next Generations episode 284 sub
+Episode Name: UniteUp episode 3 sub
 
-Episode Link: https://allanime.site/watch/vkD8H5e7HsG2jctw9/Boruto-Naruto-Next-Generations/episode-284-sub
+Episode Link: https://allanime.site/watch/Jfb9xyZHFGybmHkWZ/UniteUp/episode-3-sub
  
 # Analytics
 
