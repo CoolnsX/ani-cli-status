@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yowamushi Pedal Limit Break episode 13 sub
+Episode Name: Mononogatari episode 3 sub
 
-Episode Link: https://allanime.site/watch/Lbax2qc6Taj2NHmbZ/Yowamushi-Pedal-Limit-Break/episode-13-sub
+Episode Link: https://allanime.site/watch/oSHKD2ZMyEpMXYTX5/Mononogatari/episode-3-sub
  
 # Analytics
 
