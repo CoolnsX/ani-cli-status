@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kaiko sareta Ankoku Heishi 30dai no Slow na 2nd Life episode 3 sub
+Episode Name: Mou Ippon episode 3 sub
 
-Episode Link: https://allanime.site/watch/G8kAeW6JdpT33cKCs/Kaiko-sareta-Ankoku-Heishi-30dai-no-Slow-na-2nd-Life/episode-3-sub
+Episode Link: https://allanime.site/watch/ALFcvrH98JhPPxZLe/Mou-Ippon/episode-3-sub
  
 # Analytics
 
