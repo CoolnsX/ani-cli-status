@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Blue Lock episode 15 sub
+Episode Name: High Card episode 3 sub
 
-Episode Link: https://allanime.site/watch/Jn9L757r53Chiata9/Blue-Lock/episode-15-sub
+Episode Link: https://allanime.site/watch/33bCBNg5ecC4E4hy4/High-Card/episode-3-sub
  
 # Analytics
 
