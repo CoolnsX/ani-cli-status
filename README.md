@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ayakashi Triangle episode 3 sub
+Episode Name: Koori Zokusei Danshi to Cool na Douryou Joshi episode 4 sub
 
-Episode Link: https://allanime.site/watch/MAKvrdu5Qxfdqm2fz/Ayakashi-Triangle/episode-3-sub
+Episode Link: https://allanime.site/watch/nKstb8KKWgf7JPoMS/Koori-Zokusei-Danshi-to-Cool-na-Douryou-Joshi/episode-4-sub
  
 # Analytics
 
