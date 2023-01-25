@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shisontachi no Gakkou e Kayou II episode 3 sub
+Episode Name: Shouwa Ahozoushi Akanuke Ichiban episode 18 sub
 
-Episode Link: https://allanime.site/watch/zyr6mTjBhJAeJBc9m/Maou-Gakuin-no-Futekigousha-Shijou-Saikyou-no-Maou-no-Shiso-Tensei-shite-Shisontachi-no-Gakkou-e-Kayou-II/episode-3-sub
+Episode Link: https://allanime.site/watch/B9bDPR6r9eEStZCxk/Shouwa-Ahozoushi-Akanuke-Ichiban/episode-18-sub
  
 # Analytics
 
