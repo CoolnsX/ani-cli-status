@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shouwa Ahozoushi Akanuke Ichiban episode 18 sub
+Episode Name: One Piece episode 1048 sub
 
-Episode Link: https://allanime.site/watch/B9bDPR6r9eEStZCxk/Shouwa-Ahozoushi-Akanuke-Ichiban/episode-18-sub
+Episode Link: https://allanime.site/watch/ReooPAxPMsHM4KPMY/One-Piece/episode-1048-sub
  
 # Analytics
 
