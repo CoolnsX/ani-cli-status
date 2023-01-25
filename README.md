@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: High Card episode 3 sub
+Episode Name: Ayakashi Triangle episode 3 sub
 
-Episode Link: https://allanime.site/watch/33bCBNg5ecC4E4hy4/High-Card/episode-3-sub
+Episode Link: https://allanime.site/watch/MAKvrdu5Qxfdqm2fz/Ayakashi-Triangle/episode-3-sub
  
 # Analytics
 
