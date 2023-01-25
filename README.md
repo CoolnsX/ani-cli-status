@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tondemo Skill de Isekai Hourou Meshi episode 3 sub
+Episode Name: Nokemonotachi no Yoru episode 3 sub
 
-Episode Link: https://allanime.site/watch/jyYQojecWayF54B6X/Tondemo-Skill-de-Isekai-Hourou-Meshi/episode-3-sub
+Episode Link: https://allanime.site/watch/wT7zFKYysvfHutgKz/Nokemonotachi-no-Yoru/episode-3-sub
  
 # Analytics
 
