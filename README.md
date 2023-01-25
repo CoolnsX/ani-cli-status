@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: D4DJ All Mix episode 3 sub
+Episode Name: NieRAutomata Ver11a episode 3 sub
 
-Episode Link: https://allanime.site/watch/CWv4JxD5KqsgvoLES/D4DJ-All-Mix/episode-3-sub
+Episode Link: https://allanime.site/watch/vDLei4TQt8Xins5bh/NieRAutomata-Ver11a/episode-3-sub
  
 # Analytics
 
