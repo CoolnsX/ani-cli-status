@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boruto Naruto Next Generations episode 284 sub
+Episode Name: Kamitachi ni Hirowareta Otoko 2 episode 3 sub
 
-Episode Link: https://allanime.site/watch/vkD8H5e7HsG2jctw9/Boruto-Naruto-Next-Generations/episode-284-sub
+Episode Link: https://allanime.site/watch/eG5HmbQoTpEwyoCLy/Kamitachi-ni-Hirowareta-Otoko-2/episode-3-sub
  
 # Analytics
 
