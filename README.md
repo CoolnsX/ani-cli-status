@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ooyukiumi no Kaina episode 3 sub
+Episode Name: Kamitachi ni Hirowareta Otoko 2 episode 3 sub
 
-Episode Link: https://allanime.site/watch/kTXMP2k6GgDw35RZz/Ooyukiumi-no-Kaina/episode-3-sub
+Episode Link: https://allanime.site/watch/eG5HmbQoTpEwyoCLy/Kamitachi-ni-Hirowareta-Otoko-2/episode-3-sub
  
 # Analytics
 
