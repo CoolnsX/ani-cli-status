@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kubosan wa Mob wo Yurusanai episode 3 sub
+Episode Name: Pururun Shizukuchan Aha episode 6 sub
 
-Episode Link: https://allanime.site/watch/h6voZ9jYKnku7GKA3/Kubosan-wa-Mob-wo-Yurusanai/episode-3-sub
+Episode Link: https://allanime.site/watch/ygyYy7jXgkHtLZFTH/Pururun-Shizukuchan-Aha/episode-6-sub
  
 # Analytics
 
