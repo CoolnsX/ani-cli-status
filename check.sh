@@ -29,19 +29,19 @@ agent="Mozilla/5.0"
 sed -i -E "s_Episode Name: (.*)_Episode Name: $(printf "$url" | cut -d"/" -f2- | tr "[:punct:]" " ")_g ; s_${base_url}(.*)_${base_url}/watch/${url}_g" README.md &
 data=$(curl -A "$agent" -s "${base_url}/watch/${url}" | tr '{}' '\n' | sed 's|\\u002F|\/|g;s|\\||g' | sed -nE 's|.*sourceUrl":".*?id=([^"]*)".*sourceName":"([^"]*)".*|\2 :\1|p')
 
-#vrv|wixmp links
-provider_run "vrv" "/Default :/p" &
+#vrv links
+provider_run "vrv" "/Ac :/p" &
 
-#vrv|wixmp links
+#pstatic
 provider_run "pstatic" "/Default B :/p" &
 
-#vrv|wixmp links
+#sharepoint
 provider_run "sharepoint" "/S-mp4 :/p" &
 
-#vrv|wixmp links
+#usercloud
 provider_run "usercloud" "/Uv-mp4 :/p" &
 
-#vrv|wixmp links
+#gogoplay
 provider_run "gogoplay" "/Luf-mp4 :/p" &
 
 wait
