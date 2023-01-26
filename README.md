@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kyokou Suiri 2 episode 3 sub
+Episode Name: D4DJ All Mix episode 3 sub
 
-Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-3-sub
+Episode Link: https://allanime.site/watch/CWv4JxD5KqsgvoLES/D4DJ-All-Mix/episode-3-sub
  
 # Analytics
 
