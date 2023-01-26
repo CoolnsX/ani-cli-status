@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mou Ippon episode 3 sub
+Episode Name: Majutsushi Orphen Hagure Tabi Urbanramahen episode 2 sub
 
-Episode Link: https://allanime.site/watch/ALFcvrH98JhPPxZLe/Mou-Ippon/episode-3-sub
+Episode Link: https://allanime.site/watch/NZsLJGnzxwoPSAbya/Majutsushi-Orphen-Hagure-Tabi-Urbanramahen/episode-2-sub
  
 # Analytics
 
