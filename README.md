@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mononogatari episode 3 sub
+Episode Name: Benriya Saitousan Isekai ni Iku episode 3 sub
 
-Episode Link: https://allanime.site/watch/oSHKD2ZMyEpMXYTX5/Mononogatari/episode-3-sub
+Episode Link: https://allanime.site/watch/tHj6qohGA7CkrXizm/Benriya-Saitousan-Isekai-ni-Iku/episode-3-sub
  
 # Analytics
 
