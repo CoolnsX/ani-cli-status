@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Punirunes episode 16 sub
+Episode Name: Oniichan wa Oshimai episode 4 sub
 
-Episode Link: https://allanime.site/watch/ANWz4vrrsEC2AX39R/Punirunes/episode-16-sub
+Episode Link: https://allanime.site/watch/PgZWjdRff4iJWx6b7/Oniichan-wa-Oshimai/episode-4-sub
  
 # Analytics
 
