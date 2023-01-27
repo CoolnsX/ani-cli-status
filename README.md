@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sekai no Owari ni Shiba Inu to episode 69 sub
+Episode Name: Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endoukun to Kaisetsu no Kobayashisan episode 4 sub
 
-Episode Link: https://allanime.site/watch/epSt4CA4cA77ZqLG2/Sekai-no-Owari-ni-Shiba-Inu-to/episode-69-sub
+Episode Link: https://allanime.site/watch/pS3NpAkFkXLmn65La/Tsundere-Akuyaku-Reijou-Liselotte-to-Jikkyou-no-Endoukun-to-Kaisetsu-no-Kobayashisan/episode-4-sub
  
 # Analytics
 
