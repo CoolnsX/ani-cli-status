@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Urusei Yatsura 2022 episode 15 sub
+Episode Name: Punirunes episode 16 sub
 
-Episode Link: https://allanime.site/watch/yHypNJMuHdjaA5SDk/Urusei-Yatsura-2022/episode-15-sub
+Episode Link: https://allanime.site/watch/ANWz4vrrsEC2AX39R/Punirunes/episode-16-sub
  
 # Analytics
 
