@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Magical Hat episode 8 sub
+Episode Name: Oniichan wa Oshimai episode 4 sub
 
-Episode Link: https://allanime.site/watch/PcwGeam6n37zsDya5/Magical-Hat/episode-8-sub
+Episode Link: https://allanime.site/watch/PgZWjdRff4iJWx6b7/Oniichan-wa-Oshimai/episode-4-sub
  
 # Analytics
 
