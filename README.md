@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Punirunes episode 16 sub
+Episode Name: Ayakashi Triangle episode 3 sub
 
-Episode Link: https://allanime.site/watch/ANWz4vrrsEC2AX39R/Punirunes/episode-16-sub
+Episode Link: https://allanime.site/watch/MAKvrdu5Qxfdqm2fz/Ayakashi-Triangle/episode-3-sub
  
 # Analytics
 
