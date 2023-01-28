@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Otonari no Tenshisama ni Itsunomanika Dame Ningen ni Sareteita Ken episode 4 sub
+Episode Name: Kaiko sareta Ankoku Heishi 30dai no Slow na 2nd Life episode 4 sub
 
-Episode Link: https://allanime.site/watch/gHQe2eBBh57QdC9hZ/Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken/episode-4-sub
+Episode Link: https://allanime.site/watch/G8kAeW6JdpT33cKCs/Kaiko-sareta-Ankoku-Heishi-30dai-no-Slow-na-2nd-Life/episode-4-sub
  
 # Analytics
 
