@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Inu ni Nattara Suki na Hito ni Hirowareta episode 4 sub
+Episode Name: Delicious Party♡Precure Movie Yume Miru Okosama Lunch episode 1 sub
 
-Episode Link: https://allanime.site/watch/EH8AvAtoS42vNzuQP/Inu-ni-Nattara-Suki-na-Hito-ni-Hirowareta/episode-4-sub
+Episode Link: https://allanime.site/watch/HKPmL4ZAgnwcQHX7j/Delicious-Party♡Precure-Movie-Yume-Miru-Okosama-Lunch/episode-1-sub
  
 # Analytics
 
