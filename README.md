@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ijiranaide Nagatorosan 2nd Attack episode 5 sub
+Episode Name: Kaiko sareta Ankoku Heishi 30dai no Slow na 2nd Life episode 4 sub
 
-Episode Link: https://allanime.site/watch/DA4gs9xnpgLC7AgDa/Ijiranaide-Nagatorosan-2nd-Attack/episode-5-sub
+Episode Link: https://allanime.site/watch/G8kAeW6JdpT33cKCs/Kaiko-sareta-Ankoku-Heishi-30dai-no-Slow-na-2nd-Life/episode-4-sub
  
 # Analytics
 
