@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Delicious Party♡Precure Movie Yume Miru Okosama Lunch episode 1 sub
+Episode Name: Ooyukiumi no Kaina episode 3 sub
 
-Episode Link: https://allanime.site/watch/HKPmL4ZAgnwcQHX7j/Delicious-Party♡Precure-Movie-Yume-Miru-Okosama-Lunch/episode-1-sub
+Episode Link: https://allanime.site/watch/kTXMP2k6GgDw35RZz/Ooyukiumi-no-Kaina/episode-3-sub
  
 # Analytics
 
