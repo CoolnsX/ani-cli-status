@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shuumatsu no Walküre Season 2 episode 10 sub
+Episode Name: Inu ni Nattara Suki na Hito ni Hirowareta episode 4 sub
 
-Episode Link: https://allanime.site/watch/YWnTgFZKJdq4gNZsu/Shuumatsu-no-Walküre-Season-2/episode-10-sub
+Episode Link: https://allanime.site/watch/EH8AvAtoS42vNzuQP/Inu-ni-Nattara-Suki-na-Hito-ni-Hirowareta/episode-4-sub
  
 # Analytics
 
