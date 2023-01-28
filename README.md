@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Oniichan wa Oshimai episode 4 sub
+Episode Name: Shouwa Ahozoushi Akanuke Ichiban episode 18 sub
 
-Episode Link: https://allanime.site/watch/PgZWjdRff4iJWx6b7/Oniichan-wa-Oshimai/episode-4-sub
+Episode Link: https://allanime.site/watch/B9bDPR6r9eEStZCxk/Shouwa-Ahozoushi-Akanuke-Ichiban/episode-18-sub
  
 # Analytics
 
