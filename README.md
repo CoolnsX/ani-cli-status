@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shin Shinka no Mi Shiranai Uchi ni Kachigumi Jinsei episode 3 sub
+Episode Name: Shadowverse Flame episode 42 sub
 
-Episode Link: https://allanime.site/watch/pBWpXMsB9xnjK24yk/Shin-Shinka-no-Mi-Shiranai-Uchi-ni-Kachigumi-Jinsei/episode-3-sub
+Episode Link: https://allanime.site/watch/QJYZNwWCYS7g5BLmj/Shadowverse-Flame/episode-42-sub
  
 # Analytics
 
