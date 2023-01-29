@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Saikyou Onmyouji no Isekai Tenseiki episode 4 sub
+Episode Name: Shin Shinka no Mi Shiranai Uchi ni Kachigumi Jinsei episode 3 sub
 
-Episode Link: https://allanime.site/watch/pJGRqiy3gj9PA6KXY/Saikyou-Onmyouji-no-Isekai-Tenseiki/episode-4-sub
+Episode Link: https://allanime.site/watch/pBWpXMsB9xnjK24yk/Shin-Shinka-no-Mi-Shiranai-Uchi-ni-Kachigumi-Jinsei/episode-3-sub
  
 # Analytics
 
