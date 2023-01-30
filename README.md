@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cardfight Vanguard willDress Season 2 episode 3 sub
+Episode Name: Cap Kakumei Bottleman DX episode 43 sub
 
-Episode Link: https://allanime.site/watch/LxBHAAaGE2oTSRkfp/Cardfight-Vanguard-willDress-Season-2/episode-3-sub
+Episode Link: https://allanime.site/watch/sZeSpAo8wPQS2wmFg/Cap-Kakumei-Bottleman-DX/episode-43-sub
  
 # Analytics
 
