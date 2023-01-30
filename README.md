@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Benriya Saitousan Isekai ni Iku episode 4 sub
+Episode Name: Ars no Kyojuu episode 4 sub
 
-Episode Link: https://allanime.site/watch/tHj6qohGA7CkrXizm/Benriya-Saitousan-Isekai-ni-Iku/episode-4-sub
+Episode Link: https://allanime.site/watch/rHYfwSMqyHHw3K7xf/Ars-no-Kyojuu/episode-4-sub
  
 # Analytics
 
