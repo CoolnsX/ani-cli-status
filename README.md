@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Magical★Taruruutokun episode 5 sub
+Episode Name: Fumetsu no Anata e Season 2 episode 14 sub
 
-Episode Link: https://allanime.site/watch/yTszgTsufjJcz6AZc/Magical★Taruruutokun/episode-5-sub
+Episode Link: https://allanime.site/watch/3MEC3wnrTYabhQeC3/Fumetsu-no-Anata-e-Season-2/episode-14-sub
  
 # Analytics
 
