@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yowamushi Pedal Limit Break episode 15 sub
+Episode Name: Magical★Taruruutokun episode 5 sub
 
-Episode Link: https://allanime.site/watch/Lbax2qc6Taj2NHmbZ/Yowamushi-Pedal-Limit-Break/episode-15-sub
+Episode Link: https://allanime.site/watch/yTszgTsufjJcz6AZc/Magical★Taruruutokun/episode-5-sub
  
 # Analytics
 
