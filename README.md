@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ars no Kyojuu episode 4 sub
+Episode Name: Blue Lock episode 16 sub
 
-Episode Link: https://allanime.site/watch/rHYfwSMqyHHw3K7xf/Ars-no-Kyojuu/episode-4-sub
+Episode Link: https://allanime.site/watch/Jn9L757r53Chiata9/Blue-Lock/episode-16-sub
  
 # Analytics
 
