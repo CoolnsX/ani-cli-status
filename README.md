@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Trigun Stampede episode 4 sub
+Episode Name: Ars no Kyojuu episode 4 sub
 
-Episode Link: https://allanime.site/watch/hKcF5yQeMuDtjfNTg/Trigun-Stampede/episode-4-sub
+Episode Link: https://allanime.site/watch/rHYfwSMqyHHw3K7xf/Ars-no-Kyojuu/episode-4-sub
  
 # Analytics
 
