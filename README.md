@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV episode 1080 sub
+Episode Name: Benriya Saitousan Isekai ni Iku episode 4 sub
 
-Episode Link: https://allanime.site/watch/taSxDp8w4JTADN9hJ/Detective-Conan-TV/episode-1080-sub
+Episode Link: https://allanime.site/watch/tHj6qohGA7CkrXizm/Benriya-Saitousan-Isekai-ni-Iku/episode-4-sub
  
 # Analytics
 
