@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shin Shinka no Mi Shiranai Uchi ni Kachigumi Jinsei episode 3 sub
+Episode Name: Detective Conan TV episode 1080 sub
 
-Episode Link: https://allanime.site/watch/pBWpXMsB9xnjK24yk/Shin-Shinka-no-Mi-Shiranai-Uchi-ni-Kachigumi-Jinsei/episode-3-sub
+Episode Link: https://allanime.site/watch/taSxDp8w4JTADN9hJ/Detective-Conan-TV/episode-1080-sub
  
 # Analytics
 
