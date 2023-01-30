@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kyokou Suiri 2 episode 4 sub
+Episode Name: Sugar Bunnies Fleur episode 1 sub
 
-Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-4-sub
+Episode Link: https://allanime.site/watch/Xp2QgejK8rYdqsSWf/Sugar-Bunnies-Fleur/episode-1-sub
  
 # Analytics
 
