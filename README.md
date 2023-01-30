@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cap Kakumei Bottleman DX episode 43 sub
+Episode Name: Tokyo Revengers Seiya Kessenhen episode 4 sub
 
-Episode Link: https://allanime.site/watch/sZeSpAo8wPQS2wmFg/Cap-Kakumei-Bottleman-DX/episode-43-sub
+Episode Link: https://allanime.site/watch/mTmLEjh9Rqj6s8kAy/Tokyo-Revengers-Seiya-Kessenhen/episode-4-sub
  
 # Analytics
 
