@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV episode 1080 sub
+Episode Name: Nokemonotachi no Yoru episode 4 sub
 
-Episode Link: https://allanime.site/watch/taSxDp8w4JTADN9hJ/Detective-Conan-TV/episode-1080-sub
+Episode Link: https://allanime.site/watch/wT7zFKYysvfHutgKz/Nokemonotachi-no-Yoru/episode-4-sub
  
 # Analytics
 
