@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mairimashita Irumakun Season 3 episode 16 sub
+Episode Name: Tokyo Revengers Seiya Kessenhen episode 4 sub
 
-Episode Link: https://allanime.site/watch/DcR2JWWRP2yC8ap4R/Mairimashita-Irumakun-Season-3/episode-16-sub
+Episode Link: https://allanime.site/watch/mTmLEjh9Rqj6s8kAy/Tokyo-Revengers-Seiya-Kessenhen/episode-4-sub
  
 # Analytics
 
