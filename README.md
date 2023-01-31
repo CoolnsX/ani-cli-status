@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kaiko sareta Ankoku Heishi 30dai no Slow na 2nd Life episode 4 sub
+Episode Name: Mairimashita Irumakun Season 3 episode 16 sub
 
-Episode Link: https://allanime.site/watch/G8kAeW6JdpT33cKCs/Kaiko-sareta-Ankoku-Heishi-30dai-no-Slow-na-2nd-Life/episode-4-sub
+Episode Link: https://allanime.site/watch/DcR2JWWRP2yC8ap4R/Mairimashita-Irumakun-Season-3/episode-16-sub
  
 # Analytics
 
