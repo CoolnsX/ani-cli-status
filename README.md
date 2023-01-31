@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shisontachi no Gakkou e Kayou II episode 4 sub
+Episode Name: Tezuka Osamu no Kyuuyaku Seisho Monogatari In the Beginning episode 24 sub
 
-Episode Link: https://allanime.site/watch/zyr6mTjBhJAeJBc9m/Maou-Gakuin-no-Futekigousha-Shijou-Saikyou-no-Maou-no-Shiso-Tensei-shite-Shisontachi-no-Gakkou-e-Kayou-II/episode-4-sub
+Episode Link: https://allanime.site/watch/KoezzrHGXXKLSTbKt/Tezuka-Osamu-no-Kyuuyaku-Seisho-Monogatari-In-the-Beginning/episode-24-sub
  
 # Analytics
 
