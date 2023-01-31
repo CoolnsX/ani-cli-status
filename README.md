@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: One Piece episode 1049 sub
+Episode Name: Ayakashi Triangle episode 4 sub
 
-Episode Link: https://allanime.site/watch/ReooPAxPMsHM4KPMY/One-Piece/episode-1049-sub
+Episode Link: https://allanime.site/watch/MAKvrdu5Qxfdqm2fz/Ayakashi-Triangle/episode-4-sub
  
 # Analytics
 
