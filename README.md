@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kamitachi ni Hirowareta Otoko 2 episode 4 sub
+Episode Name: Kyuuketsuki Sugu Shinu 2 episode 4 sub
 
-Episode Link: https://allanime.site/watch/eG5HmbQoTpEwyoCLy/Kamitachi-ni-Hirowareta-Otoko-2/episode-4-sub
+Episode Link: https://allanime.site/watch/i7a93GP2ZjqCdfh6i/Kyuuketsuki-Sugu-Shinu-2/episode-4-sub
  
 # Analytics
 
