@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hikari no Ou episode 3 sub
+Episode Name: Shadowverse Flame episode 42 sub
 
-Episode Link: https://allanime.site/watch/rjx39fbf9qNciPL6H/Hikari-no-Ou/episode-3-sub
+Episode Link: https://allanime.site/watch/QJYZNwWCYS7g5BLmj/Shadowverse-Flame/episode-42-sub
  
 # Analytics
 
