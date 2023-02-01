@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: One Piece episode 1049 sub
+Episode Name: Ningen Fushin no Boukenshatachi ga Sekai wo Sukuu you desu episode 5 sub
 
-Episode Link: https://allanime.site/watch/ReooPAxPMsHM4KPMY/One-Piece/episode-1049-sub
+Episode Link: https://allanime.site/watch/8oKbcBTptm5WvEBBJ/Ningen-Fushin-no-Boukenshatachi-ga-Sekai-wo-Sukuu-you-desu/episode-5-sub
  
 # Analytics
 
