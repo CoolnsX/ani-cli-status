@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Toutotsu ni Egypt Shin 2 episode 4 sub
+Episode Name: Eiyuuou Bu wo Kiwameru Tame Tenseisu Soshite Sekai Saikyou no Minarai Kishi♀ episode 4 sub
 
-Episode Link: https://allanime.site/watch/6AJ6LBb5hveDPGf7J/Toutotsu-ni-Egypt-Shin-2/episode-4-sub
+Episode Link: https://allanime.site/watch/u5yyo9kbg8ML3AJg4/Eiyuuou-Bu-wo-Kiwameru-Tame-Tenseisu-Soshite-Sekai-Saikyou-no-Minarai-Kishi♀/episode-4-sub
  
 # Analytics
 
