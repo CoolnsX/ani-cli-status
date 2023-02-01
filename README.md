@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eiyuuou Bu wo Kiwameru Tame Tenseisu Soshite Sekai Saikyou no Minarai Kishi♀ episode 4 sub
+Episode Name: Tondemo Skill de Isekai Hourou Meshi episode 4 sub
 
-Episode Link: https://allanime.site/watch/u5yyo9kbg8ML3AJg4/Eiyuuou-Bu-wo-Kiwameru-Tame-Tenseisu-Soshite-Sekai-Saikyou-no-Minarai-Kishi♀/episode-4-sub
+Episode Link: https://allanime.site/watch/jyYQojecWayF54B6X/Tondemo-Skill-de-Isekai-Hourou-Meshi/episode-4-sub
  
 # Analytics
 
