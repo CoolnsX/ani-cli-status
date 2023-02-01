@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: One Piece episode 1049 sub
+Episode Name: Saikyou Onmyouji no Isekai Tenseiki episode 4 sub
 
-Episode Link: https://allanime.site/watch/ReooPAxPMsHM4KPMY/One-Piece/episode-1049-sub
+Episode Link: https://allanime.site/watch/pJGRqiy3gj9PA6KXY/Saikyou-Onmyouji-no-Isekai-Tenseiki/episode-4-sub
  
 # Analytics
 
