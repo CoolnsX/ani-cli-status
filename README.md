@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Majutsushi Orphen Hagure Tabi Urbanramahen episode 3 sub
+Episode Name: Tensei Oujo to Tensai Reijou no Mahou Kakumei episode 5 sub
 
-Episode Link: https://allanime.site/watch/NZsLJGnzxwoPSAbya/Majutsushi-Orphen-Hagure-Tabi-Urbanramahen/episode-3-sub
+Episode Link: https://allanime.site/watch/Z6PNbEn378pmGhMAQ/Tensei-Oujo-to-Tensai-Reijou-no-Mahou-Kakumei/episode-5-sub
  
 # Analytics
 
