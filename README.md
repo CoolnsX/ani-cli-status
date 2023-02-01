@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eiyuuou Bu wo Kiwameru Tame Tenseisu Soshite Sekai Saikyou no Minarai Kishi♀ episode 4 sub
+Episode Name: Digimon Ghost Game episode 61 sub
 
-Episode Link: https://allanime.site/watch/u5yyo9kbg8ML3AJg4/Eiyuuou-Bu-wo-Kiwameru-Tame-Tenseisu-Soshite-Sekai-Saikyou-no-Minarai-Kishi♀/episode-4-sub
+Episode Link: https://allanime.site/watch/mg5JRppYBTsbYvBwj/Digimon-Ghost-Game/episode-61-sub
  
 # Analytics
 
