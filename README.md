@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gundam G no Reconguista Movie III Uchuu kara no Isan episode 1 sub
+Episode Name: Kyokou Suiri 2 episode 4 sub
 
-Episode Link: https://allanime.site/watch/et5zP6sSPD4ZukDQG/Gundam-G-no-Reconguista-Movie-III-Uchuu-kara-no-Isan/episode-1-sub
+Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-4-sub
  
 # Analytics
 
