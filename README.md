@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kobochan episode 4 sub
+Episode Name: Gundam G no Reconguista Movie III Uchuu kara no Isan episode 1 sub
 
-Episode Link: https://allanime.site/watch/Z8en7qPFbiZWbaC4s/Kobochan/episode-4-sub
+Episode Link: https://allanime.site/watch/et5zP6sSPD4ZukDQG/Gundam-G-no-Reconguista-Movie-III-Uchuu-kara-no-Isan/episode-1-sub
  
 # Analytics
 
