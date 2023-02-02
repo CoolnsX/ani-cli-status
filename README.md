@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Punirunes episode 17 sub
+Episode Name: Kyuuketsuki Sugu Shinu 2 episode 4 sub
 
-Episode Link: https://allanime.site/watch/ANWz4vrrsEC2AX39R/Punirunes/episode-17-sub
+Episode Link: https://allanime.site/watch/i7a93GP2ZjqCdfh6i/Kyuuketsuki-Sugu-Shinu-2/episode-4-sub
  
 # Analytics
 
