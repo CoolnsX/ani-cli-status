@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tomochan wa Onnanoko episode 5 sub
+Episode Name: Bungou Stray Dogs Season 4 episode 5 sub
 
-Episode Link: https://allanime.site/watch/3QCFtixZM7P628ANS/Tomochan-wa-Onnanoko/episode-5-sub
+Episode Link: https://allanime.site/watch/ngqMserTge69YDZoa/Bungou-Stray-Dogs-Season-4/episode-5-sub
  
 # Analytics
 
