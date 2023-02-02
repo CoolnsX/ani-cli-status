@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eiyuuou Bu wo Kiwameru Tame Tenseisu Soshite Sekai Saikyou no Minarai Kishi♀ episode 4 sub
+Episode Name: Tomochan wa Onnanoko episode 5 sub
 
-Episode Link: https://allanime.site/watch/u5yyo9kbg8ML3AJg4/Eiyuuou-Bu-wo-Kiwameru-Tame-Tenseisu-Soshite-Sekai-Saikyou-no-Minarai-Kishi♀/episode-4-sub
+Episode Link: https://allanime.site/watch/3QCFtixZM7P628ANS/Tomochan-wa-Onnanoko/episode-5-sub
  
 # Analytics
 
