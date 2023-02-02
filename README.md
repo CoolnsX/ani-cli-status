@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: MAKE MY DAY episode 8 sub
+Episode Name: Hyouken no Majutsushi ga Sekai wo Suberu episode 5 sub
 
-Episode Link: https://allanime.site/watch/Sjcmp93azXrjSex3P/MAKE-MY-DAY/episode-8-sub
+Episode Link: https://allanime.site/watch/8veroiWeqhvPLrBnS/Hyouken-no-Majutsushi-ga-Sekai-wo-Suberu/episode-5-sub
  
 # Analytics
 
