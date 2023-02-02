@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cool Doji Danshi episode 16 sub
+Episode Name: MAKE MY DAY episode 8 sub
 
-Episode Link: https://allanime.site/watch/KYpzGNKSK3xZ24t5v/Cool-Doji-Danshi/episode-16-sub
+Episode Link: https://allanime.site/watch/Sjcmp93azXrjSex3P/MAKE-MY-DAY/episode-8-sub
  
 # Analytics
 
