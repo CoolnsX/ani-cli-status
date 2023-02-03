@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Urusei Yatsura 2022 episode 16 sub
+Episode Name: Mononogatari episode 4 sub
 
-Episode Link: https://allanime.site/watch/yHypNJMuHdjaA5SDk/Urusei-Yatsura-2022/episode-16-sub
+Episode Link: https://allanime.site/watch/oSHKD2ZMyEpMXYTX5/Mononogatari/episode-4-sub
  
 # Analytics
 
