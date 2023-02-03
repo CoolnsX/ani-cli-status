@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Oniichan wa Oshimai episode 5 sub
+Episode Name: Hyouken no Majutsushi ga Sekai wo Suberu episode 5 sub
 
-Episode Link: https://allanime.site/watch/PgZWjdRff4iJWx6b7/Oniichan-wa-Oshimai/episode-5-sub
+Episode Link: https://allanime.site/watch/8veroiWeqhvPLrBnS/Hyouken-no-Majutsushi-ga-Sekai-wo-Suberu/episode-5-sub
  
 # Analytics
 
