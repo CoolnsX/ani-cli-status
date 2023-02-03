@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tondemo Skill de Isekai Hourou Meshi episode 4 sub
+Episode Name: Gundam G no Reconguista Movie III Uchuu kara no Isan episode 1 sub
 
-Episode Link: https://allanime.site/watch/jyYQojecWayF54B6X/Tondemo-Skill-de-Isekai-Hourou-Meshi/episode-4-sub
+Episode Link: https://allanime.site/watch/et5zP6sSPD4ZukDQG/Gundam-G-no-Reconguista-Movie-III-Uchuu-kara-no-Isan/episode-1-sub
  
 # Analytics
 
