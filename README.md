@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kubosan wa Mob wo Yurusanai episode 4 sub
+Episode Name: REVENGER episode 5 sub
 
-Episode Link: https://allanime.site/watch/h6voZ9jYKnku7GKA3/Kubosan-wa-Mob-wo-Yurusanai/episode-4-sub
+Episode Link: https://allanime.site/watch/XyQzjqX8H8S2fJvL9/REVENGER/episode-5-sub
  
 # Analytics
 
