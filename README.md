@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kyuuketsuki Sugu Shinu 2 episode 4 sub
+Episode Name: Oniichan wa Oshimai episode 5 sub
 
-Episode Link: https://allanime.site/watch/i7a93GP2ZjqCdfh6i/Kyuuketsuki-Sugu-Shinu-2/episode-4-sub
+Episode Link: https://allanime.site/watch/PgZWjdRff4iJWx6b7/Oniichan-wa-Oshimai/episode-5-sub
  
 # Analytics
 
