@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hyouken no Majutsushi ga Sekai wo Suberu episode 5 sub
+Episode Name: Araiguma Rascal episode 30 sub
 
-Episode Link: https://allanime.site/watch/8veroiWeqhvPLrBnS/Hyouken-no-Majutsushi-ga-Sekai-wo-Suberu/episode-5-sub
+Episode Link: https://allanime.site/watch/2BfL69oW9fbiRJwgC/Araiguma-Rascal/episode-30-sub
  
 # Analytics
 
