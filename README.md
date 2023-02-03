@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Inu ni Nattara Suki na Hito ni Hirowareta episode 5 sub
+Episode Name: Cap Kakumei Bottleman DX episode 43 sub
 
-Episode Link: https://allanime.site/watch/EH8AvAtoS42vNzuQP/Inu-ni-Nattara-Suki-na-Hito-ni-Hirowareta/episode-5-sub
+Episode Link: https://allanime.site/watch/sZeSpAo8wPQS2wmFg/Cap-Kakumei-Bottleman-DX/episode-43-sub
  
 # Analytics
 
