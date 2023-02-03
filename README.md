@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hyouken no Majutsushi ga Sekai wo Suberu episode 5 sub
+Episode Name: Inu ni Nattara Suki na Hito ni Hirowareta episode 5 sub
 
-Episode Link: https://allanime.site/watch/8veroiWeqhvPLrBnS/Hyouken-no-Majutsushi-ga-Sekai-wo-Suberu/episode-5-sub
+Episode Link: https://allanime.site/watch/EH8AvAtoS42vNzuQP/Inu-ni-Nattara-Suki-na-Hito-ni-Hirowareta/episode-5-sub
  
 # Analytics
 
