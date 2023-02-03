@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: REVENGER episode 5 sub
+Episode Name: Isekai Nonbiri Nouka episode 5 sub
 
-Episode Link: https://allanime.site/watch/XyQzjqX8H8S2fJvL9/REVENGER/episode-5-sub
+Episode Link: https://allanime.site/watch/f2GDdpYPTGXSxT56Z/Isekai-Nonbiri-Nouka/episode-5-sub
  
 # Analytics
 
