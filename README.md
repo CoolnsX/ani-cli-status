@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cap Kakumei Bottleman DX episode 43 sub
+Episode Name: Kobochan episode 4 sub
 
-Episode Link: https://allanime.site/watch/sZeSpAo8wPQS2wmFg/Cap-Kakumei-Bottleman-DX/episode-43-sub
+Episode Link: https://allanime.site/watch/Z8en7qPFbiZWbaC4s/Kobochan/episode-4-sub
  
 # Analytics
 
