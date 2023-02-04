@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Buddy Daddies episode 5 sub
+Episode Name: Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu 2 episode 4 sub
 
-Episode Link: https://allanime.site/watch/JYFhv7ChppWbvLkBu/Buddy-Daddies/episode-5-sub
+Episode Link: https://allanime.site/watch/KvwcmHRSya4RWdNAJ/Itai-no-wa-Iya-nano-de-Bougyoryoku-ni-Kyokufuri-Shitai-to-Omoimasu-2/episode-4-sub
  
 # Analytics
 
