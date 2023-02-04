@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ooyukiumi no Kaina episode 4 sub
+Episode Name: Toutotsu ni Egypt Shin 2 episode 4 sub
 
-Episode Link: https://allanime.site/watch/kTXMP2k6GgDw35RZz/Ooyukiumi-no-Kaina/episode-4-sub
+Episode Link: https://allanime.site/watch/6AJ6LBb5hveDPGf7J/Toutotsu-ni-Egypt-Shin-2/episode-4-sub
  
 # Analytics
 
