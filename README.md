@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Oniichan wa Oshimai episode 5 sub
+Episode Name: Otonari no Tenshisama ni Itsunomanika Dame Ningen ni Sareteita Ken episode 5 sub
 
-Episode Link: https://allanime.site/watch/PgZWjdRff4iJWx6b7/Oniichan-wa-Oshimai/episode-5-sub
+Episode Link: https://allanime.site/watch/gHQe2eBBh57QdC9hZ/Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken/episode-5-sub
  
 # Analytics
 
