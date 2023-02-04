@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV Shin Shou Yakusaihen episode 5 sub
+Episode Name: Shadowverse Flame episode 43 sub
 
-Episode Link: https://allanime.site/watch/GPGmNh83WhsBPLCmE/Dungeon-ni-Deai-wo-Motomeru-no-wa-Machigatteiru-Darou-ka-IV-Shin-Shou-Yakusaihen/episode-5-sub
+Episode Link: https://allanime.site/watch/QJYZNwWCYS7g5BLmj/Shadowverse-Flame/episode-43-sub
  
 # Analytics
 
