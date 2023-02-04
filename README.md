@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame episode 43 sub
+Episode Name: Toutotsu ni Egypt Shin 2 episode 4 sub
 
-Episode Link: https://allanime.site/watch/QJYZNwWCYS7g5BLmj/Shadowverse-Flame/episode-43-sub
+Episode Link: https://allanime.site/watch/6AJ6LBb5hveDPGf7J/Toutotsu-ni-Egypt-Shin-2/episode-4-sub
  
 # Analytics
 
