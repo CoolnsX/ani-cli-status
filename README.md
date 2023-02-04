@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Buddy Daddies episode 5 sub
+Episode Name: Oniichan wa Oshimai episode 5 sub
 
-Episode Link: https://allanime.site/watch/JYFhv7ChppWbvLkBu/Buddy-Daddies/episode-5-sub
+Episode Link: https://allanime.site/watch/PgZWjdRff4iJWx6b7/Oniichan-wa-Oshimai/episode-5-sub
  
 # Analytics
 
