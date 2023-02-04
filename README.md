@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Urusei Yatsura 2022 episode 16 sub
+Episode Name: Sugar Apple Fairy Tale episode 5 sub
 
-Episode Link: https://allanime.site/watch/yHypNJMuHdjaA5SDk/Urusei-Yatsura-2022/episode-16-sub
+Episode Link: https://allanime.site/watch/H4eRswTRg6hdzKcJT/Sugar-Apple-Fairy-Tale/episode-5-sub
  
 # Analytics
 
