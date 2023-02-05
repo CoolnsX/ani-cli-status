@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nijiyon Animation episode 5 sub
+Episode Name: Ijiranaide Nagatorosan 2nd Attack episode 6 sub
 
-Episode Link: https://allanime.site/watch/QfPWfzTRhKDzQPBL8/Nijiyon-Animation/episode-5-sub
+Episode Link: https://allanime.site/watch/DA4gs9xnpgLC7AgDa/Ijiranaide-Nagatorosan-2nd-Attack/episode-6-sub
  
 # Analytics
 
