@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Saikyou Onmyouji no Isekai Tenseiki episode 5 sub
+Episode Name: Nijiyon Animation episode 5 sub
 
-Episode Link: https://allanime.site/watch/pJGRqiy3gj9PA6KXY/Saikyou-Onmyouji-no-Isekai-Tenseiki/episode-5-sub
+Episode Link: https://allanime.site/watch/QfPWfzTRhKDzQPBL8/Nijiyon-Animation/episode-5-sub
  
 # Analytics
 
