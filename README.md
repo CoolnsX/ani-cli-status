@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nijiyon Animation episode 5 sub
+Episode Name: Hirogaru Sky Precure episode 1 sub
 
-Episode Link: https://allanime.site/watch/QfPWfzTRhKDzQPBL8/Nijiyon-Animation/episode-5-sub
+Episode Link: https://allanime.site/watch/wya3joHqqvYRLqMBK/Hirogaru-Sky-Precure/episode-1-sub
  
 # Analytics
 
