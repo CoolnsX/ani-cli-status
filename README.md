@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rougo ni Sonaete Isekai de 8manmai no Kinka wo Tamemasu episode 5 sub
+Episode Name: Shin Shinka no Mi Shiranai Uchi ni Kachigumi Jinsei episode 4 sub
 
-Episode Link: https://allanime.site/watch/8HNaxZuQ5eZuc3BWh/Rougo-ni-Sonaete-Isekai-de-8manmai-no-Kinka-wo-Tamemasu/episode-5-sub
+Episode Link: https://allanime.site/watch/pBWpXMsB9xnjK24yk/Shin-Shinka-no-Mi-Shiranai-Uchi-ni-Kachigumi-Jinsei/episode-4-sub
  
 # Analytics
 
