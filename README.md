@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Legend of Heroes Sen no Kiseki  Northern War episode 5 sub
+Episode Name: Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shisontachi no Gakkou e Kayou II episode 5 sub
 
-Episode Link: https://allanime.site/watch/AwQnmMPSpo8KNSDAs/The-Legend-of-Heroes-Sen-no-Kiseki--Northern-War/episode-5-sub
+Episode Link: https://allanime.site/watch/zyr6mTjBhJAeJBc9m/Maou-Gakuin-no-Futekigousha-Shijou-Saikyou-no-Maou-no-Shiso-Tensei-shite-Shisontachi-no-Gakkou-e-Kayou-II/episode-5-sub
  
 # Analytics
 
