@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: TRIGUN STAMPEDE episode 5 sub
+Episode Name: Mou Ippon episode 5 sub
 
-Episode Link: https://allanime.site/watch/hKcF5yQeMuDtjfNTg/TRIGUN-STAMPEDE/episode-5-sub
+Episode Link: https://allanime.site/watch/ALFcvrH98JhPPxZLe/Mou-Ippon/episode-5-sub
  
 # Analytics
 
