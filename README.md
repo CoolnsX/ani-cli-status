@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yowamushi Pedal LIMIT BREAK episode 17 sub
+Episode Name: TRIGUN STAMPEDE episode 5 sub
 
-Episode Link: https://allanime.site/watch/Lbax2qc6Taj2NHmbZ/Yowamushi-Pedal-LIMIT-BREAK/episode-17-sub
+Episode Link: https://allanime.site/watch/hKcF5yQeMuDtjfNTg/TRIGUN-STAMPEDE/episode-5-sub
  
 # Analytics
 
