@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nokemonotachi no Yoru episode 5 sub
+Episode Name: Gekitou Crush Gear Turbo episode 22 sub
 
-Episode Link: https://allanime.site/watch/wT7zFKYysvfHutgKz/Nokemonotachi-no-Yoru/episode-5-sub
+Episode Link: https://allanime.site/watch/FiBjL7gXyazPCf22M/Gekitou-Crush-Gear-Turbo/episode-22-sub
  
 # Analytics
 
