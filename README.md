@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mairimashita Irumakun 3 episode 17 sub
+Episode Name: Yu☆Gi☆Oh Go Rush episode 44 sub
 
-Episode Link: https://allanime.site/watch/DcR2JWWRP2yC8ap4R/Mairimashita-Irumakun-3/episode-17-sub
+Episode Link: https://allanime.site/watch/C6DdMx7nogeqT3uco/Yu☆Gi☆Oh-Go-Rush/episode-44-sub
  
 # Analytics
 
