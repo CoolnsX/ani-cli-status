@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mairimashita Irumakun 3 episode 17 sub
+Episode Name: Ijiranaide Nagatorosan 2nd Attack episode 6 sub
 
-Episode Link: https://allanime.site/watch/DcR2JWWRP2yC8ap4R/Mairimashita-Irumakun-3/episode-17-sub
+Episode Link: https://allanime.site/watch/DA4gs9xnpgLC7AgDa/Ijiranaide-Nagatorosan-2nd-Attack/episode-6-sub
  
 # Analytics
 
