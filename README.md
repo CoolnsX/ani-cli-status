@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yowamushi Pedal LIMIT BREAK episode 17 sub
+Episode Name: Detective Conan TV episode 1081 sub
 
-Episode Link: https://allanime.site/watch/Lbax2qc6Taj2NHmbZ/Yowamushi-Pedal-LIMIT-BREAK/episode-17-sub
+Episode Link: https://allanime.site/watch/taSxDp8w4JTADN9hJ/Detective-Conan-TV/episode-1081-sub
  
 # Analytics
 
