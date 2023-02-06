@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush episode 44 sub
+Episode Name: Nokemonotachi no Yoru episode 5 sub
 
-Episode Link: https://allanime.site/watch/C6DdMx7nogeqT3uco/Yu☆Gi☆Oh-Go-Rush/episode-44-sub
+Episode Link: https://allanime.site/watch/wT7zFKYysvfHutgKz/Nokemonotachi-no-Yoru/episode-5-sub
  
 # Analytics
 
