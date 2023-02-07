@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: VINLAND SAGA SEASON 2 episode 5 sub
+Episode Name: TRIGUN STAMPEDE episode 5 sub
 
-Episode Link: https://allanime.site/watch/DYeWXwS86ByDEfgWX/VINLAND-SAGA-SEASON-2/episode-5-sub
+Episode Link: https://allanime.site/watch/hKcF5yQeMuDtjfNTg/TRIGUN-STAMPEDE/episode-5-sub
  
 # Analytics
 
