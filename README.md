@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rougo ni Sonaete Isekai de 8manmai no Kinka wo Tamemasu episode 5 sub
+Episode Name: Mairimashita Irumakun 3 episode 17 sub
 
-Episode Link: https://allanime.site/watch/8HNaxZuQ5eZuc3BWh/Rougo-ni-Sonaete-Isekai-de-8manmai-no-Kinka-wo-Tamemasu/episode-5-sub
+Episode Link: https://allanime.site/watch/DcR2JWWRP2yC8ap4R/Mairimashita-Irumakun-3/episode-17-sub
  
 # Analytics
 
