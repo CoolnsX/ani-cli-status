@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ijiranaide Nagatorosan 2nd Attack episode 6 sub
+Episode Name: Detective Conan TV episode 1081 sub
 
-Episode Link: https://allanime.site/watch/DA4gs9xnpgLC7AgDa/Ijiranaide-Nagatorosan-2nd-Attack/episode-6-sub
+Episode Link: https://allanime.site/watch/taSxDp8w4JTADN9hJ/Detective-Conan-TV/episode-1081-sub
  
 # Analytics
 
