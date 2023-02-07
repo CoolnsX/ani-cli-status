@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Fumetsu no Anata e Season 2 episode 15 sub
+Episode Name: Rougo ni Sonaete Isekai de 8manmai no Kinka wo Tamemasu episode 5 sub
 
-Episode Link: https://allanime.site/watch/3MEC3wnrTYabhQeC3/Fumetsu-no-Anata-e-Season-2/episode-15-sub
+Episode Link: https://allanime.site/watch/8HNaxZuQ5eZuc3BWh/Rougo-ni-Sonaete-Isekai-de-8manmai-no-Kinka-wo-Tamemasu/episode-5-sub
  
 # Analytics
 
