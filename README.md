@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cap Kakumei Bottleman DX episode 44 sub
+Episode Name: Fumetsu no Anata e Season 2 episode 15 sub
 
-Episode Link: https://allanime.site/watch/sZeSpAo8wPQS2wmFg/Cap-Kakumei-Bottleman-DX/episode-44-sub
+Episode Link: https://allanime.site/watch/3MEC3wnrTYabhQeC3/Fumetsu-no-Anata-e-Season-2/episode-15-sub
  
 # Analytics
 
