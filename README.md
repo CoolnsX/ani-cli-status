@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Otonari no Tenshisama ni Itsunomanika Dame Ningen ni Sareteita Ken episode 5 sub
+Episode Name: Futaribun no Shoumei episode 1 sub
 
-Episode Link: https://allanime.site/watch/gHQe2eBBh57QdC9hZ/Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken/episode-5-sub
+Episode Link: https://allanime.site/watch/MZprNXZ5xwiKMoWRx/Futaribun-no-Shoumei/episode-1-sub
  
 # Analytics
 
