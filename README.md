@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ningen Fushin no Boukenshatachi ga Sekai wo Sukuu you desu episode 6 sub
+Episode Name: Kubosan wa Mob wo Yurusanai episode 5 sub
 
-Episode Link: https://allanime.site/watch/8oKbcBTptm5WvEBBJ/Ningen-Fushin-no-Boukenshatachi-ga-Sekai-wo-Sukuu-you-desu/episode-6-sub
+Episode Link: https://allanime.site/watch/h6voZ9jYKnku7GKA3/Kubosan-wa-Mob-wo-Yurusanai/episode-5-sub
  
 # Analytics
 
