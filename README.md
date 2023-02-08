@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: IDOLiSH7 Third BEAT Part 2 episode 14 sub
+Episode Name: Kamitachi ni Hirowareta Otoko 2 episode 5 sub
 
-Episode Link: https://allanime.site/watch/ys46zrSYHuJ3zkKL8/IDOLiSH7-Third-BEAT-Part-2/episode-14-sub
+Episode Link: https://allanime.site/watch/eG5HmbQoTpEwyoCLy/Kamitachi-ni-Hirowareta-Otoko-2/episode-5-sub
  
 # Analytics
 
