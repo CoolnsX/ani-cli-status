@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Aralechan episode 132 sub
+Episode Name: Kubosan wa Mob wo Yurusanai episode 5 sub
 
-Episode Link: https://allanime.site/watch/PGqQKyyef49RWDzsc/Dr-Slump-Aralechan/episode-132-sub
+Episode Link: https://allanime.site/watch/h6voZ9jYKnku7GKA3/Kubosan-wa-Mob-wo-Yurusanai/episode-5-sub
  
 # Analytics
 
