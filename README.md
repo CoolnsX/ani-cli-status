@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: VINLAND SAGA SEASON 2 episode 5 sub
+Episode Name: Koori Zokusei Danshi to Cool na Douryou Joshi episode 6 sub
 
-Episode Link: https://allanime.site/watch/DYeWXwS86ByDEfgWX/VINLAND-SAGA-SEASON-2/episode-5-sub
+Episode Link: https://allanime.site/watch/nKstb8KKWgf7JPoMS/Koori-Zokusei-Danshi-to-Cool-na-Douryou-Joshi/episode-6-sub
  
 # Analytics
 
