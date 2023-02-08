@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: D4DJ All Mix episode 5 sub
+Episode Name: Sekai no Owari ni Shiba Inu to episode 72 sub
 
-Episode Link: https://allanime.site/watch/CWv4JxD5KqsgvoLES/D4DJ-All-Mix/episode-5-sub
+Episode Link: https://allanime.site/watch/epSt4CA4cA77ZqLG2/Sekai-no-Owari-ni-Shiba-Inu-to/episode-72-sub
  
 # Analytics
 
