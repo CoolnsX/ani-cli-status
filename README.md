@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eiyuuou Bu wo Kiwameru Tame Tenseisu Soshite Sekai Saikyou no Minarai Kishi♀ episode 5 sub
+Episode Name: Kyuuketsuki Sugu Shinu 2 episode 5 sub
 
-Episode Link: https://allanime.site/watch/u5yyo9kbg8ML3AJg4/Eiyuuou-Bu-wo-Kiwameru-Tame-Tenseisu-Soshite-Sekai-Saikyou-no-Minarai-Kishi♀/episode-5-sub
+Episode Link: https://allanime.site/watch/i7a93GP2ZjqCdfh6i/Kyuuketsuki-Sugu-Shinu-2/episode-5-sub
  
 # Analytics
 
