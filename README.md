@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cool Doji Danshi episode 17 sub
+Episode Name: Otonari no Tenshisama ni Itsunomanika Dame Ningen ni Sareteita Ken episode 5 sub
 
-Episode Link: https://allanime.site/watch/KYpzGNKSK3xZ24t5v/Cool-Doji-Danshi/episode-17-sub
+Episode Link: https://allanime.site/watch/gHQe2eBBh57QdC9hZ/Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken/episode-5-sub
  
 # Analytics
 
