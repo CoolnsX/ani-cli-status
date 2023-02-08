@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kamitachi ni Hirowareta Otoko 2 episode 5 sub
+Episode Name: Sekai no Owari ni Shiba Inu to episode 72 sub
 
-Episode Link: https://allanime.site/watch/eG5HmbQoTpEwyoCLy/Kamitachi-ni-Hirowareta-Otoko-2/episode-5-sub
+Episode Link: https://allanime.site/watch/epSt4CA4cA77ZqLG2/Sekai-no-Owari-ni-Shiba-Inu-to/episode-72-sub
  
 # Analytics
 
