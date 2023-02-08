@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Otonari no Tenshisama ni Itsunomanika Dame Ningen ni Sareteita Ken episode 5 sub
+Episode Name: Kamitachi ni Hirowareta Otoko 2 episode 5 sub
 
-Episode Link: https://allanime.site/watch/gHQe2eBBh57QdC9hZ/Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken/episode-5-sub
+Episode Link: https://allanime.site/watch/eG5HmbQoTpEwyoCLy/Kamitachi-ni-Hirowareta-Otoko-2/episode-5-sub
  
 # Analytics
 
