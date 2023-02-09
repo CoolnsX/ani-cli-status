@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bungou Stray Dogs Season 4 episode 6 sub
+Episode Name: Pole Princess episode 2 sub
 
-Episode Link: https://allanime.site/watch/ngqMserTge69YDZoa/Bungou-Stray-Dogs-Season-4/episode-6-sub
+Episode Link: https://allanime.site/watch/rXJSRkJ8sXohcBjX2/Pole-Princess/episode-2-sub
  
 # Analytics
 
