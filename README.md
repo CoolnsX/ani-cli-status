@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Inu to Shounen episode 1 sub
+Episode Name: Dr Slump Aralechan episode 132 sub
 
-Episode Link: https://allanime.site/watch/LL8TtiEM8aAbMBE7D/Inu-to-Shounen/episode-1-sub
+Episode Link: https://allanime.site/watch/PGqQKyyef49RWDzsc/Dr-Slump-Aralechan/episode-132-sub
  
 # Analytics
 
