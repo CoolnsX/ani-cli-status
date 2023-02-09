@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cool Doji Danshi episode 17 sub
+Episode Name: Futaribun no Shoumei episode 1 sub
 
-Episode Link: https://allanime.site/watch/KYpzGNKSK3xZ24t5v/Cool-Doji-Danshi/episode-17-sub
+Episode Link: https://allanime.site/watch/MZprNXZ5xwiKMoWRx/Futaribun-no-Shoumei/episode-1-sub
  
 # Analytics
 
