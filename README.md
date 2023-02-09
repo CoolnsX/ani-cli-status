@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Pole Princess episode 2 sub
+Episode Name: HIGH CARD episode 5 sub
 
-Episode Link: https://allanime.site/watch/rXJSRkJ8sXohcBjX2/Pole-Princess/episode-2-sub
+Episode Link: https://allanime.site/watch/33bCBNg5ecC4E4hy4/HIGH-CARD/episode-5-sub
  
 # Analytics
 
