@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Benriya Saitousan Isekai ni Iku episode 5 sub
+Episode Name: Bungou Stray Dogs Season 4 episode 6 sub
 
-Episode Link: https://allanime.site/watch/tHj6qohGA7CkrXizm/Benriya-Saitousan-Isekai-ni-Iku/episode-5-sub
+Episode Link: https://allanime.site/watch/ngqMserTge69YDZoa/Bungou-Stray-Dogs-Season-4/episode-6-sub
  
 # Analytics
 
