@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mou Ippon episode 5 sub
+Episode Name: Cool Doji Danshi episode 17 sub
 
-Episode Link: https://allanime.site/watch/ALFcvrH98JhPPxZLe/Mou-Ippon/episode-5-sub
+Episode Link: https://allanime.site/watch/KYpzGNKSK3xZ24t5v/Cool-Doji-Danshi/episode-17-sub
  
 # Analytics
 
