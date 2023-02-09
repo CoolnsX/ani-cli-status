@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tomochan wa Onnanoko episode 6 sub
+Episode Name: TECHNOROID OVERMIND episode 6 sub
 
-Episode Link: https://allanime.site/watch/3QCFtixZM7P628ANS/Tomochan-wa-Onnanoko/episode-6-sub
+Episode Link: https://allanime.site/watch/RXxqQbvYzeTTEjdjD/TECHNOROID-OVERMIND/episode-6-sub
  
 # Analytics
 
