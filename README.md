@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Aralechan episode 132 sub
+Episode Name: Tsurune Tsunagari no Issha episode 6 sub
 
-Episode Link: https://allanime.site/watch/PGqQKyyef49RWDzsc/Dr-Slump-Aralechan/episode-132-sub
+Episode Link: https://allanime.site/watch/9jvX92kHuSKMKbZZr/Tsurune-Tsunagari-no-Issha/episode-6-sub
  
 # Analytics
 
