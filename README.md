@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Futaribun no Shoumei episode 1 sub
+Episode Name: Koori Zokusei Danshi to Cool na Douryou Joshi episode 6 sub
 
-Episode Link: https://allanime.site/watch/MZprNXZ5xwiKMoWRx/Futaribun-no-Shoumei/episode-1-sub
+Episode Link: https://allanime.site/watch/nKstb8KKWgf7JPoMS/Koori-Zokusei-Danshi-to-Cool-na-Douryou-Joshi/episode-6-sub
  
 # Analytics
 
