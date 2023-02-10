@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Koori Zokusei Danshi to Cool na Douryou Joshi episode 6 sub
+Episode Name: Inu to Shounen episode 1 sub
 
-Episode Link: https://allanime.site/watch/nKstb8KKWgf7JPoMS/Koori-Zokusei-Danshi-to-Cool-na-Douryou-Joshi/episode-6-sub
+Episode Link: https://allanime.site/watch/LL8TtiEM8aAbMBE7D/Inu-to-Shounen/episode-1-sub
  
 # Analytics
 
