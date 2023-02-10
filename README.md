@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hyouken no Majutsushi ga Sekai wo Suberu episode 6 sub
+Episode Name: Kage no Jitsuryokusha ni Naritakute episode 19 sub
 
-Episode Link: https://allanime.site/watch/8veroiWeqhvPLrBnS/Hyouken-no-Majutsushi-ga-Sekai-wo-Suberu/episode-6-sub
+Episode Link: https://allanime.site/watch/YeWtc8REZAGKPeb6q/Kage-no-Jitsuryokusha-ni-Naritakute/episode-19-sub
  
 # Analytics
 
