@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Toutotsu ni Egypt Shin 2 episode 5 sub
+Episode Name: Ninjala episode 54 sub
 
-Episode Link: https://allanime.site/watch/6AJ6LBb5hveDPGf7J/Toutotsu-ni-Egypt-Shin-2/episode-5-sub
+Episode Link: https://allanime.site/watch/L32rWRjwz57uxfjbB/Ninjala/episode-54-sub
  
 # Analytics
 
