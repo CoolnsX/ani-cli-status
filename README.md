@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: TECHNOROID OVERMIND episode 6 sub
+Episode Name: Hyouken no Majutsushi ga Sekai wo Suberu episode 6 sub
 
-Episode Link: https://allanime.site/watch/RXxqQbvYzeTTEjdjD/TECHNOROID-OVERMIND/episode-6-sub
+Episode Link: https://allanime.site/watch/8veroiWeqhvPLrBnS/Hyouken-no-Majutsushi-ga-Sekai-wo-Suberu/episode-6-sub
  
 # Analytics
 
