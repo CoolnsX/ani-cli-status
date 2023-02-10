@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cap Kakumei Bottleman DX episode 44 sub
+Episode Name: Futaribun no Shoumei episode 1 sub
 
-Episode Link: https://allanime.site/watch/sZeSpAo8wPQS2wmFg/Cap-Kakumei-Bottleman-DX/episode-44-sub
+Episode Link: https://allanime.site/watch/MZprNXZ5xwiKMoWRx/Futaribun-no-Shoumei/episode-1-sub
  
 # Analytics
 
