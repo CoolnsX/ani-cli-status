@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shin Shinka no Mi Shiranai Uchi ni Kachigumi Jinsei episode 5 sub
+Episode Name: Inu ni Nattara Suki na Hito ni Hirowareta episode 6 sub
 
-Episode Link: https://allanime.site/watch/pBWpXMsB9xnjK24yk/Shin-Shinka-no-Mi-Shiranai-Uchi-ni-Kachigumi-Jinsei/episode-5-sub
+Episode Link: https://allanime.site/watch/EH8AvAtoS42vNzuQP/Inu-ni-Nattara-Suki-na-Hito-ni-Hirowareta/episode-6-sub
  
 # Analytics
 
