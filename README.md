@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Inu ni Nattara Suki na Hito ni Hirowareta episode 6 sub
+Episode Name: REVENGER episode 6 sub
 
-Episode Link: https://allanime.site/watch/EH8AvAtoS42vNzuQP/Inu-ni-Nattara-Suki-na-Hito-ni-Hirowareta/episode-6-sub
+Episode Link: https://allanime.site/watch/XyQzjqX8H8S2fJvL9/REVENGER/episode-6-sub
  
 # Analytics
 
