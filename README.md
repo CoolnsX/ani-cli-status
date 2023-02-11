@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Lupin Shanshei episode 11 sub
+Episode Name: The Legend of Heroes Sen no Kiseki  Northern War episode 6 sub
 
-Episode Link: https://allanime.site/watch/p5XomJH85zDnPmJ9q/Lupin-Shanshei/episode-11-sub
+Episode Link: https://allanime.site/watch/AwQnmMPSpo8KNSDAs/The-Legend-of-Heroes-Sen-no-Kiseki--Northern-War/episode-6-sub
  
 # Analytics
 
