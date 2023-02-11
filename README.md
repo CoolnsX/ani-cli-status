@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Oujo to Tensai Reijou no Mahou Kakumei episode 6 sub
+Episode Name: Lupin Shanshei episode 11 sub
 
-Episode Link: https://allanime.site/watch/Z6PNbEn378pmGhMAQ/Tensei-Oujo-to-Tensai-Reijou-no-Mahou-Kakumei/episode-6-sub
+Episode Link: https://allanime.site/watch/p5XomJH85zDnPmJ9q/Lupin-Shanshei/episode-11-sub
  
 # Analytics
 
