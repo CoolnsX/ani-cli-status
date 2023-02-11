@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Legend of Heroes Sen no Kiseki  Northern War episode 6 sub
+Episode Name: Shin Shinka no Mi Shiranai Uchi ni Kachigumi Jinsei episode 5 sub
 
-Episode Link: https://allanime.site/watch/AwQnmMPSpo8KNSDAs/The-Legend-of-Heroes-Sen-no-Kiseki--Northern-War/episode-6-sub
+Episode Link: https://allanime.site/watch/pBWpXMsB9xnjK24yk/Shin-Shinka-no-Mi-Shiranai-Uchi-ni-Kachigumi-Jinsei/episode-5-sub
  
 # Analytics
 
