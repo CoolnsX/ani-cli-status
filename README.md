@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Araiguma Rascal episode 31 sub
+Episode Name: The Legend of Heroes Sen no Kiseki  Northern War episode 6 sub
 
-Episode Link: https://allanime.site/watch/2BfL69oW9fbiRJwgC/Araiguma-Rascal/episode-31-sub
+Episode Link: https://allanime.site/watch/AwQnmMPSpo8KNSDAs/The-Legend-of-Heroes-Sen-no-Kiseki--Northern-War/episode-6-sub
  
 # Analytics
 
