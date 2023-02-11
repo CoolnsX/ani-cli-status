@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hyouken no Majutsushi ga Sekai wo Suberu episode 6 sub
+Episode Name: Ooyukiumi no Kaina episode 5 sub
 
-Episode Link: https://allanime.site/watch/8veroiWeqhvPLrBnS/Hyouken-no-Majutsushi-ga-Sekai-wo-Suberu/episode-6-sub
+Episode Link: https://allanime.site/watch/kTXMP2k6GgDw35RZz/Ooyukiumi-no-Kaina/episode-5-sub
  
 # Analytics
 
