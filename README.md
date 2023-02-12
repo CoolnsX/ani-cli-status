@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shisontachi no Gakkou e Kayou II episode 6 sub
+Episode Name: Ijiranaide Nagatorosan 2nd Attack episode 7 sub
 
-Episode Link: https://allanime.site/watch/zyr6mTjBhJAeJBc9m/Maou-Gakuin-no-Futekigousha-Shijou-Saikyou-no-Maou-no-Shiso-Tensei-shite-Shisontachi-no-Gakkou-e-Kayou-II/episode-6-sub
+Episode Link: https://allanime.site/watch/DA4gs9xnpgLC7AgDa/Ijiranaide-Nagatorosan-2nd-Attack/episode-7-sub
  
 # Analytics
 
