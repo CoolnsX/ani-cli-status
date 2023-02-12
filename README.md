@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: UniteUp episode 4 sub
+Episode Name: Hikari no Ou episode 5 sub
 
-Episode Link: https://allanime.site/watch/Jfb9xyZHFGybmHkWZ/UniteUp/episode-4-sub
+Episode Link: https://allanime.site/watch/rjx39fbf9qNciPL6H/Hikari-no-Ou/episode-5-sub
  
 # Analytics
 
