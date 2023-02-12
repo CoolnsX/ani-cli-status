@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Magical★Taruruutokun episode 10 sub
+Episode Name: Saikyou Onmyouji no Isekai Tenseiki episode 6 sub
 
-Episode Link: https://allanime.site/watch/yTszgTsufjJcz6AZc/Magical★Taruruutokun/episode-10-sub
+Episode Link: https://allanime.site/watch/pJGRqiy3gj9PA6KXY/Saikyou-Onmyouji-no-Isekai-Tenseiki/episode-6-sub
  
 # Analytics
 
