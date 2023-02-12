@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai Nonbiri Nouka episode 6 sub
+Episode Name: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV Shin Shou Yakusaihen episode 6 sub
 
-Episode Link: https://allanime.site/watch/f2GDdpYPTGXSxT56Z/Isekai-Nonbiri-Nouka/episode-6-sub
+Episode Link: https://allanime.site/watch/GPGmNh83WhsBPLCmE/Dungeon-ni-Deai-wo-Motomeru-no-wa-Machigatteiru-Darou-ka-IV-Shin-Shou-Yakusaihen/episode-6-sub
  
 # Analytics
 
