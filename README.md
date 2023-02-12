@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hikari no Ou episode 5 sub
+Episode Name: Spy Kyoushitsu episode 6 sub
 
-Episode Link: https://allanime.site/watch/rjx39fbf9qNciPL6H/Hikari-no-Ou/episode-5-sub
+Episode Link: https://allanime.site/watch/4YrAiPvTvjMJc66oG/Spy-Kyoushitsu/episode-6-sub
  
 # Analytics
 
