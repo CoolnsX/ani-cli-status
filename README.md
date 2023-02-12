@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Araiguma Rascal episode 31 sub
+Episode Name: Isekai Nonbiri Nouka episode 6 sub
 
-Episode Link: https://allanime.site/watch/2BfL69oW9fbiRJwgC/Araiguma-Rascal/episode-31-sub
+Episode Link: https://allanime.site/watch/f2GDdpYPTGXSxT56Z/Isekai-Nonbiri-Nouka/episode-6-sub
  
 # Analytics
 
