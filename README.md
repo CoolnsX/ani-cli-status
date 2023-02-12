@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mairimashita Irumakun 3 episode 18 sub
+Episode Name: Cardfight Vanguard willDress Season 2 episode 5 sub
 
-Episode Link: https://allanime.site/watch/DcR2JWWRP2yC8ap4R/Mairimashita-Irumakun-3/episode-18-sub
+Episode Link: https://allanime.site/watch/LxBHAAaGE2oTSRkfp/Cardfight-Vanguard-willDress-Season-2/episode-5-sub
  
 # Analytics
 
