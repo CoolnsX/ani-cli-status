@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Blue Lock episode 18 sub
+Episode Name: IDOLiSH7 3rd Beat Part 2 episode 15 sub
 
-Episode Link: https://allanime.site/watch/Jn9L757r53Chiata9/Blue-Lock/episode-18-sub
+Episode Link: https://allanime.site/watch/ys46zrSYHuJ3zkKL8/IDOLiSH7-3rd-Beat-Part-2/episode-15-sub
  
 # Analytics
 
