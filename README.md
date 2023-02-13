@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kaiko sareta Ankoku Heishi 30dai no Slow na Second Life episode 6 sub
+Episode Name: Yowamushi Pedal LIMIT BREAK episode 18 sub
 
-Episode Link: https://allanime.site/watch/G8kAeW6JdpT33cKCs/Kaiko-sareta-Ankoku-Heishi-30dai-no-Slow-na-Second-Life/episode-6-sub
+Episode Link: https://allanime.site/watch/Lbax2qc6Taj2NHmbZ/Yowamushi-Pedal-LIMIT-BREAK/episode-18-sub
  
 # Analytics
 
