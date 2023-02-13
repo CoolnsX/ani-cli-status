@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sugar Apple Fairy Tale episode 6 sub
+Episode Name: Chibi Marukochan episode 92 sub
 
-Episode Link: https://allanime.site/watch/H4eRswTRg6hdzKcJT/Sugar-Apple-Fairy-Tale/episode-6-sub
+Episode Link: https://allanime.site/watch/uKbkvLQv9usCvyAkQ/Chibi-Marukochan/episode-92-sub
  
 # Analytics
 
