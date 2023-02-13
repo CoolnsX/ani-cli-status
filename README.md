@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Digimon Ghost Game episode 63 sub
+Episode Name: KanColle Itsuka Ano Umi de episode 7 sub
 
-Episode Link: https://allanime.site/watch/mg5JRppYBTsbYvBwj/Digimon-Ghost-Game/episode-63-sub
+Episode Link: https://allanime.site/watch/vvgtpQoDWs8TGHyyq/KanColle-Itsuka-Ano-Umi-de/episode-7-sub
  
 # Analytics
 
