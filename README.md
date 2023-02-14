@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: D4DJ All Mix episode 6 sub
+Episode Name: Blue Lock episode 18 sub
 
-Episode Link: https://allanime.site/watch/CWv4JxD5KqsgvoLES/D4DJ-All-Mix/episode-6-sub
+Episode Link: https://allanime.site/watch/Jn9L757r53Chiata9/Blue-Lock/episode-18-sub
  
 # Analytics
 
