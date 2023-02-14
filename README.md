@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush episode 45 sub
+Episode Name: One Piece episode 1051 sub
 
-Episode Link: https://allanime.site/watch/C6DdMx7nogeqT3uco/Yu☆Gi☆Oh-Go-Rush/episode-45-sub
+Episode Link: https://allanime.site/watch/ReooPAxPMsHM4KPMY/One-Piece/episode-1051-sub
  
 # Analytics
 
