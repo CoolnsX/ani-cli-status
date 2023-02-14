@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mononogatari episode 6 sub
+Episode Name: Tokyo Revengers Seiya Kessenhen episode 6 sub
 
-Episode Link: https://allanime.site/watch/oSHKD2ZMyEpMXYTX5/Mononogatari/episode-6-sub
+Episode Link: https://allanime.site/watch/N2FRTTAiCuh7C7Po7/Tokyo-Revengers-Seiya-Kessenhen/episode-6-sub
  
 # Analytics
 
