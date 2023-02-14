@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tokyo Revengers Seiya Kessenhen episode 6 sub
+Episode Name: Kubosan wa Mob wo Yurusanai episode 6 sub
 
-Episode Link: https://allanime.site/watch/N2FRTTAiCuh7C7Po7/Tokyo-Revengers-Seiya-Kessenhen/episode-6-sub
+Episode Link: https://allanime.site/watch/h6voZ9jYKnku7GKA3/Kubosan-wa-Mob-wo-Yurusanai/episode-6-sub
  
 # Analytics
 
