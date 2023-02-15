@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Punirunes episode 19 sub
+Episode Name: IDOLiSH7 3rd Beat Part 2 episode 15 sub
 
-Episode Link: https://allanime.site/watch/ANWz4vrrsEC2AX39R/Punirunes/episode-19-sub
+Episode Link: https://allanime.site/watch/ys46zrSYHuJ3zkKL8/IDOLiSH7-3rd-Beat-Part-2/episode-15-sub
  
 # Analytics
 
