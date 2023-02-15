@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ijiranaide Nagatorosan 2nd Attack episode 7 sub
+Episode Name: High Card episode 6 sub
 
-Episode Link: https://allanime.site/watch/DA4gs9xnpgLC7AgDa/Ijiranaide-Nagatorosan-2nd-Attack/episode-7-sub
+Episode Link: https://allanime.site/watch/33bCBNg5ecC4E4hy4/High-Card/episode-6-sub
  
 # Analytics
 
