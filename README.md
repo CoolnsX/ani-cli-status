@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu 2 episode 6 sub
+Episode Name: Technoroid Overmind episode 7 sub
 
-Episode Link: https://allanime.site/watch/KvwcmHRSya4RWdNAJ/Itai-no-wa-Iya-nano-de-Bougyoryoku-ni-Kyokufuri-Shitai-to-Omoimasu-2/episode-6-sub
+Episode Link: https://allanime.site/watch/RXxqQbvYzeTTEjdjD/Technoroid-Overmind/episode-7-sub
  
 # Analytics
 
