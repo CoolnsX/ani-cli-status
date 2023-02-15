@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cap Kakumei Bottleman DX episode 45 sub
+Episode Name: Cool Doji Danshi episode 18 sub
 
-Episode Link: https://allanime.site/watch/sZeSpAo8wPQS2wmFg/Cap-Kakumei-Bottleman-DX/episode-45-sub
+Episode Link: https://allanime.site/watch/KYpzGNKSK3xZ24t5v/Cool-Doji-Danshi/episode-18-sub
  
 # Analytics
 
