@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Oujo to Tensai Reijou no Mahou Kakumei episode 7 sub
+Episode Name: Hirogaru Sky Precure episode 2 sub
 
-Episode Link: https://allanime.site/watch/Z6PNbEn378pmGhMAQ/Tensei-Oujo-to-Tensai-Reijou-no-Mahou-Kakumei/episode-7-sub
+Episode Link: https://allanime.site/watch/wya3joHqqvYRLqMBK/Hirogaru-Sky-Precure/episode-2-sub
  
 # Analytics
 
