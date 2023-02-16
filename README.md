@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mou Ippon episode 6 sub
+Episode Name: Tensei Oujo to Tensai Reijou no Mahou Kakumei episode 7 sub
 
-Episode Link: https://allanime.site/watch/ALFcvrH98JhPPxZLe/Mou-Ippon/episode-6-sub
+Episode Link: https://allanime.site/watch/Z6PNbEn378pmGhMAQ/Tensei-Oujo-to-Tensai-Reijou-no-Mahou-Kakumei/episode-7-sub
  
 # Analytics
 
