@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Majutsushi Orphen Hagure Tabi Urbanramahen episode 5 sub
+Episode Name: Tomochan wa Onnanoko episode 7 sub
 
-Episode Link: https://allanime.site/watch/NZsLJGnzxwoPSAbya/Majutsushi-Orphen-Hagure-Tabi-Urbanramahen/episode-5-sub
+Episode Link: https://allanime.site/watch/3QCFtixZM7P628ANS/Tomochan-wa-Onnanoko/episode-7-sub
  
 # Analytics
 
