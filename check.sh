@@ -51,7 +51,7 @@ wait
 
 #scraping gogoanime id for their inbuilt providers for my website
 id=$(printf "%s" "$data" | sed -nE 's/Vid-mp4 :([^&]*).*/\1/p')
-resp="$(curl -A "$agent" -sL "https://gogohd.net/streaming.php?id=$id" | sed -nE 's/.*data-status="1".*data-video="(.*)">.*/\1/p')"
+resp="$(curl -A "$agent" -sL "https://anihdplay.com/streaming.php?id=$id" | sed -nE 's/.*data-status="1".*data-video="(.*)">.*/\1/p')"
 [ -z "$resp" ] || printf "\33[2K\r\033[1;32m link providers (GOGO)>>\033[0m\n%s\n" "$resp"
 
 #xstreamcdn(fembed) links
