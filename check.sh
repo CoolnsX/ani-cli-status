@@ -24,10 +24,13 @@ total=$(cat total)
 total=$((total+1))
 printf "%s" "$total" > total
 agent="Mozilla/5.0"
-[ -z "$*" ] && url=$(curl -s "$base_url/allanimeapi?variables=%7B%22search%22%3A%7B%22sortBy%22%3A%22Recent%22%2C%22allowAdult%22%3Afalse%2C%22allowUnknown%22%3Afalse%7D%2C%22limit%22%3A40%2C%22page%22%3A1%2C%22translationType%22%3A%22sub%22%2C%22countryOrigin%22%3A%22JP%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22c4305f3918591071dfecd081da12243725364f6b7dd92072df09d915e390b1b7%22%7D%7D" -A "$agent" | sed 's|Show|\n|g' | sed -nE 's|.*_id":"([^"]*)","name":"([^"]*)".*"sub":([1-9][^,]*).*|\1\t\2\tepisode \3 sub|p' | shuf -n1 | tr -d '[:punct:]' | tr ' \t' '-/') || url=$*
-[ -z "$url" ] && exit 0 || printf "\033[1;35mSelected %s\n\033[1;36mLoading Episode.." "$url"
-sed -i -E "s_Episode Name: (.*)_Episode Name: $(printf "$url" | cut -d"/" -f2- | tr "[:punct:]" " ")_g ; s_${base_url}(.*)_${base_url}/watch/${url}_g" README.md &
-data=$(curl -A "$agent" -s "${base_url}/watch/${url}" | tr '{}' '\n' | sed 's|\\u002F|\/|g;s|\\||g' | sed -nE 's|.*sourceUrl":".*?id=([^"]*)".*sourceName":"([^"]*)".*|\2 :\1|p')
+[ -z "$*" ] && url=$(curl -s "$base_url/allanimeapi?variables=%7B%22search%22%3A%7B%22sortBy%22%3A%22Recent%22%2C%22allowAdult%22%3Afalse%2C%22allowUnknown%22%3Afalse%7D%2C%22limit%22%3A40%2C%22page%22%3A1%2C%22translationType%22%3A%22sub%22%2C%22countryOrigin%22%3A%22JP%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22c4305f3918591071dfecd081da12243725364f6b7dd92072df09d915e390b1b7%22%7D%7D" -A "$agent" | sed 's|Show|\n|g' | sed -nE 's|.*_id":"([^"]*)","name":"([^"]*)".*"sub":([1-9][^,]*).*|\1\t\2 Episode \3|p' | shuf -n1 | tr '[:punct:]' ' ' | tr -s ' ') || url=$*
+title=$(printf "%s" "$url" | cut -f2-)
+id=$(printf "%s" "$url" | cut -f1)
+ep_no=$(printf "%s" "$url" | sed 's/.*Episode //g')
+[ -z "$url" ] && exit 0 || printf "\033[1;35mSelected %s\n\033[1;36mLoading Episode.." "$title"
+sed -i -E "s_Episode Name: (.*)_Episode Name: $(printf "$title" | cut -d"/" -f2- | tr "[:punct:]" " ")_g ; s_${base_url}(.*)_${base_url}/watch/${id}/episode-${ep_no}-sub_g" README.md &
+data=$(curl -A "$agent" -s "$base_url/allanimeapi?variables=%7B%22showId%22%3A%22$id%22%2C%22translationType%22%3A%22sub%22%2C%22countryOrigin%22%3A%22ALL%22%2C%22episodeString%22%3A%22$ep_no%22%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22919e327075ac9e249d003aa3f804a48bbdf22d7b1d107ffe659accd54283ce48%22%7D%7D" | tr '{}' '\n' | sed 's|\\u002F|\/|g;s|\\||g' | sed -nE 's|.*sourceUrl":".*?id=([^"]*)".*sourceName":"([^"]*)".*|\2 :\1|p')
 
 #vrv links
 provider_run "vrv" "/Ac :/p" &
