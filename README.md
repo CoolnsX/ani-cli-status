@@ -6,7 +6,7 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV Shin Shou Yakusai hen Episode 9
+Episode Name: Urusei Yatsura 2022 Episode 20
 
 Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-6-sub
  
