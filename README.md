@@ -6,7 +6,7 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shin Shinka no Mi Shiranai Uchi ni Kachigumi Jinsei Episode 8
+Episode Name: Ningen Fushin no Boukensha tachi ga Sekai wo Sukuu you desu Episode 9
 
 Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-6-sub
  
