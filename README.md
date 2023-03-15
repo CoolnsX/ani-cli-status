@@ -6,7 +6,7 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 6
+Episode Name: Mononogatari Episode 10
 
 Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-6-sub
  
