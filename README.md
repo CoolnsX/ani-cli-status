@@ -6,7 +6,7 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Fumetsu no Anata e Season 2 Episode 20
+Episode Name: Ganbare Genki Episode 1
 
 Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-6-sub
  
