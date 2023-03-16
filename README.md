@@ -6,7 +6,7 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ooyukiumi no Kaina Episode 10
+Episode Name: Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV Shin Shou Yakusai hen Episode 11
 
 Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-6-sub
  
