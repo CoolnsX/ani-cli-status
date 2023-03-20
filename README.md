@@ -6,7 +6,7 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kaiko sareta Ankoku Heishi 30 dai no Slow na Second Life Episode 11
+Episode Name: The Legend of Heroes Sen no Kiseki Northern War Episode 11
 
 Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-6-sub
  
