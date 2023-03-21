@@ -6,7 +6,7 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Koori Zokusei Danshi to Cool na Douryou Joshi Episode 12
+Episode Name: Nokemono tachi no Yoru Episode 11
 
 Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-6-sub
  
