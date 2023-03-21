@@ -6,7 +6,7 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ayakashi Triangle Episode 7
+Episode Name: Rougo ni Sonaete Isekai de 8 manmai no Kinka wo Tamemasu Episode 11
 
 Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-6-sub
  

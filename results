@@ -1,9 +1,9 @@
-pstatic : ! No embed link
-vrv : ! No embed link
 usercloud : ! No embed link
+pstatic : ! No embed link
+vrv : ✗ No link returned
+gogoplay : ✓ 3 links returned
 sharepoint : ✓ 1 links returned
-gogoplay : ✗ No link returned
-xstreamcdn : ! No embed link
-doodstream : ! No embed link
+xstreamcdn : ✓ 3 links returned
 mp4upload : ! No embed link
-hentaimama : ✓ 2 links returned
+doodstream : ✓ 1 link returned
+hentaimama : ✓ 3 links returned
