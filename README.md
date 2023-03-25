@@ -6,7 +6,7 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Kabocha Wine Episode 30
+Episode Name: Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou kun to Kaisetsu no Kobayashi san Episode 12
 
 Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-6-sub
  
