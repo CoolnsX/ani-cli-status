@@ -6,7 +6,7 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sugar Apple Fairy Tale Episode 12
+Episode Name: The Legend of Heroes Sen no Kiseki Northern War Episode 12
 
 Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-6-sub
  
