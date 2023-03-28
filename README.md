@@ -6,7 +6,7 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Punirunes Episode 25
+Episode Name: Kaiko sareta Ankoku Heishi 30 dai no Slow na 2nd Life Episode 12
 
 Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-6-sub
  
