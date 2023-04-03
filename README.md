@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cardfight Vanguard will Dress Season 2 Episode 12
+Episode Name: Gun dou Musashi Episode 13
 
-Episode Link: https://allanime.to/watch/LxBHAAaGE2oTSRkfp/episode-12-sub
+Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-13-sub
  
 # Analytics
 
