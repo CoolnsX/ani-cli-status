@@ -21,6 +21,7 @@ provider_run(){
 #intializing
 printf "" > results
 base_url="https://api.allanime.to"
+lol="https://allanime.to"
 total=$(cat total)
 total=$((total+1))
 printf "%s" "$total" > total
@@ -31,7 +32,7 @@ title=$(printf "%s" "$url" | cut -f2-)
 id=$(printf "%s" "$url" | cut -f1)
 ep_no=$(printf "%s" "$url" | sed 's/.*Episode //g')
 [ -z "$url" ] && exit 0 || printf "\033[1;35mSelected %s\n\033[1;36mLoading Episode.." "$title"
-sed -i -E "s_Episode Name: (.*)_Episode Name: $(printf "$title" | cut -d"/" -f2- | tr "[:punct:]" " ")_g ; s_${base_url}(.*)_${base_url}/watch/${id}/episode-${ep_no}-sub_g" README.md &
+sed -i -E "s_Episode Name: (.*)_Episode Name: $(printf "$title" | cut -d"/" -f2- | tr "[:punct:]" " ")_g ; s_${lol}(.*)_${lol}/watch/${id}/episode-${ep_no}-sub_g" README.md &
 episode_embed_gql="query (\$showId: String!, \$translationType: VaildTranslationTypeEnumType!, \$episodeString: String!) {    episode(        showId: \$showId        translationType: \$translationType        episodeString: \$episodeString    ) {        episodeString sourceUrls    }}"
 data=$(curl -A "$agent" -s -G "$base_url/allanimeapi" -d "variables=%7B%22showId%22%3A%22$id%22%2C%22translationType%22%3A%22sub%22%2C%22countryOrigin%22%3A%22ALL%22%2C%22episodeString%22%3A%22$ep_no%22%7D" --data-urlencode "query=$episode_embed_gql" | tr '{}' '\n' | sed 's|\\u002F|\/|g;s|\\||g' | sed -nE 's|.*sourceUrl":".*?id=([^"]*)".*sourceName":"([^"]*)".*|\2 :\1|p')
 
