@@ -6,7 +6,7 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Inu ni Nattara Suki na Hito ni Hirowareta Episode 13
+Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 1
 
 Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-6-sub
  
