@@ -8,7 +8,7 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 Episode Name: Boku no Kokoro no Yabai Yatsu Episode 1
 
-Episode Link: https://allanime.site/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-6-sub
+Episode Link: https://allanime.to/watch/qFy93F8tjbSnDdwLH/Kyokou-Suiri-2/episode-6-sub
  
 # Analytics
 
