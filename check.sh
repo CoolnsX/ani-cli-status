@@ -26,7 +26,7 @@ total=$((total+1))
 printf "%s" "$total" > total
 agent="Mozilla/5.0"
 query="query(        \$search: SearchInput        \$limit: Int        \$page: Int        \$translationType: VaildTranslationTypeEnumType        \$countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: \$search        limit: \$limit        page: \$page        translationType: \$translationType        countryOrigin: \$countryOrigin    ) {        edges {            _id name lastEpisodeInfo __typename       }    }}"
-[ -z "$*" ] && url=$(curl -s -G "$base_url/allanimeapi" -d "variables=%7B%22search%22%3A%7B%22sortBy%22%3A%22Recent%22%2C%22allowAdult%22%3Afalse%2C%22allowUnknown%22%3Afalse%7D%2C%22limit%22%3A40%2C%22page%22%3A1%2C%22translationType%22%3A%22sub%22%2C%22countryOrigin%22%3A%22JP%22%7D" --data-urlencode "query=$query"  -A "$agent" | sed 's|Show|\n|g' | sed -nE 's|.*_id":"([^"]*)","name":"([^"]*)".*"sub":([1-9][^,]*).*|\1\t\2 Episode \3|p' | shuf -n1 | tr '[:punct:]' ' ' | tr -s ' ') || url=$*
+[ -z "$*" ] && url=$(curl -s -G "$base_url/allanimeapi" -d "variables=%7B%22search%22%3A%7B%22sortBy%22%3A%22Recent%22%2C%22allowAdult%22%3Afalse%2C%22allowUnknown%22%3Afalse%7D%2C%22limit%22%3A40%2C%22page%22%3A1%2C%22translationType%22%3A%22sub%22%2C%22countryOrigin%22%3A%22JP%22%7D" --data-urlencode "query=$query"  -A "$agent" | sed 's|Show|\n|g' | sed -nE 's|.*_id":"([^"]*)","name":"([^"]*)".*sub":\{"episodeString":"([^"]*)".*|\1\t\2 Episode \3|p' | shuf -n1 | tr '[:punct:]' ' ' | tr -s ' ') || url=$*
 title=$(printf "%s" "$url" | cut -f2-)
 id=$(printf "%s" "$url" | cut -f1)
 ep_no=$(printf "%s" "$url" | sed 's/.*Episode //g')
