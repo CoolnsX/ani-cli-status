@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Beyblade Burst God Episode 29
+Episode Name: Cardfight Vanguard will Dress Season 2 Episode 12
 
-Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-29-sub
+Episode Link: https://allanime.to/watch/LxBHAAaGE2oTSRkfp/episode-12-sub
  
 # Analytics
 
