@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nokemono tachi no Yoru Episode 13
+Episode Name: Jijou wo Shiranai Tenkousei ga Guigui Kuru Episode 1
 
-Episode Link: https://allanime.to/watch/wT7zFKYysvfHutgKz/episode-13-sub
+Episode Link: https://allanime.to/watch/pYpRanTbM2kcpdtr7/episode-1-sub
  
 # Analytics
 
