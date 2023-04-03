@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: One Piece Episode 1056
+Episode Name: Tengoku Daimakyou Episode 1
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1056-sub
+Episode Link: https://allanime.to/watch/gmGfya55qfP6QiPfe/episode-1-sub
  
 # Analytics
 
