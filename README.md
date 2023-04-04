@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Araiguma Rascal Episode 35
+Episode Name: Detective Conan TV Episode 1078
 
-Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-35-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1078-sub
  
 # Analytics
 
