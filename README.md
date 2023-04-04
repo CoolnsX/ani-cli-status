@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Alice Gear Aegis Expansion Episode 1
+Episode Name: Skip to Loafer Episode 1
 
-Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-1-sub
+Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-1-sub
  
 # Analytics
 
