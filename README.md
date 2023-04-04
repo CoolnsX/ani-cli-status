@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: One Piece Episode 1056
+Episode Name: Alice Gear Aegis Expansion Episode 1
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1056-sub
+Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-1-sub
  
 # Analytics
 
