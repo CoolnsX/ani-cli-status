@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gun dou Musashi Episode 13
+Episode Name: Yume no Crayon Oukoku Episode 51
 
-Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-13-sub
+Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-51-sub
  
 # Analytics
 
