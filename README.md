@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yume no Crayon Oukoku Episode 51
+Episode Name: Araiguma Rascal Episode 35
 
-Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-51-sub
+Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-35-sub
  
 # Analytics
 
