@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tokyo Revengers Seiya Kessen hen Episode 13
+Episode Name: Jijou wo Shiranai Tenkousei ga Guigui Kuru Episode 1
 
-Episode Link: https://allanime.to/watch/N2FRTTAiCuh7C7Po7/episode-13-sub
+Episode Link: https://allanime.to/watch/pYpRanTbM2kcpdtr7/episode-1-sub
  
 # Analytics
 
