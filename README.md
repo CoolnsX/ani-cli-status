@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1078
+Episode Name: Vinland Saga Season 2 Episode 13
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1078-sub
+Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-13-sub
  
 # Analytics
 
