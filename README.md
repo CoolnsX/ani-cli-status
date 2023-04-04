@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi ni Tenshi ga Maiorita Precious Friends Episode 1
+Episode Name: One Piece Episode 1056
 
-Episode Link: https://allanime.to/watch/nEPyxmDkFpfGEAhxp/episode-1-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1056-sub
  
 # Analytics
 
