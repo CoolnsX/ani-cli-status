@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Reiwa no Di Gi Charat Episode 16
+Episode Name: Buddy Daddies Episode 12
 
-Episode Link: https://allanime.to/watch/xCXgbLTD63NhQwPft/episode-16-sub
+Episode Link: https://allanime.to/watch/JYFhv7ChppWbvLkBu/episode-12-sub
  
 # Analytics
 
