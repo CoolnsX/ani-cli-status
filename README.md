@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Vinland Saga Season 2 Episode 13
+Episode Name: Boku ga Aishita Subete no Kimi e Episode 1
 
-Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-13-sub
+Episode Link: https://allanime.to/watch/eqmfYfW3y3p4PiLzx/episode-1-sub
  
 # Analytics
 
