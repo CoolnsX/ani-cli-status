@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Beyblade Burst God Episode 29
+Episode Name: Reiwa no Di Gi Charat Episode 16
 
-Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-29-sub
+Episode Link: https://allanime.to/watch/xCXgbLTD63NhQwPft/episode-16-sub
  
 # Analytics
 
