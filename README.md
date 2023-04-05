@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi ni Tenshi ga Maiorita Precious Friends Episode 1
+Episode Name: Kimi wo Aishita Hitori no Boku e Episode 1
 
-Episode Link: https://allanime.to/watch/nEPyxmDkFpfGEAhxp/episode-1-sub
+Episode Link: https://allanime.to/watch/6CSG6F3Aw5xaEGmtW/episode-1-sub
  
 # Analytics
 
