@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Crayon Shin chan Movie 26 Bakumori Kung Fu Boys Ramen Tairan Episode 1
+Episode Name: Kizuna no Allele Episode 1
 
-Episode Link: https://allanime.to/watch/A7XJwxN4kPsXMaJs4/episode-1-sub
+Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-1-sub
  
 # Analytics
 
