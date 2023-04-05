@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Episode 1
+Episode Name: Jigokuraku Episode 1
 
-Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-1-sub
+Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-1-sub
  
 # Analytics
 
