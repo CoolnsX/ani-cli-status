@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nokemono tachi no Yoru Episode 13
+Episode Name: Kaguya sama wa Kokurasetai First Kiss wa Owaranai Episode 4
 
-Episode Link: https://allanime.to/watch/wT7zFKYysvfHutgKz/episode-13-sub
+Episode Link: https://allanime.to/watch/TeoTrxCsN9Y4inSug/episode-4-sub
  
 # Analytics
 
