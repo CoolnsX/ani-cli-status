@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nokemono tachi no Yoru Episode 13
+Episode Name: Pururun Shizuku chan Aha Episode 16
 
-Episode Link: https://allanime.to/watch/wT7zFKYysvfHutgKz/episode-13-sub
+Episode Link: https://allanime.to/watch/ygyYy7jXgkHtLZFTH/episode-16-sub
  
 # Analytics
 
