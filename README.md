@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Reiwa no Di Gi Charat Episode 16
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 5
 
-Episode Link: https://allanime.to/watch/xCXgbLTD63NhQwPft/episode-16-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-5-sub
  
 # Analytics
 
