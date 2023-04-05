@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boku ga Aishita Subete no Kimi e Episode 1
+Episode Name: Edens Zero Season 2 Episode 1
 
-Episode Link: https://allanime.to/watch/eqmfYfW3y3p4PiLzx/episode-1-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-1-sub
  
 # Analytics
 
