@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 9
+Episode Name: Nokemono tachi no Yoru Episode 13
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-9-sub
+Episode Link: https://allanime.to/watch/wT7zFKYysvfHutgKz/episode-13-sub
  
 # Analytics
 
