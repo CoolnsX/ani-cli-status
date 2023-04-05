@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: UniteUp Episode 10
+Episode Name: Beyblade Burst God Episode 29
 
-Episode Link: https://allanime.to/watch/Jfb9xyZHFGybmHkWZ/episode-10-sub
+Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-29-sub
  
 # Analytics
 
