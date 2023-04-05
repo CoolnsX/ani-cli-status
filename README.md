@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Pururun Shizuku chan Aha Episode 16
+Episode Name: Tokyo Revengers Seiya Kessen hen Episode 13
 
-Episode Link: https://allanime.to/watch/ygyYy7jXgkHtLZFTH/episode-16-sub
+Episode Link: https://allanime.to/watch/N2FRTTAiCuh7C7Po7/episode-13-sub
  
 # Analytics
 
