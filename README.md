@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kuma Kuma Kuma Bear Punch Episode 1
+Episode Name: Zetsubou no Kaibutsu Episode 1
 
-Episode Link: https://allanime.to/watch/9hPzd5tojwLbhkqLb/episode-1-sub
+Episode Link: https://allanime.to/watch/F4CKBaALgKdPwo7i2/episode-1-sub
  
 # Analytics
 
