@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 1
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 5
 
-Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-1-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-5-sub
  
 # Analytics
 
