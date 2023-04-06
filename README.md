@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 52
+Episode Name: Chibi Maruko chan Episode 101
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-52-sub
+Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-101-sub
  
 # Analytics
 
