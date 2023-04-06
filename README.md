@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Skip to Loafer Episode 1
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 52
 
-Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-1-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-52-sub
  
 # Analytics
 
