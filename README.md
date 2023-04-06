@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Pole Princess Episode 7
+Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 1
 
-Episode Link: https://allanime.to/watch/rXJSRkJ8sXohcBjX2/episode-7-sub
+Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-1-sub
  
 # Analytics
 
