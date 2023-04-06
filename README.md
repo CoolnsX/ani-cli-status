@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Vinland Saga Season 2 Episode 13
+Episode Name: Alice Gear Aegis Expansion Episode 1
 
-Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-13-sub
+Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-1-sub
  
 # Analytics
 
