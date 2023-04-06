@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jarinko Chie TV Episode 3
+Episode Name: Majutsushi Orphen Hagure Tabi Urbanrama hen Episode 12
 
-Episode Link: https://allanime.to/watch/mSxuech6C2kxLs5hy/episode-3-sub
+Episode Link: https://allanime.to/watch/NZsLJGnzxwoPSAbya/episode-12-sub
  
 # Analytics
 
