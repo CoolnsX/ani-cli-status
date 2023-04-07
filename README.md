@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Pole Princess Episode 7
+Episode Name: Zetsubou no Kaibutsu Episode 1
 
-Episode Link: https://allanime.to/watch/rXJSRkJ8sXohcBjX2/episode-7-sub
+Episode Link: https://allanime.to/watch/F4CKBaALgKdPwo7i2/episode-1-sub
  
 # Analytics
 
