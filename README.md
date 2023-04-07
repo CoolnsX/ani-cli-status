@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Machine Hayabusa Episode 21
+Episode Name: Watashi no Yuri wa Oshigoto desu Episode 1
 
-Episode Link: https://allanime.to/watch/43TWjbZYA6Ef2dGtp/episode-21-sub
+Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-1-sub
  
 # Analytics
 
