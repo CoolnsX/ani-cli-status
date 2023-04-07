@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kaguya sama wa Kokurasetai First Kiss wa Owaranai Episode 4
+Episode Name: Shouwa Ahozoushi Akanuke Ichiban Episode 22
 
-Episode Link: https://allanime.to/watch/TeoTrxCsN9Y4inSug/episode-4-sub
+Episode Link: https://allanime.to/watch/B9bDPR6r9eEStZCxk/episode-22-sub
  
 # Analytics
 
