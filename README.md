@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Yuri wa Oshigoto desu Episode 1
+Episode Name: Pole Princess Episode 7
 
-Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-1-sub
+Episode Link: https://allanime.to/watch/rXJSRkJ8sXohcBjX2/episode-7-sub
  
 # Analytics
 
