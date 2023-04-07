@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yuusha ga Shinda Episode 1
+Episode Name: Princess Principal Crown Handler Movie 1 Episode 2
 
-Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-1-sub
+Episode Link: https://allanime.to/watch/M2G8GBp3iyfQCFRzE/episode-2-sub
  
 # Analytics
 
