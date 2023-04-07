@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 1
+Episode Name: Machine Hayabusa Episode 21
 
-Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-1-sub
+Episode Link: https://allanime.to/watch/43TWjbZYA6Ef2dGtp/episode-21-sub
  
 # Analytics
 
