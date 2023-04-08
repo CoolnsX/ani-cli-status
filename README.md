@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shouwa Ahozoushi Akanuke Ichiban Episode 22
+Episode Name: Yume no Crayon Oukoku Episode 54
 
-Episode Link: https://allanime.to/watch/B9bDPR6r9eEStZCxk/episode-22-sub
+Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-54-sub
  
 # Analytics
 
