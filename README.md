@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Birdie Wing Golf Girls Story Season 2 Episode 1
+Episode Name: UniteUp Episode 11
 
-Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-1-sub
+Episode Link: https://allanime.to/watch/Jfb9xyZHFGybmHkWZ/episode-11-sub
  
 # Analytics
 
