@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Uchuu Taitei God Sigma Episode 50
+Episode Name: Pururun Shizuku chan Aha Episode 16
 
-Episode Link: https://allanime.to/watch/ETBRsvNb7crv3AuZn/episode-50-sub
+Episode Link: https://allanime.to/watch/ygyYy7jXgkHtLZFTH/episode-16-sub
  
 # Analytics
 
