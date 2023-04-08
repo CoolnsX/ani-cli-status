@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Celia sensei no Wakuwaku Magical Kyoushitsu Episode 18
+Episode Name: Dr Stone New World Episode 1
 
-Episode Link: https://allanime.to/watch/cRQcBJFcNjJ926yMZ/episode-18-sub
+Episode Link: https://allanime.to/watch/6yaGSW4Y3ffWgcPtn/episode-1-sub
  
 # Analytics
 
