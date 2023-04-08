@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Stone New World Episode 1
+Episode Name: Mahoutsukai no Yome Season 2 Episode 1
 
-Episode Link: https://allanime.to/watch/6yaGSW4Y3ffWgcPtn/episode-1-sub
+Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-1-sub
  
 # Analytics
 
