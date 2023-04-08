@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Pururun Shizuku chan Aha Episode 16
+Episode Name: Shouwa Ahozoushi Akanuke Ichiban Episode 22
 
-Episode Link: https://allanime.to/watch/ygyYy7jXgkHtLZFTH/episode-16-sub
+Episode Link: https://allanime.to/watch/B9bDPR6r9eEStZCxk/episode-22-sub
  
 # Analytics
 
