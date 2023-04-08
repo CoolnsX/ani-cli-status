@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Opus COLORs Episode 1
+Episode Name: Celia sensei no Wakuwaku Magical Kyoushitsu Episode 18
 
-Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-1-sub
+Episode Link: https://allanime.to/watch/cRQcBJFcNjJ926yMZ/episode-18-sub
  
 # Analytics
 
