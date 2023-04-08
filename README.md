@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahoutsukai no Yome Season 2 Episode 1
+Episode Name: Edens Zero Season 2 Episode 2
 
-Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-1-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-2-sub
  
 # Analytics
 
