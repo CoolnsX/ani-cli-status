@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yume no Crayon Oukoku Episode 54
+Episode Name: Pole Princess Episode 7
 
-Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-54-sub
+Episode Link: https://allanime.to/watch/rXJSRkJ8sXohcBjX2/episode-7-sub
  
 # Analytics
 
