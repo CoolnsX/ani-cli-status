@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: UniteUp Episode 11
+Episode Name: Isekai Shoukan wa Nidome desu Episode 1
 
-Episode Link: https://allanime.to/watch/Jfb9xyZHFGybmHkWZ/episode-11-sub
+Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-1-sub
  
 # Analytics
 
