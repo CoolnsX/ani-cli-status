@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai One Turn Kill Nee san Ane Douhan no Isekai Seikatsu Hajimemashita Episode 1
+Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 2
 
-Episode Link: https://allanime.to/watch/gotus85zaosbZA4o8/episode-1-sub
+Episode Link: https://allanime.to/watch/7DkTkHkqCgiaNMmp9/episode-2-sub
  
 # Analytics
 
