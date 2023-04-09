@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ohayou Spank Episode 4
+Episode Name: Jarinko Chie TV Episode 3
 
-Episode Link: https://allanime.to/watch/362y7tCsFLzB7tfSd/episode-4-sub
+Episode Link: https://allanime.to/watch/mSxuech6C2kxLs5hy/episode-3-sub
  
 # Analytics
 
