@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: MIX MEISEI STORY 2ND SEASON Nidome no Natsu Sora no Mukou e Episode 2
+Episode Name: Mahoutsukai no Yome Season 2 Episode 1
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-2-sub
+Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-1-sub
  
 # Analytics
 
