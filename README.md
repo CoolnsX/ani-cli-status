@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rokudou no Onna tachi Episode 1
+Episode Name: THE iDOLM STER Cinderella Girls U149 Episode 1
 
-Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-1-sub
+Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-1-sub
  
 # Analytics
 
