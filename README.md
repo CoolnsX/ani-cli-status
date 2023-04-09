@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edomae Elf Episode 1
+Episode Name: Boku no Kokoro no Yabai Yatsu Episode 2
 
-Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-1-sub
+Episode Link: https://allanime.to/watch/HJSL7PWgcYYzchAyf/episode-2-sub
  
 # Analytics
 
