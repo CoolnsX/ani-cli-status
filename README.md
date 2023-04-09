@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tengoku Daimakyou Episode 2
+Episode Name: Isekai Shoukan wa Nidome desu Episode 1
 
-Episode Link: https://allanime.to/watch/gmGfya55qfP6QiPfe/episode-2-sub
+Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-1-sub
  
 # Analytics
 
