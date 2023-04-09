@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boku no Kokoro no Yabai Yatsu Episode 2
+Episode Name: Ohayou Spank Episode 4
 
-Episode Link: https://allanime.to/watch/HJSL7PWgcYYzchAyf/episode-2-sub
+Episode Link: https://allanime.to/watch/362y7tCsFLzB7tfSd/episode-4-sub
  
 # Analytics
 
