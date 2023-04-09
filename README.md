@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai Shoukan wa Nidome desu Episode 1
+Episode Name: Mahoutsukai no Yome Season 2 Episode 1
 
-Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-1-sub
+Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-1-sub
  
 # Analytics
 
