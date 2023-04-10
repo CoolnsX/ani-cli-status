@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Saigo no Door wo Shimero Episode 1
+Episode Name: One Piece Episode 1057
 
-Episode Link: https://allanime.to/watch/Mw3jXnA6bv8DofTHz/episode-1-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1057-sub
  
 # Analytics
 
