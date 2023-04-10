@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1079
+Episode Name: MIX MEISEI STORY 2ND SEASON Nidome no Natsu Sora no Mukou e Episode 2
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1079-sub
+Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-2-sub
  
 # Analytics
 
