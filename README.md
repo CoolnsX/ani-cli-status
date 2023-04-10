@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yume no Crayon Oukoku Episode 56
+Episode Name: Yuusha ga Shinda Episode 1
 
-Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-56-sub
+Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-1-sub
  
 # Analytics
 
