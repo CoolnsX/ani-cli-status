@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: One Piece Episode 1057
+Episode Name: Detective Conan TV Episode 1079
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1057-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1079-sub
  
 # Analytics
 
