@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mashle Episode 1
+Episode Name: Uchuu Taitei God Sigma Episode 50
 
-Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-1-sub
+Episode Link: https://allanime.to/watch/ETBRsvNb7crv3AuZn/episode-50-sub
  
 # Analytics
 
