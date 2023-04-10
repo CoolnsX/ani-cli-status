@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Uchuu Taitei God Sigma Episode 50
+Episode Name: Saigo no Door wo Shimero Episode 1
 
-Episode Link: https://allanime.to/watch/ETBRsvNb7crv3AuZn/episode-50-sub
+Episode Link: https://allanime.to/watch/Mw3jXnA6bv8DofTHz/episode-1-sub
  
 # Analytics
 
