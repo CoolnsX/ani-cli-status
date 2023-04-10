@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ohayou Spank Episode 4
+Episode Name: Saigo no Door wo Shimero Episode 1
 
-Episode Link: https://allanime.to/watch/362y7tCsFLzB7tfSd/episode-4-sub
+Episode Link: https://allanime.to/watch/Mw3jXnA6bv8DofTHz/episode-1-sub
  
 # Analytics
 
