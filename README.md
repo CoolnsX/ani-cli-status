@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Alice Gear Aegis Expansion Episode 2
+Episode Name: Tousouchuu Great Mission Episode 2
 
-Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-2-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-2-sub
  
 # Analytics
 
