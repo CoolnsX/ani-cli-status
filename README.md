@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kidou Senshi Gundam Suisei no Majo Season 2 Episode 1
+Episode Name: Ohayou Spank Episode 4
 
-Episode Link: https://allanime.to/watch/hiEaJ59JzYA3bdN3s/episode-1-sub
+Episode Link: https://allanime.to/watch/362y7tCsFLzB7tfSd/episode-4-sub
  
 # Analytics
 
