@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Saigo no Door wo Shimero Episode 1
+Episode Name: Yume no Crayon Oukoku Episode 56
 
-Episode Link: https://allanime.to/watch/Mw3jXnA6bv8DofTHz/episode-1-sub
+Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-56-sub
  
 # Analytics
 
