@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: THE iDOLM STER Cinderella Girls U149 Episode 1
+Episode Name: Yume no Crayon Oukoku Episode 56
 
-Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-1-sub
+Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-56-sub
  
 # Analytics
 
