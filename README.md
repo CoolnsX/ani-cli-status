@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edens Zero Season 2 Episode 2
+Episode Name: Jijou wo Shiranai Tenkousei ga Guigui Kuru Episode 2
 
-Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-2-sub
+Episode Link: https://allanime.to/watch/pYpRanTbM2kcpdtr7/episode-2-sub
  
 # Analytics
 
