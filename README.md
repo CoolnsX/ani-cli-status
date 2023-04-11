@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kimi wa Houkago Insomnia Episode 1
+Episode Name: Jigokuraku Episode 2
 
-Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-1-sub
+Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-2-sub
  
 # Analytics
 
