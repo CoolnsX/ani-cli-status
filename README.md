@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Otonari ni Ginga Episode 1
+Episode Name: Skip to Loafer Episode 2
 
-Episode Link: https://allanime.to/watch/yp5c8MJ3Bv4YM3tXN/episode-1-sub
+Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-2-sub
  
 # Analytics
 
