@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tonikaku Kawaii Season 2 Episode 1
+Episode Name: One Piece Episode 1057
 
-Episode Link: https://allanime.to/watch/tzPwbxSXWA22mxWFz/episode-1-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1057-sub
  
 # Analytics
 
