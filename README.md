@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: THE MARGINAL SERVICE Episode 1
+Episode Name: Alice Gear Aegis Expansion Episode 2
 
-Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-1-sub
+Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-2-sub
  
 # Analytics
 
