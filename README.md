@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 2
+Episode Name: Yume no Crayon Oukoku Episode 57
 
-Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-2-sub
+Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-57-sub
  
 # Analytics
 
