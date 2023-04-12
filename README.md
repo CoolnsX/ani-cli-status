@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Alice Gear Aegis Expansion Episode 2
+Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 2
 
-Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-2-sub
+Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-2-sub
  
 # Analytics
 
