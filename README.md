@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jewelpet Twinkle☆ Hohoemi no Niji ni Dokki☆Doki Episode 1
+Episode Name: Yume no Crayon Oukoku Episode 56
 
-Episode Link: https://allanime.to/watch/fjo4EMgAf7KujkhNv/episode-1-sub
+Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-56-sub
  
 # Analytics
 
