@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 2
+Episode Name: THE MARGINAL SERVICE Episode 1
 
-Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-2-sub
+Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-1-sub
  
 # Analytics
 
