@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 2
+Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 2
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-2-sub
+Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-2-sub
  
 # Analytics
 
