@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 2
+Episode Name: Ao no Orchestra Episode 1
 
-Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-2-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-1-sub
  
 # Analytics
 
