@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yume no Crayon Oukoku Episode 58
+Episode Name: Nana Lucky Seven Lucky Gods Episode 12
 
-Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-58-sub
+Episode Link: https://allanime.to/watch/qTzu7XcuRtSn958o2/episode-12-sub
  
 # Analytics
 
