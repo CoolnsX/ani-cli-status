@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 1
+Episode Name: Yume no Crayon Oukoku Episode 58
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-1-sub
+Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-58-sub
  
 # Analytics
 
