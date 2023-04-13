@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: RE cycle of the PENGUINDRUM Kouhen Boku wa Kimi wo Aishiteru Episode 1
+Episode Name: Nana Lucky Seven Lucky Gods Episode 12
 
-Episode Link: https://allanime.to/watch/nLxsoANDg84DWpdW7/episode-1-sub
+Episode Link: https://allanime.to/watch/qTzu7XcuRtSn958o2/episode-12-sub
  
 # Analytics
 
