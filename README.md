@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: One Piece Episode 1057
+Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 2
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1057-sub
+Episode Link: https://allanime.to/watch/7DkTkHkqCgiaNMmp9/episode-2-sub
  
 # Analytics
 
