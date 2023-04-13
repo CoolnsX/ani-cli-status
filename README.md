@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nana Lucky Seven Lucky Gods Episode 12
+Episode Name: Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu 2 Episode 11
 
-Episode Link: https://allanime.to/watch/qTzu7XcuRtSn958o2/episode-12-sub
+Episode Link: https://allanime.to/watch/KvwcmHRSya4RWdNAJ/episode-11-sub
  
 # Analytics
 
