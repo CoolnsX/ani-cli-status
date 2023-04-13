@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: World Dai Star Episode 1
+Episode Name: One Piece Episode 1057
 
-Episode Link: https://allanime.to/watch/yJn77BMcqcadgm2ZN/episode-1-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1057-sub
  
 # Analytics
 
