@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kaminaki Sekai no Kamisama Katsudou Episode 2
+Episode Name: Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu 2 Episode 11
 
-Episode Link: https://allanime.to/watch/DcnE8PSQYK4Qh7d7t/episode-2-sub
+Episode Link: https://allanime.to/watch/KvwcmHRSya4RWdNAJ/episode-11-sub
  
 # Analytics
 
