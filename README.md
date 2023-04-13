@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 53
+Episode Name: Ao no Orchestra Episode 1
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-53-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-1-sub
  
 # Analytics
 
