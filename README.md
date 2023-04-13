@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yume no Crayon Oukoku Episode 58
+Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 2
 
-Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-58-sub
+Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-2-sub
  
 # Analytics
 
