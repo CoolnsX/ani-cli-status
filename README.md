@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: RE cycle of the PENGUINDRUM Zenpen Kimi no Ressha wa Seizon Senryaku Episode 1
+Episode Name: Skip to Loafer Episode 2
 
-Episode Link: https://allanime.to/watch/Dm87NavtqytR94uJS/episode-1-sub
+Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-2-sub
  
 # Analytics
 
