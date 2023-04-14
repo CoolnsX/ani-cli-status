@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nana Lucky Seven Lucky Gods Episode 12
+Episode Name: Skip to Loafer Episode 2
 
-Episode Link: https://allanime.to/watch/qTzu7XcuRtSn958o2/episode-12-sub
+Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-2-sub
  
 # Analytics
 
