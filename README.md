@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: World Dai Star Episode 1
+Episode Name: Skip to Loafer Episode 2
 
-Episode Link: https://allanime.to/watch/yJn77BMcqcadgm2ZN/episode-1-sub
+Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-2-sub
  
 # Analytics
 
