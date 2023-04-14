@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru Level Up wa Jinsei wo Kaeta Episode 2
+Episode Name: Isekai One Turn Kill Neesan Ane Douhan no Isekai Seikatsu Hajimemashita Episode 2
 
-Episode Link: https://allanime.to/watch/HK4yoi5Q5KxYA4Bwv/episode-2-sub
+Episode Link: https://allanime.to/watch/gotus85zaosbZA4o8/episode-2-sub
  
 # Analytics
 
