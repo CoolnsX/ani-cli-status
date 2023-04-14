@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahoutsukai no Yome Season 2 Episode 2
+Episode Name: Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu 2 Episode 11
 
-Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-2-sub
+Episode Link: https://allanime.to/watch/KvwcmHRSya4RWdNAJ/episode-11-sub
  
 # Analytics
 
