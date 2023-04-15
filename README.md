@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yuusha ga Shinda Episode 2
+Episode Name: Yume no Crayon Oukoku Episode 59
 
-Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-2-sub
+Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-59-sub
  
 # Analytics
 
