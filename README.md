@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Vinland Saga Season 2 Episode 14
+Episode Name: Birdie Wing Golf Girls Story Season 2 Episode 2
 
-Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-14-sub
+Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-2-sub
  
 # Analytics
 
