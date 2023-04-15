@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tonikaku Kawaii Season 2 Episode 2
+Episode Name: Ousama Ranking Yuuki no Takarabako Episode 1
 
-Episode Link: https://allanime.to/watch/tzPwbxSXWA22mxWFz/episode-2-sub
+Episode Link: https://allanime.to/watch/gdSi7Zj3yLivnNMcW/episode-1-sub
  
 # Analytics
 
