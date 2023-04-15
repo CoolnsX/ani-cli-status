@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rokudou no Onna tachi Episode 2
+Episode Name: Gunma chan Episode 9
 
-Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-2-sub
+Episode Link: https://allanime.to/watch/9QkytQwu7gjMMhNDQ/episode-9-sub
  
 # Analytics
 
