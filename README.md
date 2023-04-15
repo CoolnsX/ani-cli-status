@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Opus COLORs Episode 2
+Episode Name: Kizuna no Allele Episode 2
 
-Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-2-sub
+Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-2-sub
  
 # Analytics
 
