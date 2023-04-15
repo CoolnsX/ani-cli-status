@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Yuri wa Oshigoto desu Episode 2
+Episode Name: RE cycle of the PENGUINDRUM Zenpen Kimi no Ressha wa Seizon Senryaku Episode 1
 
-Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-2-sub
+Episode Link: https://allanime.to/watch/Dm87NavtqytR94uJS/episode-1-sub
  
 # Analytics
 
