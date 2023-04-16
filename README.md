@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kawaisugi Crisis Episode 2
+Episode Name: UniteUp Episode 12
 
-Episode Link: https://allanime.to/watch/5GWWFB9siLsbopigh/episode-2-sub
+Episode Link: https://allanime.to/watch/Jfb9xyZHFGybmHkWZ/episode-12-sub
  
 # Analytics
 
