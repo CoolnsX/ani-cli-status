@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: My Home Hero Episode 3
+Episode Name: Mahou Shoujo Magical Destroyers Episode 2
 
-Episode Link: https://allanime.to/watch/FFdCvGb6ugsQiREdA/episode-3-sub
+Episode Link: https://allanime.to/watch/ZBeaammRgnGdBY9y3/episode-2-sub
  
 # Analytics
 
