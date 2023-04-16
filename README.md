@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tengoku Daimakyou Episode 3
+Episode Name: THE iDOLM STER Cinderella Girls U149 Episode 2
 
-Episode Link: https://allanime.to/watch/gmGfya55qfP6QiPfe/episode-3-sub
+Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-2-sub
  
 # Analytics
 
