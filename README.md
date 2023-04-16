@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 3
+Episode Name: Mashle Episode 2
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-3-sub
+Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-2-sub
  
 # Analytics
 
