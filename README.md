@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai One Turn Kill Neesan Ane Douhan no Isekai Seikatsu Hajimemashita Episode 2
+Episode Name: Megami no Café Terrace Episode 2
 
-Episode Link: https://allanime.to/watch/gotus85zaosbZA4o8/episode-2-sub
+Episode Link: https://allanime.to/watch/7fFA3ta6sDK37K7T8/episode-2-sub
  
 # Analytics
 
