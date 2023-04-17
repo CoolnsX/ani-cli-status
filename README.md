@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 11
+Episode Name: Yume no Crayon Oukoku Episode 59
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-11-sub
+Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-59-sub
  
 # Analytics
 
