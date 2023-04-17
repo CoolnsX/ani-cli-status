@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 2
+Episode Name: World Dai Star Episode 2
 
-Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-2-sub
+Episode Link: https://allanime.to/watch/yJn77BMcqcadgm2ZN/episode-2-sub
  
 # Analytics
 
