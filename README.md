@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edens Zero Season 2 Episode 3
+Episode Name: Kidou Senshi Gundam Suisei no Majo Season 2 Episode 2
 
-Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-3-sub
+Episode Link: https://allanime.to/watch/hiEaJ59JzYA3bdN3s/episode-2-sub
  
 # Analytics
 
