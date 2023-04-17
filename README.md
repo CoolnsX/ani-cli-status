@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jigokuraku Episode 3
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 54
 
-Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-3-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-54-sub
  
 # Analytics
 
