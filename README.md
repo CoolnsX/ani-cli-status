@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kidou Senshi Gundam Suisei no Majo Season 2 Episode 2
+Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 2
 
-Episode Link: https://allanime.to/watch/hiEaJ59JzYA3bdN3s/episode-2-sub
+Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-2-sub
  
 # Analytics
 
