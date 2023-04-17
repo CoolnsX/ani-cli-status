@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jigokuraku Episode 3
+Episode Name: Detective Conan TV Episode 1080
 
-Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-3-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1080-sub
  
 # Analytics
 
