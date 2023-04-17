@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Yuri wa Oshigoto desu Episode 2
+Episode Name: Hirogaru Sky Precure Episode 11
 
-Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-2-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-11-sub
  
 # Analytics
 
