@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Haikara san ga Tooru Episode 5
+Episode Name: Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru Level Up wa Jinsei wo Kaeta Episode 3
 
-Episode Link: https://allanime.to/watch/g75onXMcavsHQ8FH8/episode-5-sub
+Episode Link: https://allanime.to/watch/HK4yoi5Q5KxYA4Bwv/episode-3-sub
  
 # Analytics
 
