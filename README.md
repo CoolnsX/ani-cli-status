@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Munou na Nana Mini Anime Episode 12
+Episode Name: Wansa kun Episode 7
 
-Episode Link: https://allanime.to/watch/yYB7wgZNrSttfoNFw/episode-12-sub
+Episode Link: https://allanime.to/watch/PNiDKWiWGbsZPcwYN/episode-7-sub
  
 # Analytics
 
