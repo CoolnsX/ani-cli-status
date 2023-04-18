@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 3
+Episode Name: Munou na Nana Mini Anime Episode 12
 
-Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-3-sub
+Episode Link: https://allanime.to/watch/yYB7wgZNrSttfoNFw/episode-12-sub
  
 # Analytics
 
