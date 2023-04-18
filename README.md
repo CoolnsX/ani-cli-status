@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: VINLAND SAGA SEASON 2 Episode 15
+Episode Name: Kimi wa Houkago Insomnia Episode 2
 
-Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-15-sub
+Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-2-sub
  
 # Analytics
 
