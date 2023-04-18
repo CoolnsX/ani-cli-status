@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 3
+Episode Name: Tengoku Daimakyou Episode 3
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-3-sub
+Episode Link: https://allanime.to/watch/gmGfya55qfP6QiPfe/episode-3-sub
  
 # Analytics
 
