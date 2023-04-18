@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Skip to Loafer Episode 3
+Episode Name: VINLAND SAGA SEASON 2 Episode 15
 
-Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-3-sub
+Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-15-sub
  
 # Analytics
 
