@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Uma Musume Pretty Derby ROAD TO THE TOP Episode 1
+Episode Name: Hirogaru Sky Precure Episode 11
 
-Episode Link: https://allanime.to/watch/LBBwJzGQoGTY2PYXc/episode-1-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-11-sub
  
 # Analytics
 
