@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Getter Robo Go Episode 15
+Episode Name: DEEMO Sakura no Oto Anata no Kanadeta Oto ga Ima mo Hibiku Episode 1
 
-Episode Link: https://allanime.to/watch/LL3bLCEHKd7gPWYjE/episode-15-sub
+Episode Link: https://allanime.to/watch/XaM6Hbr3CyfGtAa7H/episode-1-sub
  
 # Analytics
 
