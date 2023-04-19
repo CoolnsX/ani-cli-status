@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 11
+Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 3
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-11-sub
+Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-3-sub
  
 # Analytics
 
