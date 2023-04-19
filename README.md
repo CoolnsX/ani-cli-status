@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: DEEMO Sakura no Oto Anata no Kanadeta Oto ga Ima mo Hibiku Episode 1
+Episode Name: Uma Musume Pretty Derby ROAD TO THE TOP Episode 1
 
-Episode Link: https://allanime.to/watch/XaM6Hbr3CyfGtAa7H/episode-1-sub
+Episode Link: https://allanime.to/watch/LBBwJzGQoGTY2PYXc/episode-1-sub
  
 # Analytics
 
