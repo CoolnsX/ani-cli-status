@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 3
+Episode Name: Isekai Shoukan wa Nidome desu Episode 2
 
-Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-3-sub
+Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-2-sub
  
 # Analytics
 
