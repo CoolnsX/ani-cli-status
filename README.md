@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jijou wo Shiranai Tenkousei ga Guigui Kuru Episode 3
+Episode Name: Yofukashi no Uta Mini Episode 6
 
-Episode Link: https://allanime.to/watch/pYpRanTbM2kcpdtr7/episode-3-sub
+Episode Link: https://allanime.to/watch/s66ytNvshmdJBa3Zt/episode-6-sub
  
 # Analytics
 
