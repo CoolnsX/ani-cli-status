@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Suzume no Tojimari Episode 1
+Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 3
 
-Episode Link: https://allanime.to/watch/7Q7AzQtSHjHm9DpL2/episode-1-sub
+Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-3-sub
  
 # Analytics
 
