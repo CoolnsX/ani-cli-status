@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: VINLAND SAGA SEASON 2 Episode 15
+Episode Name: Haikara san ga Tooru Episode 5
 
-Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-15-sub
+Episode Link: https://allanime.to/watch/g75onXMcavsHQ8FH8/episode-5-sub
  
 # Analytics
 
