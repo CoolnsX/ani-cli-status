@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Munou na Nana Mini Anime Episode 12
+Episode Name: Kimetsu no Yaiba Katanakaji no Sato hen Episode 2
 
-Episode Link: https://allanime.to/watch/yYB7wgZNrSttfoNFw/episode-12-sub
+Episode Link: https://allanime.to/watch/XJzfDyv8vsXWCMkTk/episode-2-sub
  
 # Analytics
 
