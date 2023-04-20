@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 2
+Episode Name: 1P Episode 1058
 
-Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-2-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1058-sub
  
 # Analytics
 
