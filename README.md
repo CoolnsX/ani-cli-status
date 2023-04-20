@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 3
+Episode Name: Suzume no Tojimari Episode 1
 
-Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-3-sub
+Episode Link: https://allanime.to/watch/7Q7AzQtSHjHm9DpL2/episode-1-sub
  
 # Analytics
 
