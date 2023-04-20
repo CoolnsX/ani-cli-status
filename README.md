@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Yuri wa Oshigoto desu Episode 3
+Episode Name: Niehime to Kemono no Ou Episode 1
 
-Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-3-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-1-sub
  
 # Analytics
 
