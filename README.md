@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Haikara san ga Tooru Episode 5
+Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 2
 
-Episode Link: https://allanime.to/watch/g75onXMcavsHQ8FH8/episode-5-sub
+Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-2-sub
  
 # Analytics
 
