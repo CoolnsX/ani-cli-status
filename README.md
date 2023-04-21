@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kaminaki Sekai no Kamisama Katsudou Episode 3
+Episode Name: Alice Gear Aegis Expansion Episode 3
 
-Episode Link: https://allanime.to/watch/DcnE8PSQYK4Qh7d7t/episode-3-sub
+Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-3-sub
  
 # Analytics
 
