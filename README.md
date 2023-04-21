@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Getter Robo Go Episode 15
+Episode Name: THE iDOLM STER Cinderella Girls U149 Episode 3
 
-Episode Link: https://allanime.to/watch/LL3bLCEHKd7gPWYjE/episode-15-sub
+Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-3-sub
  
 # Analytics
 
