@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ousama Ranking Yuuki no Takarabako Episode 2
+Episode Name: Watashi no Yuri wa Oshigoto desu Episode 3
 
-Episode Link: https://allanime.to/watch/gdSi7Zj3yLivnNMcW/episode-2-sub
+Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-3-sub
  
 # Analytics
 
