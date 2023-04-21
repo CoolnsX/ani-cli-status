@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ousama Ranking Yuuki no Takarabako Episode 2
+Episode Name: Getter Robo Go Episode 15
 
-Episode Link: https://allanime.to/watch/gdSi7Zj3yLivnNMcW/episode-2-sub
+Episode Link: https://allanime.to/watch/LL3bLCEHKd7gPWYjE/episode-15-sub
  
 # Analytics
 
