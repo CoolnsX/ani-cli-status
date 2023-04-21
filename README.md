@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ousama Ranking Yuuki no Takarabako Episode 2
+Episode Name: Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu 2 Episode 12
 
-Episode Link: https://allanime.to/watch/gdSi7Zj3yLivnNMcW/episode-2-sub
+Episode Link: https://allanime.to/watch/KvwcmHRSya4RWdNAJ/episode-12-sub
  
 # Analytics
 
