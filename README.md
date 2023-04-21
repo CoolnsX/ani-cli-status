@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Episode 2
+Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 2
 
-Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-2-sub
+Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-2-sub
  
 # Analytics
 
