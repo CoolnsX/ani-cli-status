@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai One Turn Kill Nee san Ane Douhan no Isekai Seikatsu Hajimemashita Episode 3
+Episode Name: Opus COLORs Episode 3
 
-Episode Link: https://allanime.to/watch/gotus85zaosbZA4o8/episode-3-sub
+Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-3-sub
  
 # Analytics
 
