@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 2
+Episode Name: Isekai One Turn Kill Nee san Ane Douhan no Isekai Seikatsu Hajimemashita Episode 3
 
-Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-2-sub
+Episode Link: https://allanime.to/watch/gotus85zaosbZA4o8/episode-3-sub
  
 # Analytics
 
