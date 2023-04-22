@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 4
+Episode Name: Suzume no Tojimari Episode 1
 
-Episode Link: https://allanime.to/watch/7DkTkHkqCgiaNMmp9/episode-4-sub
+Episode Link: https://allanime.to/watch/7Q7AzQtSHjHm9DpL2/episode-1-sub
  
 # Analytics
 
