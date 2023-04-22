@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kawaisugi Crisis Episode 3
+Episode Name:  Oshi no Ko Episode 2
 
-Episode Link: https://allanime.to/watch/5GWWFB9siLsbopigh/episode-3-sub
+Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-2-sub
  
 # Analytics
 
