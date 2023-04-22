@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name:  Oshi no Ko Episode 2
+Episode Name: Mahoutsukai no Yome SEASON 2 Episode 3
 
-Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-2-sub
+Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-3-sub
  
 # Analytics
 
