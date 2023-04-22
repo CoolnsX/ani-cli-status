@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Opus COLORs Episode 3
+Episode Name: Megami no Café Terrace Episode 3
 
-Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-3-sub
+Episode Link: https://allanime.to/watch/7fFA3ta6sDK37K7T8/episode-3-sub
  
 # Analytics
 
