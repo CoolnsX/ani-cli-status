@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name:  Oshi no Ko Episode 2
+Episode Name: Isekai Shoukan wa Nidome desu Episode 3
 
-Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-2-sub
+Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-3-sub
  
 # Analytics
 
