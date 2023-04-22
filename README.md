@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edomae Elf Episode 3
+Episode Name:  Oshi no Ko Episode 2
 
-Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-3-sub
+Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-2-sub
  
 # Analytics
 
