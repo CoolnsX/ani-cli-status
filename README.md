@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gekitou Crush Gear Turbo Episode 25
+Episode Name: BIRDIE WING Golf Girls Story Season 2 Episode 3
 
-Episode Link: https://allanime.to/watch/FiBjL7gXyazPCf22M/episode-25-sub
+Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-3-sub
  
 # Analytics
 
