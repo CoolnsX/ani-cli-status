@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kawaisugi Crisis Episode 3
+Episode Name: Rokudou no Onna tachi Episode 3
 
-Episode Link: https://allanime.to/watch/5GWWFB9siLsbopigh/episode-3-sub
+Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-3-sub
  
 # Analytics
 
