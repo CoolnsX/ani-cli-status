@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ousama Ranking Yuuki no Takarabako Episode 2
+Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 4
 
-Episode Link: https://allanime.to/watch/gdSi7Zj3yLivnNMcW/episode-2-sub
+Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-4-sub
  
 # Analytics
 
