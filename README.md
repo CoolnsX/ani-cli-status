@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu 2 Episode 12
+Episode Name: THE iDOLM STER Cinderella Girls U149 Episode 3
 
-Episode Link: https://allanime.to/watch/KvwcmHRSya4RWdNAJ/episode-12-sub
+Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-3-sub
  
 # Analytics
 
