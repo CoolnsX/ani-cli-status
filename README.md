@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: THE iDOLM STER Cinderella Girls U149 Episode 3
+Episode Name: Yuusha ga Shinda Episode 3
 
-Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-3-sub
+Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-3-sub
  
 # Analytics
 
