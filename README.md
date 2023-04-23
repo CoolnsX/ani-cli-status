@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name:  Oshi no Ko Episode 2
+Episode Name: Suzume no Tojimari Episode 1
 
-Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-2-sub
+Episode Link: https://allanime.to/watch/7Q7AzQtSHjHm9DpL2/episode-1-sub
  
 # Analytics
 
