@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Suzume no Tojimari Episode 1
+Episode Name: Yuusha ga Shinda Episode 3
 
-Episode Link: https://allanime.to/watch/7Q7AzQtSHjHm9DpL2/episode-1-sub
+Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-3-sub
  
 # Analytics
 
