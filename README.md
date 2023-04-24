@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jigokuraku Episode 4
+Episode Name: Gekitou Crush Gear Turbo Episode 25
 
-Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-4-sub
+Episode Link: https://allanime.to/watch/FiBjL7gXyazPCf22M/episode-25-sub
  
 # Analytics
 
