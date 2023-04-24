@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tonikaku Kawaii Season 2 Episode 3
+Episode Name: Isekai Shoukan wa Nidome desu Episode 3
 
-Episode Link: https://allanime.to/watch/tzPwbxSXWA22mxWFz/episode-3-sub
+Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-3-sub
  
 # Analytics
 
