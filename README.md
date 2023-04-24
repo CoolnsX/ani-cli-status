@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kimetsu no Yaiba Katanakaji no Sato hen Episode 3
+Episode Name: EDENS ZERO 2nd Season Episode 4
 
-Episode Link: https://allanime.to/watch/XJzfDyv8vsXWCMkTk/episode-3-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-4-sub
  
 # Analytics
 
