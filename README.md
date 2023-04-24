@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: World Dai Star Episode 3
+Episode Name: Jigokuraku Episode 4
 
-Episode Link: https://allanime.to/watch/yJn77BMcqcadgm2ZN/episode-3-sub
+Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-4-sub
  
 # Analytics
 
