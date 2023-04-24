@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hataraku Saibou Episode 13
+Episode Name: Edomae Elf Episode 3
 
-Episode Link: https://allanime.to/watch/k2khYdv8mdjJ2LXTF/episode-13-sub
+Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-3-sub
  
 # Analytics
 
