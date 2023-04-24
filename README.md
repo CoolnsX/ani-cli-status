@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tengoku Daimakyou Episode 4
+Episode Name: Hataraku Saibou Episode 13
 
-Episode Link: https://allanime.to/watch/gmGfya55qfP6QiPfe/episode-4-sub
+Episode Link: https://allanime.to/watch/k2khYdv8mdjJ2LXTF/episode-13-sub
  
 # Analytics
 
