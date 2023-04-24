@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chouriki Robo Galatt Episode 15
+Episode Name: Tonikaku Kawaii Season 2 Episode 3
 
-Episode Link: https://allanime.to/watch/x9rEdF4tRnmbQhMR3/episode-15-sub
+Episode Link: https://allanime.to/watch/tzPwbxSXWA22mxWFz/episode-3-sub
  
 # Analytics
 
