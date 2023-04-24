@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: MASHLE Episode 3
+Episode Name: Kidou Senshi Gundam Suisei no Majo Season 2 Episode 3
 
-Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-3-sub
+Episode Link: https://allanime.to/watch/hiEaJ59JzYA3bdN3s/episode-3-sub
  
 # Analytics
 
