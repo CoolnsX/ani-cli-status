@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 102
+Episode Name: Detective Conan TV Episode 1081
 
-Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-102-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1081-sub
  
 # Analytics
 
