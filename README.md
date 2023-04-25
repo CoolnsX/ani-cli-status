@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 4
+Episode Name: BIRDIE WING Golf Girls Story Season 2 Episode 3
 
-Episode Link: https://allanime.to/watch/7DkTkHkqCgiaNMmp9/episode-4-sub
+Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-3-sub
  
 # Analytics
 
