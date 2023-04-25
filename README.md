@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Episode 4
+Episode Name: Kimetsu no Yaiba Katanakaji no Sato hen Episode 3
 
-Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-4-sub
+Episode Link: https://allanime.to/watch/XJzfDyv8vsXWCMkTk/episode-3-sub
  
 # Analytics
 
