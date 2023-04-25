@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 4
+Episode Name: Chibi Maruko chan Episode 102
 
-Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-4-sub
+Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-102-sub
  
 # Analytics
 
