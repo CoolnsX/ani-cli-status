@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BIRDIE WING Golf Girls Story Season 2 Episode 3
+Episode Name: Boku no Kokoro no Yabai Yatsu Episode 4
 
-Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-3-sub
+Episode Link: https://allanime.to/watch/HJSL7PWgcYYzchAyf/episode-4-sub
  
 # Analytics
 
