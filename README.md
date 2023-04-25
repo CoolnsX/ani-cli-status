@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1081
+Episode Name: Gekitou Crush Gear Turbo Episode 25
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1081-sub
+Episode Link: https://allanime.to/watch/FiBjL7gXyazPCf22M/episode-25-sub
  
 # Analytics
 
