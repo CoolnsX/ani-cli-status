@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Otonari ni Ginga Episode 3
+Episode Name: Kizuna no Allele Episode 4
 
-Episode Link: https://allanime.to/watch/yp5c8MJ3Bv4YM3tXN/episode-3-sub
+Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-4-sub
  
 # Analytics
 
