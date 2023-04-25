@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai Shoukan wa Nidome desu Episode 3
+Episode Name: Hataraku Saibou Episode 1
 
-Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-3-sub
+Episode Link: https://allanime.to/watch/YRdFD9ykhzDbP4Hf7/episode-1-sub
  
 # Analytics
 
