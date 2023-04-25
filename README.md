@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hataraku Saibou Episode 1
+Episode Name: Jijou wo Shiranai Tenkousei ga Guigui Kuru Episode 4
 
-Episode Link: https://allanime.to/watch/YRdFD9ykhzDbP4Hf7/episode-1-sub
+Episode Link: https://allanime.to/watch/pYpRanTbM2kcpdtr7/episode-4-sub
  
 # Analytics
 
