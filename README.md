@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: My Home Hero Episode 4
+Episode Name: THE MARGINAL SERVICE Episode 3
 
-Episode Link: https://allanime.to/watch/FFdCvGb6ugsQiREdA/episode-4-sub
+Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-3-sub
  
 # Analytics
 
