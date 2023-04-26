@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 3
+Episode Name: VINLAND SAGA SEASON 2 Episode 16
 
-Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-3-sub
+Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-16-sub
  
 # Analytics
 
