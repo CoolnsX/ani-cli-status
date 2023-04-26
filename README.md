@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tonikaku Kawaii Season 2 Episode 3
+Episode Name: Chibi Maruko chan Episode 102
 
-Episode Link: https://allanime.to/watch/tzPwbxSXWA22mxWFz/episode-3-sub
+Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-102-sub
  
 # Analytics
 
