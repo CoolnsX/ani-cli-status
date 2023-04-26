@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tengoku Daimakyou Episode 4
+Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 3
 
-Episode Link: https://allanime.to/watch/gmGfya55qfP6QiPfe/episode-4-sub
+Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-3-sub
  
 # Analytics
 
