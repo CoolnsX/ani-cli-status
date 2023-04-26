@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 12
+Episode Name: Alice Gear Aegis Expansion Episode 4
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-12-sub
+Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-4-sub
  
 # Analytics
 
