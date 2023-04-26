@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 134
+Episode Name: VINLAND SAGA SEASON 2 Episode 16
 
-Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-134-sub
+Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-16-sub
  
 # Analytics
 
