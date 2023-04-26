@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: EDENS ZERO 2nd Season Episode 4
+Episode Name:  Oshi no Ko Episode 3
 
-Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-4-sub
+Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-3-sub
  
 # Analytics
 
