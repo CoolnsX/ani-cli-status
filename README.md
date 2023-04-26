@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: THE MARGINAL SERVICE Episode 3
+Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 4
 
-Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-3-sub
+Episode Link: https://allanime.to/watch/7DkTkHkqCgiaNMmp9/episode-4-sub
  
 # Analytics
 
