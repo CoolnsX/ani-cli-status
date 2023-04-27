@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Alice Gear Aegis Expansion Episode 4
+Episode Name: Niehime to Kemono no Ou Episode 2
 
-Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-4-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-2-sub
  
 # Analytics
 
