@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho Season 2 Episode 8
+Episode Name: Hataraku Saibou Episode 1
 
-Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-8-sub
+Episode Link: https://allanime.to/watch/YRdFD9ykhzDbP4Hf7/episode-1-sub
  
 # Analytics
 
