@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1059
+Episode Name: Skip to Loafer Episode 4
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1059-sub
+Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-4-sub
  
 # Analytics
 
