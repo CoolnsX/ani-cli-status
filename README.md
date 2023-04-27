@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Skip to Loafer Episode 4
+Episode Name: Ao no Orchestra Episode 3
 
-Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-4-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-3-sub
  
 # Analytics
 
