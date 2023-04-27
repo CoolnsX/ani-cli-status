@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 2
+Episode Name: 1P Episode 1059
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-2-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1059-sub
  
 # Analytics
 
