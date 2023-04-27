@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hataraku Saibou Episode 1
+Episode Name: Otonari ni Ginga Episode 3
 
-Episode Link: https://allanime.to/watch/YRdFD9ykhzDbP4Hf7/episode-1-sub
+Episode Link: https://allanime.to/watch/yp5c8MJ3Bv4YM3tXN/episode-3-sub
  
 # Analytics
 
