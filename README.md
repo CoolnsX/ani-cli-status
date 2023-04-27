@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahou no Angel Sweet Mint Episode 17
+Episode Name: Kimetsu no Yaiba Katanakaji no Sato hen Episode 3
 
-Episode Link: https://allanime.to/watch/7nx7xpGty3vpCY4w4/episode-17-sub
+Episode Link: https://allanime.to/watch/XJzfDyv8vsXWCMkTk/episode-3-sub
  
 # Analytics
 
