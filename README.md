@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Episode 4
+Episode Name: Mahou no Angel Sweet Mint Episode 17
 
-Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-4-sub
+Episode Link: https://allanime.to/watch/7nx7xpGty3vpCY4w4/episode-17-sub
  
 # Analytics
 
