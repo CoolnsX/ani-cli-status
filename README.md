@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kimi wa Houkago Insomnia Episode 3
+Episode Name: THE MARGINAL SERVICE Episode 3
 
-Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-3-sub
+Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-3-sub
  
 # Analytics
 
