@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kinnikuman Episode 115
+Episode Name: Alice Gear Aegis Expansion Episode 4
 
-Episode Link: https://allanime.to/watch/pNi8AYhvc7Tp5JayR/episode-115-sub
+Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-4-sub
  
 # Analytics
 
