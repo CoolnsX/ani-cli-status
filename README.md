@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yuusha ga Shinda Episode 4
+Episode Name: Kinnikuman Episode 115
 
-Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-4-sub
+Episode Link: https://allanime.to/watch/pNi8AYhvc7Tp5JayR/episode-115-sub
  
 # Analytics
 
