@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai One Turn Kill Nee san Ane Douhan no Isekai Seikatsu Hajimemashita Episode 4
+Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 4
 
-Episode Link: https://allanime.to/watch/gotus85zaosbZA4o8/episode-4-sub
+Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-4-sub
  
 # Analytics
 
