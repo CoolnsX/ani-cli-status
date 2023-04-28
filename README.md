@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Durarara x2 Ten Onoroke Chakapoko Episode 1
+Episode Name: Kimi wa Houkago Insomnia Episode 3
 
-Episode Link: https://allanime.to/watch/A3eYiWQoTdS749NPt/episode-1-sub
+Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-3-sub
  
 # Analytics
 
