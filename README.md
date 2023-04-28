@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Episode 4
+Episode Name: Durarara x2 Ten Onoroke Chakapoko Episode 1
 
-Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-4-sub
+Episode Link: https://allanime.to/watch/A3eYiWQoTdS749NPt/episode-1-sub
  
 # Analytics
 
