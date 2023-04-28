@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Inu ni Nattara Suki na Hito ni Hirowareta OVA Episode 2
+Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 4
 
-Episode Link: https://allanime.to/watch/D9Dk3JyAxTDepBoG6/episode-2-sub
+Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-4-sub
  
 # Analytics
 
