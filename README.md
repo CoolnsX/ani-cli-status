@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho Season 2 Episode 8
+Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 3
 
-Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-8-sub
+Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-3-sub
  
 # Analytics
 
