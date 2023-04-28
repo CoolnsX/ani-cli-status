@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 4
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 8
 
-Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-4-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-8-sub
  
 # Analytics
 
