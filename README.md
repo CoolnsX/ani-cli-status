@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kuma Kuma Kuma Bear Punch Episode 4
+Episode Name: The♥Kabocha Wine Episode 32
 
-Episode Link: https://allanime.to/watch/9hPzd5tojwLbhkqLb/episode-4-sub
+Episode Link: https://allanime.to/watch/366khzcCCjML8b96u/episode-32-sub
  
 # Analytics
 
