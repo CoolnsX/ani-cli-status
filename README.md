@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Stone New World Episode 4
+Episode Name: Kaminaki Sekai no Kamisama Katsudou Episode 4
 
-Episode Link: https://allanime.to/watch/6yaGSW4Y3ffWgcPtn/episode-4-sub
+Episode Link: https://allanime.to/watch/DcnE8PSQYK4Qh7d7t/episode-4-sub
  
 # Analytics
 
