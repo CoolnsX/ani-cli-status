@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kawaisugi Crisis Episode 4
+Episode Name: Inu ni Nattara Suki na Hito ni Hirowareta OVA Episode 2
 
-Episode Link: https://allanime.to/watch/5GWWFB9siLsbopigh/episode-4-sub
+Episode Link: https://allanime.to/watch/D9Dk3JyAxTDepBoG6/episode-2-sub
  
 # Analytics
 
