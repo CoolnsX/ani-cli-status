@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edomae Elf Episode 4
+Episode Name: Tonikaku Kawaii Season 2 Episode 4
 
-Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-4-sub
+Episode Link: https://allanime.to/watch/tzPwbxSXWA22mxWFz/episode-4-sub
  
 # Analytics
 
