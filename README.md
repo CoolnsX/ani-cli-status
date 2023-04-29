@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Opus COLORs Episode 4
+Episode Name: Alice Gear Aegis Expansion Episode 4
 
-Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-4-sub
+Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-4-sub
  
 # Analytics
 
