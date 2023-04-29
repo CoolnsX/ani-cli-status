@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The♥Kabocha Wine Episode 32
+Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 4
 
-Episode Link: https://allanime.to/watch/366khzcCCjML8b96u/episode-32-sub
+Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-4-sub
  
 # Analytics
 
