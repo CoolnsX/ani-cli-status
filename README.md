@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Opus COLORs Episode 4
+Episode Name: EDENS ZERO 2nd Season Episode 5
 
-Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-4-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-5-sub
  
 # Analytics
 
