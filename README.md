@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boku no Kokoro no Yabai Yatsu Episode 5
+Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 4
 
-Episode Link: https://allanime.to/watch/HJSL7PWgcYYzchAyf/episode-5-sub
+Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-4-sub
  
 # Analytics
 
