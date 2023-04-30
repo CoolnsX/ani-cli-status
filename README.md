@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1060
+Episode Name: Mahou Shoujo Magical Destroyers Episode 4
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1060-sub
+Episode Link: https://allanime.to/watch/ZBeaammRgnGdBY9y3/episode-4-sub
  
 # Analytics
 
