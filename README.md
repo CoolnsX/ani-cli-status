@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rokudou no Onna tachi Episode 4
+Episode Name: EDENS ZERO 2nd Season Episode 5
 
-Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-4-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-5-sub
  
 # Analytics
 
