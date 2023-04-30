@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Araiguma Rascal Episode 37
+Episode Name: Isekai One Turn Kill Nee san Ane Douhan no Isekai Seikatsu Hajimemashita Episode 4
 
-Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-37-sub
+Episode Link: https://allanime.to/watch/gotus85zaosbZA4o8/episode-4-sub
  
 # Analytics
 
