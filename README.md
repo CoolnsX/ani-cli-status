@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1082
+Episode Name: 1P Episode 1060
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1082-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1060-sub
  
 # Analytics
 
