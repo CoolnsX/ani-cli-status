@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahou Shoujo Magical Destroyers Episode 4
+Episode Name: Detective Conan TV Episode 1082
 
-Episode Link: https://allanime.to/watch/ZBeaammRgnGdBY9y3/episode-4-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1082-sub
  
 # Analytics
 
