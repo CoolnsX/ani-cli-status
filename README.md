@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: MIX MEISEI STORY 2ND SEASON Nidome no Natsu Sora no Mukou e Episode 5
+Episode Name: Detective Conan TV Episode 1082
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-5-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1082-sub
  
 # Analytics
 
