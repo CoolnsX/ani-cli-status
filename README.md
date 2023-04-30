@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 65
+Episode Name: 1P Episode 1060
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-65-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1060-sub
  
 # Analytics
 
