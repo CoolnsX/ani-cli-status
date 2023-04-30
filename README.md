@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho Season 2 Episode 8
+Episode Name: Araiguma Rascal Episode 37
 
-Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-8-sub
+Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-37-sub
  
 # Analytics
 
