@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 13
+Episode Name: Mahou Shoujo Magical Destroyers Episode 4
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-13-sub
+Episode Link: https://allanime.to/watch/ZBeaammRgnGdBY9y3/episode-4-sub
  
 # Analytics
 
