@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yozakura Quartet Yoza Quar Episode 6
+Episode Name: Jigokuraku Episode 5
 
-Episode Link: https://allanime.to/watch/GencGCCiWc8Rexvk8/episode-6-sub
+Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-5-sub
  
 # Analytics
 
