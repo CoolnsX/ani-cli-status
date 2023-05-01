@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: World Dai Star Episode 4
+Episode Name: Kidou Senshi Gundam Suisei no Majo Season 2 Episode 4
 
-Episode Link: https://allanime.to/watch/yJn77BMcqcadgm2ZN/episode-4-sub
+Episode Link: https://allanime.to/watch/hiEaJ59JzYA3bdN3s/episode-4-sub
  
 # Analytics
 
