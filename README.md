@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ousama Ranking Yuuki no Takarabako Episode 3
+Episode Name: Kimetsu no Yaiba Katanakaji no Sato hen Episode 4
 
-Episode Link: https://allanime.to/watch/gdSi7Zj3yLivnNMcW/episode-3-sub
+Episode Link: https://allanime.to/watch/XJzfDyv8vsXWCMkTk/episode-4-sub
  
 # Analytics
 
