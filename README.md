@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai One Turn Kill Nee san Ane Douhan no Isekai Seikatsu Hajimemashita Episode 4
+Episode Name: Otonari ni Ginga Episode 4
 
-Episode Link: https://allanime.to/watch/gotus85zaosbZA4o8/episode-4-sub
+Episode Link: https://allanime.to/watch/yp5c8MJ3Bv4YM3tXN/episode-4-sub
  
 # Analytics
 
