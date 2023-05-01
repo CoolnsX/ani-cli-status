@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Otonari ni Ginga Episode 4
+Episode Name: Ousama Ranking Yuuki no Takarabako Episode 3
 
-Episode Link: https://allanime.to/watch/yp5c8MJ3Bv4YM3tXN/episode-4-sub
+Episode Link: https://allanime.to/watch/gdSi7Zj3yLivnNMcW/episode-3-sub
  
 # Analytics
 
