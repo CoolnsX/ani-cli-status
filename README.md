@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahoutsukai no Yome SEASON 2 Episode 4
+Episode Name: Yozakura Quartet Yoza Quar Episode 6
 
-Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-4-sub
+Episode Link: https://allanime.to/watch/GencGCCiWc8Rexvk8/episode-6-sub
  
 # Analytics
 
