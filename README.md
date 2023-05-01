@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: My Home Hero Episode 5
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 56
 
-Episode Link: https://allanime.to/watch/FFdCvGb6ugsQiREdA/episode-5-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-56-sub
  
 # Analytics
 
