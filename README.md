@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: EDENS ZERO 2nd Season Episode 5
+Episode Name: Munou na Nana Mini Anime Episode 13
 
-Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-5-sub
+Episode Link: https://allanime.to/watch/yYB7wgZNrSttfoNFw/episode-13-sub
  
 # Analytics
 
