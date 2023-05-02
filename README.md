@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kuma Kuma Kuma Bear Punch Episode 5
+Episode Name: THE MARGINAL SERVICE Episode 4
 
-Episode Link: https://allanime.to/watch/9hPzd5tojwLbhkqLb/episode-5-sub
+Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-4-sub
  
 # Analytics
 
