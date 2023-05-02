@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 103
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 56
 
-Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-103-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-56-sub
  
 # Analytics
 
