@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Episode 4
+Episode Name: My Home Hero Episode 5
 
-Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-4-sub
+Episode Link: https://allanime.to/watch/FFdCvGb6ugsQiREdA/episode-5-sub
  
 # Analytics
 
