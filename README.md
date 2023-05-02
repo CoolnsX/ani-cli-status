@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BIRDIE WING Golf Girls Story Season 2 Episode 4
+Episode Name: Tousouchuu Great Mission Episode 5
 
-Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-4-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-5-sub
  
 # Analytics
 
