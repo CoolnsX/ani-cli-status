@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai Shoukan wa Nidome desu Episode 4
+Episode Name: VINLAND SAGA SEASON 2 Episode 17
 
-Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-4-sub
+Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-17-sub
  
 # Analytics
 
