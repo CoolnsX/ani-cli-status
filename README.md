@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kagami no Kojou Episode 1
+Episode Name: EDENS ZERO 2nd Season Episode 5
 
-Episode Link: https://allanime.to/watch/qcBKYRRK7own5QsST/episode-1-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-5-sub
  
 # Analytics
 
