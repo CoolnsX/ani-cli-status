@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Alice Gear Aegis Expansion Episode 5
+Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 4
 
-Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-5-sub
+Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-4-sub
  
 # Analytics
 
