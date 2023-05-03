@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 5
+Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 5
 
-Episode Link: https://allanime.to/watch/7DkTkHkqCgiaNMmp9/episode-5-sub
+Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-5-sub
  
 # Analytics
 
