@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 5
+Episode Name: THE iDOLM STER Cinderella Girls U149 Episode 5
 
-Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-5-sub
+Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-5-sub
  
 # Analytics
 
