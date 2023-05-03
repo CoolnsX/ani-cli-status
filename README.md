@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 4
+Episode Name: Kagami no Kojou Episode 1
 
-Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-4-sub
+Episode Link: https://allanime.to/watch/qcBKYRRK7own5QsST/episode-1-sub
  
 # Analytics
 
