@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 5
+Episode Name: Chibi Maruko chan Episode 103
 
-Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-5-sub
+Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-103-sub
  
 # Analytics
 
