@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: MIX MEISEI STORY 2ND SEASON Nidome no Natsu Sora no Mukou e Episode 5
+Episode Name: Kagami no Kojou Episode 1
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-5-sub
+Episode Link: https://allanime.to/watch/qcBKYRRK7own5QsST/episode-1-sub
  
 # Analytics
 
