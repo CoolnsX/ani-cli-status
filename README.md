@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: THE iDOLM STER Cinderella Girls U149 Episode 5
+Episode Name: Kimi wa Houkago Insomnia Episode 4
 
-Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-5-sub
+Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-4-sub
  
 # Analytics
 
