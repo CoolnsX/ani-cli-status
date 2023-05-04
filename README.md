@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The♥Kabocha Wine Episode 33
+Episode Name: World Dai Star Episode 4
 
-Episode Link: https://allanime.to/watch/366khzcCCjML8b96u/episode-33-sub
+Episode Link: https://allanime.to/watch/yJn77BMcqcadgm2ZN/episode-4-sub
  
 # Analytics
 
