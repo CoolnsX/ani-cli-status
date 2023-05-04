@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jijou wo Shiranai Tenkousei ga Guigui Kuru Episode 5
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 56
 
-Episode Link: https://allanime.to/watch/pYpRanTbM2kcpdtr7/episode-5-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-56-sub
  
 # Analytics
 
