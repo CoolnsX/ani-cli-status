@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Beyblade Burst God Episode 30
+Episode Name: The♥Kabocha Wine Episode 33
 
-Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-30-sub
+Episode Link: https://allanime.to/watch/366khzcCCjML8b96u/episode-33-sub
  
 # Analytics
 
