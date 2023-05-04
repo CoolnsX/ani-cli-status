@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jarinko Chie TV Episode 5
+Episode Name: THE iDOLM STER Cinderella Girls U149 Episode 5
 
-Episode Link: https://allanime.to/watch/mSxuech6C2kxLs5hy/episode-5-sub
+Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-5-sub
  
 # Analytics
 
