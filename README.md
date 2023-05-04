@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 5
+Episode Name: Niehime to Kemono no Ou Episode 3
 
-Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-5-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-3-sub
  
 # Analytics
 
