@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: THE MARGINAL SERVICE Episode 4
+Episode Name: World Dai Star Episode 4
 
-Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-4-sub
+Episode Link: https://allanime.to/watch/yJn77BMcqcadgm2ZN/episode-4-sub
  
 # Analytics
 
