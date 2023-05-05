@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: VINLAND SAGA SEASON 2 Episode 17
+Episode Name: Jarinko Chie TV Episode 5
 
-Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-17-sub
+Episode Link: https://allanime.to/watch/mSxuech6C2kxLs5hy/episode-5-sub
  
 # Analytics
 
