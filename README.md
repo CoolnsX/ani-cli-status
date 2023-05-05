@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Alice Gear Aegis Expansion Episode 5
+Episode Name: Ousama Ranking Yuuki no Takarabako Episode 4
 
-Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-5-sub
+Episode Link: https://allanime.to/watch/gdSi7Zj3yLivnNMcW/episode-4-sub
  
 # Analytics
 
