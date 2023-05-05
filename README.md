@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 3
+Episode Name: Kizuna no Allele Episode 5
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-3-sub
+Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-5-sub
  
 # Analytics
 
