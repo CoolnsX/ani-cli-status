@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jarinko Chie TV Episode 5
+Episode Name: Skip to Loafer Episode 5
 
-Episode Link: https://allanime.to/watch/mSxuech6C2kxLs5hy/episode-5-sub
+Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-5-sub
  
 # Analytics
 
