@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Beyblade Burst God Episode 30
+Episode Name: You re Under Arrest Diverting Traffic at the Beach Episode 1
 
-Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-30-sub
+Episode Link: https://allanime.to/watch/tdD3mbQa3PQTBktNN/episode-1-sub
  
 # Analytics
 
