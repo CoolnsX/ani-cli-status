@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Episode 4
+Episode Name: Ninjala Episode 66
 
-Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-4-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-66-sub
  
 # Analytics
 
