@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Akuei to Gacchinpo Episode 1
+Episode Name: Kawaisugi Crisis Episode 5
 
-Episode Link: https://allanime.to/watch/TrmeGiQ9j7uF4WCx4/episode-1-sub
+Episode Link: https://allanime.to/watch/5GWWFB9siLsbopigh/episode-5-sub
  
 # Analytics
 
