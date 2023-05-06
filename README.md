@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Akuei to Gacchinpo Episode 1
+Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 6
 
-Episode Link: https://allanime.to/watch/TrmeGiQ9j7uF4WCx4/episode-1-sub
+Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-6-sub
  
 # Analytics
 
