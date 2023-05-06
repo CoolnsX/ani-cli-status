@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahou Shoujo Magical Destroyers Episode 5
+Episode Name: Akuei to Gacchinpo Episode 1
 
-Episode Link: https://allanime.to/watch/ZBeaammRgnGdBY9y3/episode-5-sub
+Episode Link: https://allanime.to/watch/TrmeGiQ9j7uF4WCx4/episode-1-sub
  
 # Analytics
 
