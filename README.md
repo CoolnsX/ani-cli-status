@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kimi wa Houkago Insomnia Episode 4
+Episode Name: Skip to Loafer Episode 5
 
-Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-4-sub
+Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-5-sub
  
 # Analytics
 
