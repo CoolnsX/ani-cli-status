@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai Shoukan wa Nidome desu Episode 5
+Episode Name: Megami no Café Terrace Episode 5
 
-Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-5-sub
+Episode Link: https://allanime.to/watch/7fFA3ta6sDK37K7T8/episode-5-sub
  
 # Analytics
 
