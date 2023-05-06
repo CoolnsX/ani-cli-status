@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 6
+Episode Name: Skip to Loafer Episode 5
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-6-sub
+Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-5-sub
  
 # Analytics
 
