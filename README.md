@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Episode 5
+Episode Name: VINLAND SAGA SEASON 2 Episode 17
 
-Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-5-sub
+Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-17-sub
  
 # Analytics
 
