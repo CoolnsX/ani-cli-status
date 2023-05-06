@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: You re Under Arrest Diverting Traffic at the Beach Episode 1
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 9
 
-Episode Link: https://allanime.to/watch/tdD3mbQa3PQTBktNN/episode-1-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-9-sub
  
 # Analytics
 
