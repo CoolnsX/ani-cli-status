@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: You re Under Arrest Diverting Traffic at the Beach Episode 1
+Episode Name: Dr Stone New World Episode 5
 
-Episode Link: https://allanime.to/watch/tdD3mbQa3PQTBktNN/episode-1-sub
+Episode Link: https://allanime.to/watch/6yaGSW4Y3ffWgcPtn/episode-5-sub
  
 # Analytics
 
