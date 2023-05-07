@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rokudou no Onna tachi Episode 5
+Episode Name: Yume no Crayon Oukoku Episode 60
 
-Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-5-sub
+Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-60-sub
  
 # Analytics
 
