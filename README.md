@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yume no Crayon Oukoku Episode 60
+Episode Name: Mahou no Angel Sweet Mint Episode 18
 
-Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-60-sub
+Episode Link: https://allanime.to/watch/7nx7xpGty3vpCY4w4/episode-18-sub
  
 # Analytics
 
