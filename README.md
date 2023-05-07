@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edens Zero Season 2 Episode 6
+Episode Name: Rokudou no Onna tachi Episode 5
 
-Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-6-sub
+Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-5-sub
  
 # Analytics
 
