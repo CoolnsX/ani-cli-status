@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yume no Crayon Oukoku Episode 60
+Episode Name: Edens Zero Season 2 Episode 6
 
-Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-60-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-6-sub
  
 # Analytics
 
