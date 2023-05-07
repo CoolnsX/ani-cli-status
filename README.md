@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Beyblade Burst God Episode 31
+Episode Name: Tengoku Daimakyou Episode 6
 
-Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-31-sub
+Episode Link: https://allanime.to/watch/gmGfya55qfP6QiPfe/episode-6-sub
  
 # Analytics
 
