@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tengoku Daimakyou Episode 6
+Episode Name: Watashi no Yuri wa Oshigoto desu Episode 5
 
-Episode Link: https://allanime.to/watch/gmGfya55qfP6QiPfe/episode-6-sub
+Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-5-sub
  
 # Analytics
 
