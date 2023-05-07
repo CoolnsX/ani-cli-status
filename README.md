@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edens Zero Season 2 Episode 6
+Episode Name: Yuusha ga Shinda Episode 5
 
-Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-6-sub
+Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-5-sub
  
 # Analytics
 
