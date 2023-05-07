@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahoutsukai no Yome Season 2 Episode 5
+Episode Name: Beyblade Burst God Episode 31
 
-Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-5-sub
+Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-31-sub
  
 # Analytics
 
