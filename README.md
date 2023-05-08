@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1061
+Episode Name: Birdie Wing Golf Girls Story Season 2 Episode 5
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1061-sub
+Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-5-sub
  
 # Analytics
 
