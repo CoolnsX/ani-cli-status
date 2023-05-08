@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mashle Episode 5
+Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 6
 
-Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-5-sub
+Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-6-sub
  
 # Analytics
 
