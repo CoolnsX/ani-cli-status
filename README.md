@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahou no Angel Sweet Mint Episode 18
+Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 6
 
-Episode Link: https://allanime.to/watch/7nx7xpGty3vpCY4w4/episode-18-sub
+Episode Link: https://allanime.to/watch/7DkTkHkqCgiaNMmp9/episode-6-sub
  
 # Analytics
 
