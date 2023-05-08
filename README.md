@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Stone New World Episode 5
+Episode Name: Jarinko Chie TV Episode 5
 
-Episode Link: https://allanime.to/watch/6yaGSW4Y3ffWgcPtn/episode-5-sub
+Episode Link: https://allanime.to/watch/mSxuech6C2kxLs5hy/episode-5-sub
  
 # Analytics
 
