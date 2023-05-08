@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru Level Up wa Jinsei wo Kaeta Episode 6
+Episode Name: Megami no Café Terrace Episode 5
 
-Episode Link: https://allanime.to/watch/HK4yoi5Q5KxYA4Bwv/episode-6-sub
+Episode Link: https://allanime.to/watch/7fFA3ta6sDK37K7T8/episode-5-sub
  
 # Analytics
 
