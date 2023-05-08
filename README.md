@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kuma Kuma Kuma Bear Punch Episode 6
+Episode Name: Mahou no Angel Sweet Mint Episode 18
 
-Episode Link: https://allanime.to/watch/9hPzd5tojwLbhkqLb/episode-6-sub
+Episode Link: https://allanime.to/watch/7nx7xpGty3vpCY4w4/episode-18-sub
  
 # Analytics
 
