@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 6
+Episode Name: Beyblade Burst God Episode 31
 
-Episode Link: https://allanime.to/watch/7DkTkHkqCgiaNMmp9/episode-6-sub
+Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-31-sub
  
 # Analytics
 
