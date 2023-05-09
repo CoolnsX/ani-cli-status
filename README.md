@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahou Shoujo Magical Destroyers Episode 5
+Episode Name: Edomae Elf Episode 5
 
-Episode Link: https://allanime.to/watch/ZBeaammRgnGdBY9y3/episode-5-sub
+Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-5-sub
  
 # Analytics
 
