@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 14
+Episode Name: Boku no Kokoro no Yabai Yatsu Episode 6
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-14-sub
+Episode Link: https://allanime.to/watch/HJSL7PWgcYYzchAyf/episode-6-sub
  
 # Analytics
 
