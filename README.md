@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Episode 5
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 57
 
-Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-5-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-57-sub
  
 # Analytics
 
