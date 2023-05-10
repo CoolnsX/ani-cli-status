@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Marginal Service Episode 5
+Episode Name: Otonari ni Ginga Episode 5
 
-Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-5-sub
+Episode Link: https://allanime.to/watch/yp5c8MJ3Bv4YM3tXN/episode-5-sub
  
 # Analytics
 
