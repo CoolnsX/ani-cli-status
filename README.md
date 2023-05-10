@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai Shoukan wa Nidome desu Episode 5
+Episode Name: Dead Mount Death Play Episode 5
 
-Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-5-sub
+Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-5-sub
  
 # Analytics
 
