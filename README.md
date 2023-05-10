@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jijou wo Shiranai Tenkousei ga Guigui Kuru Episode 6
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 10
 
-Episode Link: https://allanime.to/watch/pYpRanTbM2kcpdtr7/episode-6-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-10-sub
  
 # Analytics
 
