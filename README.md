@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 57
+Episode Name: Dr Slump Arale chan Episode 135
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-57-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-135-sub
  
 # Analytics
 
