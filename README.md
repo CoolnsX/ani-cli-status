@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Birdie Wing Golf Girls Story Season 2 Episode 5
+Episode Name: The Marginal Service Episode 5
 
-Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-5-sub
+Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-5-sub
  
 # Analytics
 
