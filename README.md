@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kimi wa Houkago Insomnia Episode 5
+Episode Name: Kimetsu no Yaiba Katanakaji no Sato hen Episode 5
 
-Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-5-sub
+Episode Link: https://allanime.to/watch/XJzfDyv8vsXWCMkTk/episode-5-sub
  
 # Analytics
 
