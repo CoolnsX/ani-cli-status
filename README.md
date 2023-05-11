@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jijou wo Shiranai Tenkousei ga Guigui Kuru Episode 6
+Episode Name: Vinland Saga Season 2 Episode 18
 
-Episode Link: https://allanime.to/watch/pYpRanTbM2kcpdtr7/episode-6-sub
+Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-18-sub
  
 # Analytics
 
