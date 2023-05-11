@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Skip to Loafer Episode 6
+Episode Name: Majutsushi Orphen Hagure Tabi Seiiki hen Episode 5
 
-Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-6-sub
+Episode Link: https://allanime.to/watch/eE3txJGGk9atw7k2v/episode-5-sub
  
 # Analytics
 
