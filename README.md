@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kidou Senshi Gundam Suisei no Majo Season 2 Episode 5
+Episode Name: Kimetsu no Yaiba Katanakaji no Sato hen Episode 5
 
-Episode Link: https://allanime.to/watch/hiEaJ59JzYA3bdN3s/episode-5-sub
+Episode Link: https://allanime.to/watch/XJzfDyv8vsXWCMkTk/episode-5-sub
  
 # Analytics
 
