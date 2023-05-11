@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yahari Ore no Seishun Love Come wa Machigatteiru Kan Dakara Shishunki wa Owarazu ni Seishun wa Tsuzuiteiku Episode 1
+Episode Name: Mahoutsukai no Yome SEASON 2 Episode 6
 
-Episode Link: https://allanime.to/watch/HTAc8GcXQfqG9npMS/episode-1-sub
+Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-6-sub
  
 # Analytics
 
