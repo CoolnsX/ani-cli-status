@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: World Dai Star Episode 5
+Episode Name: Yahari Ore no Seishun Love Come wa Machigatteiru Kan Dakara Shishunki wa Owarazu ni Seishun wa Tsuzuiteiku Episode 1
 
-Episode Link: https://allanime.to/watch/yJn77BMcqcadgm2ZN/episode-5-sub
+Episode Link: https://allanime.to/watch/HTAc8GcXQfqG9npMS/episode-1-sub
  
 # Analytics
 
