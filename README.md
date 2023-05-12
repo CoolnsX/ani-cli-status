@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gun dou Musashi Episode 18
+Episode Name: Bakuten Movie Episode 1
 
-Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-18-sub
+Episode Link: https://allanime.to/watch/r8E6sHpeRavWrk2Fc/episode-1-sub
  
 # Analytics
 
