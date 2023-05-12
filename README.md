@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Stone New World Episode 6
+Episode Name: Bakuten Movie Episode 1
 
-Episode Link: https://allanime.to/watch/6yaGSW4Y3ffWgcPtn/episode-6-sub
+Episode Link: https://allanime.to/watch/r8E6sHpeRavWrk2Fc/episode-1-sub
  
 # Analytics
 
