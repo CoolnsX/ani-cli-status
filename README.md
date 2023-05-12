@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gun dou Musashi Episode 18
+Episode Name: Yahari Ore no Seishun Love Come wa Machigatteiru Kan Dakara Shishunki wa Owarazu ni Seishun wa Tsuzuiteiku Episode 1
 
-Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-18-sub
+Episode Link: https://allanime.to/watch/HTAc8GcXQfqG9npMS/episode-1-sub
  
 # Analytics
 
