@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bakuten Movie Episode 1
+Episode Name: Kizuna no Allele Episode 6
 
-Episode Link: https://allanime.to/watch/r8E6sHpeRavWrk2Fc/episode-1-sub
+Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-6-sub
  
 # Analytics
 
