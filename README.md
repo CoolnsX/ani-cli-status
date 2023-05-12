@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hula Fulla Dance Episode 1
+Episode Name: Dr Stone New World Episode 6
 
-Episode Link: https://allanime.to/watch/pM2tppepJY8kju8Wr/episode-1-sub
+Episode Link: https://allanime.to/watch/6yaGSW4Y3ffWgcPtn/episode-6-sub
  
 # Analytics
 
