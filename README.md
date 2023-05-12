@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yahari Ore no Seishun Love Come wa Machigatteiru Kan Dakara Shishunki wa Owarazu ni Seishun wa Tsuzuiteiku Episode 1
+Episode Name: Dead Mount Death Play Episode 5
 
-Episode Link: https://allanime.to/watch/HTAc8GcXQfqG9npMS/episode-1-sub
+Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-5-sub
  
 # Analytics
 
