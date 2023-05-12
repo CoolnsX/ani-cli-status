@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Alice Gear Aegis Expansion Episode 6
+Episode Name: Gun dou Musashi Episode 18
 
-Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-6-sub
+Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-18-sub
  
 # Analytics
 
