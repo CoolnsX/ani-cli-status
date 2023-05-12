@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Episode 6
+Episode Name: Gunma chan Episode 12
 
-Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-6-sub
+Episode Link: https://allanime.to/watch/9QkytQwu7gjMMhNDQ/episode-12-sub
  
 # Analytics
 
