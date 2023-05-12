@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Episode 5
+Episode Name: Gun dou Musashi Episode 18
 
-Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-5-sub
+Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-18-sub
  
 # Analytics
 
