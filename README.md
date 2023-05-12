@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 5
+Episode Name: Mahoutsukai no Yome SEASON 2 Episode 6
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-5-sub
+Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-6-sub
  
 # Analytics
 
