@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 67
+Episode Name: Jigokuraku Episode 7
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-67-sub
+Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-7-sub
  
 # Analytics
 
