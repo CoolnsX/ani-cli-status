@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Opus COLORs Episode 6
+Episode Name: Ninjala Episode 67
 
-Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-6-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-67-sub
  
 # Analytics
 
