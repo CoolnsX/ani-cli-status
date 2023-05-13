@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Vinland Saga Season 2 Episode 18
+Episode Name: MIX MEISEI STORY 2ND SEASON Nidome no Natsu Sora no Mukou e Episode 7
 
-Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-18-sub
+Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-7-sub
  
 # Analytics
 
