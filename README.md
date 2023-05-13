@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 5
+Episode Name: Eizouken Mini Anime Episode 13
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-5-sub
+Episode Link: https://allanime.to/watch/8Ld9AFD3DFFAhRwej/episode-13-sub
  
 # Analytics
 
