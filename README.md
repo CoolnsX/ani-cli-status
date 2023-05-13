@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Yuri wa Oshigoto desu Episode 6
+Episode Name: Vinland Saga Season 2 Episode 18
 
-Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-6-sub
+Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-18-sub
  
 # Analytics
 
