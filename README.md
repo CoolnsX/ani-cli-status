@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: THE iDOLM STER Cinderella Girls U149 Episode 6
+Episode Name: Ao no Orchestra Episode 5
 
-Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-6-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-5-sub
  
 # Analytics
 
