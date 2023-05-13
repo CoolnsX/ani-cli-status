@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eizouken Mini Anime Episode 13
+Episode Name: Kaminaki Sekai no Kamisama Katsudou Episode 6
 
-Episode Link: https://allanime.to/watch/8Ld9AFD3DFFAhRwej/episode-13-sub
+Episode Link: https://allanime.to/watch/DcnE8PSQYK4Qh7d7t/episode-6-sub
  
 # Analytics
 
