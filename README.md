@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahoutsukai no Yome SEASON 2 Episode 6
+Episode Name: Hula Fulla Dance Episode 1
 
-Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-6-sub
+Episode Link: https://allanime.to/watch/pM2tppepJY8kju8Wr/episode-1-sub
  
 # Analytics
 
