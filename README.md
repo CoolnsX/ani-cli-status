@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahoutsukai no Yome SEASON 2 Episode 6
+Episode Name: Hyakko OVA Episode 1
 
-Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-6-sub
+Episode Link: https://allanime.to/watch/mZ7s27RuqEcRXpga7/episode-1-sub
  
 # Analytics
 
