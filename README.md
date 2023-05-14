@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rokudou no Onna tachi Episode 6
+Episode Name: Hyakko OVA Episode 1
 
-Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-6-sub
+Episode Link: https://allanime.to/watch/mZ7s27RuqEcRXpga7/episode-1-sub
  
 # Analytics
 
