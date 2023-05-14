@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho Season 2 Episode 10
+Episode Name: Tonikaku Kawaii Season 2 Episode 6
 
-Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-10-sub
+Episode Link: https://allanime.to/watch/tzPwbxSXWA22mxWFz/episode-6-sub
  
 # Analytics
 
