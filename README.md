@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ousama Ranking Yuuki no Takarabako Episode 5
+Episode Name: Detective Conan TV Episode 1083
 
-Episode Link: https://allanime.to/watch/gdSi7Zj3yLivnNMcW/episode-5-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1083-sub
  
 # Analytics
 
