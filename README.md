@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jigokuraku Episode 7
+Episode Name: Hyakko OVA Episode 1
 
-Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-7-sub
+Episode Link: https://allanime.to/watch/mZ7s27RuqEcRXpga7/episode-1-sub
  
 # Analytics
 
