@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 7
+Episode Name: Megami no Café Terrace Episode 6
 
-Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-7-sub
+Episode Link: https://allanime.to/watch/7fFA3ta6sDK37K7T8/episode-6-sub
  
 # Analytics
 
