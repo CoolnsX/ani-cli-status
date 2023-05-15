@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tonikaku Kawaii Season 2 Episode 6
+Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 7
 
-Episode Link: https://allanime.to/watch/tzPwbxSXWA22mxWFz/episode-6-sub
+Episode Link: https://allanime.to/watch/7DkTkHkqCgiaNMmp9/episode-7-sub
  
 # Analytics
 
