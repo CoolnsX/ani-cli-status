@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: ULTRAMAN FINAL Episode 12
+Episode Name: Alice Gear Aegis Expansion Episode 7
 
-Episode Link: https://allanime.to/watch/QJjM2pLw3DAptSLcj/episode-12-sub
+Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-7-sub
  
 # Analytics
 
