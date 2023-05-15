@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: MASHLE Episode 6
+Episode Name: Edomae Elf Episode 6
 
-Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-6-sub
+Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-6-sub
  
 # Analytics
 
