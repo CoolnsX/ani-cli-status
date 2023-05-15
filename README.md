@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edomae Elf Episode 6
+Episode Name: BIRDIE WING Golf Girls Story Season 2 Episode 6
 
-Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-6-sub
+Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-6-sub
  
 # Analytics
 
