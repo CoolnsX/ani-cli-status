@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BIRDIE WING Golf Girls Story Season 2 Episode 6
+Episode Name: Alice Gear Aegis Expansion Episode 7
 
-Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-6-sub
+Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-7-sub
  
 # Analytics
 
