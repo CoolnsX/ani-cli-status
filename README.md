@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 7
+Episode Name: Bakuten Movie Episode 1
 
-Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-7-sub
+Episode Link: https://allanime.to/watch/r8E6sHpeRavWrk2Fc/episode-1-sub
  
 # Analytics
 
