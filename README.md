@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 7
+Episode Name: Watashi no Yuri wa Oshigoto desu Episode 6
 
-Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-7-sub
+Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-6-sub
  
 # Analytics
 
