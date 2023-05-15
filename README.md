@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai One Turn Kill Nee san Ane Douhan no Isekai Seikatsu Hajimemashita Episode 6
+Episode Name: ULTRAMAN FINAL Episode 12
 
-Episode Link: https://allanime.to/watch/gotus85zaosbZA4o8/episode-6-sub
+Episode Link: https://allanime.to/watch/QJjM2pLw3DAptSLcj/episode-12-sub
  
 # Analytics
 
