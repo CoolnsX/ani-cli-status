@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kubo san wa Mob wo Yurusanai Episode 7
+Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 7
 
-Episode Link: https://allanime.to/watch/h6voZ9jYKnku7GKA3/episode-7-sub
+Episode Link: https://allanime.to/watch/7DkTkHkqCgiaNMmp9/episode-7-sub
  
 # Analytics
 
