@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahou Shoujo Magical Destroyers Episode 6
+Episode Name: MIX MEISEI STORY 2ND SEASON Nidome no Natsu Sora no Mukou e Episode 7
 
-Episode Link: https://allanime.to/watch/ZBeaammRgnGdBY9y3/episode-6-sub
+Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-7-sub
  
 # Analytics
 
