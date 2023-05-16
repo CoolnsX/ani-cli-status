@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tonikaku Kawaii Season 2 Episode 6
+Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 7
 
-Episode Link: https://allanime.to/watch/tzPwbxSXWA22mxWFz/episode-6-sub
+Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-7-sub
  
 # Analytics
 
