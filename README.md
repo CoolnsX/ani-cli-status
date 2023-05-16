@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 6
+Episode Name: Tengoku Daimakyou Episode 7
 
-Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-6-sub
+Episode Link: https://allanime.to/watch/gmGfya55qfP6QiPfe/episode-7-sub
  
 # Analytics
 
