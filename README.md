@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 7
+Episode Name: The Siamese First Mission Episode 1
 
-Episode Link: https://allanime.to/watch/7DkTkHkqCgiaNMmp9/episode-7-sub
+Episode Link: https://allanime.to/watch/Fx9b9jNT68QbkY7n4/episode-1-sub
  
 # Analytics
 
