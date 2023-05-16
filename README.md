@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: MIX MEISEI STORY 2ND SEASON Nidome no Natsu Sora no Mukou e Episode 7
+Episode Name: THE MARGINAL SERVICE Episode 6
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-7-sub
+Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-6-sub
  
 # Analytics
 
