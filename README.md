@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: THE MARGINAL SERVICE Episode 6
+Episode Name: Kubo san wa Mob wo Yurusanai Episode 7
 
-Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-6-sub
+Episode Link: https://allanime.to/watch/h6voZ9jYKnku7GKA3/episode-7-sub
  
 # Analytics
 
