@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Alice Gear Aegis Expansion Episode 7
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 58
 
-Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-7-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-58-sub
  
 # Analytics
 
