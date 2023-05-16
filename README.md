@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tonikaku Kawaii Season 2 Episode 6
+Episode Name: Mahou Shoujo Magical Destroyers Episode 6
 
-Episode Link: https://allanime.to/watch/tzPwbxSXWA22mxWFz/episode-6-sub
+Episode Link: https://allanime.to/watch/ZBeaammRgnGdBY9y3/episode-6-sub
  
 # Analytics
 
