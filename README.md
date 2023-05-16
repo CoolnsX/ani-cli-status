@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 7
+Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 6
 
-Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-7-sub
+Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-6-sub
  
 # Analytics
 
