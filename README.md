@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: My Home Hero Episode 7
+Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 6
 
-Episode Link: https://allanime.to/watch/FFdCvGb6ugsQiREdA/episode-7-sub
+Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-6-sub
  
 # Analytics
 
