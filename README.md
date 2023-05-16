@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 7
+Episode Name: Dead Mount Death Play Episode 6
 
-Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-7-sub
+Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-6-sub
  
 # Analytics
 
