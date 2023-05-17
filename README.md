@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 7
+Episode Name: MUSASHI GUN dou Episode 19
 
-Episode Link: https://allanime.to/watch/7DkTkHkqCgiaNMmp9/episode-7-sub
+Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-19-sub
  
 # Analytics
 
