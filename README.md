@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: MUSASHI GUN dou Episode 19
+Episode Name: Kaminaki Sekai no Kamisama Katsudou Episode 7
 
-Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-19-sub
+Episode Link: https://allanime.to/watch/DcnE8PSQYK4Qh7d7t/episode-7-sub
  
 # Analytics
 
