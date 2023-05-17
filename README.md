@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Uma Musume Pretty Derby ROAD TO THE TOP Episode 4
+Episode Name: Tengoku Daimakyou Episode 7
 
-Episode Link: https://allanime.to/watch/LBBwJzGQoGTY2PYXc/episode-4-sub
+Episode Link: https://allanime.to/watch/gmGfya55qfP6QiPfe/episode-7-sub
  
 # Analytics
 
