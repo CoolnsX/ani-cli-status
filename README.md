@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai Shoukan wa Nidome desu Episode 6
+Episode Name: Chibi Maruko chan Episode 104
 
-Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-6-sub
+Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-104-sub
  
 # Analytics
 
