@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1061 5
+Episode Name: MUSASHI GUN dou Episode 19
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1061 5-sub
+Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-19-sub
  
 # Analytics
 
