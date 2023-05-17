@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 6
+Episode Name: Kizuna no Allele Episode 7
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-6-sub
+Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-7-sub
  
 # Analytics
 
