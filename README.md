@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 7
+Episode Name: 1P Episode 1061 5
 
-Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-7-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1061 5-sub
  
 # Analytics
 
