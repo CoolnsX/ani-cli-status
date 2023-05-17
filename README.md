@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 15
+Episode Name: Ao no Orchestra Episode 6
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-15-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-6-sub
  
 # Analytics
 
