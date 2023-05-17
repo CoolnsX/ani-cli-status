@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Siamese First Mission Episode 1
+Episode Name: Hirogaru Sky Precure Episode 15
 
-Episode Link: https://allanime.to/watch/Fx9b9jNT68QbkY7n4/episode-1-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-15-sub
  
 # Analytics
 
