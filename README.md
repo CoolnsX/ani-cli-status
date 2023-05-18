@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ganbare Genki Episode 2
+Episode Name: Golden Kamuy 4th Season Episode 7
 
-Episode Link: https://allanime.to/watch/BYdHyfqDGXxWSDgAj/episode-2-sub
+Episode Link: https://allanime.to/watch/z5ExvzcsKXYF3bvLp/episode-7-sub
  
 # Analytics
 
