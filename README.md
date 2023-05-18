@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: My Home Hero Episode 7
+Episode Name: EDENS ZERO 2nd Season Episode 7
 
-Episode Link: https://allanime.to/watch/FFdCvGb6ugsQiREdA/episode-7-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-7-sub
  
 # Analytics
 
