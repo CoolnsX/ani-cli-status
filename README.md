@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 58
+Episode Name:  Oshi no Ko Episode 6
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-58-sub
+Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-6-sub
  
 # Analytics
 
