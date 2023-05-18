@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name:  Oshi no Ko Episode 6
+Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 7
 
-Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-6-sub
+Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-7-sub
  
 # Analytics
 
