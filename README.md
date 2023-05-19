@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Siamese First Mission Episode 1
+Episode Name: Kuma Kuma Kuma Bear Punch Episode 7
 
-Episode Link: https://allanime.to/watch/Fx9b9jNT68QbkY7n4/episode-1-sub
+Episode Link: https://allanime.to/watch/9hPzd5tojwLbhkqLb/episode-7-sub
  
 # Analytics
 
