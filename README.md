@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: GUNMACHAN Episode 13
+Episode Name: Kizuna no Allele Episode 7
 
-Episode Link: https://allanime.to/watch/9QkytQwu7gjMMhNDQ/episode-13-sub
+Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-7-sub
  
 # Analytics
 
