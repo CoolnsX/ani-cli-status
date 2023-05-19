@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Beyblade Burst God Episode 33
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 58
 
-Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-33-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-58-sub
  
 # Analytics
 
