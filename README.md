@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Golden Kamuy 4th Season Episode 7
+Episode Name:  Oshi no Ko Episode 6
 
-Episode Link: https://allanime.to/watch/z5ExvzcsKXYF3bvLp/episode-7-sub
+Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-6-sub
  
 # Analytics
 
