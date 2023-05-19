@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kuma Kuma Kuma Bear Punch Episode 7
+Episode Name: Dr Stone New World Episode 7
 
-Episode Link: https://allanime.to/watch/9hPzd5tojwLbhkqLb/episode-7-sub
+Episode Link: https://allanime.to/watch/6yaGSW4Y3ffWgcPtn/episode-7-sub
  
 # Analytics
 
