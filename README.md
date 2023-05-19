@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yakitori Episode 6
+Episode Name: Edomae Elf Episode 7
 
-Episode Link: https://allanime.to/watch/4omHxAR3BGJox6BbQ/episode-6-sub
+Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-7-sub
  
 # Analytics
 
