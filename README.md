@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edomae Elf Episode 7
+Episode Name: Idol Tenshi Youkoso Youko Episode 5
 
-Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-7-sub
+Episode Link: https://allanime.to/watch/dsCaZtuePjaXACfB4/episode-5-sub
  
 # Analytics
 
