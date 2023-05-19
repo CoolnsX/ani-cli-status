@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kimi wa Houkago Insomnia Episode 6
+Episode Name: Isekai One Turn Kill Nee san Ane Douhan no Isekai Seikatsu Hajimemashita Episode 7
 
-Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-6-sub
+Episode Link: https://allanime.to/watch/gotus85zaosbZA4o8/episode-7-sub
  
 # Analytics
 
