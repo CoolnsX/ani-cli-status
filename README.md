@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahoutsukai no Yome SEASON 2 Episode 7
+Episode Name: Majutsushi Orphen Hagure Tabi Seiiki hen Episode 6
 
-Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-7-sub
+Episode Link: https://allanime.to/watch/eE3txJGGk9atw7k2v/episode-6-sub
  
 # Analytics
 
