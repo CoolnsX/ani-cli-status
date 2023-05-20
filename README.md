@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ganbare Genki Episode 2
+Episode Name: Isekai One Turn Kill Nee san Ane Douhan no Isekai Seikatsu Hajimemashita Episode 7
 
-Episode Link: https://allanime.to/watch/BYdHyfqDGXxWSDgAj/episode-2-sub
+Episode Link: https://allanime.to/watch/gotus85zaosbZA4o8/episode-7-sub
  
 # Analytics
 
