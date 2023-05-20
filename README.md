@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yuusha ga Shinda Episode 7
+Episode Name: Kawaisugi Crisis Episode 7
 
-Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-7-sub
+Episode Link: https://allanime.to/watch/5GWWFB9siLsbopigh/episode-7-sub
  
 # Analytics
 
