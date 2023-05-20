@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kubo san wa Mob wo Yurusanai Episode 7
+Episode Name: Yakitori Episode 6
 
-Episode Link: https://allanime.to/watch/h6voZ9jYKnku7GKA3/episode-7-sub
+Episode Link: https://allanime.to/watch/4omHxAR3BGJox6BbQ/episode-6-sub
  
 # Analytics
 
