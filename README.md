@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ousama Ranking Yuuki no Takarabako Episode 6
+Episode Name: Mahoutsukai no Yome SEASON 2 Episode 7
 
-Episode Link: https://allanime.to/watch/gdSi7Zj3yLivnNMcW/episode-6-sub
+Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-7-sub
  
 # Analytics
 
