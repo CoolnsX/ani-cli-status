@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kubo san wa Mob wo Yurusanai Episode 7
+Episode Name: Mahou Shoujo Magical Destroyers Episode 7
 
-Episode Link: https://allanime.to/watch/h6voZ9jYKnku7GKA3/episode-7-sub
+Episode Link: https://allanime.to/watch/ZBeaammRgnGdBY9y3/episode-7-sub
  
 # Analytics
 
