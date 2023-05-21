@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 68
+Episode Name: Opus COLORs Episode 7
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-68-sub
+Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-7-sub
  
 # Analytics
 
