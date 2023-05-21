@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jarinko Chie TV Episode 6
+Episode Name: Watashi no Yuri wa Oshigoto desu Episode 7
 
-Episode Link: https://allanime.to/watch/mSxuech6C2kxLs5hy/episode-6-sub
+Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-7-sub
  
 # Analytics
 
