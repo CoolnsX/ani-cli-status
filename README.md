@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 136
+Episode Name: Tonikaku Kawaii Season 2 Episode 7
 
-Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-136-sub
+Episode Link: https://allanime.to/watch/tzPwbxSXWA22mxWFz/episode-7-sub
  
 # Analytics
 
