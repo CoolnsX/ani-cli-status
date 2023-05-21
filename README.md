@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tonikaku Kawaii Season 2 Episode 7
+Episode Name: Araiguma Rascal Episode 38
 
-Episode Link: https://allanime.to/watch/tzPwbxSXWA22mxWFz/episode-7-sub
+Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-38-sub
  
 # Analytics
 
