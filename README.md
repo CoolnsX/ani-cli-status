@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1062
+Episode Name: My Home Hero Episode 8
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1062-sub
+Episode Link: https://allanime.to/watch/FFdCvGb6ugsQiREdA/episode-8-sub
  
 # Analytics
 
