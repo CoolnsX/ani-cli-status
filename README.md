@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Araiguma Rascal Episode 38
+Episode Name: Jijou wo Shiranai Tenkousei ga Guigui Kuru Episode 8
 
-Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-38-sub
+Episode Link: https://allanime.to/watch/pYpRanTbM2kcpdtr7/episode-8-sub
  
 # Analytics
 
