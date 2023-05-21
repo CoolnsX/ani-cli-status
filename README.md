@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 16
+Episode Name: Dr Slump Arale chan Episode 136
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-16-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-136-sub
  
 # Analytics
 
