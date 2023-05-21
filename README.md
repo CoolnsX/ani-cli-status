@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Araiguma Rascal Episode 38
+Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 7
 
-Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-38-sub
+Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-7-sub
  
 # Analytics
 
