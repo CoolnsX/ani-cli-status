@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 136
+Episode Name: Jarinko Chie TV Episode 6
 
-Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-136-sub
+Episode Link: https://allanime.to/watch/mSxuech6C2kxLs5hy/episode-6-sub
  
 # Analytics
 
