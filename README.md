@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Megami no Café Terrace Episode 7
+Episode Name: Ousama Ranking Yuuki no Takarabako Episode 6
 
-Episode Link: https://allanime.to/watch/7fFA3ta6sDK37K7T8/episode-7-sub
+Episode Link: https://allanime.to/watch/gdSi7Zj3yLivnNMcW/episode-6-sub
  
 # Analytics
 
