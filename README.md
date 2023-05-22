@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1084
+Episode Name: Isekai Shoukan wa Nidome desu Episode 7
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1084-sub
+Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-7-sub
  
 # Analytics
 
