@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru Level Up wa Jinsei wo Kaeta Episode 8
+Episode Name: MASHLE Episode 6 5
 
-Episode Link: https://allanime.to/watch/HK4yoi5Q5KxYA4Bwv/episode-8-sub
+Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-6 5-sub
  
 # Analytics
 
