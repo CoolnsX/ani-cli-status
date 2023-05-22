@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rokudou no Onna tachi Episode 7
+Episode Name: 1P Episode 1062
 
-Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-7-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1062-sub
  
 # Analytics
 
