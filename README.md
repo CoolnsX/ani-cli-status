@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 59
+Episode Name: Detective Conan TV Episode 1084
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-59-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1084-sub
  
 # Analytics
 
