@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jijou wo Shiranai Tenkousei ga Guigui Kuru Episode 8
+Episode Name: MASHLE Episode 6 5
 
-Episode Link: https://allanime.to/watch/pYpRanTbM2kcpdtr7/episode-8-sub
+Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-6 5-sub
  
 # Analytics
 
