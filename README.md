@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edomae Elf Episode 7
+Episode Name: Jijou wo Shiranai Tenkousei ga Guigui Kuru Episode 8
 
-Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-7-sub
+Episode Link: https://allanime.to/watch/pYpRanTbM2kcpdtr7/episode-8-sub
  
 # Analytics
 
