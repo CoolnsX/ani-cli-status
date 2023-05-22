@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: MASHLE Episode 6 5
+Episode Name: Dr Slump Arale chan Episode 136
 
-Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-6 5-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-136-sub
  
 # Analytics
 
