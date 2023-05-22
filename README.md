@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai Shoukan wa Nidome desu Episode 7
+Episode Name: Chibi Maruko chan Episode 105
 
-Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-7-sub
+Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-105-sub
  
 # Analytics
 
