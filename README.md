@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Yuri wa Oshigoto desu Episode 7
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 59
 
-Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-7-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-59-sub
  
 # Analytics
 
