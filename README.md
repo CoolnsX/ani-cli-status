@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 105
+Episode Name: Alice Gear Aegis Expansion Episode 8
 
-Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-105-sub
+Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-8-sub
  
 # Analytics
 
