@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 136
+Episode Name: Alice Gear Aegis Expansion Episode 8
 
-Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-136-sub
+Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-8-sub
  
 # Analytics
 
