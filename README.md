@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Alice Gear Aegis Expansion Episode 8
+Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 7
 
-Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-8-sub
+Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-7-sub
  
 # Analytics
 
