@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Megami no Café Terrace Episode 7
+Episode Name: Otonari ni Ginga Episode 7
 
-Episode Link: https://allanime.to/watch/7fFA3ta6sDK37K7T8/episode-7-sub
+Episode Link: https://allanime.to/watch/yp5c8MJ3Bv4YM3tXN/episode-7-sub
  
 # Analytics
 
