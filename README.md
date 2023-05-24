@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 7
+Episode Name: KnY 3 Episode 7
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-7-sub
+Episode Link: https://allanime.to/watch/XJzfDyv8vsXWCMkTk/episode-7-sub
  
 # Analytics
 
