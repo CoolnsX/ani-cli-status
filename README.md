@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Episode 8
+Episode Name: Kubo san wa Mob wo Yurusanai Episode 8
 
-Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-8-sub
+Episode Link: https://allanime.to/watch/h6voZ9jYKnku7GKA3/episode-8-sub
  
 # Analytics
 
