@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru Level Up wa Jinsei wo Kaeta Episode 8
+Episode Name: Boku no Kokoro no Yabai Yatsu Episode 8
 
-Episode Link: https://allanime.to/watch/HK4yoi5Q5KxYA4Bwv/episode-8-sub
+Episode Link: https://allanime.to/watch/HJSL7PWgcYYzchAyf/episode-8-sub
  
 # Analytics
 
