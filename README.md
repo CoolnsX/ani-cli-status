@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tonikaku Kawaii Season 2 Episode 7
+Episode Name: Tengoku Daimakyou Episode 8
 
-Episode Link: https://allanime.to/watch/tzPwbxSXWA22mxWFz/episode-7-sub
+Episode Link: https://allanime.to/watch/gmGfya55qfP6QiPfe/episode-8-sub
  
 # Analytics
 
