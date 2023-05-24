@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Episode 8
+Episode Name: Alice Gear Aegis Expansion Episode 8
 
-Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-8-sub
+Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-8-sub
  
 # Analytics
 
