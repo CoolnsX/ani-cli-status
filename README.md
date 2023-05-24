@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Majutsushi Orphen Hagure Tabi Seiiki hen Episode 7
+Episode Name: Kizuna no Allele Episode 8
 
-Episode Link: https://allanime.to/watch/eE3txJGGk9atw7k2v/episode-7-sub
+Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-8-sub
  
 # Analytics
 
