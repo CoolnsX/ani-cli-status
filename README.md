@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: EDENS ZERO 2nd Season Episode 8
+Episode Name: Lostorage Conflated WIXOSS Missing Link Episode 1
 
-Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-8-sub
+Episode Link: https://allanime.to/watch/5xXhk6KFReWSEmsuv/episode-1-sub
  
 # Analytics
 
