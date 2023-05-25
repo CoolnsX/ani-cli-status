@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ousama Ranking Yuuki no Takarabako Episode 7
+Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 8
 
-Episode Link: https://allanime.to/watch/gdSi7Zj3yLivnNMcW/episode-7-sub
+Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-8-sub
  
 # Analytics
 
