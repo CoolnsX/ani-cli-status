@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 8
+Episode Name: Dead Mount Death Play Episode 7
 
-Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-8-sub
+Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-7-sub
  
 # Analytics
 
