@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 8
+Episode Name: My Home Hero Episode 8
 
-Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-8-sub
+Episode Link: https://allanime.to/watch/FFdCvGb6ugsQiREdA/episode-8-sub
  
 # Analytics
 
