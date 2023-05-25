@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 16
+Episode Name: Lostorage Conflated WIXOSS Missing Link Episode 1
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-16-sub
+Episode Link: https://allanime.to/watch/5xXhk6KFReWSEmsuv/episode-1-sub
  
 # Analytics
 
