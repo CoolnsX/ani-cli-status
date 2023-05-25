@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Lostorage Conflated WIXOSS Missing Link Episode 1
+Episode Name: THE MARGINAL SERVICE Episode 7
 
-Episode Link: https://allanime.to/watch/5xXhk6KFReWSEmsuv/episode-1-sub
+Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-7-sub
  
 # Analytics
 
