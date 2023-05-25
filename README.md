@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Episode 7
+Episode Name: Otonari ni Ginga Episode 7
 
-Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-7-sub
+Episode Link: https://allanime.to/watch/yp5c8MJ3Bv4YM3tXN/episode-7-sub
  
 # Analytics
 
