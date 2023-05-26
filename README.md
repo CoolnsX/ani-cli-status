@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sword Art Online Progressive Kuraki Yuuyami no Scherzo Episode 1
+Episode Name: Majutsushi Orphen Hagure Tabi Seiiki hen Episode 7
 
-Episode Link: https://allanime.to/watch/JsbMBPoTsp3RkGfrf/episode-1-sub
+Episode Link: https://allanime.to/watch/eE3txJGGk9atw7k2v/episode-7-sub
  
 # Analytics
 
