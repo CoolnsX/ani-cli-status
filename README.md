@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 59
+Episode Name: MUSASHI GUN dou Episode 20
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-59-sub
+Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-20-sub
  
 # Analytics
 
