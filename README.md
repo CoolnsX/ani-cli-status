@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name:  Oshi no Ko Episode 7
+Episode Name: Chiikawa Episode 41
 
-Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-7-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-41-sub
  
 # Analytics
 
