@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sword Art Online Progressive Kuraki Yuuyami no Scherzo Episode 1
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 59
 
-Episode Link: https://allanime.to/watch/JsbMBPoTsp3RkGfrf/episode-1-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-59-sub
  
 # Analytics
 
