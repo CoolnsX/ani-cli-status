@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 41
+Episode Name: Sword Art Online Progressive Kuraki Yuuyami no Scherzo Episode 1
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-41-sub
+Episode Link: https://allanime.to/watch/JsbMBPoTsp3RkGfrf/episode-1-sub
  
 # Analytics
 
