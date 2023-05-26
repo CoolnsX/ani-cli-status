@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Episode 8
+Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 8
 
-Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-8-sub
+Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-8-sub
  
 # Analytics
 
