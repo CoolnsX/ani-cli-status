@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 16
+Episode Name: Majutsushi Orphen Hagure Tabi Seiiki hen Episode 7
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-16-sub
+Episode Link: https://allanime.to/watch/eE3txJGGk9atw7k2v/episode-7-sub
  
 # Analytics
 
