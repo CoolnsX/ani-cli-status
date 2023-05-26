@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: MUSASHI GUN dou Episode 20
+Episode Name: Opus COLORs Episode 8
 
-Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-20-sub
+Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-8-sub
  
 # Analytics
 
