@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: THE MARGINAL SERVICE Episode 7
+Episode Name: Watashi no Yuri wa Oshigoto desu Episode 8
 
-Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-7-sub
+Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-8-sub
  
 # Analytics
 
