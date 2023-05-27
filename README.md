@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Skip to Loafer Episode 8
+Episode Name: Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru Level Up wa Jinsei wo Kaeta Episode 8
 
-Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-8-sub
+Episode Link: https://allanime.to/watch/HK4yoi5Q5KxYA4Bwv/episode-8-sub
  
 # Analytics
 
