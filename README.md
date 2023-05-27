@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 6
+Episode Name: MASHLE Episode 7
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-6-sub
+Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-7-sub
  
 # Analytics
 
