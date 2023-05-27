@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Opus COLORs Episode 8
+Episode Name: Mahou Shoujo Magical Destroyers Episode 8
 
-Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-8-sub
+Episode Link: https://allanime.to/watch/ZBeaammRgnGdBY9y3/episode-8-sub
  
 # Analytics
 
