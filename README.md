@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: MUSASHI GUN dou Episode 20
+Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 7
 
-Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-20-sub
+Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-7-sub
  
 # Analytics
 
