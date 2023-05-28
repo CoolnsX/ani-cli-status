@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ousama Ranking Yuuki no Takarabako Episode 7
+Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 8
 
-Episode Link: https://allanime.to/watch/gdSi7Zj3yLivnNMcW/episode-7-sub
+Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-8-sub
  
 # Analytics
 
