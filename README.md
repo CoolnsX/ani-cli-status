@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Stone New World Episode 8
+Episode Name: Attacker YOU Episode 45
 
-Episode Link: https://allanime.to/watch/6yaGSW4Y3ffWgcPtn/episode-8-sub
+Episode Link: https://allanime.to/watch/jEgr3unzEo2xch3n9/episode-45-sub
  
 # Analytics
 
