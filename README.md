@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Lostorage Conflated WIXOSS Missing Link Episode 1
+Episode Name: Mahoutsukai no Yome SEASON 2 Episode 8
 
-Episode Link: https://allanime.to/watch/5xXhk6KFReWSEmsuv/episode-1-sub
+Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-8-sub
  
 # Analytics
 
