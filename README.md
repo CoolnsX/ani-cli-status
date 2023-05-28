@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 69
+Episode Name: Isekai One Turn Kill Nee san Ane Douhan no Isekai Seikatsu Hajimemashita Episode 8
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-69-sub
+Episode Link: https://allanime.to/watch/gotus85zaosbZA4o8/episode-8-sub
  
 # Analytics
 
