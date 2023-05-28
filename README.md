@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 9
+Episode Name:  Oshi no Ko Episode 7
 
-Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-9-sub
+Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-7-sub
  
 # Analytics
 
