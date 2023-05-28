@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Attacker YOU Episode 45
+Episode Name: Isekai One Turn Kill Nee san Ane Douhan no Isekai Seikatsu Hajimemashita Episode 8
 
-Episode Link: https://allanime.to/watch/jEgr3unzEo2xch3n9/episode-45-sub
+Episode Link: https://allanime.to/watch/gotus85zaosbZA4o8/episode-8-sub
  
 # Analytics
 
