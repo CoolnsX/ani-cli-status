@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name:  Oshi no Ko Episode 7
+Episode Name: Edomae Elf Episode 8
 
-Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-7-sub
+Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-8-sub
  
 # Analytics
 
