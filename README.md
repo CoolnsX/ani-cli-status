@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: KnY 3 Episode 8
+Episode Name: BIRDIE WING Golf Girls Story Season 2 Episode 8
 
-Episode Link: https://allanime.to/watch/XJzfDyv8vsXWCMkTk/episode-8-sub
+Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-8-sub
  
 # Analytics
 
