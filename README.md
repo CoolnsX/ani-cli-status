@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: My Home Hero Episode 9
+Episode Name: Kizuna no Allele Episode 9
 
-Episode Link: https://allanime.to/watch/FFdCvGb6ugsQiREdA/episode-9-sub
+Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-9-sub
  
 # Analytics
 
