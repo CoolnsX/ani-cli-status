@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rokudou no Onna tachi Episode 8
+Episode Name: Hirogaru Sky Precure Episode 17
 
-Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-8-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-17-sub
  
 # Analytics
 
