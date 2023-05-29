@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 9
+Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 8
 
-Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-9-sub
+Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-8-sub
  
 # Analytics
 
