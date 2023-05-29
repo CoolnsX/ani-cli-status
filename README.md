@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 8
+Episode Name: MASHLE Episode 7
 
-Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-8-sub
+Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-7-sub
  
 # Analytics
 
