@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yuusha ga Shinda Episode 8
+Episode Name: KnY 3 Episode 8
 
-Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-8-sub
+Episode Link: https://allanime.to/watch/XJzfDyv8vsXWCMkTk/episode-8-sub
  
 # Analytics
 
