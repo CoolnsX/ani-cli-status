@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 8
+Episode Name: Kuma Kuma Kuma Bear Punch Episode 9
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-8-sub
+Episode Link: https://allanime.to/watch/9hPzd5tojwLbhkqLb/episode-9-sub
  
 # Analytics
 
