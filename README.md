@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rokudou no Onna tachi Episode 8
+Episode Name: My Home Hero Episode 9
 
-Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-8-sub
+Episode Link: https://allanime.to/watch/FFdCvGb6ugsQiREdA/episode-9-sub
  
 # Analytics
 
