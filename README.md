@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kimi wa Houkago Insomnia Episode 8
+Episode Name: EDENS ZERO 2nd Season Episode 9
 
-Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-8-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-9-sub
  
 # Analytics
 
