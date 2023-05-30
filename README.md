@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 17
+Episode Name: Mahou Shoujo Magical Destroyers Episode 8
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-17-sub
+Episode Link: https://allanime.to/watch/ZBeaammRgnGdBY9y3/episode-8-sub
  
 # Analytics
 
