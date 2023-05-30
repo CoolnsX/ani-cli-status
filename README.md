@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Attacker YOU Episode 45
+Episode Name: Hai Step Jun Episode 11
 
-Episode Link: https://allanime.to/watch/jEgr3unzEo2xch3n9/episode-45-sub
+Episode Link: https://allanime.to/watch/5dC9GDoPPJ5agJg2C/episode-11-sub
  
 # Analytics
 
