@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mobile Suit Zeta Gundam A New Translation III Love Is the Pulse of the Stars Episode 1
+Episode Name: Hirogaru Sky Precure Episode 17
 
-Episode Link: https://allanime.to/watch/J8aYjqCC4PL9CqL3m/episode-1-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-17-sub
  
 # Analytics
 
