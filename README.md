@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: World Dai Star Episode 8
+Episode Name: Dead Mount Death Play Episode 8
 
-Episode Link: https://allanime.to/watch/yJn77BMcqcadgm2ZN/episode-8-sub
+Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-8-sub
  
 # Analytics
 
