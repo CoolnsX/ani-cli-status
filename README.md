@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hai Step Jun Episode 11
+Episode Name: Vinland Saga Season 2 Episode 21
 
-Episode Link: https://allanime.to/watch/5dC9GDoPPJ5agJg2C/episode-11-sub
+Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-21-sub
  
 # Analytics
 
