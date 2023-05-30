@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jijou wo Shiranai Tenkousei ga Guigui Kuru Episode 9
+Episode Name: Hirogaru Sky Precure Episode 17
 
-Episode Link: https://allanime.to/watch/pYpRanTbM2kcpdtr7/episode-9-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-17-sub
  
 # Analytics
 
