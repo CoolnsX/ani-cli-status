@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 17
+Episode Name: Mobile Suit Zeta Gundam A New Translation I Heir to the Stars Episode 1
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-17-sub
+Episode Link: https://allanime.to/watch/SiLhWTr9TuSywMWan/episode-1-sub
  
 # Analytics
 
