@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Alice Gear Aegis Expansion Episode 9
+Episode Name: Niehime to Kemono no Ou Episode 7
 
-Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-9-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-7-sub
  
 # Analytics
 
