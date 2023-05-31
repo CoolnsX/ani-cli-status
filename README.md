@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1063
+Episode Name: Boku no Kokoro no Yabai Yatsu Episode 9
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1063-sub
+Episode Link: https://allanime.to/watch/HJSL7PWgcYYzchAyf/episode-9-sub
  
 # Analytics
 
