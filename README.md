@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 9
+Episode Name: Golden Kamuy Season 4 Episode 9
 
-Episode Link: https://allanime.to/watch/7DkTkHkqCgiaNMmp9/episode-9-sub
+Episode Link: https://allanime.to/watch/z5ExvzcsKXYF3bvLp/episode-9-sub
  
 # Analytics
 
