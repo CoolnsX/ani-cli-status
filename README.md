@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Beyblade Burst God Episode 34
+Episode Name: 1P Episode 1063
 
-Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-34-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1063-sub
  
 # Analytics
 
