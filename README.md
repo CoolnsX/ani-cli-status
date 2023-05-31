@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru Level Up wa Jinsei wo Kaeta Episode 9
+Episode Name: Hirogaru Sky Precure Episode 17
 
-Episode Link: https://allanime.to/watch/HK4yoi5Q5KxYA4Bwv/episode-9-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-17-sub
  
 # Analytics
 
