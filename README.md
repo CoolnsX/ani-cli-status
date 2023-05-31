@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name:  Oshi no Ko Episode 7 5
+Episode Name: Alice Gear Aegis Expansion Episode 9
 
-Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-7 5-sub
+Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-9-sub
  
 # Analytics
 
