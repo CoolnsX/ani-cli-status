@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: World Dai Star Episode 8
+Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 9
 
-Episode Link: https://allanime.to/watch/yJn77BMcqcadgm2ZN/episode-8-sub
+Episode Link: https://allanime.to/watch/7DkTkHkqCgiaNMmp9/episode-9-sub
  
 # Analytics
 
