@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: World Dai Star Episode 8
+Episode Name: Beyblade Burst God Episode 34
 
-Episode Link: https://allanime.to/watch/yJn77BMcqcadgm2ZN/episode-8-sub
+Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-34-sub
  
 # Analytics
 
