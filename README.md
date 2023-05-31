@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yume no Crayon Oukoku Episode 61
+Episode Name: Kimi wa Houkago Insomnia Episode 8
 
-Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-61-sub
+Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-8-sub
  
 # Analytics
 
