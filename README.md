@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mobile Suit Zeta Gundam A New Translation I Heir to the Stars Episode 1
+Episode Name: Kuma Kuma Kuma Bear Punch Episode 9
 
-Episode Link: https://allanime.to/watch/SiLhWTr9TuSywMWan/episode-1-sub
+Episode Link: https://allanime.to/watch/9hPzd5tojwLbhkqLb/episode-9-sub
  
 # Analytics
 
