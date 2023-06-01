@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Episode 8
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 60
 
-Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-8-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-60-sub
  
 # Analytics
 
