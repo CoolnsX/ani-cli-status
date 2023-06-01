@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kidou Senshi Gundam Hikaru Inochi Chronicle U C Episode 1
+Episode Name: Natsu e no Tunnel Sayonara no Deguchi Episode 1
 
-Episode Link: https://allanime.to/watch/ZX7YG2d7DYh6CPkQs/episode-1-sub
+Episode Link: https://allanime.to/watch/AApBMijwvjkbyjAvo/episode-1-sub
  
 # Analytics
 
