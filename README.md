@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho Season 2 Episode 11
+Episode Name: Mahoutsukai no Yome SEASON 2 Episode 9
 
-Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-11-sub
+Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-9-sub
  
 # Analytics
 
