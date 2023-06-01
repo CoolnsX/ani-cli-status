@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1063
+Episode Name: Natsu e no Tunnel Sayonara no Deguchi Episode 1
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1063-sub
+Episode Link: https://allanime.to/watch/AApBMijwvjkbyjAvo/episode-1-sub
  
 # Analytics
 
