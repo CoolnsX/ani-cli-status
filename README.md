@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mobile Suit Zeta Gundam A New Translation II Lovers Episode 1
+Episode Name: Kinnikuman Episode 117
 
-Episode Link: https://allanime.to/watch/oX7NKLQkTQjpcFbvy/episode-1-sub
+Episode Link: https://allanime.to/watch/pNi8AYhvc7Tp5JayR/episode-117-sub
  
 # Analytics
 
