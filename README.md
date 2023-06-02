@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 9
+Episode Name: Kuma Kuma Kuma Bear Punch Episode 9
 
-Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-9-sub
+Episode Link: https://allanime.to/watch/9hPzd5tojwLbhkqLb/episode-9-sub
  
 # Analytics
 
