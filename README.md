@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Marginal Service Episode 8
+Episode Name: Chiikawa Episode 42
 
-Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-8-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-42-sub
  
 # Analytics
 
