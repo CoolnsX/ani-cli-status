@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Vinland Saga Season 2 Episode 21
+Episode Name: Rokudou no Onna tachi Episode 9
 
-Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-21-sub
+Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-9-sub
  
 # Analytics
 
