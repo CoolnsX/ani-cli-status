@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kuma Kuma Kuma Bear Punch Episode 9
+Episode Name: Beyblade Burst God Episode 34
 
-Episode Link: https://allanime.to/watch/9hPzd5tojwLbhkqLb/episode-9-sub
+Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-34-sub
  
 # Analytics
 
