@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Yuri wa Oshigoto desu Episode 9
+Episode Name: Natsu e no Tunnel Sayonara no Deguchi Episode 1
 
-Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-9-sub
+Episode Link: https://allanime.to/watch/AApBMijwvjkbyjAvo/episode-1-sub
  
 # Analytics
 
