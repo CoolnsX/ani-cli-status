@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho Season 2 Episode 11
+Episode Name: Kimi wa Houkago Insomnia Episode 8
 
-Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-11-sub
+Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-8-sub
  
 # Analytics
 
