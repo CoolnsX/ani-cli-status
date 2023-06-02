@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kidou Senshi Gundam Hikaru Inochi Chronicle U C Episode 1
+Episode Name: Vinland Saga Season 2 Episode 21
 
-Episode Link: https://allanime.to/watch/ZX7YG2d7DYh6CPkQs/episode-1-sub
+Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-21-sub
  
 # Analytics
 
