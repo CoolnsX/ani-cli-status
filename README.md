@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Stone New World Episode 9
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 11
 
-Episode Link: https://allanime.to/watch/6yaGSW4Y3ffWgcPtn/episode-9-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-11-sub
  
 # Analytics
 
