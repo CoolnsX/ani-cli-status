@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Natsu e no Tunnel Sayonara no Deguchi Episode 1
+Episode Name: Opus COLORs Episode 9
 
-Episode Link: https://allanime.to/watch/AApBMijwvjkbyjAvo/episode-1-sub
+Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-9-sub
  
 # Analytics
 
