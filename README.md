@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 7
+Episode Name: Kawaisugi Crisis Episode 9
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-7-sub
+Episode Link: https://allanime.to/watch/5GWWFB9siLsbopigh/episode-9-sub
  
 # Analytics
 
