@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Opus COLORs Episode 9
+Episode Name: Skip to Loafer Episode 9
 
-Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-9-sub
+Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-9-sub
  
 # Analytics
 
