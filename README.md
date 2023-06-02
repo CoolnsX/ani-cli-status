@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 42
+Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 9
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-42-sub
+Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-9-sub
  
 # Analytics
 
