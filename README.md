@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kinnikuman Episode 117
+Episode Name: Watashi no Yuri wa Oshigoto desu Episode 9
 
-Episode Link: https://allanime.to/watch/pNi8AYhvc7Tp5JayR/episode-117-sub
+Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-9-sub
  
 # Analytics
 
