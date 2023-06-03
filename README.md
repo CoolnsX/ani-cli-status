@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Marginal Service Episode 8
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 11
 
-Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-8-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-11-sub
  
 # Analytics
 
