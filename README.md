@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yuusha ga Shinda Episode 9
+Episode Name: MUSASHI GUN dou Episode 21
 
-Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-9-sub
+Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-21-sub
  
 # Analytics
 
