@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai One Turn Kill Nee san Ane Douhan no Isekai Seikatsu Hajimemashita Episode 9
+Episode Name: The Marginal Service Episode 8
 
-Episode Link: https://allanime.to/watch/gotus85zaosbZA4o8/episode-9-sub
+Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-8-sub
  
 # Analytics
 
