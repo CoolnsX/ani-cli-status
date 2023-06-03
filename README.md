@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Skip to Loafer Episode 9
+Episode Name: Rokudou no Onna tachi Episode 9
 
-Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-9-sub
+Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-9-sub
  
 # Analytics
 
