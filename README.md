@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Stone New World Episode 9
+Episode Name: Chiikawa Episode 42
 
-Episode Link: https://allanime.to/watch/6yaGSW4Y3ffWgcPtn/episode-9-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-42-sub
  
 # Analytics
 
