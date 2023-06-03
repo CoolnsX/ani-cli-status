@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 9
+Episode Name: Dr Slump Arale chan Episode 137
 
-Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-9-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-137-sub
  
 # Analytics
 
