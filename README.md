@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 70
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 11
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-70-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-11-sub
  
 # Analytics
 
