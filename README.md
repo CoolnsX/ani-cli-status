@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tengoku Daimakyou Episode 10
+Episode Name: Yuusha ga Shinda Episode 9
 
-Episode Link: https://allanime.to/watch/gmGfya55qfP6QiPfe/episode-10-sub
+Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-9-sub
  
 # Analytics
 
