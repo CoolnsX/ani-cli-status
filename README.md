@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 10
+Episode Name: EDENS ZERO 2nd Season Episode 10
 
-Episode Link: https://allanime.to/watch/7DkTkHkqCgiaNMmp9/episode-10-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-10-sub
  
 # Analytics
 
