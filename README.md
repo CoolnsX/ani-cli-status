@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BIRDIE WING Golf Girls Story Season 2 Episode 9
+Episode Name: Edomae Elf Episode 9
 
-Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-9-sub
+Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-9-sub
  
 # Analytics
 
