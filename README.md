@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: EDENS ZERO 2nd Season Episode 10
+Episode Name: Hirogaru Sky Precure Episode 18
 
-Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-10-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-18-sub
  
 # Analytics
 
