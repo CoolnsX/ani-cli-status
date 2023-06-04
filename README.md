@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Otonari ni Ginga Episode 9
+Episode Name: Kinnikuman Episode 117
 
-Episode Link: https://allanime.to/watch/yp5c8MJ3Bv4YM3tXN/episode-9-sub
+Episode Link: https://allanime.to/watch/pNi8AYhvc7Tp5JayR/episode-117-sub
  
 # Analytics
 
