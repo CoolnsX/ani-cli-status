@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: MUSASHI GUN dou Episode 21
+Episode Name: Otonari ni Ginga Episode 9
 
-Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-21-sub
+Episode Link: https://allanime.to/watch/yp5c8MJ3Bv4YM3tXN/episode-9-sub
  
 # Analytics
 
