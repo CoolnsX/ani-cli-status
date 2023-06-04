@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahoutsukai no Yome SEASON 2 Episode 9
+Episode Name: Yume no Crayon Oukoku Episode 62
 
-Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-9-sub
+Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-62-sub
  
 # Analytics
 
