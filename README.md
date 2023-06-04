@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boku no Kokoro no Yabai Yatsu Episode 10
+Episode Name: Kaminaki Sekai no Kamisama Katsudou Episode 8
 
-Episode Link: https://allanime.to/watch/HJSL7PWgcYYzchAyf/episode-10-sub
+Episode Link: https://allanime.to/watch/DcnE8PSQYK4Qh7d7t/episode-8-sub
  
 # Analytics
 
