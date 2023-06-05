@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Stand My Heroes Wormth of Memories Episode 1
+Episode Name: KnY 3 Episode 9
 
-Episode Link: https://allanime.to/watch/mKLQxm8ySKtBE8jpg/episode-1-sub
+Episode Link: https://allanime.to/watch/XJzfDyv8vsXWCMkTk/episode-9-sub
  
 # Analytics
 
