@@ -1,5 +1,5 @@
-#!/bin/sh
-
+#!/bin/bash
+set -x
 gen_img() {
 	convert -fill white -background "$4" -pointsize 72 -font "iosevka-regular.ttf" label:"\ $2 $3 " "images/$1.jpg"
 	printf "%s : %s %s\n" "$1" "$2" "$3" >> results
@@ -13,9 +13,10 @@ gen_img() {
 }
 
 provider_run(){
-	provider_id=$(printf "%s" "$data" | sed -n "$2" | head -1 | cut -d':' -f2)
+	hexadecimal_provider_id="$(printf "%s" "$data" | sed -n "$2" | head -1 | cut -d':' -f2 | sed 's/\(..\)/\\x\1/g')"
+    	provider_id=$(printf "%b" "$hexadecimal_provider_id" | sed "s/\/clock/\/clock\.json/")
 	[ -z "$provider_id" ] && gen_img "$1" "! No" "embed link" "#a26b03" || printf "\n\033[1;34mFetching %s links < %s" "$1" "$provider_id"
-	[ -z "$provider_id" ] || (provider_video=$(curl -s "https://allanimenews.com/apivtwo/clock.json?id=$provider_id" | sed 's|},{|\n|g' | sed -nE 's|.*link":"([^"]*)".*"resolutionStr":"([^"]*)".*|\2 >\1|p') && [ -z "$provider_video" ] && gen_img "$1" "✗ No" "link returned" "darkred" || gen_img "$1" "✓ $(printf "%s\n" "$provider_video" | wc -l)" "links returned" "darkgreen" "yes")
+	[ -z "$provider_id" ] || (provider_video=$(curl -s "https://allanimenews.com$provider_id" | sed 's|},{|\n|g' | sed -nE 's|.*link":"([^"]*)".*"resolutionStr":"([^"]*)".*|\2 >\1|p') && [ -z "$provider_video" ] && gen_img "$1" "✗ No" "link returned" "darkred" || gen_img "$1" "✓ $(printf "%s\n" "$provider_video" | wc -l)" "links returned" "darkgreen" "yes")
 }
 
 #intializing
@@ -34,13 +35,19 @@ ep_no=$(printf "%s" "$url" | sed 's/.*Episode //g')
 [ -z "$url" ] && exit 0 || printf "\033[1;35mSelected %s\n\033[1;36mLoading Episode.." "$title"
 sed -i -E "s_Episode Name: (.*)_Episode Name: $(printf "$title" | cut -d"/" -f2- | tr "[:punct:]" " ")_g ; s_${lol}(.*)_${lol}/watch/${id}/episode-${ep_no}-sub_g" README.md &
 episode_embed_gql="query (\$showId: String!, \$translationType: VaildTranslationTypeEnumType!, \$episodeString: String!) {    episode(        showId: \$showId        translationType: \$translationType        episodeString: \$episodeString    ) {        episodeString sourceUrls    }}"
-data=$(curl -A "$agent" -s -G "$base_url/allanimeapi" -d "variables=%7B%22showId%22%3A%22$id%22%2C%22translationType%22%3A%22sub%22%2C%22countryOrigin%22%3A%22ALL%22%2C%22episodeString%22%3A%22$ep_no%22%7D" --data-urlencode "query=$episode_embed_gql" | tr '{}' '\n' | sed 's|\\u002F|\/|g;s|\\||g' | sed -nE 's|.*sourceUrl":".*?id=([^"]*)".*sourceName":"([^"]*)".*|\2 :\1|p')
+data=$(curl -A "$agent" -s -G "$base_url/allanimeapi" -d "variables=%7B%22showId%22%3A%22$id%22%2C%22translationType%22%3A%22sub%22%2C%22countryOrigin%22%3A%22ALL%22%2C%22episodeString%22%3A%22$ep_no%22%7D" --data-urlencode "query=$episode_embed_gql" | tr '{}' '\n' | sed 's|\\u002F|\/|g;s|\\||g' | sed -nE 's|.*sourceUrl":"#([^"]*)".*sourceName":"([^"]*)".*|\2 :\1|p')
 
 #vrv links
 provider_run "vrv" "/Ac :/p" &
 
 #pstatic
 provider_run "pstatic" "/Default B :/p" &
+
+#dropbox
+provider_run "dropbox" "/Sak :/p" &
+
+#wetransfer
+provider_run "wetransfer" "/Kir :/p" &
 
 #sharepoint
 provider_run "sharepoint" "/S-mp4 :/p" &
