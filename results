@@ -1,10 +1,10 @@
 pstatic : ! No embed link
-sharepoint : ✗ No link returned
 usercloud : ! No embed link
-vrv : ! No embed link
-dropbox : ✗ No link returned
-wetransfer : ✗ No link returned
-gogoplay : ✗ No link returned
+dropbox : ✓ 1 links returned
+wetransfer : ✓ 1 links returned
+vrv : ✓ 1 links returned
+gogoplay : ✓ 3 links returned
+sharepoint : ✓ 1 links returned
 xstreamcdn : ! No embed link
 doodstream : ! No embed link
 mp4upload : ! No embed link
