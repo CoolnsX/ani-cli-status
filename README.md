@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1085
+Episode Name: Opus COLORs Episode 9
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1085-sub
+Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-9-sub
  
 # Analytics
 
