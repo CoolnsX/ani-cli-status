@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ousama Ranking Yuuki no Takarabako Episode 8
+Episode Name: Opus COLORs Episode 9
 
-Episode Link: https://allanime.to/watch/gdSi7Zj3yLivnNMcW/episode-8-sub
+Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-9-sub
  
 # Analytics
 
