@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chogattai Majutsu Robot Ginguiser Specials Episode 2
+Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 10
 
-Episode Link: https://allanime.to/watch/iDZpPGkL2LfCB76nK/episode-2-sub
+Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-10-sub
  
 # Analytics
 
