@@ -20,17 +20,17 @@ Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-9-sub
 
 <img src="./images/vrv.jpg">
 
-##  pstatic links
+##  dropbox links
 
-<img src="./images/pstatic.jpg">
+<img src="./images/dropbox.jpg">
 
 ##  sharepoint links
 
 <img src="./images/sharepoint.jpg">
 
-##  usercloud links
+##  wetransfer links
 
-<img src="./images/usercloud.jpg">
+<img src="./images/wetransfer.jpg">
 
 ## gogo direct links
 
