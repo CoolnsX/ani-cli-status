@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: KnY 3 Episode 9
+Episode Name: Detective Conan TV Episode 1085
 
-Episode Link: https://allanime.to/watch/XJzfDyv8vsXWCMkTk/episode-9-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1085-sub
  
 # Analytics
 
