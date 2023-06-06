@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: KnY 3 Episode 9
+Episode Name: Chogattai Majutsu Robot Ginguiser Specials Episode 2
 
-Episode Link: https://allanime.to/watch/XJzfDyv8vsXWCMkTk/episode-9-sub
+Episode Link: https://allanime.to/watch/iDZpPGkL2LfCB76nK/episode-2-sub
  
 # Analytics
 
