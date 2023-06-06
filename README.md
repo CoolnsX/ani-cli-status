@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: VINLAND SAGA SEASON 2 Episode 22
+Episode Name: Alice Gear Aegis Expansion Episode 10
 
-Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-22-sub
+Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-10-sub
  
 # Analytics
 
