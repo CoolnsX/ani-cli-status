@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 10
+Episode Name: Jigokuraku Episode 9
 
-Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-10-sub
+Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-9-sub
  
 # Analytics
 
