@@ -40,9 +40,6 @@ data=$(curl -A "$agent" -s -G "$base_url/allanimeapi" -d "variables=%7B%22showId
 #vrv links
 provider_run "vrv" "/Ac :/p" &
 
-#pstatic
-provider_run "pstatic" "/Default B :/p" &
-
 #dropbox
 provider_run "dropbox" "/Sak :/p" &
 
@@ -51,9 +48,6 @@ provider_run "wetransfer" "/Kir :/p" &
 
 #sharepoint
 provider_run "sharepoint" "/S-mp4 :/p" &
-
-#usercloud
-provider_run "usercloud" "/Uv-mp4 :/p" &
 
 #gogoplay
 provider_run "gogoplay" "/Luf-mp4 :/p" &
