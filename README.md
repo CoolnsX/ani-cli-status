@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Megami no Café Terrace Episode 9
+Episode Name: Alice Gear Aegis Expansion Episode 10
 
-Episode Link: https://allanime.to/watch/7fFA3ta6sDK37K7T8/episode-9-sub
+Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-10-sub
  
 # Analytics
 
