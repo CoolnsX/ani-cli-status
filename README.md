@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 9
+Episode Name: Megami no Café Terrace Episode 9
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-9-sub
+Episode Link: https://allanime.to/watch/7fFA3ta6sDK37K7T8/episode-9-sub
  
 # Analytics
 
