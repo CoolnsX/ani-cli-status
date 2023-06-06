@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai Shoukan wa Nidome desu Episode 9
+Episode Name: Kizuna no Allele Episode 10
 
-Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-9-sub
+Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-10-sub
  
 # Analytics
 
