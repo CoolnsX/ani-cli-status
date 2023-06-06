@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jigokuraku Episode 9
+Episode Name: VINLAND SAGA SEASON 2 Episode 22
 
-Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-9-sub
+Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-22-sub
  
 # Analytics
 
