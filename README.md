@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 106
+Episode Name: Kidou Senshi Gundam Suisei no Majo Season 2 Episode 8
 
-Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-106-sub
+Episode Link: https://allanime.to/watch/hiEaJ59JzYA3bdN3s/episode-8-sub
  
 # Analytics
 
