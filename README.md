@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chogattai Majutsu Robot Ginguiser Specials Episode 2
+Episode Name: Hirogaru Sky Precure Episode 18
 
-Episode Link: https://allanime.to/watch/iDZpPGkL2LfCB76nK/episode-2-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-18-sub
  
 # Analytics
 
