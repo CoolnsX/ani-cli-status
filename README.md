@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: KnY 3 Episode 9
+Episode Name: Golden Kamuy 4th Season Episode 10
 
-Episode Link: https://allanime.to/watch/XJzfDyv8vsXWCMkTk/episode-9-sub
+Episode Link: https://allanime.to/watch/z5ExvzcsKXYF3bvLp/episode-10-sub
  
 # Analytics
 
