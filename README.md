@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 9
+Episode Name: Dead Mount Death Play Episode 9
 
-Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-9-sub
+Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-9-sub
  
 # Analytics
 
