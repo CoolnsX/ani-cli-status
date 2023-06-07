@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kuma Kuma Kuma Bear Punch Episode 10
+Episode Name: 1P Episode 1064
 
-Episode Link: https://allanime.to/watch/9hPzd5tojwLbhkqLb/episode-10-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1064-sub
  
 # Analytics
 
