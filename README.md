@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yume no Crayon Oukoku Episode 62
+Episode Name: Chibi Maruko chan Episode 106
 
-Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-62-sub
+Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-106-sub
  
 # Analytics
 
