@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1064
+Episode Name: Yume no Crayon Oukoku Episode 62
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1064-sub
+Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-62-sub
  
 # Analytics
 
