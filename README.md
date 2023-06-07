@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tengoku Daimakyou Episode 10
+Episode Name: Kidou Senshi Gundam Suisei no Majo Season 2 Episode 8
 
-Episode Link: https://allanime.to/watch/gmGfya55qfP6QiPfe/episode-10-sub
+Episode Link: https://allanime.to/watch/hiEaJ59JzYA3bdN3s/episode-8-sub
  
 # Analytics
 
