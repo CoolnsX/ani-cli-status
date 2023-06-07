@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Golden Kamuy 4th Season Episode 10
+Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 10
 
-Episode Link: https://allanime.to/watch/z5ExvzcsKXYF3bvLp/episode-10-sub
+Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-10-sub
  
 # Analytics
 
