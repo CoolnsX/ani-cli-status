@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eien no 831 Episode 1
+Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 9
 
-Episode Link: https://allanime.to/watch/MkKE7y6ijWeA4KTXm/episode-1-sub
+Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-9-sub
  
 # Analytics
 
