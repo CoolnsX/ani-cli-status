@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Skip to Loafer Episode 10
+Episode Name: Kuma Kuma Kuma Bear Punch Episode 10
 
-Episode Link: https://allanime.to/watch/F6GnecMw2DFoe4Mm4/episode-10-sub
+Episode Link: https://allanime.to/watch/9hPzd5tojwLbhkqLb/episode-10-sub
  
 # Analytics
 
