@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 10
+Episode Name: Isekai Shoukan wa Nidome desu Episode 9
 
-Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-10-sub
+Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-9-sub
  
 # Analytics
 
