@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ankoku Shinwa Episode 2
+Episode Name: Kimi wa Houkago Insomnia Episode 9
 
-Episode Link: https://allanime.to/watch/DWM7wtYPe3XBvrdoY/episode-2-sub
+Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-9-sub
  
 # Analytics
 
