@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 61
+Episode Name: Ankoku Shinwa Episode 2
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-61-sub
+Episode Link: https://allanime.to/watch/DWM7wtYPe3XBvrdoY/episode-2-sub
  
 # Analytics
 
