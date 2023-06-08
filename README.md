@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kaminaki Sekai no Kamisama Katsudou Episode 9
+Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 10
 
-Episode Link: https://allanime.to/watch/DcnE8PSQYK4Qh7d7t/episode-9-sub
+Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-10-sub
  
 # Analytics
 
