@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Getter Robo Go Episode 16
+Episode Name: My Home Hero Episode 10
 
-Episode Link: https://allanime.to/watch/LL3bLCEHKd7gPWYjE/episode-16-sub
+Episode Link: https://allanime.to/watch/FFdCvGb6ugsQiREdA/episode-10-sub
  
 # Analytics
 
