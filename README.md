@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 106
+Episode Name: Getter Robo Go Episode 16
 
-Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-106-sub
+Episode Link: https://allanime.to/watch/LL3bLCEHKd7gPWYjE/episode-16-sub
  
 # Analytics
 
