@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 9
+Episode Name: Kimi wa Houkago Insomnia Episode 9
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-9-sub
+Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-9-sub
  
 # Analytics
 
