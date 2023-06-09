@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: THE MARGINAL SERVICE Episode 9
+Episode Name: Mahoutsukai no Yome Season 2 Episode 10
 
-Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-9-sub
+Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-10-sub
  
 # Analytics
 
