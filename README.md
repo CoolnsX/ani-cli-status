@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ousama Ranking Yuuki no Takarabako Episode 9
+Episode Name: Ninjala Episode 71
 
-Episode Link: https://allanime.to/watch/gdSi7Zj3yLivnNMcW/episode-9-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-71-sub
  
 # Analytics
 
