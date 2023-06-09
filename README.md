@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kawaisugi Crisis Episode 10
+Episode Name: Eien no 831 Episode 1
 
-Episode Link: https://allanime.to/watch/5GWWFB9siLsbopigh/episode-10-sub
+Episode Link: https://allanime.to/watch/MkKE7y6ijWeA4KTXm/episode-1-sub
  
 # Analytics
 
