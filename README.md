@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 106
+Episode Name: Dead Mount Death Play Episode 9
 
-Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-106-sub
+Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-9-sub
  
 # Analytics
 
