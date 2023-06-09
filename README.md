@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eien no 831 Episode 1
+Episode Name: Chiikawa Episode 43
 
-Episode Link: https://allanime.to/watch/MkKE7y6ijWeA4KTXm/episode-1-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-43-sub
  
 # Analytics
 
