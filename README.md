@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jarinko Chie TV Episode 7
+Episode Name: THE MARGINAL SERVICE Episode 9
 
-Episode Link: https://allanime.to/watch/mSxuech6C2kxLs5hy/episode-7-sub
+Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-9-sub
  
 # Analytics
 
