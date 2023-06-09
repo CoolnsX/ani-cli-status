@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: THE MARGINAL SERVICE Episode 9
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 61
 
-Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-9-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-61-sub
  
 # Analytics
 
