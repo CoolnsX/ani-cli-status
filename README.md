@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai One Turn Kill Neesan Ane Douhan no Isekai Seikatsu Hajimemashita Episode 10
+Episode Name: Watashi no Yuri wa Oshigoto desu Episode 10
 
-Episode Link: https://allanime.to/watch/gotus85zaosbZA4o8/episode-10-sub
+Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-10-sub
  
 # Analytics
 
