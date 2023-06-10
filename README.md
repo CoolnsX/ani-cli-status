@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The IDOLM STER Cinderella Girls U149 Episode 9
+Episode Name: Birdie Wing Golf Girls Story Season 2 Episode 10
 
-Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-9-sub
+Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-10-sub
  
 # Analytics
 
