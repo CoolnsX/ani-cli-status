@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yuusha ga Shinda Episode 10
+Episode Name: Getter Robo Go Episode 16
 
-Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-10-sub
+Episode Link: https://allanime.to/watch/LL3bLCEHKd7gPWYjE/episode-16-sub
  
 # Analytics
 
