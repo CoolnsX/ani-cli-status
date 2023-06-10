@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 10
+Episode Name: Detective Conan TV Episode 1086
 
-Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-10-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1086-sub
  
 # Analytics
 
