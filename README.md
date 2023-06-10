@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Birdie Wing Golf Girls Story Season 2 Episode 10
+Episode Name: Majutsushi Orphen Hagure Tabi Seiiki hen Episode 9
 
-Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-10-sub
+Episode Link: https://allanime.to/watch/eE3txJGGk9atw7k2v/episode-9-sub
  
 # Analytics
 
