@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahou Shoujo Magical Destroyers Episode 10
+Episode Name: Mahoutsukai no Yome Season 2 Episode 10
 
-Episode Link: https://allanime.to/watch/ZBeaammRgnGdBY9y3/episode-10-sub
+Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-10-sub
  
 # Analytics
 
