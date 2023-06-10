@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: THE MARGINAL SERVICE Episode 9
+Episode Name: Ankoku Shinwa Episode 2
 
-Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-9-sub
+Episode Link: https://allanime.to/watch/DWM7wtYPe3XBvrdoY/episode-2-sub
  
 # Analytics
 
