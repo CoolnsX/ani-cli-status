@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1086
+Episode Name: Isekai One Turn Kill Neesan Ane Douhan no Isekai Seikatsu Hajimemashita Episode 10
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1086-sub
+Episode Link: https://allanime.to/watch/gotus85zaosbZA4o8/episode-10-sub
  
 # Analytics
 
