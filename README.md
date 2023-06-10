@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 43
+Episode Name: The IDOLM STER Cinderella Girls U149 Episode 9
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-43-sub
+Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-9-sub
  
 # Analytics
 
