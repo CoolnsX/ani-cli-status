@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yamada kun to Lv999 no Koi wo Suru Episode 11
+Episode Name: Isekai Shoukan wa Nidome desu Episode 10
 
-Episode Link: https://allanime.to/watch/7DkTkHkqCgiaNMmp9/episode-11-sub
+Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-10-sub
  
 # Analytics
 
