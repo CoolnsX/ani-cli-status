@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahou Shoujo Magical Destroyers Episode 10
+Episode Name: Araiguma Rascal Episode 39
 
-Episode Link: https://allanime.to/watch/ZBeaammRgnGdBY9y3/episode-10-sub
+Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-39-sub
  
 # Analytics
 
