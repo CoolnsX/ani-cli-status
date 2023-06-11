@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yuusha ga Shinda Episode 10
+Episode Name: Opus COLORs Episode 10
 
-Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-10-sub
+Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-10-sub
  
 # Analytics
 
