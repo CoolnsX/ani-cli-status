@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edomae Elf Episode 10
+Episode Name: Jigokuraku Episode 10
 
-Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-10-sub
+Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-10-sub
  
 # Analytics
 
