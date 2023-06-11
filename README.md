@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 71
+Episode Name: SF Saiyuuki Starzinger Episode 50
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-71-sub
+Episode Link: https://allanime.to/watch/fJaqd6FELTs9cG4Ee/episode-50-sub
  
 # Analytics
 
