@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 61
+Episode Name: SF Saiyuuki Starzinger Episode 50
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-61-sub
+Episode Link: https://allanime.to/watch/fJaqd6FELTs9cG4Ee/episode-50-sub
  
 # Analytics
 
