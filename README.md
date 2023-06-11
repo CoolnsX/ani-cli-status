@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Araiguma Rascal Episode 39
+Episode Name: Mashle Episode 9
 
-Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-39-sub
+Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-9-sub
  
 # Analytics
 
