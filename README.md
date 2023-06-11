@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 71
+Episode Name: Kawaisugi Crisis Episode 10
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-71-sub
+Episode Link: https://allanime.to/watch/5GWWFB9siLsbopigh/episode-10-sub
  
 # Analytics
 
