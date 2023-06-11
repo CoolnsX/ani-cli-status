@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Megami no Café Terrace Episode 10
+Episode Name: Boku no Kokoro no Yabai Yatsu Episode 11
 
-Episode Link: https://allanime.to/watch/7fFA3ta6sDK37K7T8/episode-10-sub
+Episode Link: https://allanime.to/watch/HJSL7PWgcYYzchAyf/episode-11-sub
  
 # Analytics
 
