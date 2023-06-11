@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mashle Episode 9
+Episode Name: Otonari ni Ginga Episode 10
 
-Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-9-sub
+Episode Link: https://allanime.to/watch/yp5c8MJ3Bv4YM3tXN/episode-10-sub
  
 # Analytics
 
