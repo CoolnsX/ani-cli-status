@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 71
+Episode Name: Megami no Café Terrace Episode 10
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-71-sub
+Episode Link: https://allanime.to/watch/7fFA3ta6sDK37K7T8/episode-10-sub
  
 # Analytics
 
