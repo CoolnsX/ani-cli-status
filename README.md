@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: SF Saiyuuki Starzinger Episode 50
+Episode Name: Edomae Elf Episode 10
 
-Episode Link: https://allanime.to/watch/fJaqd6FELTs9cG4Ee/episode-50-sub
+Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-10-sub
  
 # Analytics
 
