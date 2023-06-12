@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dongitsune Season 2 Episode 3
+Episode Name: Mahou Shoujo Magical Destroyers Episode 10
 
-Episode Link: https://allanime.to/watch/RaLjxuBfhrtvNNJk8/episode-3-sub
+Episode Link: https://allanime.to/watch/ZBeaammRgnGdBY9y3/episode-10-sub
  
 # Analytics
 
