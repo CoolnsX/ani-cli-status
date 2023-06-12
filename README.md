@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Opus COLORs Episode 10
+Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 11
 
-Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-10-sub
+Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-11-sub
  
 # Analytics
 
