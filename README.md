@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 11
+Episode Name: Araiguma Rascal Episode 39
 
-Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-11-sub
+Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-39-sub
  
 # Analytics
 
