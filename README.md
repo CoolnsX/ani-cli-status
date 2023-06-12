@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Stone New World Episode 10
+Episode Name: Kidou Senshi Gundam Suisei no Majo Season 2 Episode 9
 
-Episode Link: https://allanime.to/watch/6yaGSW4Y3ffWgcPtn/episode-10-sub
+Episode Link: https://allanime.to/watch/hiEaJ59JzYA3bdN3s/episode-9-sub
  
 # Analytics
 
