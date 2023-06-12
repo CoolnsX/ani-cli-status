@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boku no Kokoro no Yabai Yatsu Episode 11
+Episode Name: Dongitsune Season 2 Episode 3
 
-Episode Link: https://allanime.to/watch/HJSL7PWgcYYzchAyf/episode-11-sub
+Episode Link: https://allanime.to/watch/RaLjxuBfhrtvNNJk8/episode-3-sub
  
 # Analytics
 
