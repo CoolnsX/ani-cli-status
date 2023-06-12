@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 10
+Episode Name: Edens Zero Season 2 Episode 11
 
-Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-10-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-11-sub
  
 # Analytics
 
