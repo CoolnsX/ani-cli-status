@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mashle Episode 9
+Episode Name: Ninjala Episode 71
 
-Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-9-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-71-sub
  
 # Analytics
 
