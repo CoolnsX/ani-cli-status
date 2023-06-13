@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Episode 11
+Episode Name: Crayon Shin chan Specials Episode 3
 
-Episode Link: https://allanime.to/watch/MabMd45GAJNXvfJG7/episode-11-sub
+Episode Link: https://allanime.to/watch/5diFHFHfuJAMjp4Xb/episode-3-sub
  
 # Analytics
 
