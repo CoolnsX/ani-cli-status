@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Meitantei Conan Keisatsu Gakkou hen Wild Police Story Case Furuya Rei Episode 1
+Episode Name: Tonikaku Kawaii Season 2 Episode 10
 
-Episode Link: https://allanime.to/watch/GRGF5ufTCP6Fz2Cs5/episode-1-sub
+Episode Link: https://allanime.to/watch/tzPwbxSXWA22mxWFz/episode-10-sub
  
 # Analytics
 
