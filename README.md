@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Vinland Saga Season 2 Episode 23
+Episode Name: Boku no Kokoro no Yabai Yatsu Episode 11
 
-Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-23-sub
+Episode Link: https://allanime.to/watch/HJSL7PWgcYYzchAyf/episode-11-sub
  
 # Analytics
 
