@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kimi wa Houkago Insomnia Episode 10
+Episode Name: Vinland Saga Season 2 Episode 23
 
-Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-10-sub
+Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-23-sub
  
 # Analytics
 
