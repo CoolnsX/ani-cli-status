@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Crayon Shin chan Specials Episode 3
+Episode Name: Tousouchuu Great Mission Episode 10
 
-Episode Link: https://allanime.to/watch/5diFHFHfuJAMjp4Xb/episode-3-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-10-sub
  
 # Analytics
 
