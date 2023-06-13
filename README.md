@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahou Shoujo Magical Destroyers Episode 10
+Episode Name: Kimi wa Houkago Insomnia Episode 10
 
-Episode Link: https://allanime.to/watch/ZBeaammRgnGdBY9y3/episode-10-sub
+Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-10-sub
  
 # Analytics
 
