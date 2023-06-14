@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kuma Kuma Kuma Bear Punch Episode 11
+Episode Name: SF Saiyuuki Starzinger Episode 50
 
-Episode Link: https://allanime.to/watch/9hPzd5tojwLbhkqLb/episode-11-sub
+Episode Link: https://allanime.to/watch/fJaqd6FELTs9cG4Ee/episode-50-sub
  
 # Analytics
 
