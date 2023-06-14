@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 11
+Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 11
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-11-sub
+Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-11-sub
  
 # Analytics
 
