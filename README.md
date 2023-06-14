@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai Shoukan wa Nidome desu Episode 10
+Episode Name: Meitantei Conan Keisatsu Gakkou hen Wild Police Story Case Furuya Rei Episode 1
 
-Episode Link: https://allanime.to/watch/89XrcXm8wSsyD74um/episode-10-sub
+Episode Link: https://allanime.to/watch/GRGF5ufTCP6Fz2Cs5/episode-1-sub
  
 # Analytics
 
