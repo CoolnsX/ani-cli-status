@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Marginal Service Episode 10
+Episode Name: My Home Hero Episode 11
 
-Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-10-sub
+Episode Link: https://allanime.to/watch/FFdCvGb6ugsQiREdA/episode-11-sub
  
 # Analytics
 
