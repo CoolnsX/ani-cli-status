@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: SF Saiyuuki Starzinger Episode 50
+Episode Name: Edens Zero Season 2 Episode 11
 
-Episode Link: https://allanime.to/watch/fJaqd6FELTs9cG4Ee/episode-50-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-11-sub
  
 # Analytics
 
