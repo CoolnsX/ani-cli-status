@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1065
+Episode Name: Kimi wa Houkago Insomnia Episode 10
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1065-sub
+Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-10-sub
  
 # Analytics
 
