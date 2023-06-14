@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 10
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 62
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-10-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-62-sub
  
 # Analytics
 
