@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: My Home Hero Episode 11
+Episode Name: Kuma Kuma Kuma Bear Punch Episode 11
 
-Episode Link: https://allanime.to/watch/FFdCvGb6ugsQiREdA/episode-11-sub
+Episode Link: https://allanime.to/watch/9hPzd5tojwLbhkqLb/episode-11-sub
  
 # Analytics
 
