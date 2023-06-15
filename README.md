@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 9
+Episode Name: Kubo san wa Mob wo Yurusanai Episode 11
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-9-sub
+Episode Link: https://allanime.to/watch/h6voZ9jYKnku7GKA3/episode-11-sub
  
 # Analytics
 
