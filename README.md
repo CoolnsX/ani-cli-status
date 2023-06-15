@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 62
+Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 11
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-62-sub
+Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-11-sub
  
 # Analytics
 
