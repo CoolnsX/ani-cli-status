@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kaminaki Sekai no Kamisama Katsudou Episode 10
+Episode Name: Watashi no Yuri wa Oshigoto desu Episode 11
 
-Episode Link: https://allanime.to/watch/DcnE8PSQYK4Qh7d7t/episode-10-sub
+Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-11-sub
  
 # Analytics
 
