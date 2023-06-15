@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 62
+Episode Name: Magical Hat Episode 12
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-62-sub
+Episode Link: https://allanime.to/watch/PcwGeam6n37zsDya5/episode-12-sub
  
 # Analytics
 
