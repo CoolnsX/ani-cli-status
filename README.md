@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 62
+Episode Name: The Marginal Service Episode 10
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-62-sub
+Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-10-sub
  
 # Analytics
 
