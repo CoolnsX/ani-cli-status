@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Magical Hat Episode 12
+Episode Name: Ao no Orchestra Episode 10
 
-Episode Link: https://allanime.to/watch/PcwGeam6n37zsDya5/episode-12-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-10-sub
  
 # Analytics
 
