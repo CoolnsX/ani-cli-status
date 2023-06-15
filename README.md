@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 11
+Episode Name: Kimi wa Houkago Insomnia Episode 10
 
-Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-11-sub
+Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-10-sub
  
 # Analytics
 
