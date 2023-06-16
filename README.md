@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Black Clover Mahou Tei no Ken Episode 1
+Episode Name: Chiikawa Episode 44
 
-Episode Link: https://allanime.to/watch/t87nDwxXqJtZ9a7Fd/episode-1-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-44-sub
  
 # Analytics
 
