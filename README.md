@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 44
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 13
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-44-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-13-sub
  
 # Analytics
 
