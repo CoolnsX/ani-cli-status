@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 44
+Episode Name: Golden Kamuy Season 4 Episode 11
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-44-sub
+Episode Link: https://allanime.to/watch/z5ExvzcsKXYF3bvLp/episode-11-sub
  
 # Analytics
 
