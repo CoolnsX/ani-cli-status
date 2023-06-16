@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 72
+Episode Name: Time Bokan Series Gyakuten Ippatsuman Episode 10
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-72-sub
+Episode Link: https://allanime.to/watch/Ffz7aEAMe98zkXAqT/episode-10-sub
  
 # Analytics
 
