@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: World Dai Star Episode 10
+Episode Name: Dr Stone New World Episode 11
 
-Episode Link: https://allanime.to/watch/yJn77BMcqcadgm2ZN/episode-10-sub
+Episode Link: https://allanime.to/watch/6yaGSW4Y3ffWgcPtn/episode-11-sub
  
 # Analytics
 
