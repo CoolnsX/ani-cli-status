@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 11
+Episode Name: Birdie Wing Golf Girls Story Season 2 Episode 11
 
-Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-11-sub
+Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-11-sub
  
 # Analytics
 
