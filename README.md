@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 11
+Episode Name: Kawaisugi Crisis Episode 11
 
-Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-11-sub
+Episode Link: https://allanime.to/watch/5GWWFB9siLsbopigh/episode-11-sub
  
 # Analytics
 
