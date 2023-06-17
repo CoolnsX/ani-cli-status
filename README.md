@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The IDOLM STER Cinderella Girls U149 Episode 10
+Episode Name: Kubo san wa Mob wo Yurusanai Episode 11
 
-Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-10-sub
+Episode Link: https://allanime.to/watch/h6voZ9jYKnku7GKA3/episode-11-sub
  
 # Analytics
 
