@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kawaisugi Crisis Episode 11
+Episode Name: The Kabocha Wine Episode 34
 
-Episode Link: https://allanime.to/watch/5GWWFB9siLsbopigh/episode-11-sub
+Episode Link: https://allanime.to/watch/366khzcCCjML8b96u/episode-34-sub
  
 # Analytics
 
