@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Yuri wa Oshigoto desu Episode 11
+Episode Name: Niehime to Kemono no Ou Episode 9
 
-Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-11-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-9-sub
  
 # Analytics
 
