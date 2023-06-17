@@ -38,7 +38,7 @@ episode_embed_gql="query (\$showId: String!, \$translationType: VaildTranslation
 data=$(curl -A "$agent" -s -G "$base_url/allanimeapi" -d "variables=%7B%22showId%22%3A%22$id%22%2C%22translationType%22%3A%22sub%22%2C%22countryOrigin%22%3A%22ALL%22%2C%22episodeString%22%3A%22$ep_no%22%7D" --data-urlencode "query=$episode_embed_gql" | tr '{}' '\n' | sed 's|\\u002F|\/|g;s|\\||g' | sed -nE 's|.*sourceUrl":"#([^"]*)".*sourceName":"([^"]*)".*|\2 :\1|p')
 
 #vrv links
-provider_run "vrv" "/Ac :/p" &
+provider_run "wixmp" "/Default :/p" &
 
 #dropbox
 provider_run "dropbox" "/Sak :/p" &
