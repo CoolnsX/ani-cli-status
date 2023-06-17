@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rokudou no Onna tachi Episode 11
+Episode Name: Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru Level Up wa Jinsei wo Kaeta Episode 11
 
-Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-11-sub
+Episode Link: https://allanime.to/watch/HK4yoi5Q5KxYA4Bwv/episode-11-sub
  
 # Analytics
 
