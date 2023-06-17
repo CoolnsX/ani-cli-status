@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edomae Elf Episode 11
+Episode Name: Edens Zero Season 2 Episode 12
 
-Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-11-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-12-sub
  
 # Analytics
 
