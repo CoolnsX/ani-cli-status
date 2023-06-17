@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rokudou no Onna tachi Episode 11
+Episode Name: Black Clover Mahou Tei no Ken Episode 1
 
-Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-11-sub
+Episode Link: https://allanime.to/watch/t87nDwxXqJtZ9a7Fd/episode-1-sub
  
 # Analytics
 
