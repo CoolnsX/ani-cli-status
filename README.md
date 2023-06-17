@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Pururun Shizuku chan Aha Episode 18
+Episode Name: Chiikawa Episode 44
 
-Episode Link: https://allanime.to/watch/ygyYy7jXgkHtLZFTH/episode-18-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-44-sub
  
 # Analytics
 
