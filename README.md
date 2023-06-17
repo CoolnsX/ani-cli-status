@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edens Zero Season 2 Episode 12
+Episode Name: Ninjala Episode 72
 
-Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-12-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-72-sub
  
 # Analytics
 
