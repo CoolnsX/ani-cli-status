@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The IDOLM STER Cinderella Girls U149 Episode 10
+Episode Name: Ousama Ranking Yuuki no Takarabako Episode 10
 
-Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-10-sub
+Episode Link: https://allanime.to/watch/gdSi7Zj3yLivnNMcW/episode-10-sub
  
 # Analytics
 
