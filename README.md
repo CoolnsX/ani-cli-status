@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Kabocha Wine Episode 34
+Episode Name: Watashi no Yuri wa Oshigoto desu Episode 11
 
-Episode Link: https://allanime.to/watch/366khzcCCjML8b96u/episode-34-sub
+Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-11-sub
  
 # Analytics
 
