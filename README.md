@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Yuri wa Oshigoto desu Episode 11
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 13
 
-Episode Link: https://allanime.to/watch/AjrX6XxGxERMqffX4/episode-11-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-13-sub
  
 # Analytics
 
