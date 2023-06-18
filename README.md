@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mashle Episode 10
+Episode Name: Jigokuraku Episode 11
 
-Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-10-sub
+Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-11-sub
  
 # Analytics
 
