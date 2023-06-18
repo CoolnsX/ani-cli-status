@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yuusha ga Shinda Episode 11
+Episode Name: Megami no Café Terrace Episode 11
 
-Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-11-sub
+Episode Link: https://allanime.to/watch/7fFA3ta6sDK37K7T8/episode-11-sub
  
 # Analytics
 
