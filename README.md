@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kawaisugi Crisis Episode 11
+Episode Name: The IDOLM STER Cinderella Girls U149 Episode 10
 
-Episode Link: https://allanime.to/watch/5GWWFB9siLsbopigh/episode-11-sub
+Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-10-sub
  
 # Analytics
 
