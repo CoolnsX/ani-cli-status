@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 72
+Episode Name: Tsurune Movie Hajimari no Issha Episode 1
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-72-sub
+Episode Link: https://allanime.to/watch/E9v6iPXbKAwSBWvXo/episode-1-sub
  
 # Analytics
 
