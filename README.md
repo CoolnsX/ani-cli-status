@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jijou wo Shiranai Tenkousei ga Guigui Kuru Episode 12
+Episode Name: Birdie Wing Golf Girls Story Season 2 Episode 11
 
-Episode Link: https://allanime.to/watch/pYpRanTbM2kcpdtr7/episode-12-sub
+Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-11-sub
  
 # Analytics
 
