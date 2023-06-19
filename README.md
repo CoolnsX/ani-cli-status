@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tsurune Movie Hajimari no Issha Episode 1
+Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 12
 
-Episode Link: https://allanime.to/watch/E9v6iPXbKAwSBWvXo/episode-1-sub
+Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-12-sub
  
 # Analytics
 
