@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 20
+Episode Name: Ao no Orchestra Episode 11
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-20-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-11-sub
  
 # Analytics
 
