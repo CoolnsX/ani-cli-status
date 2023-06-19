@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Saikyou Kamizmode Episode 22
+Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 12
 
-Episode Link: https://allanime.to/watch/cJGcnRt2Qeir4tFdG/episode-22-sub
+Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-12-sub
  
 # Analytics
 
