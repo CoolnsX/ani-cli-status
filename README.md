@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tengoku Daimakyou Episode 12
+Episode Name: Alice Gear Aegis Expansion Episode 12
 
-Episode Link: https://allanime.to/watch/gmGfya55qfP6QiPfe/episode-12-sub
+Episode Link: https://allanime.to/watch/orXzdcqHN67JJ2LoE/episode-12-sub
  
 # Analytics
 
