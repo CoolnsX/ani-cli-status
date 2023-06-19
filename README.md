@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 44
+Episode Name: KnY 3 Episode 11
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-44-sub
+Episode Link: https://allanime.to/watch/XJzfDyv8vsXWCMkTk/episode-11-sub
  
 # Analytics
 
