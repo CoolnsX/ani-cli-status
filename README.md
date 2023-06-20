@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku no Isekai Boukenroku Jichou wo Shiranai Kamigami no Shito Episode 12
+Episode Name: Kidou Senshi Gundam Suisei no Majo Season 2 Episode 10
 
-Episode Link: https://allanime.to/watch/EN59RK7nu44sJ5sKZ/episode-12-sub
+Episode Link: https://allanime.to/watch/hiEaJ59JzYA3bdN3s/episode-10-sub
  
 # Analytics
 
