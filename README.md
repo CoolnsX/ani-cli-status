@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kidou Senshi Gundam Suisei no Majo Season 2 Episode 10
+Episode Name: Gun dou Musashi Episode 23
 
-Episode Link: https://allanime.to/watch/hiEaJ59JzYA3bdN3s/episode-10-sub
+Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-23-sub
  
 # Analytics
 
