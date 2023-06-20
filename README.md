@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kaitou Queen wa Circus ga Osuki Episode 1
+Episode Name: Kuma Kuma Kuma Bear Punch Episode 12
 
-Episode Link: https://allanime.to/watch/6uTBgj9FduAooyA4N/episode-1-sub
+Episode Link: https://allanime.to/watch/9hPzd5tojwLbhkqLb/episode-12-sub
  
 # Analytics
 
