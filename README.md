@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 12
+Episode Name: Otonari ni Ginga Episode 11
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-12-sub
+Episode Link: https://allanime.to/watch/yp5c8MJ3Bv4YM3tXN/episode-11-sub
  
 # Analytics
 
