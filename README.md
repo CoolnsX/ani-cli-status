@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boku no Kokoro no Yabai Yatsu Episode 12
+Episode Name: Tsurune Movie Hajimari no Issha Episode 1
 
-Episode Link: https://allanime.to/watch/HJSL7PWgcYYzchAyf/episode-12-sub
+Episode Link: https://allanime.to/watch/E9v6iPXbKAwSBWvXo/episode-1-sub
  
 # Analytics
 
