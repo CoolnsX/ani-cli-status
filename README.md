@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: KnY 3 Episode 11
+Episode Name: Jigokuraku Episode 11
 
-Episode Link: https://allanime.to/watch/XJzfDyv8vsXWCMkTk/episode-11-sub
+Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-11-sub
  
 # Analytics
 
