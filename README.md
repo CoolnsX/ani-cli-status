@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gun dou Musashi Episode 23
+Episode Name: Jigokuraku Episode 11
 
-Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-23-sub
+Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-11-sub
  
 # Analytics
 
