@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: CoCO NiCO Episode 38
+Episode Name: Dead Mount Death Play Episode 11
 
-Episode Link: https://allanime.to/watch/L4wHJGfecLkYCDdBo/episode-38-sub
+Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-11-sub
  
 # Analytics
 
