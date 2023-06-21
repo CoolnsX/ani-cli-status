@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Episode 11
+Episode Name: Kaitou Queen wa Circus ga Osuki Episode 1
 
-Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-11-sub
+Episode Link: https://allanime.to/watch/6uTBgj9FduAooyA4N/episode-1-sub
  
 # Analytics
 
