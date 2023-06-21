@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Episode 11
+Episode Name: Tsurune Movie Hajimari no Issha Episode 1
 
-Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-11-sub
+Episode Link: https://allanime.to/watch/E9v6iPXbKAwSBWvXo/episode-1-sub
  
 # Analytics
 
