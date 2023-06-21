@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Vinland Saga Season 2 Episode 24
+Episode Name: CoCO NiCO Episode 38
 
-Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-24-sub
+Episode Link: https://allanime.to/watch/L4wHJGfecLkYCDdBo/episode-38-sub
  
 # Analytics
 
