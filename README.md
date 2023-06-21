@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Idolm ster Xenoglossia Specials Episode 8
+Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 12
 
-Episode Link: https://allanime.to/watch/9vbovc7p5afKPcYQ7/episode-8-sub
+Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-12-sub
  
 # Analytics
 
