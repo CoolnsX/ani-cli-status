@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 11
+Episode Name: Jijou wo Shiranai Tenkousei ga Guigui Kuru Episode 12
 
-Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-11-sub
+Episode Link: https://allanime.to/watch/pYpRanTbM2kcpdtr7/episode-12-sub
  
 # Analytics
 
