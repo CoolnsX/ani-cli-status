@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: CoCO NiCO Episode 38
+Episode Name: Tsurune Movie Hajimari no Issha Episode 1
 
-Episode Link: https://allanime.to/watch/L4wHJGfecLkYCDdBo/episode-38-sub
+Episode Link: https://allanime.to/watch/E9v6iPXbKAwSBWvXo/episode-1-sub
  
 # Analytics
 
