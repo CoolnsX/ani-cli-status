@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 12
+Episode Name: Vinland Saga Season 2 Episode 24
 
-Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-12-sub
+Episode Link: https://allanime.to/watch/DYeWXwS86ByDEfgWX/episode-24-sub
  
 # Analytics
 
