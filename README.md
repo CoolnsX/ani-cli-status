@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Isekai wa Smartphone to Tomo ni 2 Episode 12
+Episode Name: Dead Mount Death Play Episode 11
 
-Episode Link: https://allanime.to/watch/ZcJw8qhgcgCpgbSaY/episode-12-sub
+Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-11-sub
  
 # Analytics
 
