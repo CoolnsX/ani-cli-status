@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Marginal Service Episode 11
+Episode Name: World Dai Star Episode 11
 
-Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-11-sub
+Episode Link: https://allanime.to/watch/yJn77BMcqcadgm2ZN/episode-11-sub
  
 # Analytics
 
