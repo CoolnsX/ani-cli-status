@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 11
+Episode Name: Dead Mount Death Play Episode 11
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-11-sub
+Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-11-sub
  
 # Analytics
 
