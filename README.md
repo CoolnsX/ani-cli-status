@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: World Dai Star Episode 11
+Episode Name: Tousouchuu Great Mission Episode 11
 
-Episode Link: https://allanime.to/watch/yJn77BMcqcadgm2ZN/episode-11-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-11-sub
  
 # Analytics
 
