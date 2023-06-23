@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kubo san wa Mob wo Yurusanai Episode 12
+Episode Name: Kimi wa Houkago Insomnia Episode 11
 
-Episode Link: https://allanime.to/watch/h6voZ9jYKnku7GKA3/episode-12-sub
+Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-11-sub
  
 # Analytics
 
