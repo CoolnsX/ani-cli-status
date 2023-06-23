@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Manyuu Hikenchou Binyuu Tanren Hou Chichi Togi Episode 8
+Episode Name: Kubo san wa Mob wo Yurusanai Episode 12
 
-Episode Link: https://allanime.to/watch/ng9FxXCJRkYBdoarr/episode-8-sub
+Episode Link: https://allanime.to/watch/h6voZ9jYKnku7GKA3/episode-12-sub
  
 # Analytics
 
