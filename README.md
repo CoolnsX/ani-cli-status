@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kimi wa Houkago Insomnia Episode 11
+Episode Name: Wagamama☆Fairy Mirumo de Pon Episode 43
 
-Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-11-sub
+Episode Link: https://allanime.to/watch/uAsMYAfJqmMi2mCuK/episode-43-sub
  
 # Analytics
 
