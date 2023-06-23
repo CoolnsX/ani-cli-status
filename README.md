@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kimi wa Houkago Insomnia Episode 11
+Episode Name: Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru Level Up wa Jinsei wo Kaeta Episode 12
 
-Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-11-sub
+Episode Link: https://allanime.to/watch/HK4yoi5Q5KxYA4Bwv/episode-12-sub
  
 # Analytics
 
