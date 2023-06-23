@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: CoCO NiCO Episode 38
+Episode Name: The Marginal Service Episode 11
 
-Episode Link: https://allanime.to/watch/L4wHJGfecLkYCDdBo/episode-38-sub
+Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-11-sub
  
 # Analytics
 
