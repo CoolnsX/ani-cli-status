@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 63
+Episode Name: Manyuu Hikenchou Binyuu Tanren Hou Chichi Togi Episode 8
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-63-sub
+Episode Link: https://allanime.to/watch/ng9FxXCJRkYBdoarr/episode-8-sub
  
 # Analytics
 
