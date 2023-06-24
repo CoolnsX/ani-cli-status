@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Opus COLORs Episode 12
+Episode Name: Dr Slump Arale chan Episode 139
 
-Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-12-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-139-sub
  
 # Analytics
 
