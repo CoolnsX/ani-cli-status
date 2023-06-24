@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yume no Crayon Oukoku Episode 63
+Episode Name: Idolm ster Xenoglossia Specials Episode 8
 
-Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-63-sub
+Episode Link: https://allanime.to/watch/9vbovc7p5afKPcYQ7/episode-8-sub
  
 # Analytics
 
