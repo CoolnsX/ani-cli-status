@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho Season 2 Episode 14
+Episode Name:  Oshi no Ko Episode 10
 
-Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-14-sub
+Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-10-sub
  
 # Analytics
 
