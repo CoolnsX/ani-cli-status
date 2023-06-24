@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name:  Oshi no Ko Episode 10
+Episode Name: Opus COLORs Episode 12
 
-Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-10-sub
+Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-12-sub
  
 # Analytics
 
