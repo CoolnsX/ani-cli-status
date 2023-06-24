@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kawaisugi Crisis Episode 12
+Episode Name: Isekai de Cheat Skill wo Te ni Shita Ore wa Genjitsu Sekai wo mo Musou Suru Level Up wa Jinsei wo Kaeta Episode 12
 
-Episode Link: https://allanime.to/watch/5GWWFB9siLsbopigh/episode-12-sub
+Episode Link: https://allanime.to/watch/HK4yoi5Q5KxYA4Bwv/episode-12-sub
  
 # Analytics
 
