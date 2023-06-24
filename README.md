@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho Season 2 Episode 14
+Episode Name: Kono Subarashii Sekai ni Bakuen wo Episode 12
 
-Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-14-sub
+Episode Link: https://allanime.to/watch/JhgwqSa9KnTMLhhjz/episode-12-sub
  
 # Analytics
 
