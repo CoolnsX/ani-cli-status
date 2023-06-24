@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The IDOLM STER Cinderella Girls U149 Episode 11
+Episode Name: Yume no Crayon Oukoku Episode 63
 
-Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-11-sub
+Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-63-sub
  
 # Analytics
 
