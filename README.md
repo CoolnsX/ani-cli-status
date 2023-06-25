@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mashle Episode 11
+Episode Name: Manyuu Hikenchou Binyuu Tanren Hou Chichi Togi Episode 8
 
-Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-11-sub
+Episode Link: https://allanime.to/watch/ng9FxXCJRkYBdoarr/episode-8-sub
  
 # Analytics
 
