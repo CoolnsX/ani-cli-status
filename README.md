@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Megami no Café Terrace Episode 12
+Episode Name: Detective Conan TV Episode 1088
 
-Episode Link: https://allanime.to/watch/7fFA3ta6sDK37K7T8/episode-12-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1088-sub
  
 # Analytics
 
