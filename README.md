@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 10
+Episode Name: Rokudou no Onna tachi Episode 12
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-10-sub
+Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-12-sub
  
 # Analytics
 
