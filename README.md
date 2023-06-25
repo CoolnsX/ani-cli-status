@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Opus COLORs Episode 12
+Episode Name: World Dai Star Episode 12
 
-Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-12-sub
+Episode Link: https://allanime.to/watch/yJn77BMcqcadgm2ZN/episode-12-sub
  
 # Analytics
 
