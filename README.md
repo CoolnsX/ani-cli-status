@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Opus COLORs Episode 12
+Episode Name: Mahoutsukai no Yome Season 2 Episode 12
 
-Episode Link: https://allanime.to/watch/4JBYKGnMf4RnwdSaK/episode-12-sub
+Episode Link: https://allanime.to/watch/on2f73dxC7bAh56fJ/episode-12-sub
  
 # Analytics
 
