@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rokudou no Onna tachi Episode 12
+Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 13
 
-Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-12-sub
+Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-13-sub
  
 # Analytics
 
