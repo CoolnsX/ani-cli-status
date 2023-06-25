@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1088
+Episode Name: The Kabocha Wine Episode 36
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1088-sub
+Episode Link: https://allanime.to/watch/366khzcCCjML8b96u/episode-36-sub
  
 # Analytics
 
