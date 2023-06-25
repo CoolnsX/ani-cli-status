@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jigokuraku Episode 12
+Episode Name:  Oshi no Ko Episode 10
 
-Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-12-sub
+Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-10-sub
  
 # Analytics
 
