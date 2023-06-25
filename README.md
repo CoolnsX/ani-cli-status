@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kawaisugi Crisis Episode 12
+Episode Name: Majutsushi Orphen Hagure Tabi Seiiki hen Episode 11
 
-Episode Link: https://allanime.to/watch/5GWWFB9siLsbopigh/episode-12-sub
+Episode Link: https://allanime.to/watch/eE3txJGGk9atw7k2v/episode-11-sub
  
 # Analytics
 
