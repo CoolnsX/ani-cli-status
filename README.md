@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rokudou no Onna tachi Episode 12
+Episode Name: Detective Conan TV Episode 1088
 
-Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-12-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1088-sub
  
 # Analytics
 
