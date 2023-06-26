@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahou Shoujo Magical Destroyers Episode 12
+Episode Name: Chibi Maruko chan Episode 107
 
-Episode Link: https://allanime.to/watch/ZBeaammRgnGdBY9y3/episode-12-sub
+Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-107-sub
  
 # Analytics
 
