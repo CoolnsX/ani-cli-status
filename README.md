@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 13
+Episode Name: Golden Kamuy Season 4 Episode 13
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-13-sub
+Episode Link: https://allanime.to/watch/z5ExvzcsKXYF3bvLp/episode-13-sub
  
 # Analytics
 
