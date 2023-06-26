@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mashle Episode 11
+Episode Name: Time Driver Bokura ga Kaita Mirai Episode 1
 
-Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-11-sub
+Episode Link: https://allanime.to/watch/CYHSSnQjiZmhGM55y/episode-1-sub
  
 # Analytics
 
