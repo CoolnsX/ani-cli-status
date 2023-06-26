@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Attacker You Episode 46
+Episode Name: Yuusha ga Shinda Episode 12
 
-Episode Link: https://allanime.to/watch/jEgr3unzEo2xch3n9/episode-46-sub
+Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-12-sub
  
 # Analytics
 
