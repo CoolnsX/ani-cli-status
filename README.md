@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mashle Episode 11
+Episode Name: Jijou wo Shiranai Tenkousei ga Guigui Kuru Episode 13
 
-Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-11-sub
+Episode Link: https://allanime.to/watch/pYpRanTbM2kcpdtr7/episode-13-sub
  
 # Analytics
 
