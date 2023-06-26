@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yuusha ga Shinda Episode 12
+Episode Name: Mashle Episode 11
 
-Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-12-sub
+Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-11-sub
  
 # Analytics
 
