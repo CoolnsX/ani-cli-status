@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edomae Elf Episode 12
+Episode Name: Chibi Maruko chan Episode 107
 
-Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-12-sub
+Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-107-sub
  
 # Analytics
 
