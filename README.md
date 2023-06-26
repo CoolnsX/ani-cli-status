@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Genjitsu no Rimuru Sunshine in the Slime Episode 1
+Episode Name: 1P Episode 1066
 
-Episode Link: https://allanime.to/watch/dBHneqwKgvqRCiKPF/episode-1-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1066-sub
  
 # Analytics
 
