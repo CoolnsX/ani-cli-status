@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yuusha ga Shinda Episode 12
+Episode Name: Edomae Elf Episode 12
 
-Episode Link: https://allanime.to/watch/obxDMWmsPLnuAbXea/episode-12-sub
+Episode Link: https://allanime.to/watch/kQrTriTk7QvZaLizd/episode-12-sub
  
 # Analytics
 
