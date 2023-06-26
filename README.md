@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanzen Shouri Daiteiou Episode 1
+Episode Name: Araiguma Rascal Episode 40
 
-Episode Link: https://allanime.to/watch/KXKgfvRmnB92Zt2xB/episode-1-sub
+Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-40-sub
  
 # Analytics
 
