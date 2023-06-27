@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 21
+Episode Name: Birdie Wing Golf Girls Story Season 2 Episode 12
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-21-sub
+Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-12-sub
  
 # Analytics
 
