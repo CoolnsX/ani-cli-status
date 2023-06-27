@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Golden Kamuy Season 4 Episode 13
+Episode Name: Rokudou no Onna tachi Episode 12
 
-Episode Link: https://allanime.to/watch/z5ExvzcsKXYF3bvLp/episode-13-sub
+Episode Link: https://allanime.to/watch/Xx5oqy4Mi8Ei9sS7x/episode-12-sub
  
 # Analytics
 
