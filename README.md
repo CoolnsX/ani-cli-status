@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edens Zero Season 2 Episode 13
+Episode Name: Hirogaru Sky Precure Episode 21
 
-Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-13-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-21-sub
  
 # Analytics
 
