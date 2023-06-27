@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Birdie Wing Golf Girls Story Season 2 Episode 12
+Episode Name: Chibi Maruko chan Episode 107
 
-Episode Link: https://allanime.to/watch/wghDLKaqB8imWt8Hj/episode-12-sub
+Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-107-sub
  
 # Analytics
 
