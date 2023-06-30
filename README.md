@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Pururun Shizuku chan Aha Episode 21
+Episode Name: Kaminaki Sekai no Kamisama Katsudou Episode 11
 
-Episode Link: https://allanime.to/watch/ygyYy7jXgkHtLZFTH/episode-21-sub
+Episode Link: https://allanime.to/watch/DcnE8PSQYK4Qh7d7t/episode-11-sub
  
 # Analytics
 
