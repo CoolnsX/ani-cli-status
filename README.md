@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 64
+Episode Name: Kanzen Shouri Daiteiou Episode 1
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-64-sub
+Episode Link: https://allanime.to/watch/KXKgfvRmnB92Zt2xB/episode-1-sub
  
 # Analytics
 
