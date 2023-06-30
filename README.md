@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanzen Shouri Daiteiou Episode 1
+Episode Name: Pururun Shizuku chan Aha Episode 21
 
-Episode Link: https://allanime.to/watch/KXKgfvRmnB92Zt2xB/episode-1-sub
+Episode Link: https://allanime.to/watch/ygyYy7jXgkHtLZFTH/episode-21-sub
  
 # Analytics
 
