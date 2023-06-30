@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kaminaki Sekai no Kamisama Katsudou Episode 11
+Episode Name: Genjitsu no Rimuru Sunshine in the Slime Episode 1
 
-Episode Link: https://allanime.to/watch/DcnE8PSQYK4Qh7d7t/episode-11-sub
+Episode Link: https://allanime.to/watch/dBHneqwKgvqRCiKPF/episode-1-sub
  
 # Analytics
 
