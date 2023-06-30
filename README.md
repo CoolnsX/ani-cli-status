@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Genjitsu no Rimuru Sunshine in the Slime Episode 1
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 15
 
-Episode Link: https://allanime.to/watch/dBHneqwKgvqRCiKPF/episode-1-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-15-sub
  
 # Analytics
 
