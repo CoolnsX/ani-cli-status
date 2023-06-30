@@ -41,14 +41,14 @@ total=$((total+1))
 printf "%s" "$total" > total
 agent="Mozilla/5.0"
 query="query(        \$search: SearchInput        \$limit: Int        \$page: Int        \$translationType: VaildTranslationTypeEnumType        \$countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: \$search        limit: \$limit        page: \$page        translationType: \$translationType        countryOrigin: \$countryOrigin    ) {        edges {            _id name lastEpisodeInfo __typename       }    }}"
-[ -z "$*" ] && url=$(curl -s -G "$base_url/api" -d "variables=%7B%22search%22%3A%7B%22sortBy%22%3A%22Recent%22%2C%22allowAdult%22%3Afalse%2C%22allowUnknown%22%3Afalse%7D%2C%22limit%22%3A40%2C%22page%22%3A1%2C%22translationType%22%3A%22sub%22%2C%22countryOrigin%22%3A%22JP%22%7D" --data-urlencode "query=$query"  -A "$agent" | sed 's|Show|\n|g' | sed -nE 's|.*_id":"([^"]*)","name":"([^"]*)".*sub":\{"episodeString":"([^"]*)".*|\1\t\2 Episode \3|p' | shuf -n1 | tr '[:punct:]' ' ' | tr -s ' ') || url=$*
+[ -z "$*" ] && url=$(curl -s -e "$lol" -G "$base_url/api" -d "variables=%7B%22search%22%3A%7B%22sortBy%22%3A%22Recent%22%2C%22allowAdult%22%3Afalse%2C%22allowUnknown%22%3Afalse%7D%2C%22limit%22%3A40%2C%22page%22%3A1%2C%22translationType%22%3A%22sub%22%2C%22countryOrigin%22%3A%22JP%22%7D" --data-urlencode "query=$query"  -A "$agent" | sed 's|Show|\n|g' | sed -nE 's|.*_id":"([^"]*)","name":"([^"]*)".*sub":\{"episodeString":"([^"]*)".*|\1\t\2 Episode \3|p' | shuf -n1 | tr '[:punct:]' ' ' | tr -s ' ') || url=$*
 title=$(printf "%s" "$url" | cut -f2-)
 id=$(printf "%s" "$url" | cut -f1)
 ep_no=$(printf "%s" "$url" | sed 's/.*Episode //g')
 [ -z "$url" ] && exit 0 || printf "\033[1;35mSelected %s\n\033[1;36mLoading Episode.." "$title"
 sed -i -E "s_Episode Name: (.*)_Episode Name: $(printf "$title" | cut -d"/" -f2- | tr "[:punct:]" " ")_g ; s_${lol}(.*)_${lol}/watch/${id}/episode-${ep_no}-sub_g" README.md &
 episode_embed_gql="query (\$showId: String!, \$translationType: VaildTranslationTypeEnumType!, \$episodeString: String!) {    episode(        showId: \$showId        translationType: \$translationType        episodeString: \$episodeString    ) {        episodeString sourceUrls    }}"
-data=$(curl -A "$agent" -s -G "$base_url/api" -d "variables=%7B%22showId%22%3A%22$id%22%2C%22translationType%22%3A%22sub%22%2C%22countryOrigin%22%3A%22ALL%22%2C%22episodeString%22%3A%22$ep_no%22%7D" --data-urlencode "query=$episode_embed_gql" | tr '{}' '\n' | sed 's|\\u002F|\/|g;s|\\||g' | sed -nE 's|.*sourceUrl":"#([^"]*)".*sourceName":"([^"]*)".*|\2 :\1|p')
+data=$(curl -e "$lol" -A "$agent" -s -G "$base_url/api" -d "variables=%7B%22showId%22%3A%22$id%22%2C%22translationType%22%3A%22sub%22%2C%22countryOrigin%22%3A%22ALL%22%2C%22episodeString%22%3A%22$ep_no%22%7D" --data-urlencode "query=$episode_embed_gql" | tr '{}' '\n' | sed 's|\\u002F|\/|g;s|\\||g' | sed -nE 's|.*sourceUrl":"#([^"]*)".*sourceName":"([^"]*)".*|\2 :\1|p')
 
 #vrv links
 provider_run "wixmp" "/Default :/p" &
