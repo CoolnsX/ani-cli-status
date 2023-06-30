@@ -1,5 +1,5 @@
 #!/bin/bash
-set -x
+
 gen_img() {
 	convert -fill white -background "$4" -pointsize 72 -font "iosevka-regular.ttf" label:"\ $2 $3 " "images/$1.jpg"
 	printf "%s : %s %s\n" "$1" "$2" "$3" >> results
@@ -12,10 +12,23 @@ gen_img() {
 	fi
 }
 
+decrypt_allanime() {
+	for result in $(printf '%s' "$1" | xxd -r -p | od -An -v -t u1)
+	do
+		for char in $(printf "%s" "1234567890123456789" | grep -o .)
+		do
+			decimal_char="$(printf "%02d" "'$char'")"
+			: $((result ^= decimal_char))
+		done
+
+		#shellcheck disable=SC2059
+		printf "\\$(printf "%03o" "$result")"
+	done
+}
+
 provider_run(){
-	hexadecimal_provider_id="$(printf "%s" "$data" | sed -n "$2" | head -1 | cut -d':' -f2 | sed 's/\(..\)/\\x\1/g')"
-    	provider_id=$(printf "%b" "$hexadecimal_provider_id" | sed "s/\/clock/\/clock\.json/")
-	[ -z "$provider_id" ] && gen_img "$1" "! No" "embed link" "#a26b03" || printf "\n\033[1;34mFetching %s links < %s" "$1" "$provider_id"
+	provider_id="$(decrypt_allanime "$(printf "%s" "$data" | sed -n "$2" | head -1 | cut -d':' -f2)" | sed "s/\/clock/\/clock\.json/")"
+        [ -z "$provider_id" ] && gen_img "$1" "! No" "embed link" "#a26b03" || printf "\n\033[1;34mFetching %s links < %s" "$1" "$provider_id"
 	[ -z "$provider_id" ] || (provider_video=$(curl -s "https://allanimenews.com$provider_id" | sed 's|},{|\n|g' | sed -nE 's|.*link":"([^"]*)".*"resolutionStr":"([^"]*)".*|\2 >\1|p') && [ -z "$provider_video" ] && gen_img "$1" "✗ No" "link returned" "darkred" || gen_img "$1" "✓ $(printf "%s\n" "$provider_video" | wc -l)" "links returned" "darkgreen" "yes")
 }
 
