@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 11
+Episode Name: Ninjala Episode 73
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-11-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-73-sub
  
 # Analytics
 
