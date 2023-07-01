@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho Season 2 Episode 15
+Episode Name: Princess Principal Crown Handler Movie 3 Episode 1
 
-Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-15-sub
+Episode Link: https://allanime.to/watch/yPc4oLnnwrkq5qquR/episode-1-sub
  
 # Analytics
 
