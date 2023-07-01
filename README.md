@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Daicon Opening Animations Episode 1
+Episode Name: Araiguma Rascal Episode 40
 
-Episode Link: https://allanime.to/watch/EbK2SWvDMBxHxuWxZ/episode-1-sub
+Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-40-sub
  
 # Analytics
 
