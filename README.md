@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Golden Kamuy Season 4 Episode 13
+Episode Name: Mashle Episode 12
 
-Episode Link: https://allanime.to/watch/z5ExvzcsKXYF3bvLp/episode-13-sub
+Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-12-sub
  
 # Analytics
 
