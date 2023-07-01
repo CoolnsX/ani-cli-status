@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Princess Principal Crown Handler Movie 3 Episode 1
+Episode Name: Pururun Shizuku chan Aha Episode 25
 
-Episode Link: https://allanime.to/watch/yPc4oLnnwrkq5qquR/episode-1-sub
+Episode Link: https://allanime.to/watch/ygyYy7jXgkHtLZFTH/episode-25-sub
  
 # Analytics
 
