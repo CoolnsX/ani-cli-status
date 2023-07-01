@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 73
+Episode Name: Princess Principal Crown Handler Movie 3 Episode 1
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-73-sub
+Episode Link: https://allanime.to/watch/yPc4oLnnwrkq5qquR/episode-1-sub
  
 # Analytics
 
