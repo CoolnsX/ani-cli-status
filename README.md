@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 22
+Episode Name: Kimi wa Houkago Insomnia Episode 12
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-22-sub
+Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-12-sub
  
 # Analytics
 
