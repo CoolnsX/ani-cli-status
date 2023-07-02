@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 11
+Episode Name: Ao no Orchestra Episode 12
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-11-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-12-sub
  
 # Analytics
 
