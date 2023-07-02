@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The IDOLM STER Cinderella Girls U149 Episode 12
+Episode Name: Kanojo ga Koushaku tei ni Itta Riyuu Episode 12
 
-Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-12-sub
+Episode Link: https://allanime.to/watch/Ao7JLLYY4FXC524MK/episode-12-sub
  
 # Analytics
 
