@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 46
+Episode Name: Dead Mount Death Play Episode 12
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-46-sub
+Episode Link: https://allanime.to/watch/DbXsK4cTxHQXMRh7e/episode-12-sub
  
 # Analytics
 
