@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kaminaki Sekai no Kamisama Katsudou Episode 11
+Episode Name: BanG Dream It s MyGO Episode 3
 
-Episode Link: https://allanime.to/watch/DcnE8PSQYK4Qh7d7t/episode-11-sub
+Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-3-sub
  
 # Analytics
 
