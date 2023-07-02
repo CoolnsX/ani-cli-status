@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name:  Oshi no Ko Episode 11
+Episode Name: Video Senshi Lezarion Episode 45
 
-Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-11-sub
+Episode Link: https://allanime.to/watch/LQTwAfHsFR2dTHquB/episode-45-sub
  
 # Analytics
 
