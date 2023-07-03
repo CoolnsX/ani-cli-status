@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Fate strange Fake Whispers of Dawn Episode 1
+Episode Name: Gun dou Musashi Episode 24
 
-Episode Link: https://allanime.to/watch/aCpiWMsNP5Kwz8AJa/episode-1-sub
+Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-24-sub
  
 # Analytics
 
