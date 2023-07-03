@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Marginal Service Episode 12
+Episode Name: Jigokuraku Episode 13
 
-Episode Link: https://allanime.to/watch/EemKb95xx8qZKWW7j/episode-12-sub
+Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-13-sub
  
 # Analytics
 
