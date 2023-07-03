@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 0
+Episode Name: Video Senshi Lezarion Episode 45
 
-Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-0-sub
+Episode Link: https://allanime.to/watch/LQTwAfHsFR2dTHquB/episode-45-sub
  
 # Analytics
 
