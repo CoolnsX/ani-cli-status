@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gun dou Musashi Episode 24
+Episode Name: Mashle Episode 12
 
-Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-24-sub
+Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-12-sub
  
 # Analytics
 
