@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 2
+Episode Name: Tenchi Muyou GXP Paradise Shidou hen Episode 2
 
-Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-2-sub
+Episode Link: https://allanime.to/watch/DvKvm2E372X26QaqZ/episode-2-sub
  
 # Analytics
 
