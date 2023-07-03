@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 0
+Episode Name: The IDOLM STER Cinderella Girls U149 Episode 12
 
-Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-0-sub
+Episode Link: https://allanime.to/watch/mnhqAWHBxW9aDvyNu/episode-12-sub
  
 # Analytics
 
