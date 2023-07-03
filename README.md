@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tenchi Muyou GXP Paradise Shidou hen Episode 2
+Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 1
 
-Episode Link: https://allanime.to/watch/DvKvm2E372X26QaqZ/episode-2-sub
+Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-1-sub
  
 # Analytics
 
