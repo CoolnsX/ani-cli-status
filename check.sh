@@ -1,47 +1,42 @@
-#!/bin/bash
+#!/bin/sh
 
 gen_img() {
-	convert -fill white -background "$4" -pointsize 72 -font "iosevka-regular.ttf" label:"\ $2 $3 " "images/$1.jpg"
-	printf "%s : %s %s\n" "$1" "$2" "$3" >> results
-	printf "\n\033[1;32m%s image generated!!" "$1"
-	#analytics
-	if [ -n "$5" ];then
-		prev=$(sed -nE "s/$1\t(.*)/\1/p" data)
-		prev=$((prev+1))
-		sed -i -E "s_${1}(.*)_${1}\t${prev}_g" data
-	fi
+        convert -fill white -background "$4" -pointsize 72 -font "iosevka-regular.ttf" label:"\ $2 $3 " "images/$1.jpg"
+        printf "%s : %s %s\n" "$1" "$2" "$3" >>results
+        printf "\n\033[1;32m%s image generated!!" "$1"
+        #analytics
+        if [ -n "$5" ]; then
+                prev=$(sed -nE "s/$1\t(.*)/\1/p" data)
+                prev=$((prev + 1))
+                sed -i -E "s_${1}(.*)_${1}\t${prev}_g" data
+        fi
 }
 
 decrypt_allanime() {
-	for result in $(printf '%s' "$1" | xxd -r -p | od -An -v -t u1)
-	do
-		for char in $(printf "%s" "1234567890123456789" | grep -o .)
-		do
-			decimal_char="$(printf "%02d" "'$char'")"
-			: $((result ^= decimal_char))
-		done
-
-		#shellcheck disable=SC2059
-		printf "\\$(printf "%03o" "$result")"
-	done
+        for hex in $(printf '%s' "$1" | sed 's/../&\n/g'); do
+                dec=$(printf "%d" "0x$hex")
+                xor=$((dec ^ 48))
+                #shellcheck disable=SC2059
+                printf "\\$(printf "%o" "$xor")"
+        done
 }
 
-provider_run(){
-	provider_id="$(decrypt_allanime "$(printf "%s" "$data" | sed -n "$2" | head -1 | cut -d':' -f2)" | sed "s/\/clock/\/clock\.json/")"
+provider_run() {
+        provider_id="$(decrypt_allanime "$(printf "%s" "$data" | sed -n "$2" | head -1 | cut -d':' -f2)" | sed "s/\/clock/\/clock\.json/")"
         [ -z "$provider_id" ] && gen_img "$1" "! No" "embed link" "#a26b03" || printf "\n\033[1;34mFetching %s links < %s" "$1" "$provider_id"
-	[ -z "$provider_id" ] || (provider_video=$(curl -s "https://embed.ssbcontent.site$provider_id" | sed 's|},{|\n|g' | sed -nE 's|.*link":"([^"]*)".*"resolutionStr":"([^"]*)".*|\2 >\1|p') && [ -z "$provider_video" ] && gen_img "$1" "✗ No" "link returned" "darkred" || gen_img "$1" "✓ $(printf "%s\n" "$provider_video" | wc -l)" "links returned" "darkgreen" "yes")
+        [ -z "$provider_id" ] || (provider_video=$(curl -s "https://embed.ssbcontent.site$provider_id" | sed 's|},{|\n|g' | sed -nE 's|.*link":"([^"]*)".*"resolutionStr":"([^"]*)".*|\2 >\1|p') && [ -z "$provider_video" ] && gen_img "$1" "✗ No" "link returned" "darkred" || gen_img "$1" "✓ $(printf "%s\n" "$provider_video" | wc -l)" "links returned" "darkgreen" "yes")
 }
 
 #intializing
-printf "" > results
+printf "" >results
 base_url="https://api.allanime.day"
 lol="https://allanime.to"
 total=$(cat total)
-total=$((total+1))
-printf "%s" "$total" > total
+total=$((total + 1))
+printf "%s" "$total" >total
 agent="Mozilla/5.0"
 query="query(        \$search: SearchInput        \$limit: Int        \$page: Int        \$translationType: VaildTranslationTypeEnumType        \$countryOrigin: VaildCountryOriginEnumType    ) {    shows(        search: \$search        limit: \$limit        page: \$page        translationType: \$translationType        countryOrigin: \$countryOrigin    ) {        edges {            _id name lastEpisodeInfo __typename       }    }}"
-[ -z "$*" ] && url=$(curl -s -e "$lol" -G "$base_url/api" -d "variables=%7B%22search%22%3A%7B%22sortBy%22%3A%22Recent%22%2C%22allowAdult%22%3Afalse%2C%22allowUnknown%22%3Afalse%7D%2C%22limit%22%3A40%2C%22page%22%3A1%2C%22translationType%22%3A%22sub%22%2C%22countryOrigin%22%3A%22JP%22%7D" --data-urlencode "query=$query"  -A "$agent" | sed 's|Show|\n|g' | sed -nE 's|.*_id":"([^"]*)","name":"([^"]*)".*sub":\{"episodeString":"([^"]*)".*|\1\t\2 Episode \3|p' | shuf -n1 | tr '[:punct:]' ' ' | tr -s ' ') || url=$*
+[ -z "$*" ] && url=$(curl -s -e "$lol" -G "$base_url/api" -d "variables=%7B%22search%22%3A%7B%22sortBy%22%3A%22Recent%22%2C%22allowAdult%22%3Afalse%2C%22allowUnknown%22%3Afalse%7D%2C%22limit%22%3A40%2C%22page%22%3A1%2C%22translationType%22%3A%22sub%22%2C%22countryOrigin%22%3A%22JP%22%7D" --data-urlencode "query=$query" -A "$agent" | sed 's|Show|\n|g' | sed -nE 's|.*_id":"([^"]*)","name":"([^"]*)".*sub":\{"episodeString":"([^"]*)".*|\1\t\2 Episode \3|p' | shuf -n1 | tr '[:punct:]' ' ' | tr -s ' ') || url=$*
 title=$(printf "%s" "$url" | cut -f2-)
 id=$(printf "%s" "$url" | cut -f1)
 ep_no=$(printf "%s" "$url" | sed 's/.*Episode //g')
@@ -98,7 +93,7 @@ wait
 LOGFILE=./data
 OUTFILE=./analytics.png
 
-gnuplot << EOF
+gnuplot <<EOF
 set lmargin at screen 0.20
 set rmargin at screen 0.85
 set bmargin at screen 0.30
