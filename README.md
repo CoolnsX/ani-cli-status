@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Majutsushi Orphen Hagure Tabi Seiiki hen Episode 12
+Episode Name: Edens Zero Season 2 Episode 14
 
-Episode Link: https://allanime.to/watch/eE3txJGGk9atw7k2v/episode-12-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-14-sub
  
 # Analytics
 
