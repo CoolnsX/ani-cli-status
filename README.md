@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jigokuraku Episode 13
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 0
 
-Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-13-sub
+Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-0-sub
  
 # Analytics
 
