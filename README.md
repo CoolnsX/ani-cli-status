@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Video Senshi Lezarion Episode 45
+Episode Name: Horimiya piece Episode 1
 
-Episode Link: https://allanime.to/watch/LQTwAfHsFR2dTHquB/episode-45-sub
+Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-1-sub
  
 # Analytics
 
