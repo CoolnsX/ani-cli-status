@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 13
+Episode Name: Horimiya piece Episode 1
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-13-sub
+Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-1-sub
  
 # Analytics
 
