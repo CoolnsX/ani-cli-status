@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name:  Oshi no Ko Episode 11
+Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 1
 
-Episode Link: https://allanime.to/watch/b3u5TprKSKHBPBcor/episode-11-sub
+Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-1-sub
  
 # Analytics
 
