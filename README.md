@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Video Senshi Lezarion Episode 45
+Episode Name: Ryuuseiki Gakusaver Episode 6
 
-Episode Link: https://allanime.to/watch/LQTwAfHsFR2dTHquB/episode-45-sub
+Episode Link: https://allanime.to/watch/G2AKuraYhZhNEDCMe/episode-6-sub
  
 # Analytics
 
