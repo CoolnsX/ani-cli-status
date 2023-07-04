@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1067
+Episode Name: Video Senshi Lezarion Episode 45
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1067-sub
+Episode Link: https://allanime.to/watch/LQTwAfHsFR2dTHquB/episode-45-sub
  
 # Analytics
 
