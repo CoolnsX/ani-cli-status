@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho Season 2 Episode 15
+Episode Name: Video Senshi Lezarion Episode 45
 
-Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-15-sub
+Episode Link: https://allanime.to/watch/LQTwAfHsFR2dTHquB/episode-45-sub
  
 # Analytics
 
