@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 2
+Episode Name: Mashle Episode 12
 
-Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-2-sub
+Episode Link: https://allanime.to/watch/aD7i4vmRsCFcM7CSF/episode-12-sub
  
 # Analytics
 
