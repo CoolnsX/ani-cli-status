@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 46
+Episode Name: Tousouchuu Great Mission Episode 13
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-46-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-13-sub
  
 # Analytics
 
