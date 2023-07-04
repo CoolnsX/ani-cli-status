@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 1
+Episode Name: 1P Episode 1067
 
-Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-1-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1067-sub
  
 # Analytics
 
