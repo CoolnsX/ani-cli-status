@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 12
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 16
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-12-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-16-sub
  
 # Analytics
 
