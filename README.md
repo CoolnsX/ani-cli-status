@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 140
+Episode Name: Masamune kun no Revenge R Episode 1
 
-Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-140-sub
+Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-1-sub
  
 # Analytics
 
