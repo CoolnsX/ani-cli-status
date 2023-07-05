@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Video Senshi Lezarion Episode 45
+Episode Name: Uchi no Kaisha no Chiisai Senpai no Hanashi Episode 1
 
-Episode Link: https://allanime.to/watch/LQTwAfHsFR2dTHquB/episode-45-sub
+Episode Link: https://allanime.to/watch/T4M7inSSaC3R2ahPT/episode-1-sub
  
 # Analytics
 
