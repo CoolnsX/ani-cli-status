@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 13
+Episode Name: Suki na Ko ga Megane wo Wasureta Episode 1
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-13-sub
+Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-1-sub
  
 # Analytics
 
