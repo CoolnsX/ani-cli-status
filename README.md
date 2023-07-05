@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 2
+Episode Name: Horimiya piece Episode 1
 
-Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-2-sub
+Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-1-sub
  
 # Analytics
 
