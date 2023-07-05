@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Fate strange Fake Whispers of Dawn Episode 1
+Episode Name: Ayaka Episode 1
 
-Episode Link: https://allanime.to/watch/aCpiWMsNP5Kwz8AJa/episode-1-sub
+Episode Link: https://allanime.to/watch/SERXBtRgFyER3LCSq/episode-1-sub
  
 # Analytics
 
