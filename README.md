@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Shiawase na Kekkon Episode 1
+Episode Name: Stars Collection Episode 61
 
-Episode Link: https://allanime.to/watch/ZjJrrmrMKbLgebWAL/episode-1-sub
+Episode Link: https://allanime.to/watch/cnBqD5tYvw5L3jPhz/episode-61-sub
  
 # Analytics
 
