@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Pururun Shizuku chan Aha Episode 25
+Episode Name: Fate strange Fake Whispers of Dawn Episode 1
 
-Episode Link: https://allanime.to/watch/ygyYy7jXgkHtLZFTH/episode-25-sub
+Episode Link: https://allanime.to/watch/aCpiWMsNP5Kwz8AJa/episode-1-sub
  
 # Analytics
 
