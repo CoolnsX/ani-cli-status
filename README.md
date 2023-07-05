@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 65
+Episode Name: Pururun Shizuku chan Aha Episode 25
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-65-sub
+Episode Link: https://allanime.to/watch/ygyYy7jXgkHtLZFTH/episode-25-sub
  
 # Analytics
 
