@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Elite Jack Episode 6
+Episode Name: Jitsu wa Ore Saikyou deshita Episode 1
 
-Episode Link: https://allanime.to/watch/GuDrxjqYQzCFCkJrA/episode-6-sub
+Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-1-sub
  
 # Analytics
 
