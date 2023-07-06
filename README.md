@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gun dou Musashi Episode 25
+Episode Name: Elite Jack Episode 6
 
-Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-25-sub
+Episode Link: https://allanime.to/watch/GuDrxjqYQzCFCkJrA/episode-6-sub
  
 # Analytics
 
