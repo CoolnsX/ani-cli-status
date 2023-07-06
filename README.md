@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Pururun Shizuku chan Aha Episode 25
+Episode Name: Ao no Orchestra Episode 13
 
-Episode Link: https://allanime.to/watch/ygyYy7jXgkHtLZFTH/episode-25-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-13-sub
  
 # Analytics
 
