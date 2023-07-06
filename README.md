@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Suki na Ko ga Megane wo Wasureta Episode 1
+Episode Name: Ryza no Atelier Tokoyami no Joou to Himitsu no Kakurega Episode 1
 
-Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-1-sub
+Episode Link: https://allanime.to/watch/wQC2B9C2HFfGtnFZi/episode-1-sub
  
 # Analytics
 
