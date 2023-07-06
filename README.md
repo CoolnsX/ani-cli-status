@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jitsu wa Ore Saikyou deshita Episode 1
+Episode Name: Wansa kun Episode 9
 
-Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-1-sub
+Episode Link: https://allanime.to/watch/PNiDKWiWGbsZPcwYN/episode-9-sub
  
 # Analytics
 
