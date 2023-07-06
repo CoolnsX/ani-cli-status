@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 65
+Episode Name: Jigokuraku Episode 13
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-65-sub
+Episode Link: https://allanime.to/watch/JmySRmZQ4QxsC4LsZ/episode-13-sub
  
 # Analytics
 
