@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ore sama Kingdom Episode 14
+Episode Name: Undead Girl Murder Farce Episode 1
 
-Episode Link: https://allanime.to/watch/SGvadFa6fCYCXHNn5/episode-14-sub
+Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-1-sub
  
 # Analytics
 
