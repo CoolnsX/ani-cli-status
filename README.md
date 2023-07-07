@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gun dou Musashi Episode 25
+Episode Name: Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu Episode 1
 
-Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-25-sub
+Episode Link: https://allanime.to/watch/3wRbRvqdfHBxxmarg/episode-1-sub
  
 # Analytics
 
