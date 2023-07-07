@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Getter Robo Go Episode 17
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 1
 
-Episode Link: https://allanime.to/watch/LL3bLCEHKd7gPWYjE/episode-17-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-1-sub
  
 # Analytics
 
