@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hataraku Maou sama Season 2 Episode 0
+Episode Name: Niehime to Kemono no Ou Episode 12
 
-Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-0-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-12-sub
  
 # Analytics
 
