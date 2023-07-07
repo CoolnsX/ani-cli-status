@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Undead Girl Murder Farce Episode 1
+Episode Name: Ninjala Episode 74
 
-Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-1-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-74-sub
  
 # Analytics
 
