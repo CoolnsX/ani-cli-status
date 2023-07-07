@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Haai Step Jun Episode 12
+Episode Name: Kimi wa Houkago Insomnia Episode 13
 
-Episode Link: https://allanime.to/watch/5dC9GDoPPJ5agJg2C/episode-12-sub
+Episode Link: https://allanime.to/watch/sLvtMJy2wKkqLyJhN/episode-13-sub
  
 # Analytics
 
