@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Stars Collection Episode 61
+Episode Name: Gun dou Musashi Episode 25
 
-Episode Link: https://allanime.to/watch/cnBqD5tYvw5L3jPhz/episode-61-sub
+Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-25-sub
  
 # Analytics
 
