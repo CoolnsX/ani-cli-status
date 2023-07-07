@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Episode 1
+Episode Name: Haai Step Jun Episode 12
 
-Episode Link: https://allanime.to/watch/mDmehMNfd4nTP9FKC/episode-1-sub
+Episode Link: https://allanime.to/watch/5dC9GDoPPJ5agJg2C/episode-12-sub
  
 # Analytics
 
