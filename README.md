@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BanG Dream It s MyGO Episode 4
+Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 2
 
-Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-4-sub
+Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-2-sub
  
 # Analytics
 
