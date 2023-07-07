@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Maken ga Shihai suru Episode 1
+Episode Name: Jujutsu Kaisen 2nd Season Episode 1
 
-Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-1-sub
+Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-1-sub
  
 # Analytics
 
