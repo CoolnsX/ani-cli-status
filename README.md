@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jujutsu Kaisen 2nd Season Episode 1
+Episode Name: Ore sama Kingdom Episode 14
 
-Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-1-sub
+Episode Link: https://allanime.to/watch/SGvadFa6fCYCXHNn5/episode-14-sub
  
 # Analytics
 
