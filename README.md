@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu Episode 1
+Episode Name: Nanatsu no Maken ga Shihai suru Episode 1
 
-Episode Link: https://allanime.to/watch/3wRbRvqdfHBxxmarg/episode-1-sub
+Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-1-sub
  
 # Analytics
 
