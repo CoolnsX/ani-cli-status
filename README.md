@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Lv1 Maou to One Room Yuusha Episode 1
+Episode Name: BanG Dream It s MyGO Episode 4
 
-Episode Link: https://allanime.to/watch/2rRgDwqDDgzgDuLwi/episode-1-sub
+Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-4-sub
  
 # Analytics
 
