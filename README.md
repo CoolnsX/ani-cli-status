@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 47
+Episode Name: Stars Collection Episode 61
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-47-sub
+Episode Link: https://allanime.to/watch/cnBqD5tYvw5L3jPhz/episode-61-sub
  
 # Analytics
 
