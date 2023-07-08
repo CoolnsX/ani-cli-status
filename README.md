@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dekiru Neko wa Kyou mo Yuuutsu Episode 1
+Episode Name: Niehime to Kemono no Ou Episode 12
 
-Episode Link: https://allanime.to/watch/iwdYTD8AkMjawQXgY/episode-1-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-12-sub
  
 # Analytics
 
