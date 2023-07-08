@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 47
+Episode Name: Sugar Apple Fairy Tale Part 2 Episode 1
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-47-sub
+Episode Link: https://allanime.to/watch/KnoD88GBqQmvDfcpn/episode-1-sub
  
 # Analytics
 
