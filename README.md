@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Wansa kun Episode 9
+Episode Name: Sugar Apple Fairy Tale Part 2 Episode 1
 
-Episode Link: https://allanime.to/watch/PNiDKWiWGbsZPcwYN/episode-9-sub
+Episode Link: https://allanime.to/watch/KnoD88GBqQmvDfcpn/episode-1-sub
  
 # Analytics
 
