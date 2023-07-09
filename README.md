@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo Okarishimasu Season 3 Episode 1
+Episode Name: Magical★Taruruuto kun Episode 15
 
-Episode Link: https://allanime.to/watch/Z4HXM5cXSxnvNkm8N/episode-1-sub
+Episode Link: https://allanime.to/watch/yTszgTsufjJcz6AZc/episode-15-sub
  
 # Analytics
 
