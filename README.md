@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hataraku Maou sama Season 2 Episode 0
+Episode Name: Detective Conan TV Episode 1089
 
-Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-0-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1089-sub
  
 # Analytics
 
