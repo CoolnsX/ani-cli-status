@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ayaka Episode 2
+Episode Name: Gun dou Musashi Episode 25
 
-Episode Link: https://allanime.to/watch/SERXBtRgFyER3LCSq/episode-2-sub
+Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-25-sub
  
 # Analytics
 
