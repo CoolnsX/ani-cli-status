@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Magical★Taruruuto kun Episode 15
+Episode Name: Dark Gathering Episode 1
 
-Episode Link: https://allanime.to/watch/yTszgTsufjJcz6AZc/episode-15-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-1-sub
  
 # Analytics
 
