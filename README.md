@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Level 1 dakedo Unique Skill de Saikyou desu Episode 1
+Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 14
 
-Episode Link: https://allanime.to/watch/mypjxAxRSp3NibNMy/episode-1-sub
+Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-14-sub
  
 # Analytics
 
