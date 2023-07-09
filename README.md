@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seija Musou Salaryman Isekai de Ikinokoru Tame ni Ayumu Michi Episode 1
+Episode Name: Dekiru Neko wa Kyou mo Yuuutsu Episode 1
 
-Episode Link: https://allanime.to/watch/iYwbaywiQ86vCc3cf/episode-1-sub
+Episode Link: https://allanime.to/watch/iwdYTD8AkMjawQXgY/episode-1-sub
  
 # Analytics
 
