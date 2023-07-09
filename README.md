@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1089
+Episode Name: Nanatsu no Maken ga Shihai suru Episode 1
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1089-sub
+Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-1-sub
  
 # Analytics
 
