@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 3
+Episode Name: Nanatsu no Maken ga Shihai suru Episode 1
 
-Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-3-sub
+Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-1-sub
  
 # Analytics
 
