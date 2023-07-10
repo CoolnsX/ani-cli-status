@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Zom 100 Zombie ni Naru made ni Shitai 100 no Koto Episode 1
+Episode Name: 1P Episode 1068
 
-Episode Link: https://allanime.to/watch/GoKAhRw3sy8vS3NB8/episode-1-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1068-sub
  
 # Analytics
 
