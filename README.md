@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cardfight Vanguard will Dress Season 3 Episode 1
+Episode Name: Uchi no Kaisha no Chiisai Senpai no Hanashi Episode 2
 
-Episode Link: https://allanime.to/watch/JS9XZz87T9a8ABhCw/episode-1-sub
+Episode Link: https://allanime.to/watch/T4M7inSSaC3R2ahPT/episode-2-sub
  
 # Analytics
 
