@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 2
+Episode Name: Hyakushou Kizoku Episode 1
 
-Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-2-sub
+Episode Link: https://allanime.to/watch/y9EHCDcAPCYSktPoY/episode-1-sub
  
 # Analytics
 
