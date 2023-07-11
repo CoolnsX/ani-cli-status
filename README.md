@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Inazuma Eleven Outer Code Episode 6
+Episode Name: Chocomatsu san Valentine s Day hen Episode 3
 
-Episode Link: https://allanime.to/watch/T3DgbMYzDta52Jkqp/episode-6-sub
+Episode Link: https://allanime.to/watch/Z9QqeyaTB5Zzo3tZY/episode-3-sub
  
 # Analytics
 
