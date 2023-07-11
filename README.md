@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eiyuu Kyoushitsu Episode 1
+Episode Name: Mononogatari Season 2 Episode 2
 
-Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-1-sub
+Episode Link: https://allanime.to/watch/LSoqxbhoRsLwgBWhF/episode-2-sub
  
 # Analytics
 
