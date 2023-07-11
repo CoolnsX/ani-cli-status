@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hyakushou Kizoku Episode 1
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 66
 
-Episode Link: https://allanime.to/watch/y9EHCDcAPCYSktPoY/episode-1-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-66-sub
  
 # Analytics
 
