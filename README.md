@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Level 1 dakedo Unique Skill de Saikyou desu Episode 1
+Episode Name: Hirogaru Sky Precure Episode 23
 
-Episode Link: https://allanime.to/watch/mypjxAxRSp3NibNMy/episode-1-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-23-sub
  
 # Analytics
 
