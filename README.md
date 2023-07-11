@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mononogatari Season 2 Episode 2
+Episode Name: Shadowverse Flame Episode 51
 
-Episode Link: https://allanime.to/watch/LSoqxbhoRsLwgBWhF/episode-2-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-51-sub
  
 # Analytics
 
