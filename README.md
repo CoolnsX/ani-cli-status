@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 1
+Episode Name: Jitsu wa Ore Saikyou deshita Episode 2
 
-Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-1-sub
+Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-2-sub
  
 # Analytics
 
