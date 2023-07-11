@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chocomatsu san Valentine s Day hen Episode 3
+Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 1
 
-Episode Link: https://allanime.to/watch/Z9QqeyaTB5Zzo3tZY/episode-3-sub
+Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-1-sub
  
 # Analytics
 
