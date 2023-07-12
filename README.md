@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Magical★Taruruuto kun Episode 15
+Episode Name: Boku to Roboko Episode 14
 
-Episode Link: https://allanime.to/watch/yTszgTsufjJcz6AZc/episode-15-sub
+Episode Link: https://allanime.to/watch/2jortz9G5aor2A5F7/episode-14-sub
  
 # Analytics
 
