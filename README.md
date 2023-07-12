@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boku to Roboko Episode 14
+Episode Name: Shadowverse Flame Seven Shadows hen Episode 1
 
-Episode Link: https://allanime.to/watch/2jortz9G5aor2A5F7/episode-14-sub
+Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-1-sub
  
 # Analytics
 
