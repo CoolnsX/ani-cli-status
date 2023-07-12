@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Magical Hat Episode 13
+Episode Name: Liar Liar Episode 2
 
-Episode Link: https://allanime.to/watch/PcwGeam6n37zsDya5/episode-13-sub
+Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-2-sub
  
 # Analytics
 
