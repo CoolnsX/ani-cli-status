@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eiyuu Kyoushitsu Episode 1
+Episode Name: Magical Hat Episode 13
 
-Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-1-sub
+Episode Link: https://allanime.to/watch/PcwGeam6n37zsDya5/episode-13-sub
  
 # Analytics
 
