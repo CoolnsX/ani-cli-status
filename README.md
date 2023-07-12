@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1068
+Episode Name: Lv1 Maou to One Room Yuusha Episode 2
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1068-sub
+Episode Link: https://allanime.to/watch/2rRgDwqDDgzgDuLwi/episode-2-sub
  
 # Analytics
 
