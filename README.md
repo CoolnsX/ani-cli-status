@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Liar Liar Episode 2
+Episode Name: Magical★Taruruuto kun Episode 15
 
-Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-2-sub
+Episode Link: https://allanime.to/watch/yTszgTsufjJcz6AZc/episode-15-sub
  
 # Analytics
 
