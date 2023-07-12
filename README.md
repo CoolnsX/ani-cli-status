@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chocomatsu san Valentine s Day hen Episode 3
+Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 2
 
-Episode Link: https://allanime.to/watch/Z9QqeyaTB5Zzo3tZY/episode-3-sub
+Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-2-sub
  
 # Analytics
 
