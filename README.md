@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ryza no Atelier Tokoyami no Joou to Himitsu no Kakurega Episode 2
+Episode Name: Eiyuu Kyoushitsu Episode 1
 
-Episode Link: https://allanime.to/watch/wQC2B9C2HFfGtnFZi/episode-2-sub
+Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-1-sub
  
 # Analytics
 
