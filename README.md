@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 2
+Episode Name: 1P Episode 1068
 
-Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-2-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1068-sub
  
 # Analytics
 
