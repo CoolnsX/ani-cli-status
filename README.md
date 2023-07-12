@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 1
+Episode Name: Hirogaru Sky Precure Episode 23
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-1-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-23-sub
  
 # Analytics
 
