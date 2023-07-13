@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Masamune kun no Revenge R Episode 2
+Episode Name: Inazuma Eleven Outer Code Episode 6
 
-Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-2-sub
+Episode Link: https://allanime.to/watch/T3DgbMYzDta52Jkqp/episode-6-sub
  
 # Analytics
 
