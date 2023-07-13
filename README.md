@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shiroi Suna no Aquatope Mini Episode 29
+Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 1
 
-Episode Link: https://allanime.to/watch/Y5Gj7X9A3Q5R3mr5T/episode-29-sub
+Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-1-sub
  
 # Analytics
 
