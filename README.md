@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Shiawase na Kekkon Episode 2
+Episode Name: 1P Episode 1068
 
-Episode Link: https://allanime.to/watch/ZjJrrmrMKbLgebWAL/episode-2-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1068-sub
  
 # Analytics
 
