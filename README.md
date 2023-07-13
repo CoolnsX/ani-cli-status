@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gun dou Musashi Episode 26
+Episode Name: Eiyuu Kyoushitsu Episode 1
 
-Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-26-sub
+Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-1-sub
  
 # Analytics
 
