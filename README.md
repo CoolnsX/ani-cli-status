@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Pokemon Ranger Hikari no Kiseki Episode 2
+Episode Name: Ninjala Episode 75
 
-Episode Link: https://allanime.to/watch/pGbfQFBRmrQ2sCdmD/episode-2-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-75-sub
  
 # Analytics
 
