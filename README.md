@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho Season 2 Episode 17
+Episode Name: Synduality Noir Episode 1
 
-Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-17-sub
+Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-1-sub
  
 # Analytics
 
