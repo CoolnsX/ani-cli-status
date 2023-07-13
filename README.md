@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mononogatari Season 2 Episode 2
+Episode Name: Pokemon Ranger Hikari no Kiseki Episode 2
 
-Episode Link: https://allanime.to/watch/LSoqxbhoRsLwgBWhF/episode-2-sub
+Episode Link: https://allanime.to/watch/pGbfQFBRmrQ2sCdmD/episode-2-sub
  
 # Analytics
 
