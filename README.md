@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Episode 2
+Episode Name: Masamune kun no Revenge R Episode 2
 
-Episode Link: https://allanime.to/watch/mDmehMNfd4nTP9FKC/episode-2-sub
+Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-2-sub
  
 # Analytics
 
