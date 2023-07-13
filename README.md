@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shuumatsu no Walküre II Part 2 Episode 5
+Episode Name: Pokemon Ranger Hikari no Kiseki Episode 2
 
-Episode Link: https://allanime.to/watch/H9WTvp5toTicteSxR/episode-5-sub
+Episode Link: https://allanime.to/watch/pGbfQFBRmrQ2sCdmD/episode-2-sub
  
 # Analytics
 
