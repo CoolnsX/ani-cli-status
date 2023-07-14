@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Okashi na Tensei Episode 3
+Episode Name: Shuumatsu no Walküre II Part 2 Episode 5
 
-Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-3-sub
+Episode Link: https://allanime.to/watch/H9WTvp5toTicteSxR/episode-5-sub
  
 # Analytics
 
