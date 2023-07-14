@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Suki na Ko ga Megane wo Wasureta Episode 2
+Episode Name: Dr Slump Arale chan Episode 141
 
-Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-2-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-141-sub
  
 # Analytics
 
