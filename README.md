@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tonikaku Kawaii Joshikou hen Episode 1
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 1
 
-Episode Link: https://allanime.to/watch/qZ7Dyi5onxkkXSt8w/episode-1-sub
+Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-1-sub
  
 # Analytics
 
