@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Lv1 Maou to One Room Yuusha Episode 2
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 17
 
-Episode Link: https://allanime.to/watch/2rRgDwqDDgzgDuLwi/episode-2-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-17-sub
  
 # Analytics
 
