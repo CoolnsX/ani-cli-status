@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BanG Dream It s MyGO Episode 5
+Episode Name: Synduality Noir Episode 1
 
-Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-5-sub
+Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-1-sub
  
 # Analytics
 
