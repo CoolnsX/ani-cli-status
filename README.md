@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 1
+Episode Name: Seija Musou Salaryman Isekai de Ikinokoru Tame ni Ayumu Michi Episode 2
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-1-sub
+Episode Link: https://allanime.to/watch/iYwbaywiQ86vCc3cf/episode-2-sub
  
 # Analytics
 
