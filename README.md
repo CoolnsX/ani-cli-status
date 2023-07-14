@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seija Musou Salaryman Isekai de Ikinokoru Tame ni Ayumu Michi Episode 2
+Episode Name: Bungou Stray Dogs Season 5 Episode 1
 
-Episode Link: https://allanime.to/watch/iYwbaywiQ86vCc3cf/episode-2-sub
+Episode Link: https://allanime.to/watch/JgfRwcQP9FH3n9G8D/episode-1-sub
  
 # Analytics
 
