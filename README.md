@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Inazuma Eleven Outer Code Episode 6
+Episode Name: Pokemon Ranger Hikari no Kiseki Episode 2
 
-Episode Link: https://allanime.to/watch/T3DgbMYzDta52Jkqp/episode-6-sub
+Episode Link: https://allanime.to/watch/pGbfQFBRmrQ2sCdmD/episode-2-sub
  
 # Analytics
 
