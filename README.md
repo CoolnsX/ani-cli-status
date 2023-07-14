@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 76
+Episode Name: Lv1 Maou to One Room Yuusha Episode 2
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-76-sub
+Episode Link: https://allanime.to/watch/2rRgDwqDDgzgDuLwi/episode-2-sub
  
 # Analytics
 
