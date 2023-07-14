@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Pokemon Ranger Hikari no Kiseki Episode 2
+Episode Name: BanG Dream It s MyGO Episode 5
 
-Episode Link: https://allanime.to/watch/pGbfQFBRmrQ2sCdmD/episode-2-sub
+Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-5-sub
  
 # Analytics
 
