@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shuumatsu no Walküre II Part 2 Episode 5
+Episode Name: Ninjala Episode 76
 
-Episode Link: https://allanime.to/watch/H9WTvp5toTicteSxR/episode-5-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-76-sub
  
 # Analytics
 
