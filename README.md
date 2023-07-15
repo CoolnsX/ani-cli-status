@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Maken ga Shihai suru Episode 2
+Episode Name: Niehime to Kemono no Ou Episode 13
 
-Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-2-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-13-sub
  
 # Analytics
 
