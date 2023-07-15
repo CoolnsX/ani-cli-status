@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 2
+Episode Name: Nanatsu no Maken ga Shihai suru Episode 2
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-2-sub
+Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-2-sub
  
 # Analytics
 
