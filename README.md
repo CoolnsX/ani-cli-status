@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo Okarishimasu Season 3 Episode 2
+Episode Name: Spy Kyoushitsu Season 2 Episode 1
 
-Episode Link: https://allanime.to/watch/Z4HXM5cXSxnvNkm8N/episode-2-sub
+Episode Link: https://allanime.to/watch/Xaoi34yrDW4cA5zq4/episode-1-sub
  
 # Analytics
 
