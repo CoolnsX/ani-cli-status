@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hataraku Maou sama Season 2 Episode 1
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 2
 
-Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-1-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-2-sub
  
 # Analytics
 
