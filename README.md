@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gun dou Musashi Episode 26
+Episode Name: Dr Slump Arale chan Episode 141
 
-Episode Link: https://allanime.to/watch/wEc2ZXcwzbKxtQX43/episode-26-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-141-sub
  
 # Analytics
 
