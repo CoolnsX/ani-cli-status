@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Suki na Ko ga Megane wo Wasureta Episode 2
+Episode Name: Shuumatsu no Walküre II Part 2 Episode 5
 
-Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-2-sub
+Episode Link: https://allanime.to/watch/H9WTvp5toTicteSxR/episode-5-sub
  
 # Analytics
 
