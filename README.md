@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 13
+Episode Name: Watashi no Shiawase na Kekkon Episode 2
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-13-sub
+Episode Link: https://allanime.to/watch/ZjJrrmrMKbLgebWAL/episode-2-sub
  
 # Analytics
 
