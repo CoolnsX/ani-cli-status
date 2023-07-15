@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sugar Apple Fairy Tale Part 2 Episode 2
+Episode Name: AI no Idenshi Episode 2
 
-Episode Link: https://allanime.to/watch/KnoD88GBqQmvDfcpn/episode-2-sub
+Episode Link: https://allanime.to/watch/7MkaaxjNqgpDZF54X/episode-2-sub
  
 # Analytics
 
