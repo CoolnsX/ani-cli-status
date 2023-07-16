@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 76
+Episode Name: Level 1 dakedo Unique Skill de Saikyou desu Episode 2
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-76-sub
+Episode Link: https://allanime.to/watch/mypjxAxRSp3NibNMy/episode-2-sub
  
 # Analytics
 
