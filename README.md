@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Temple Episode 2
+Episode Name: BanG Dream It s MyGO Episode 5
 
-Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-2-sub
+Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-5-sub
  
 # Analytics
 
