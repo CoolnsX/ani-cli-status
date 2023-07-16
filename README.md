@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Love Live Nijigasaki Gakuen School Idol Doukoukai Next Sky Episode 1
+Episode Name: Dr Slump Arale chan Episode 141
 
-Episode Link: https://allanime.to/watch/or7jDrPLeLZuZK78m/episode-1-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-141-sub
  
 # Analytics
 
