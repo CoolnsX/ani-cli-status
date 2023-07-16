@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Growlanser IV Wayfarer of the Time Episode 1
+Episode Name: Sayonara Zetsubou Sensei Jo Zetsubou Shoujo Senshuu Episode 1
 
-Episode Link: https://allanime.to/watch/AQ2989Angc7QKhNwi/episode-1-sub
+Episode Link: https://allanime.to/watch/SC6AYzEiuHeobi3s7/episode-1-sub
  
 # Analytics
 
