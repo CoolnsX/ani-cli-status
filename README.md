@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 141
+Episode Name: Jitsu wa Ore Saikyou deshita Episode 3
 
-Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-141-sub
+Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-3-sub
  
 # Analytics
 
