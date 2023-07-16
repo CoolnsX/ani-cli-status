@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Love Live Nijigasaki Gakuen School Idol Doukoukai Next Sky Episode 1
+Episode Name: Hyakushou Kizoku Episode 2
 
-Episode Link: https://allanime.to/watch/or7jDrPLeLZuZK78m/episode-1-sub
+Episode Link: https://allanime.to/watch/y9EHCDcAPCYSktPoY/episode-2-sub
  
 # Analytics
 
