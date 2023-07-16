@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Saint Elmo Hikari no Raihousha Episode 1
+Episode Name: Ninjala Episode 76
 
-Episode Link: https://allanime.to/watch/QA9shqvm5eLaxwG72/episode-1-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-76-sub
  
 # Analytics
 
