@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hyakushou Kizoku Episode 2
+Episode Name: Shadowverse Flame Episode 52
 
-Episode Link: https://allanime.to/watch/y9EHCDcAPCYSktPoY/episode-2-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-52-sub
  
 # Analytics
 
