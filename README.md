@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 2
+Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 15
 
-Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-2-sub
+Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-15-sub
  
 # Analytics
 
