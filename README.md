@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Temple Episode 2
+Episode Name: Bleach Sennen Kessen hen Ketsubetsu tan Episode 2
 
-Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-2-sub
+Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-2-sub
  
 # Analytics
 
