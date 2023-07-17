@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Youkai Watch Jam Youkai Gakuen Y N to no Souguu Episode 63
+Episode Name: Zom 100 Zombie ni Naru made ni Shitai 100 no Koto Episode 2
 
-Episode Link: https://allanime.to/watch/Hx4BKAwidpRq4R4ps/episode-63-sub
+Episode Link: https://allanime.to/watch/GoKAhRw3sy8vS3NB8/episode-2-sub
  
 # Analytics
 
