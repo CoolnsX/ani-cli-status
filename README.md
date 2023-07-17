@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jitsu wa Ore Saikyou deshita Episode 3
+Episode Name: Temple Episode 2
 
-Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-3-sub
+Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-2-sub
  
 # Analytics
 
