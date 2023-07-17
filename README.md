@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 2
+Episode Name: Ayaka Episode 3
 
-Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-2-sub
+Episode Link: https://allanime.to/watch/SERXBtRgFyER3LCSq/episode-3-sub
  
 # Analytics
 
