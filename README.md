@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sayonara Zetsubou Sensei Jo Zoku Zetsubou Shoujo Senshuu Episode 1
+Episode Name: Shadowverse Flame Episode 52
 
-Episode Link: https://allanime.to/watch/F5WyqPaFyAQ3ywbDE/episode-1-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-52-sub
  
 # Analytics
 
