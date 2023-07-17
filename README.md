@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Saint Elmo Hikari no Raihousha Episode 1
+Episode Name: Youkai Watch Jam Youkai Gakuen Y N to no Souguu Episode 63
 
-Episode Link: https://allanime.to/watch/QA9shqvm5eLaxwG72/episode-1-sub
+Episode Link: https://allanime.to/watch/Hx4BKAwidpRq4R4ps/episode-63-sub
  
 # Analytics
 
