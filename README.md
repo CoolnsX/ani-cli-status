@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cardfight Vanguard will Dress Season 3 Episode 2
+Episode Name: Dekiru Neko wa Kyou mo Yuuutsu Episode 2
 
-Episode Link: https://allanime.to/watch/JS9XZz87T9a8ABhCw/episode-2-sub
+Episode Link: https://allanime.to/watch/iwdYTD8AkMjawQXgY/episode-2-sub
  
 # Analytics
 
