@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ayaka Episode 3
+Episode Name: Youkai Watch Jam Youkai Gakuen Y N to no Souguu Episode 63
 
-Episode Link: https://allanime.to/watch/SERXBtRgFyER3LCSq/episode-3-sub
+Episode Link: https://allanime.to/watch/Hx4BKAwidpRq4R4ps/episode-63-sub
  
 # Analytics
 
