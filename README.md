@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 15
+Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 4
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-15-sub
+Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-4-sub
  
 # Analytics
 
