@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 15
+Episode Name: Yami Shibai 11 Episode 2
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-15-sub
+Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-2-sub
  
 # Analytics
 
