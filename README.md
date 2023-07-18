@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 11 Episode 2
+Episode Name: 1P Episode 1069
 
-Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-2-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1069-sub
  
 # Analytics
 
