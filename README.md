@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jitsu wa Ore Saikyou deshita Episode 3
+Episode Name: Ao no Orchestra Episode 15
 
-Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-3-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-15-sub
  
 # Analytics
 
