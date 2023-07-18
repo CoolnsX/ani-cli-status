@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 2
+Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 2
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-2-sub
+Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-2-sub
  
 # Analytics
 
