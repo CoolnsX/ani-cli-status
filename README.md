@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Liar Liar Episode 3
+Episode Name: Ao no Orchestra Episode 15
 
-Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-3-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-15-sub
  
 # Analytics
 
