@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bleach Sennen Kessen hen Ketsubetsu tan Episode 2
+Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 4
 
-Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-2-sub
+Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-4-sub
  
 # Analytics
 
