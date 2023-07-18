@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 15
+Episode Name: Eiyuu Kyoushitsu Episode 2
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-15-sub
+Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-2-sub
  
 # Analytics
 
