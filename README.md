@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kinnikuman Episode 119
+Episode Name: Temple Episode 2
 
-Episode Link: https://allanime.to/watch/pNi8AYhvc7Tp5JayR/episode-119-sub
+Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-2-sub
  
 # Analytics
 
