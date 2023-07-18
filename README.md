@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Okashi na Tensei Episode 4
+Episode Name: Tousouchuu Great Mission Episode 15
 
-Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-4-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-15-sub
  
 # Analytics
 
