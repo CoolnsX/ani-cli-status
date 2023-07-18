@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Kabocha Wine Episode 38
+Episode Name: Jitsu wa Ore Saikyou deshita Episode 3
 
-Episode Link: https://allanime.to/watch/366khzcCCjML8b96u/episode-38-sub
+Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-3-sub
  
 # Analytics
 
