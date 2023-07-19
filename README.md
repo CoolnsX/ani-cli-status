@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 3
+Episode Name: Horimiya Piece Episode 3
 
-Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-3-sub
+Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-3-sub
  
 # Analytics
 
