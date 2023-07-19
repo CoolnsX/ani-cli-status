@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Temple Episode 2
+Episode Name: Zom 100 Zombie ni Naru made ni Shitai 100 no Koto Episode 2
 
-Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-2-sub
+Episode Link: https://allanime.to/watch/GoKAhRw3sy8vS3NB8/episode-2-sub
  
 # Analytics
 
