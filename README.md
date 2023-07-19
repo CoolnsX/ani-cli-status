@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Patalliro Episode 47
+Episode Name: Okashi na Tensei Episode 4
 
-Episode Link: https://allanime.to/watch/nZ5SPif9PmZfWd46A/episode-47-sub
+Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-4-sub
  
 # Analytics
 
