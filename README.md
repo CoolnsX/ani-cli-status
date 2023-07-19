@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Growlanser IV Wayfarer of the Time Episode 1
+Episode Name: Okashi na Tensei Episode 4
 
-Episode Link: https://allanime.to/watch/AQ2989Angc7QKhNwi/episode-1-sub
+Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-4-sub
  
 # Analytics
 
