@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Synduality Noir Episode 2
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 2
 
-Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-2-sub
+Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-2-sub
  
 # Analytics
 
