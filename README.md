@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 2
+Episode Name: Patalliro Episode 47
 
-Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-2-sub
+Episode Link: https://allanime.to/watch/nZ5SPif9PmZfWd46A/episode-47-sub
  
 # Analytics
 
