@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bungou Stray Dogs Season 5 Episode 2
+Episode Name: Hataraku Maou sama Season 2 Episode 2
 
-Episode Link: https://allanime.to/watch/JgfRwcQP9FH3n9G8D/episode-2-sub
+Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-2-sub
  
 # Analytics
 
