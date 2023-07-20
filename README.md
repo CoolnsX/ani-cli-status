@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boku to Roboko Episode 21
+Episode Name: Tousouchuu Great Mission Episode 15
 
-Episode Link: https://allanime.to/watch/2jortz9G5aor2A5F7/episode-21-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-15-sub
  
 # Analytics
 
