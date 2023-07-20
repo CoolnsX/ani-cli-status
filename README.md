@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Growlanser IV Wayfarer of the Time Episode 1
+Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 4
 
-Episode Link: https://allanime.to/watch/AQ2989Angc7QKhNwi/episode-1-sub
+Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-4-sub
  
 # Analytics
 
