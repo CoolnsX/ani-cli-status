@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hataraku Maou sama Season 2 Episode 2
+Episode Name: Jarinko Chie TV Episode 9
 
-Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-2-sub
+Episode Link: https://allanime.to/watch/mSxuech6C2kxLs5hy/episode-9-sub
  
 # Analytics
 
