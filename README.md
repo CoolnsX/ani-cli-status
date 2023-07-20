@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mewkledreamy Mix Episode 19
+Episode Name: Suki na Ko ga Megane wo Wasureta Episode 3
 
-Episode Link: https://allanime.to/watch/hiRpBoKJ49XD7inW5/episode-19-sub
+Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-3-sub
  
 # Analytics
 
