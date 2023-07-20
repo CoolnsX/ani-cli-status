@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jarinko Chie TV Episode 9
+Episode Name: Mewkledreamy Mix Episode 19
 
-Episode Link: https://allanime.to/watch/mSxuech6C2kxLs5hy/episode-9-sub
+Episode Link: https://allanime.to/watch/hiRpBoKJ49XD7inW5/episode-19-sub
  
 # Analytics
 
