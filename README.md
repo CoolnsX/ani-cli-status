@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kinnikuman Episode 119
+Episode Name: Growlanser IV Wayfarer of the Time Episode 1
 
-Episode Link: https://allanime.to/watch/pNi8AYhvc7Tp5JayR/episode-119-sub
+Episode Link: https://allanime.to/watch/AQ2989Angc7QKhNwi/episode-1-sub
  
 # Analytics
 
