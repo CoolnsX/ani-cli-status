@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kinnikuman Episode 119
+Episode Name: Boku to Roboko Episode 21
 
-Episode Link: https://allanime.to/watch/pNi8AYhvc7Tp5JayR/episode-119-sub
+Episode Link: https://allanime.to/watch/2jortz9G5aor2A5F7/episode-21-sub
  
 # Analytics
 
