@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 11 Episode 2
+Episode Name: Uchi no Kaisha no Chiisai Senpai no Hanashi Episode 3
 
-Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-2-sub
+Episode Link: https://allanime.to/watch/T4M7inSSaC3R2ahPT/episode-3-sub
  
 # Analytics
 
