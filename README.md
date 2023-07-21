@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seija Musou Salaryman Isekai de Ikinokoru Tame ni Ayumu Michi Episode 3
+Episode Name: Spy Kyoushitsu Season 2 Episode 2
 
-Episode Link: https://allanime.to/watch/iYwbaywiQ86vCc3cf/episode-3-sub
+Episode Link: https://allanime.to/watch/Xaoi34yrDW4cA5zq4/episode-2-sub
  
 # Analytics
 
