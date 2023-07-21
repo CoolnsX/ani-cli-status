@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sugar Apple Fairy Tale Part 2 Episode 3
+Episode Name: Kinnikuman Episode 119
 
-Episode Link: https://allanime.to/watch/KnoD88GBqQmvDfcpn/episode-3-sub
+Episode Link: https://allanime.to/watch/pNi8AYhvc7Tp5JayR/episode-119-sub
  
 # Analytics
 
