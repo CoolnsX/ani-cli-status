@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Undead Girl Murder Farce Episode 3
+Episode Name: Seija Musou Salaryman Isekai de Ikinokoru Tame ni Ayumu Michi Episode 3
 
-Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-3-sub
+Episode Link: https://allanime.to/watch/iYwbaywiQ86vCc3cf/episode-3-sub
  
 # Analytics
 
