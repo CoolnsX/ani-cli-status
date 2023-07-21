@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Suki na Ko ga Megane wo Wasureta Episode 3
+Episode Name: Fight Da Pyuta Episode 1
 
-Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-3-sub
+Episode Link: https://allanime.to/watch/323MysWjiWKRZ2XsB/episode-1-sub
  
 # Analytics
 
