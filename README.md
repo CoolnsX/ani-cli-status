@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Fight Da Pyuta Episode 1
+Episode Name: Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu Episode 3
 
-Episode Link: https://allanime.to/watch/323MysWjiWKRZ2XsB/episode-1-sub
+Episode Link: https://allanime.to/watch/3wRbRvqdfHBxxmarg/episode-3-sub
  
 # Analytics
 
