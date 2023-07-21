@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Kabocha Wine Episode 38
+Episode Name: Lv1 Maou to One Room Yuusha Episode 3
 
-Episode Link: https://allanime.to/watch/366khzcCCjML8b96u/episode-38-sub
+Episode Link: https://allanime.to/watch/2rRgDwqDDgzgDuLwi/episode-3-sub
  
 # Analytics
 
