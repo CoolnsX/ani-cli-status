@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yume no Crayon Oukoku Episode 66
+Episode Name: Spy Kyoushitsu Season 2 Episode 2
 
-Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-66-sub
+Episode Link: https://allanime.to/watch/Xaoi34yrDW4cA5zq4/episode-2-sub
  
 # Analytics
 
