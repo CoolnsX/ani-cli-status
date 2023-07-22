@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nekketsu Tantei Jimusho Episode 5
+Episode Name: Synduality Noir Episode 2
 
-Episode Link: https://allanime.to/watch/2xT8sPzoMbQu95zB2/episode-5-sub
+Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-2-sub
  
 # Analytics
 
