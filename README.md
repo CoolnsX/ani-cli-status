@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 15
+Episode Name: Jujutsu Kaisen 2nd Season Episode 3
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-15-sub
+Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-3-sub
  
 # Analytics
 
