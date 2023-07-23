@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 3
+Episode Name: Galactic Patrol Lensman Episode 23
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-3-sub
+Episode Link: https://allanime.to/watch/Dd9FZPe7Y9ENzstEF/episode-23-sub
  
 # Analytics
 
