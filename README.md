@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 3
+Episode Name: Utawarerumono Specials Episode 4
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-3-sub
+Episode Link: https://allanime.to/watch/scjgbRNykfG25itE5/episode-4-sub
  
 # Analytics
 
