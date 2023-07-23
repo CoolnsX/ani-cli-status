@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 67
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 3
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-67-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-3-sub
  
 # Analytics
 
