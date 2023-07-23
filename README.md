@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Zoids Wild Episode 50
+Episode Name: Galactic Patrol Lensman Episode 23
 
-Episode Link: https://allanime.to/watch/T2vqo68LRAjex7YQa/episode-50-sub
+Episode Link: https://allanime.to/watch/Dd9FZPe7Y9ENzstEF/episode-23-sub
  
 # Analytics
 
