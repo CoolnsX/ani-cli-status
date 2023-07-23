@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Horimiya Piece Episode 4
+Episode Name: BanG Dream It s MyGO Episode 6
 
-Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-4-sub
+Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-6-sub
  
 # Analytics
 
