@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Galactic Patrol Lensman Episode 23
+Episode Name: Eiyuu Kyoushitsu Episode 3
 
-Episode Link: https://allanime.to/watch/Dd9FZPe7Y9ENzstEF/episode-23-sub
+Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-3-sub
  
 # Analytics
 
