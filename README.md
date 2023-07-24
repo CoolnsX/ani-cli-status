@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: NieR Automata Ver1 1a Episode 12
+Episode Name: Detective Conan TV Episode 1091
 
-Episode Link: https://allanime.to/watch/vDLei4TQt8Xins5bh/episode-12-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1091-sub
  
 # Analytics
 
