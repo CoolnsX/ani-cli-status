@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 16
+Episode Name: Dekiru Neko wa Kyou mo Yuuutsu Episode 3
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-16-sub
+Episode Link: https://allanime.to/watch/iwdYTD8AkMjawQXgY/episode-3-sub
  
 # Analytics
 
