@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: NieR Automata Ver1 1a Episode 12
+Episode Name: Level 1 dakedo Unique Skill de Saikyou desu Episode 3
 
-Episode Link: https://allanime.to/watch/vDLei4TQt8Xins5bh/episode-12-sub
+Episode Link: https://allanime.to/watch/mypjxAxRSp3NibNMy/episode-3-sub
  
 # Analytics
 
