@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 3
+Episode Name: Mahou no Angel Sweet Mint Episode 19
 
-Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-3-sub
+Episode Link: https://allanime.to/watch/7nx7xpGty3vpCY4w4/episode-19-sub
  
 # Analytics
 
