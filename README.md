@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BanG Dream It s MyGO Episode 6
+Episode Name: Shadowverse Flame Episode 53
 
-Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-6-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-53-sub
  
 # Analytics
 
