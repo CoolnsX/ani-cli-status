@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 53
+Episode Name: Sugar Apple Fairy Tale Part 2 Episode 3
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-53-sub
+Episode Link: https://allanime.to/watch/KnoD88GBqQmvDfcpn/episode-3-sub
  
 # Analytics
 
