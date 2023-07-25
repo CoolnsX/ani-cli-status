@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1091
+Episode Name: Ryza no Atelier Tokoyami no Joou to Himitsu no Kakurega Episode 4
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1091-sub
+Episode Link: https://allanime.to/watch/wQC2B9C2HFfGtnFZi/episode-4-sub
  
 # Analytics
 
