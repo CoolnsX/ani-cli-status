@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bleach Sennen Kessen hen Ketsubetsu tan Episode 3
+Episode Name: Edens Zero Season 2 Episode 17
 
-Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-3-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-17-sub
  
 # Analytics
 
