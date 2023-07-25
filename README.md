@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 5
+Episode Name: Yami Shibai 11 Episode 3
 
-Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-5-sub
+Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-3-sub
  
 # Analytics
 
