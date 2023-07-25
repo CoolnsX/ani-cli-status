@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 142
+Episode Name: Ayaka Episode 4
 
-Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-142-sub
+Episode Link: https://allanime.to/watch/SERXBtRgFyER3LCSq/episode-4-sub
  
 # Analytics
 
