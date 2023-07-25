@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 11 Episode 3
+Episode Name: Ryza no Atelier Tokoyami no Joou to Himitsu no Kakurega Episode 4
 
-Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-3-sub
+Episode Link: https://allanime.to/watch/wQC2B9C2HFfGtnFZi/episode-4-sub
  
 # Analytics
 
