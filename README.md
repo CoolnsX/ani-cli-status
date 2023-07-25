@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Okashi na Tensei Episode 5
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 3
 
-Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-5-sub
+Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-3-sub
  
 # Analytics
 
