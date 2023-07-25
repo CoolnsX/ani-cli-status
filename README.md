@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 53
+Episode Name: Yami Shibai 11 Episode 3
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-53-sub
+Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-3-sub
  
 # Analytics
 
