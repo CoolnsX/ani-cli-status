@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Zoids Wild Episode 50
+Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 4
 
-Episode Link: https://allanime.to/watch/T2vqo68LRAjex7YQa/episode-50-sub
+Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-4-sub
  
 # Analytics
 
