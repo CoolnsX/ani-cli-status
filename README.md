@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 108
+Episode Name: Synduality Noir Episode 3
 
-Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-108-sub
+Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-3-sub
  
 # Analytics
 
