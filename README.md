@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Suki na Ko ga Megane wo Wasureta Episode 4
+Episode Name: Zoids Wild Episode 50
 
-Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-4-sub
+Episode Link: https://allanime.to/watch/T2vqo68LRAjex7YQa/episode-50-sub
  
 # Analytics
 
