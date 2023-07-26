@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ayaka Episode 4
+Episode Name: Hirogaru Sky Precure Episode 25
 
-Episode Link: https://allanime.to/watch/SERXBtRgFyER3LCSq/episode-4-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-25-sub
  
 # Analytics
 
