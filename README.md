@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 50
+Episode Name: Watashi no Shiawase na Kekkon Episode 4
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-50-sub
+Episode Link: https://allanime.to/watch/ZjJrrmrMKbLgebWAL/episode-4-sub
  
 # Analytics
 
