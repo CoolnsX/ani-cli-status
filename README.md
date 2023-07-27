@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hyakushou Kizoku Episode 3
+Episode Name: Boku to Roboko Episode 28
 
-Episode Link: https://allanime.to/watch/y9EHCDcAPCYSktPoY/episode-3-sub
+Episode Link: https://allanime.to/watch/2jortz9G5aor2A5F7/episode-28-sub
  
 # Analytics
 
