@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boku to Roboko Episode 28
+Episode Name: Shiro Seijo to Kuro Bokushi Episode 3
 
-Episode Link: https://allanime.to/watch/2jortz9G5aor2A5F7/episode-28-sub
+Episode Link: https://allanime.to/watch/DLGf3rD7huzx25mSJ/episode-3-sub
  
 # Analytics
 
