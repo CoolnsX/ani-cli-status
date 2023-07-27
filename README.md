@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Synduality Noir Episode 3
+Episode Name: Masamune kun no Revenge R Episode 4
 
-Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-3-sub
+Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-4-sub
  
 # Analytics
 
