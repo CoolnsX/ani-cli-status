@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: NieR Automata Ver1 1a Episode 12
+Episode Name: Youkai Watch Episode 36
 
-Episode Link: https://allanime.to/watch/vDLei4TQt8Xins5bh/episode-12-sub
+Episode Link: https://allanime.to/watch/M8S2JHinfs3H7vrH8/episode-36-sub
  
 # Analytics
 
