@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Youkai Watch Episode 36
+Episode Name: Hyakushou Kizoku Episode 3
 
-Episode Link: https://allanime.to/watch/M8S2JHinfs3H7vrH8/episode-36-sub
+Episode Link: https://allanime.to/watch/y9EHCDcAPCYSktPoY/episode-3-sub
  
 # Analytics
 
