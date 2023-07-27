@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jujutsu Kaisen 2nd Season Episode 4
+Episode Name: Chiikawa Episode 50
 
-Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-4-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-50-sub
  
 # Analytics
 
