@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 3
+Episode Name: Jujutsu Kaisen 2nd Season Episode 4
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-3-sub
+Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-4-sub
  
 # Analytics
 
