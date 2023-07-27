@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Shiawase na Kekkon Episode 4
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 4
 
-Episode Link: https://allanime.to/watch/ZjJrrmrMKbLgebWAL/episode-4-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-4-sub
  
 # Analytics
 
