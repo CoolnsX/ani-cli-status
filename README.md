@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Suki na Ko ga Megane wo Wasureta Episode 4
+Episode Name: Youkai Watch Episode 36
 
-Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-4-sub
+Episode Link: https://allanime.to/watch/M8S2JHinfs3H7vrH8/episode-36-sub
  
 # Analytics
 
