@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Musha Knight Commando SD Gundam Scramble Episode 2
+Episode Name: Hanma Baki 2nd Season Episode 13
 
-Episode Link: https://allanime.to/watch/T8QwNxDM6uEk7fJHf/episode-2-sub
+Episode Link: https://allanime.to/watch/defW5fG67T8fHBKi8/episode-13-sub
  
 # Analytics
 
