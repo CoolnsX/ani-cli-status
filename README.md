@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hanma Baki 2nd Season Episode 13
+Episode Name: Hataraku Maou sama Season 2 Episode 3
 
-Episode Link: https://allanime.to/watch/defW5fG67T8fHBKi8/episode-13-sub
+Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-3-sub
  
 # Analytics
 
