@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Episode 4
+Episode Name: BanG Dream It s MyGO Episode 7
 
-Episode Link: https://allanime.to/watch/mDmehMNfd4nTP9FKC/episode-4-sub
+Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-7-sub
  
 # Analytics
 
