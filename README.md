@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Musha Knight Commando SD Gundam Scramble Episode 2
+Episode Name: Undead Girl Murder Farce Episode 4
 
-Episode Link: https://allanime.to/watch/T8QwNxDM6uEk7fJHf/episode-2-sub
+Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-4-sub
  
 # Analytics
 
