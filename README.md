@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 68
+Episode Name: Niehime to Kemono no Ou Episode 15
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-68-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-15-sub
  
 # Analytics
 
