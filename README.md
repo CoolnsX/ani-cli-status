@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 15
+Episode Name: Suki na Ko ga Megane wo Wasureta Episode 4
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-15-sub
+Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-4-sub
  
 # Analytics
 
