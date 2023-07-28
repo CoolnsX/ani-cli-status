@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Suki na Ko ga Megane wo Wasureta Episode 4
+Episode Name: Dekiru Neko wa Kyou mo Yuuutsu Episode 4
 
-Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-4-sub
+Episode Link: https://allanime.to/watch/iwdYTD8AkMjawQXgY/episode-4-sub
  
 # Analytics
 
