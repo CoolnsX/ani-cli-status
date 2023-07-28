@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tenchi Muyou GXP Paradise Shidou hen Episode 3
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 68
 
-Episode Link: https://allanime.to/watch/DvKvm2E372X26QaqZ/episode-3-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-68-sub
  
 # Analytics
 
