@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hataraku Maou sama Season 2 Episode 3
+Episode Name: Watashi no Shiawase na Kekkon Episode 4
 
-Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-3-sub
+Episode Link: https://allanime.to/watch/ZjJrrmrMKbLgebWAL/episode-4-sub
  
 # Analytics
 
