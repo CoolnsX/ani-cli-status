@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1092
+Episode Name: Hataraku Maou sama Season 2 Episode 3
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1092-sub
+Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-3-sub
  
 # Analytics
 
