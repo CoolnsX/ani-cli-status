@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 78
+Episode Name: Shadowverse Flame Seven Shadows hen Episode 4
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-78-sub
+Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-4-sub
  
 # Analytics
 
