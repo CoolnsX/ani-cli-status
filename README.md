@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seija Musou Salaryman Isekai de Ikinokoru Tame ni Ayumu Michi Episode 4
+Episode Name: Niehime to Kemono no Ou Episode 15
 
-Episode Link: https://allanime.to/watch/iYwbaywiQ86vCc3cf/episode-4-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-15-sub
  
 # Analytics
 
