@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Araiguma Rascal Episode 41
+Episode Name: Niehime to Kemono no Ou Episode 15
 
-Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-41-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-15-sub
  
 # Analytics
 
