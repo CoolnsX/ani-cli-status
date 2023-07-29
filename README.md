@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 15
+Episode Name: BanG Dream It s MyGO Episode 7
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-15-sub
+Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-7-sub
  
 # Analytics
 
