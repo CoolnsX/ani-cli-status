@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jujutsu Kaisen 2nd Season Episode 4
+Episode Name: Yume no Crayon Oukoku Episode 70
 
-Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-4-sub
+Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-70-sub
  
 # Analytics
 
