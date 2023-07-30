@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yume no Crayon Oukoku Episode 70
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 4
 
-Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-70-sub
+Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-4-sub
  
 # Analytics
 
