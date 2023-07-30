@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yume no Crayon Oukoku Episode 70
+Episode Name: Chiikawa Episode 50
 
-Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-70-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-50-sub
  
 # Analytics
 
