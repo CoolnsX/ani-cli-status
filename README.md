@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 50
+Episode Name: Hirogaru Sky Precure Episode 26
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-50-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-26-sub
  
 # Analytics
 
