@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hataraku Maou sama Season 2 Episode 3
+Episode Name: Boku wa Konomama Kaeranai Episode 1
 
-Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-3-sub
+Episode Link: https://allanime.to/watch/t92ioBes4maJ7cwZZ/episode-1-sub
  
 # Analytics
 
