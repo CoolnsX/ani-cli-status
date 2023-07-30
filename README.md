@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 4
+Episode Name: Zutto Mae kara Suki deshita Kokuhaku Jikkou Iinkai Kinyoubi no Ohayou Episode 1
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-4-sub
+Episode Link: https://allanime.to/watch/TPowqZftudMAzG7az/episode-1-sub
  
 # Analytics
 
