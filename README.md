@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 26
+Episode Name: Hataraku Maou sama Season 2 Episode 3
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-26-sub
+Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-3-sub
  
 # Analytics
 
