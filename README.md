@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tenchi Muyou GXP Paradise Shidou hen Episode 3
+Episode Name: Bleach Sennen Kessen hen Ketsubetsu tan Episode 4
 
-Episode Link: https://allanime.to/watch/DvKvm2E372X26QaqZ/episode-3-sub
+Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-4-sub
  
 # Analytics
 
