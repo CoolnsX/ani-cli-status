@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 4
+Episode Name: Level 1 dakedo Unique Skill de Saikyou desu Episode 4
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-4-sub
+Episode Link: https://allanime.to/watch/mypjxAxRSp3NibNMy/episode-4-sub
  
 # Analytics
 
