@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Level 1 dakedo Unique Skill de Saikyou desu Episode 4
+Episode Name: Yume Senshi Wingman Episode 20
 
-Episode Link: https://allanime.to/watch/mypjxAxRSp3NibNMy/episode-4-sub
+Episode Link: https://allanime.to/watch/TWxcCKZGb5uGyn69h/episode-20-sub
  
 # Analytics
 
