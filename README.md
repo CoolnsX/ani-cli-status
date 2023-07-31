@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hori san to Miyamura kun Shingakki Episode 6
+Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 17
 
-Episode Link: https://allanime.to/watch/88gdy5nH9R3aSXBKf/episode-6-sub
+Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-17-sub
  
 # Analytics
 
