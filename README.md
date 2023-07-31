@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 17
+Episode Name: Seikon no Qwaser Jotei no Shouzou Episode 1
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-17-sub
+Episode Link: https://allanime.to/watch/LW64AdxMxNMy9BZeJ/episode-1-sub
  
 # Analytics
 
