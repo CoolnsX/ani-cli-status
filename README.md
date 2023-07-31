@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yume Senshi Wingman Episode 20
+Episode Name: Hori san to Miyamura kun Shingakki Episode 6
 
-Episode Link: https://allanime.to/watch/TWxcCKZGb5uGyn69h/episode-20-sub
+Episode Link: https://allanime.to/watch/88gdy5nH9R3aSXBKf/episode-6-sub
  
 # Analytics
 
