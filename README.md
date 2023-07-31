@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hyakushou Kizoku Episode 4
+Episode Name: Edens Zero Season 2 Episode 18
 
-Episode Link: https://allanime.to/watch/y9EHCDcAPCYSktPoY/episode-4-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-18-sub
  
 # Analytics
 
