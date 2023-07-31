@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo Okarishimasu Season 3 Episode 4
+Episode Name: Bastard Ankoku no Hakaishin Season 2 ONA Episode 15
 
-Episode Link: https://allanime.to/watch/Z4HXM5cXSxnvNkm8N/episode-4-sub
+Episode Link: https://allanime.to/watch/xox3DnGAQF54NrZnj/episode-15-sub
  
 # Analytics
 
