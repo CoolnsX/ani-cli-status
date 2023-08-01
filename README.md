@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Masamune kun no Revenge R Episode 5
+Episode Name: Eiyuu Kyoushitsu Episode 4
 
-Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-5-sub
+Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-4-sub
  
 # Analytics
 
