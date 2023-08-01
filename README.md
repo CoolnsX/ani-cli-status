@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Uchi no Kaisha no Chiisai Senpai no Hanashi Episode 4
+Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 5
 
-Episode Link: https://allanime.to/watch/T4M7inSSaC3R2ahPT/episode-4-sub
+Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-5-sub
  
 # Analytics
 
