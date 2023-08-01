@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Haai Step Jun Episode 13
+Episode Name: Ayaka Episode 5
 
-Episode Link: https://allanime.to/watch/5dC9GDoPPJ5agJg2C/episode-13-sub
+Episode Link: https://allanime.to/watch/SERXBtRgFyER3LCSq/episode-5-sub
  
 # Analytics
 
