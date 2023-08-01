@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 5
+Episode Name: Ao no Orchestra Episode 17
 
-Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-5-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-17-sub
  
 # Analytics
 
