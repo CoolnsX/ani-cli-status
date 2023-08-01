@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mononogatari Season 2 Episode 5
+Episode Name: Temple Episode 4
 
-Episode Link: https://allanime.to/watch/LSoqxbhoRsLwgBWhF/episode-5-sub
+Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-4-sub
  
 # Analytics
 
