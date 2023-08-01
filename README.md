@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 4
+Episode Name: Lv1 Maou to One Room Yuusha Episode 5
 
-Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-4-sub
+Episode Link: https://allanime.to/watch/2rRgDwqDDgzgDuLwi/episode-5-sub
  
 # Analytics
 
