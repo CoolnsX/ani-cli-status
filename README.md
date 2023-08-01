@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Temple Episode 4
+Episode Name: Ayaka Episode 5
 
-Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-4-sub
+Episode Link: https://allanime.to/watch/SERXBtRgFyER3LCSq/episode-5-sub
  
 # Analytics
 
