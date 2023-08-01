@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yume no Crayon Oukoku Episode 70
+Episode Name: Haai Step Jun Episode 13
 
-Episode Link: https://allanime.to/watch/fdN8RsMSKNcLuMs33/episode-70-sub
+Episode Link: https://allanime.to/watch/5dC9GDoPPJ5agJg2C/episode-13-sub
  
 # Analytics
 
