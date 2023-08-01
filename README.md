@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 4
+Episode Name: UFO Princess Valkyrie 4 Toki to Yume to Ginga no Utage Episode 2
 
-Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-4-sub
+Episode Link: https://allanime.to/watch/7ooCWQRyP3N2vakoS/episode-2-sub
  
 # Analytics
 
