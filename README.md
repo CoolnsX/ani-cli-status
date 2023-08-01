@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 17
+Episode Name: Shin SOS Dai Tokyo Tankentai Episode 1
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-17-sub
+Episode Link: https://allanime.to/watch/PqTsEuRDHNzh6zRPc/episode-1-sub
  
 # Analytics
 
