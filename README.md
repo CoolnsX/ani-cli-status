@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 4
+Episode Name: Ochame na Futago Claire Gakuin Monogatari Episode 26
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-4-sub
+Episode Link: https://allanime.to/watch/NxyrnsfJCDT86ata9/episode-26-sub
  
 # Analytics
 
