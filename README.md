@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Horimiya Piece Episode 5
+Episode Name: Maria sama ga Miteru Haru Specials Episode 6
 
-Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-5-sub
+Episode Link: https://allanime.to/watch/Bkahgprva8rZYKm6f/episode-6-sub
  
 # Analytics
 
