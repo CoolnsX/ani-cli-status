@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ochame na Futago Claire Gakuin Monogatari Episode 26
+Episode Name: Liar Liar Episode 5
 
-Episode Link: https://allanime.to/watch/NxyrnsfJCDT86ata9/episode-26-sub
+Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-5-sub
  
 # Analytics
 
