@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mononogatari Season 2 Episode 5
+Episode Name: Hirogaru Sky Precure Episode 26
 
-Episode Link: https://allanime.to/watch/LSoqxbhoRsLwgBWhF/episode-5-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-26-sub
  
 # Analytics
 
