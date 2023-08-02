@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 16
+Episode Name: Odekake Kozame Episode 1
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-16-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-1-sub
  
 # Analytics
 
