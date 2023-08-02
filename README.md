@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1070
+Episode Name: Ao no Orchestra Episode 17
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1070-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-17-sub
  
 # Analytics
 
