@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Maria sama ga Miteru Haru Specials Episode 6
+Episode Name: Shin SOS Dai Tokyo Tankentai Episode 1
 
-Episode Link: https://allanime.to/watch/Bkahgprva8rZYKm6f/episode-6-sub
+Episode Link: https://allanime.to/watch/PqTsEuRDHNzh6zRPc/episode-1-sub
  
 # Analytics
 
