@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 26
+Episode Name: Helck Episode 4
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-26-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-4-sub
  
 # Analytics
 
