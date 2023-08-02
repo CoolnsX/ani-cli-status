@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hori san to Miyamura kun Shingakki Episode 6
+Episode Name: Bungou Stray Dogs Season 5 Episode 4
 
-Episode Link: https://allanime.to/watch/88gdy5nH9R3aSXBKf/episode-6-sub
+Episode Link: https://allanime.to/watch/JgfRwcQP9FH3n9G8D/episode-4-sub
  
 # Analytics
 
