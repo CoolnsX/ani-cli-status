@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1070
+Episode Name: Hori san to Miyamura kun Shingakki Episode 6
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1070-sub
+Episode Link: https://allanime.to/watch/88gdy5nH9R3aSXBKf/episode-6-sub
  
 # Analytics
 
