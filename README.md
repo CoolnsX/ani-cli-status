@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Liar Liar Episode 5
+Episode Name: Shin SOS Dai Tokyo Tankentai Episode 1
 
-Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-5-sub
+Episode Link: https://allanime.to/watch/PqTsEuRDHNzh6zRPc/episode-1-sub
  
 # Analytics
 
