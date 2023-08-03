@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bungou Stray Dogs Season 5 Episode 4
+Episode Name: Shin SOS Dai Tokyo Tankentai Episode 1
 
-Episode Link: https://allanime.to/watch/JgfRwcQP9FH3n9G8D/episode-4-sub
+Episode Link: https://allanime.to/watch/PqTsEuRDHNzh6zRPc/episode-1-sub
  
 # Analytics
 
