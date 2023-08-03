@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: UFO Princess Valkyrie 4 Toki to Yume to Ginga no Utage Episode 2
+Episode Name: Suki na Ko ga Megane wo Wasureta Episode 5
 
-Episode Link: https://allanime.to/watch/7ooCWQRyP3N2vakoS/episode-2-sub
+Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-5-sub
  
 # Analytics
 
