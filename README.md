@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Uchi no Kaisha no Chiisai Senpai no Hanashi Episode 4
+Episode Name: Niehime to Kemono no Ou Episode 16
 
-Episode Link: https://allanime.to/watch/T4M7inSSaC3R2ahPT/episode-4-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-16-sub
  
 # Analytics
 
