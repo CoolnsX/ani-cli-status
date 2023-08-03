@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Episode 5
+Episode Name: Beyblade Burst God Episode 37
 
-Episode Link: https://allanime.to/watch/mDmehMNfd4nTP9FKC/episode-5-sub
+Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-37-sub
  
 # Analytics
 
