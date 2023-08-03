@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 4
+Episode Name: Bungou Stray Dogs Season 5 Episode 4
 
-Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-4-sub
+Episode Link: https://allanime.to/watch/JgfRwcQP9FH3n9G8D/episode-4-sub
  
 # Analytics
 
