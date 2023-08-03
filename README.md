@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 6
+Episode Name: Bastard Ankoku no Hakaishin Season 2 ONA Episode 15
 
-Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-6-sub
+Episode Link: https://allanime.to/watch/xox3DnGAQF54NrZnj/episode-15-sub
  
 # Analytics
 
