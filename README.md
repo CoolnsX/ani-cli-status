@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 69
+Episode Name: Mononogatari Season 2 Episode 5
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-69-sub
+Episode Link: https://allanime.to/watch/LSoqxbhoRsLwgBWhF/episode-5-sub
  
 # Analytics
 
