@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Zom 100 Zombie ni Naru made ni Shitai 100 no Koto Episode 4
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 69
 
-Episode Link: https://allanime.to/watch/GoKAhRw3sy8vS3NB8/episode-4-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-69-sub
  
 # Analytics
 
