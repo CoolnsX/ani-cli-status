@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Masamune kun no Revenge R Episode 5
+Episode Name: Seija Musou Salaryman Isekai de Ikinokoru Tame ni Ayumu Michi Episode 5
 
-Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-5-sub
+Episode Link: https://allanime.to/watch/iYwbaywiQ86vCc3cf/episode-5-sub
  
 # Analytics
 
