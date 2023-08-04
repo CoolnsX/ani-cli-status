@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gekitou Crush Gear Turbo Episode 26
+Episode Name: Beyblade Burst God Episode 38
 
-Episode Link: https://allanime.to/watch/FiBjL7gXyazPCf22M/episode-26-sub
+Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-38-sub
  
 # Analytics
 
