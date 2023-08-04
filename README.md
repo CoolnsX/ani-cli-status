@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 79
+Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 6
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-79-sub
+Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-6-sub
  
 # Analytics
 
