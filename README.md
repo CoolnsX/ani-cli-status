@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 4
+Episode Name: Sugar Apple Fairy Tale Part 2 Episode 5
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-4-sub
+Episode Link: https://allanime.to/watch/KnoD88GBqQmvDfcpn/episode-5-sub
  
 # Analytics
 
