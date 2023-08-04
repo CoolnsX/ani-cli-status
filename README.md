@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Okashi na Tensei Episode 6
+Episode Name: Ochame na Futago Claire Gakuin Monogatari Episode 26
 
-Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-6-sub
+Episode Link: https://allanime.to/watch/NxyrnsfJCDT86ata9/episode-26-sub
  
 # Analytics
 
