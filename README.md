@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 69
+Episode Name: Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu Episode 5
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-69-sub
+Episode Link: https://allanime.to/watch/3wRbRvqdfHBxxmarg/episode-5-sub
  
 # Analytics
 
