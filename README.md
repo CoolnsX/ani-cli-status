@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 55
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 69
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-55-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-69-sub
  
 # Analytics
 
