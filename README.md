@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Level 1 dakedo Unique Skill de Saikyou desu Episode 5
+Episode Name: Ninjala Episode 79
 
-Episode Link: https://allanime.to/watch/mypjxAxRSp3NibNMy/episode-5-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-79-sub
  
 # Analytics
 
