@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Maken ga Shihai suru Episode 5
+Episode Name: Okashi na Tensei Episode 6
 
-Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-5-sub
+Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-6-sub
  
 # Analytics
 
