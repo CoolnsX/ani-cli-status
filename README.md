@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shiro Seijo to Kuro Bokushi Episode 4
+Episode Name: Spy Kyoushitsu Season 2 Episode 4
 
-Episode Link: https://allanime.to/watch/DLGf3rD7huzx25mSJ/episode-4-sub
+Episode Link: https://allanime.to/watch/Xaoi34yrDW4cA5zq4/episode-4-sub
  
 # Analytics
 
