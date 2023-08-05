@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Masamune kun no Revenge R Episode 5
+Episode Name: Chiikawa Episode 51
 
-Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-5-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-51-sub
  
 # Analytics
 
