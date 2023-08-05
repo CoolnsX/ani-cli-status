@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Okashi na Tensei Episode 6
+Episode Name: Hataraku Maou sama Season 2 Episode 4
 
-Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-6-sub
+Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-4-sub
  
 # Analytics
 
