@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Spy Kyoushitsu Season 2 Episode 4
+Episode Name: Level 1 dakedo Unique Skill de Saikyou desu Episode 5
 
-Episode Link: https://allanime.to/watch/Xaoi34yrDW4cA5zq4/episode-4-sub
+Episode Link: https://allanime.to/watch/mypjxAxRSp3NibNMy/episode-5-sub
  
 # Analytics
 
