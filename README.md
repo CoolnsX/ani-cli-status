@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ochame na Futago Claire Gakuin Monogatari Episode 26
+Episode Name: Masamune kun no Revenge R Episode 5
 
-Episode Link: https://allanime.to/watch/NxyrnsfJCDT86ata9/episode-26-sub
+Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-5-sub
  
 # Analytics
 
