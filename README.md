@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo Okarishimasu Season 3 Episode 5
+Episode Name: Jitsu wa Ore Saikyou deshita Episode 5
 
-Episode Link: https://allanime.to/watch/Z4HXM5cXSxnvNkm8N/episode-5-sub
+Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-5-sub
  
 # Analytics
 
