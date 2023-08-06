@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hataraku Maou sama Season 2 Episode 4
+Episode Name: Undead Girl Murder Farce Episode 5
 
-Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-4-sub
+Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-5-sub
  
 # Analytics
 
