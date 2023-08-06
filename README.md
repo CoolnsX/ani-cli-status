@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Undead Girl Murder Farce Episode 5
+Episode Name: Niehime to Kemono no Ou Episode 16
 
-Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-5-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-16-sub
  
 # Analytics
 
