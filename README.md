@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 7
+Episode Name: AI no Idenshi Episode 5
 
-Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-7-sub
+Episode Link: https://allanime.to/watch/7MkaaxjNqgpDZF54X/episode-5-sub
  
 # Analytics
 
