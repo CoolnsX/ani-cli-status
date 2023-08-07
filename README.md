@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 55
+Episode Name: Beyblade Burst God Episode 38
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-55-sub
+Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-38-sub
  
 # Analytics
 
