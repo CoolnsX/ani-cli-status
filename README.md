@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Beyblade Burst God Episode 38
+Episode Name: Go Go Vehicle Zoo Episode 15
 
-Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-38-sub
+Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-15-sub
  
 # Analytics
 
