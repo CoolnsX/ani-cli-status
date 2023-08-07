@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Go Go Vehicle Zoo Episode 15
+Episode Name: Yami Shibai 11 Episode 5
 
-Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-15-sub
+Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-5-sub
  
 # Analytics
 
