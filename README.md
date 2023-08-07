@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Marie Gali ver 2 0 Episode 30
+Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 6
 
-Episode Link: https://allanime.to/watch/ErARj7oeCu5e4Nxs3/episode-30-sub
+Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-6-sub
  
 # Analytics
 
