@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 18
+Episode Name: Ryza no Atelier Tokoyami no Joou to Himitsu no Kakurega Episode 6
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-18-sub
+Episode Link: https://allanime.to/watch/wQC2B9C2HFfGtnFZi/episode-6-sub
  
 # Analytics
 
