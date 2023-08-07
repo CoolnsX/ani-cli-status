@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 5
+Episode Name: Go Go Vehicle Zoo Episode 15
 
-Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-5-sub
+Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-15-sub
  
 # Analytics
 
