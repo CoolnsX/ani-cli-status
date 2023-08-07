@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 18
+Episode Name: Shadowverse Flame Episode 55
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-18-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-55-sub
  
 # Analytics
 
