@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edens Zero Season 2 Episode 19
+Episode Name: Tousouchuu Great Mission Episode 17
 
-Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-19-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-17-sub
  
 # Analytics
 
