@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 11 Episode 5
+Episode Name: Vandread Taidou hen Episode 1
 
-Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-5-sub
+Episode Link: https://allanime.to/watch/at8HKRWL3EqyXMqwY/episode-1-sub
  
 # Analytics
 
