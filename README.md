@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Liar Liar Episode 6
+Episode Name: AI no Idenshi Episode 5
 
-Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-6-sub
+Episode Link: https://allanime.to/watch/7MkaaxjNqgpDZF54X/episode-5-sub
  
 # Analytics
 
