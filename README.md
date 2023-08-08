@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Temple Episode 5
+Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 5
 
-Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-5-sub
+Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-5-sub
  
 # Analytics
 
