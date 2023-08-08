@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 17
+Episode Name: Shadowverse Flame Seven Shadows hen Episode 5
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-17-sub
+Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-5-sub
  
 # Analytics
 
