@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1093
+Episode Name: Cardfight Vanguard will Dress Season 3 Episode 5
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1093-sub
+Episode Link: https://allanime.to/watch/JS9XZz87T9a8ABhCw/episode-5-sub
  
 # Analytics
 
