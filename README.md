@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 5
+Episode Name: Saezuru Tori wa Habatakanai Don t Stay Gold Episode 1
 
-Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-5-sub
+Episode Link: https://allanime.to/watch/FTg93pgSpES5KiWqL/episode-1-sub
  
 # Analytics
 
