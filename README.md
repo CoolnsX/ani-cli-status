@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Saezuru Tori wa Habatakanai Don t Stay Gold Episode 1
+Episode Name: Edens Zero Season 2 Episode 19
 
-Episode Link: https://allanime.to/watch/FTg93pgSpES5KiWqL/episode-1-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-19-sub
  
 # Analytics
 
