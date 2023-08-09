@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Horimiya Piece Episode 6
+Episode Name: Tonikaku Kawaii Joshikou hen Episode 3
 
-Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-6-sub
+Episode Link: https://allanime.to/watch/qZ7Dyi5onxkkXSt8w/episode-3-sub
  
 # Analytics
 
