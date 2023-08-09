@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Vandread Taidou hen Episode 1
+Episode Name: Bleach Sennen Kessen hen Ketsubetsu tan Episode 5
 
-Episode Link: https://allanime.to/watch/at8HKRWL3EqyXMqwY/episode-1-sub
+Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-5-sub
  
 # Analytics
 
