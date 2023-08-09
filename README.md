@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tonikaku Kawaii Joshikou hen Episode 3
+Episode Name: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Episode 6
 
-Episode Link: https://allanime.to/watch/qZ7Dyi5onxkkXSt8w/episode-3-sub
+Episode Link: https://allanime.to/watch/mDmehMNfd4nTP9FKC/episode-6-sub
  
 # Analytics
 
