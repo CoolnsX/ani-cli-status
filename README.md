@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 27
+Episode Name: Eiyuu Kyoushitsu Episode 5
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-27-sub
+Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-5-sub
  
 # Analytics
 
