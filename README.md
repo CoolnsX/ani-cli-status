@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bleach Sennen Kessen hen Ketsubetsu tan Episode 5
+Episode Name: Seikai no Danshou Tanjou Episode 1
 
-Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-5-sub
+Episode Link: https://allanime.to/watch/zYfm47zHn5eX2G6Rw/episode-1-sub
  
 # Analytics
 
