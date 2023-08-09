@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1071
+Episode Name: Bleach Sennen Kessen hen Ketsubetsu tan Episode 5
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1071-sub
+Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-5-sub
  
 # Analytics
 
