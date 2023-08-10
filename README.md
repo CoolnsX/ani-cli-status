@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 17
+Episode Name: Odekake Kozame Episode 2
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-17-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-2-sub
  
 # Analytics
 
