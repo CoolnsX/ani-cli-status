@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jitsu wa Ore Saikyou deshita Episode 5
+Episode Name: Shiro Seijo to Kuro Bokushi Episode 5
 
-Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-5-sub
+Episode Link: https://allanime.to/watch/DLGf3rD7huzx25mSJ/episode-5-sub
  
 # Analytics
 
