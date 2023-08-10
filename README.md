@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Synduality Noir Episode 5
+Episode Name: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Episode 6
 
-Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-5-sub
+Episode Link: https://allanime.to/watch/mDmehMNfd4nTP9FKC/episode-6-sub
  
 # Analytics
 
