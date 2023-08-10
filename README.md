@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tonikaku Kawaii Joshikou hen Episode 3
+Episode Name: Okashi na Tensei Episode 7
 
-Episode Link: https://allanime.to/watch/qZ7Dyi5onxkkXSt8w/episode-3-sub
+Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-7-sub
  
 # Analytics
 
