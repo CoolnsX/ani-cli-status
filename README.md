@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 2
+Episode Name: Tonikaku Kawaii Joshikou hen Episode 3
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-2-sub
+Episode Link: https://allanime.to/watch/qZ7Dyi5onxkkXSt8w/episode-3-sub
  
 # Analytics
 
