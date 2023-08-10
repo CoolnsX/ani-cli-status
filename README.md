@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 5
+Episode Name: Yamato Takeru After War Episode 2
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-5-sub
+Episode Link: https://allanime.to/watch/t7BbhSdwyFBpDSMhX/episode-2-sub
  
 # Analytics
 
