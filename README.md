@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu Episode 6
+Episode Name: Okashi na Tensei Episode 7
 
-Episode Link: https://allanime.to/watch/3wRbRvqdfHBxxmarg/episode-6-sub
+Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-7-sub
  
 # Analytics
 
