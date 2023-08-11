@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Magical Hat Episode 14
+Episode Name: Undead Girl Murder Farce Episode 6
 
-Episode Link: https://allanime.to/watch/PcwGeam6n37zsDya5/episode-14-sub
+Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-6-sub
  
 # Analytics
 
