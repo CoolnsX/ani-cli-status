@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shiro Seijo to Kuro Bokushi Episode 5
+Episode Name: Kyoukai Senki Kyokkou no Souki Episode 1
 
-Episode Link: https://allanime.to/watch/DLGf3rD7huzx25mSJ/episode-5-sub
+Episode Link: https://allanime.to/watch/mJkFd49TfFs57Q6cp/episode-1-sub
  
 # Analytics
 
