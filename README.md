@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Saezuru Tori wa Habatakanai Don t Stay Gold Episode 1
+Episode Name: Shiro Seijo to Kuro Bokushi Episode 5
 
-Episode Link: https://allanime.to/watch/FTg93pgSpES5KiWqL/episode-1-sub
+Episode Link: https://allanime.to/watch/DLGf3rD7huzx25mSJ/episode-5-sub
  
 # Analytics
 
