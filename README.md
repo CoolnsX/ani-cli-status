@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Little Polar Bear Shirokuma kun Doko e Episode 1
+Episode Name: Yami Shibai 11 Episode 5
 
-Episode Link: https://allanime.to/watch/P9pLKodSyCBJq5n27/episode-1-sub
+Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-5-sub
  
 # Analytics
 
