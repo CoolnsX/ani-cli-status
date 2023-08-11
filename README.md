@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kyoukai Senki Kyokkou no Souki Episode 1
+Episode Name: Sugar Apple Fairy Tale Part 2 Episode 6
 
-Episode Link: https://allanime.to/watch/mJkFd49TfFs57Q6cp/episode-1-sub
+Episode Link: https://allanime.to/watch/KnoD88GBqQmvDfcpn/episode-6-sub
  
 # Analytics
 
