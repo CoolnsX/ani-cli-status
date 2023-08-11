@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Okashi na Tensei Episode 7
+Episode Name: Magical Hat Episode 14
 
-Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-7-sub
+Episode Link: https://allanime.to/watch/PcwGeam6n37zsDya5/episode-14-sub
  
 # Analytics
 
