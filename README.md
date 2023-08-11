@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 5
+Episode Name: Lv1 Maou to One Room Yuusha Episode 6
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-5-sub
+Episode Link: https://allanime.to/watch/2rRgDwqDDgzgDuLwi/episode-6-sub
  
 # Analytics
 
