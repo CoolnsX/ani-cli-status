@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Lv1 Maou to One Room Yuusha Episode 6
+Episode Name: Saezuru Tori wa Habatakanai Don t Stay Gold Episode 1
 
-Episode Link: https://allanime.to/watch/2rRgDwqDDgzgDuLwi/episode-6-sub
+Episode Link: https://allanime.to/watch/FTg93pgSpES5KiWqL/episode-1-sub
  
 # Analytics
 
