@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seikai no Danshou Tanjou Episode 1
+Episode Name: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Episode 6
 
-Episode Link: https://allanime.to/watch/zYfm47zHn5eX2G6Rw/episode-1-sub
+Episode Link: https://allanime.to/watch/mDmehMNfd4nTP9FKC/episode-6-sub
  
 # Analytics
 
