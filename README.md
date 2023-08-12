@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Vandread Taidou hen Episode 1
+Episode Name: Dr Slump Arale chan Episode 143
 
-Episode Link: https://allanime.to/watch/at8HKRWL3EqyXMqwY/episode-1-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-143-sub
  
 # Analytics
 
