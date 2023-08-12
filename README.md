@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Maken ga Shihai suru Episode 6
+Episode Name: Hyakushou Kizoku Episode 6
 
-Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-6-sub
+Episode Link: https://allanime.to/watch/y9EHCDcAPCYSktPoY/episode-6-sub
  
 # Analytics
 
