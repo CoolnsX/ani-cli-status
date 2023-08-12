@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Synduality Noir Episode 5
+Episode Name: Magical★Taruruuto kun Episode 20
 
-Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-5-sub
+Episode Link: https://allanime.to/watch/yTszgTsufjJcz6AZc/episode-20-sub
  
 # Analytics
 
