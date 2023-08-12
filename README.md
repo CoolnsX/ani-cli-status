@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yamato Takeru After War Episode 2
+Episode Name: Magical★Taruruuto kun Episode 20
 
-Episode Link: https://allanime.to/watch/t7BbhSdwyFBpDSMhX/episode-2-sub
+Episode Link: https://allanime.to/watch/yTszgTsufjJcz6AZc/episode-20-sub
  
 # Analytics
 
