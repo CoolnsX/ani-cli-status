@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Little Polar Bear Shirokuma kun Doko e Episode 1
+Episode Name: Nanatsu no Maken ga Shihai suru Episode 6
 
-Episode Link: https://allanime.to/watch/P9pLKodSyCBJq5n27/episode-1-sub
+Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-6-sub
  
 # Analytics
 
