@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Magical Hat Episode 14
+Episode Name: Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu Episode 6
 
-Episode Link: https://allanime.to/watch/PcwGeam6n37zsDya5/episode-14-sub
+Episode Link: https://allanime.to/watch/3wRbRvqdfHBxxmarg/episode-6-sub
  
 # Analytics
 
