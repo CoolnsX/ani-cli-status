@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1094
+Episode Name: Temple Episode 6
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1094-sub
+Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-6-sub
  
 # Analytics
 
