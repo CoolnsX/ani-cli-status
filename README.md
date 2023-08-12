@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Okashi na Tensei Episode 7
+Episode Name: Synduality Noir Episode 5
 
-Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-7-sub
+Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-5-sub
  
 # Analytics
 
