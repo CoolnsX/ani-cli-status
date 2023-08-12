@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 6
+Episode Name: Cardfight Vanguard will Dress Season 3 Episode 6
 
-Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-6-sub
+Episode Link: https://allanime.to/watch/JS9XZz87T9a8ABhCw/episode-6-sub
  
 # Analytics
 
