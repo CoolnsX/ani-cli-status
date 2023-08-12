@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 19
+Episode Name: Magical Hat Episode 14
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-19-sub
+Episode Link: https://allanime.to/watch/PcwGeam6n37zsDya5/episode-14-sub
  
 # Analytics
 
