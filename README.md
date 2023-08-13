@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cardfight Vanguard will Dress Season 3 Episode 6
+Episode Name: Hirogaru Sky Precure Episode 28
 
-Episode Link: https://allanime.to/watch/JS9XZz87T9a8ABhCw/episode-6-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-28-sub
  
 # Analytics
 
