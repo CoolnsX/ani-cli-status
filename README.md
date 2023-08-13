@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 6
+Episode Name: Hirogaru Sky Precure Episode 28
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-6-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-28-sub
  
 # Analytics
 
