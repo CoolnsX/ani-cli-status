@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo Okarishimasu Season 3 Episode 6
+Episode Name: AI no Idenshi Episode 6
 
-Episode Link: https://allanime.to/watch/Z4HXM5cXSxnvNkm8N/episode-6-sub
+Episode Link: https://allanime.to/watch/7MkaaxjNqgpDZF54X/episode-6-sub
  
 # Analytics
 
