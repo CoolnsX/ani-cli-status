@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 28
+Episode Name: Detective Conan TV Episode 1094
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-28-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1094-sub
  
 # Analytics
 
