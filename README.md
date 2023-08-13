@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sugar Apple Fairy Tale Part 2 Episode 6
+Episode Name: Little Polar Bear Shirokuma kun Doko e Episode 1
 
-Episode Link: https://allanime.to/watch/KnoD88GBqQmvDfcpn/episode-6-sub
+Episode Link: https://allanime.to/watch/P9pLKodSyCBJq5n27/episode-1-sub
  
 # Analytics
 
