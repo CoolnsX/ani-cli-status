@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Little Polar Bear Shirokuma kun Doko e Episode 1
+Episode Name: Go Go Vehicle Zoo Episode 16
 
-Episode Link: https://allanime.to/watch/P9pLKodSyCBJq5n27/episode-1-sub
+Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-16-sub
  
 # Analytics
 
