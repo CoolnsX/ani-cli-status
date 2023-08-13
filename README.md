@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sugar Apple Fairy Tale Part 2 Episode 6
+Episode Name: Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu Episode 6
 
-Episode Link: https://allanime.to/watch/KnoD88GBqQmvDfcpn/episode-6-sub
+Episode Link: https://allanime.to/watch/3wRbRvqdfHBxxmarg/episode-6-sub
  
 # Analytics
 
