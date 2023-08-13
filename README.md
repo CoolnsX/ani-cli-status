@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: AI no Idenshi Episode 6
+Episode Name: Bleach Sennen Kessen hen Ketsubetsu tan Episode 6
 
-Episode Link: https://allanime.to/watch/7MkaaxjNqgpDZF54X/episode-6-sub
+Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-6-sub
  
 # Analytics
 
