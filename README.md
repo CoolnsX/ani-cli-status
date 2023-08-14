@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 80
+Episode Name: Bari Bari Densetsu Episode 1
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-80-sub
+Episode Link: https://allanime.to/watch/CPw8jncCLJtbbXXYr/episode-1-sub
  
 # Analytics
 
