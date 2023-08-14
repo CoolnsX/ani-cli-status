@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo Okarishimasu Season 3 Episode 6
+Episode Name: Tousouchuu Great Mission Episode 18
 
-Episode Link: https://allanime.to/watch/Z4HXM5cXSxnvNkm8N/episode-6-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-18-sub
  
 # Analytics
 
