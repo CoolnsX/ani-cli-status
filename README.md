@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 18
+Episode Name: Bari Bari Densetsu Episode 1
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-18-sub
+Episode Link: https://allanime.to/watch/CPw8jncCLJtbbXXYr/episode-1-sub
  
 # Analytics
 
