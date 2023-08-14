@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 6
+Episode Name: Go Go Vehicle Zoo Episode 16
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-6-sub
+Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-16-sub
  
 # Analytics
 
