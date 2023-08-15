@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 6
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 71
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-6-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-71-sub
  
 # Analytics
 
