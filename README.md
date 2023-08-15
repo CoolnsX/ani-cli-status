@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 71
+Episode Name: Cardfight Vanguard will Dress Season 3 Episode 6
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-71-sub
+Episode Link: https://allanime.to/watch/JS9XZz87T9a8ABhCw/episode-6-sub
  
 # Analytics
 
