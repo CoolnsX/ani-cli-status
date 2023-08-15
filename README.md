@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Masamune kun no Revenge R Episode 7
+Episode Name: Level 1 dakedo Unique Skill de Saikyou desu Episode 6
 
-Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-7-sub
+Episode Link: https://allanime.to/watch/mypjxAxRSp3NibNMy/episode-6-sub
  
 # Analytics
 
