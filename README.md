@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Masamune kun no Revenge R Episode 7
+Episode Name: Kanojo Okarishimasu Season 3 Episode 6
 
-Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-7-sub
+Episode Link: https://allanime.to/watch/Z4HXM5cXSxnvNkm8N/episode-6-sub
  
 # Analytics
 
