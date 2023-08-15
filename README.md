@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Okashi na Tensei Episode 8
+Episode Name: Lv1 Maou to One Room Yuusha Episode 7
 
-Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-8-sub
+Episode Link: https://allanime.to/watch/2rRgDwqDDgzgDuLwi/episode-7-sub
  
 # Analytics
 
