@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edens Zero Season 2 Episode 20
+Episode Name: Hibike Euphonium Ensemble Contest hen Episode 1
 
-Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-20-sub
+Episode Link: https://allanime.to/watch/dTGFx4yfyoLdJjex2/episode-1-sub
  
 # Analytics
 
