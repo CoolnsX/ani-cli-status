@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Okashi na Tensei Episode 8
+Episode Name: Undead Girl Murder Farce Episode 7
 
-Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-8-sub
+Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-7-sub
  
 # Analytics
 
