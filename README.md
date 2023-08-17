@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hataraku Maou sama Season 2 Episode 6
+Episode Name: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Episode 7
 
-Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-6-sub
+Episode Link: https://allanime.to/watch/mDmehMNfd4nTP9FKC/episode-7-sub
  
 # Analytics
 
