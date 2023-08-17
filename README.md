@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Undead Girl Murder Farce Episode 7
+Episode Name: Ryza no Atelier Tokoyami no Joou to Himitsu no Kakurega Episode 7
 
-Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-7-sub
+Episode Link: https://allanime.to/watch/wQC2B9C2HFfGtnFZi/episode-7-sub
  
 # Analytics
 
