@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eiyuu Kyoushitsu Episode 6
+Episode Name: Zom 100 Zombie ni Naru made ni Shitai 100 no Koto Episode 5
 
-Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-6-sub
+Episode Link: https://allanime.to/watch/GoKAhRw3sy8vS3NB8/episode-5-sub
  
 # Analytics
 
