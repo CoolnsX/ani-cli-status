@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Lv1 Maou to One Room Yuusha Episode 7
+Episode Name: Offside TV Episode 39
 
-Episode Link: https://allanime.to/watch/2rRgDwqDDgzgDuLwi/episode-7-sub
+Episode Link: https://allanime.to/watch/zK2BAxA3BjciLMiNX/episode-39-sub
  
 # Analytics
 
