@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 6
+Episode Name: Spy Kyoushitsu Season 2 Episode 6
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-6-sub
+Episode Link: https://allanime.to/watch/Xaoi34yrDW4cA5zq4/episode-6-sub
  
 # Analytics
 
