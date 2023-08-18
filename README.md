@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1072
+Episode Name: BanG Dream It s MyGO Episode 10
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1072-sub
+Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-10-sub
  
 # Analytics
 
