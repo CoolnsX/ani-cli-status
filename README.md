@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ayaka Episode 7
+Episode Name: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Episode 7
 
-Episode Link: https://allanime.to/watch/SERXBtRgFyER3LCSq/episode-7-sub
+Episode Link: https://allanime.to/watch/mDmehMNfd4nTP9FKC/episode-7-sub
  
 # Analytics
 
