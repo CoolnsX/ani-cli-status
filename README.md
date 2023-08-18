@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 18
+Episode Name: Tousouchuu Great Mission Episode 18
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-18-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-18-sub
  
 # Analytics
 
