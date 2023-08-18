@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Episode 7
+Episode Name: Niehime to Kemono no Ou Episode 18
 
-Episode Link: https://allanime.to/watch/mDmehMNfd4nTP9FKC/episode-7-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-18-sub
  
 # Analytics
 
