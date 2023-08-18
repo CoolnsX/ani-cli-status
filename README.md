@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Suki na Ko ga Megane wo Wasureta Episode 7
+Episode Name: Watashi no Shiawase na Kekkon Episode 7
 
-Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-7-sub
+Episode Link: https://allanime.to/watch/ZjJrrmrMKbLgebWAL/episode-7-sub
  
 # Analytics
 
