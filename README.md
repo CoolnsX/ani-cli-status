@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 7
+Episode Name: Okashi na Tensei Episode 8
 
-Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-7-sub
+Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-8-sub
  
 # Analytics
 
