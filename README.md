@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 3
+Episode Name: AI no Idenshi Episode 7
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-3-sub
+Episode Link: https://allanime.to/watch/7MkaaxjNqgpDZF54X/episode-7-sub
  
 # Analytics
 
