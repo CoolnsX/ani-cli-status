@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jarinko Chie TV Episode 10
+Episode Name: Odekake Kozame Episode 3
 
-Episode Link: https://allanime.to/watch/mSxuech6C2kxLs5hy/episode-10-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-3-sub
  
 # Analytics
 
