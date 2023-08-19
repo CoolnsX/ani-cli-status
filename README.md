@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Synduality Noir Episode 6
+Episode Name: Kanojo Okarishimasu Season 3 Episode 7
 
-Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-6-sub
+Episode Link: https://allanime.to/watch/Z4HXM5cXSxnvNkm8N/episode-7-sub
  
 # Analytics
 
