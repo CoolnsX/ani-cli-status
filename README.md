@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Okashi na Tensei Episode 8
+Episode Name: Ninjala Episode 81
 
-Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-8-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-81-sub
  
 # Analytics
 
