@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 7
+Episode Name: Tousouchuu Great Mission Episode 18
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-7-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-18-sub
  
 # Analytics
 
