@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 7
+Episode Name: Nanatsu no Maken ga Shihai suru Episode 7
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-7-sub
+Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-7-sub
  
 # Analytics
 
