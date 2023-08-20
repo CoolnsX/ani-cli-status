@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Horimiya Piece Episode 8
+Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 7
 
-Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-8-sub
+Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-7-sub
  
 # Analytics
 
