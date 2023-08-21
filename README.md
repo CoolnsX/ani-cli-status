@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hyakushou Kizoku Episode 7
+Episode Name: Nanatsu no Maken ga Shihai suru Episode 7
 
-Episode Link: https://allanime.to/watch/y9EHCDcAPCYSktPoY/episode-7-sub
+Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-7-sub
  
 # Analytics
 
