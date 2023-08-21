@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eiyuu Kyoushitsu Episode 7
+Episode Name: Hyakushou Kizoku Episode 7
 
-Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-7-sub
+Episode Link: https://allanime.to/watch/y9EHCDcAPCYSktPoY/episode-7-sub
  
 # Analytics
 
