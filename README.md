@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Time Bokan Series Gyakuten Ippatsuman Episode 15
+Episode Name: Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu Episode 7
 
-Episode Link: https://allanime.to/watch/Ffz7aEAMe98zkXAqT/episode-15-sub
+Episode Link: https://allanime.to/watch/3wRbRvqdfHBxxmarg/episode-7-sub
  
 # Analytics
 
