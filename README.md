@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 11 Episode 7
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 7
 
-Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-7-sub
+Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-7-sub
  
 # Analytics
 
