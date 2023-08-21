@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ayaka Episode 8
+Episode Name: Dekiru Neko wa Kyou mo Yuuutsu Episode 7
 
-Episode Link: https://allanime.to/watch/SERXBtRgFyER3LCSq/episode-8-sub
+Episode Link: https://allanime.to/watch/iwdYTD8AkMjawQXgY/episode-7-sub
  
 # Analytics
 
