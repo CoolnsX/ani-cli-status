@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: AI no Idenshi Episode 7
+Episode Name: Hirogaru Sky Precure Episode 29
 
-Episode Link: https://allanime.to/watch/7MkaaxjNqgpDZF54X/episode-7-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-29-sub
  
 # Analytics
 
