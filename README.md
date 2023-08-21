@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Liar Liar Episode 8
+Episode Name: Nanatsu no Maken ga Shihai suru Episode 7
 
-Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-8-sub
+Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-7-sub
  
 # Analytics
 
