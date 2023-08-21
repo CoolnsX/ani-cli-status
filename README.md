@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 29
+Episode Name: Dark Gathering Episode 7
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-29-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-7-sub
  
 # Analytics
 
