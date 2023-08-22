@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Suki na Ko ga Megane wo Wasureta Episode 8
+Episode Name: Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shison tachi no Gakkou e Kayou II Episode 7
 
-Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-8-sub
+Episode Link: https://allanime.to/watch/QWLhHnBT9jNj4owF6/episode-7-sub
  
 # Analytics
 
