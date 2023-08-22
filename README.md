@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 7
+Episode Name: Level 1 dakedo Unique Skill de Saikyou desu Episode 7
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-7-sub
+Episode Link: https://allanime.to/watch/mypjxAxRSp3NibNMy/episode-7-sub
  
 # Analytics
 
