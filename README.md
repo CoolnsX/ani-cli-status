@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mayoi Neko Overrun Specials Episode 6
+Episode Name: Yami Shibai 11 Episode 7
 
-Episode Link: https://allanime.to/watch/FTFKrmHdJPAPzKw2M/episode-6-sub
+Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-7-sub
  
 # Analytics
 
