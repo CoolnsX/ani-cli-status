@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Okashi na Tensei Episode 9
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 72
 
-Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-9-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-72-sub
  
 # Analytics
 
