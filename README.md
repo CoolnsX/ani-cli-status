@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 72
+Episode Name: 1P Episode 1073
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-72-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1073-sub
  
 # Analytics
 
