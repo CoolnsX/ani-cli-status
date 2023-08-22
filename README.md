@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hyakushou Kizoku Episode 7
+Episode Name: Shadowverse Flame Seven Shadows hen Episode 7
 
-Episode Link: https://allanime.to/watch/y9EHCDcAPCYSktPoY/episode-7-sub
+Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-7-sub
  
 # Analytics
 
