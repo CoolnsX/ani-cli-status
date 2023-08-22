@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 57
+Episode Name: Okashi na Tensei Episode 9
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-57-sub
+Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-9-sub
  
 # Analytics
 
