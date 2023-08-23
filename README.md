@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Lv1 Maou to One Room Yuusha Episode 8
+Episode Name: Tonikaku Kawaii Joshikou hen Episode 4
 
-Episode Link: https://allanime.to/watch/2rRgDwqDDgzgDuLwi/episode-8-sub
+Episode Link: https://allanime.to/watch/qZ7Dyi5onxkkXSt8w/episode-4-sub
  
 # Analytics
 
