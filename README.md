@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mononogatari Season 2 Episode 8
+Episode Name: Temple Episode 7
 
-Episode Link: https://allanime.to/watch/LSoqxbhoRsLwgBWhF/episode-8-sub
+Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-7-sub
  
 # Analytics
 
