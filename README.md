@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Okashi na Tensei Episode 9
+Episode Name: Jitsu wa Ore Saikyou deshita Episode 6
 
-Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-9-sub
+Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-6-sub
  
 # Analytics
 
