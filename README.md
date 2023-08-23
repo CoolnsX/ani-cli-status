@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 8
+Episode Name: Helck Episode 7
 
-Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-8-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-7-sub
  
 # Analytics
 
