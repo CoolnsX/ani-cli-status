@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Synduality Noir Episode 7
+Episode Name: Bleach Sennen Kessen hen Ketsubetsu tan Episode 7
 
-Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-7-sub
+Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-7-sub
  
 # Analytics
 
