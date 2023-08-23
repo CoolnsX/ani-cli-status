@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bosanimal Episode 1
+Episode Name: Horimiya Piece Episode 8
 
-Episode Link: https://allanime.to/watch/GH9RkLzbMa7ux9Cha/episode-1-sub
+Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-8-sub
  
 # Analytics
 
