@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Temple Episode 7
+Episode Name: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Episode 8
 
-Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-7-sub
+Episode Link: https://allanime.to/watch/mDmehMNfd4nTP9FKC/episode-8-sub
  
 # Analytics
 
