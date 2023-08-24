@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ryza no Atelier Tokoyami no Joou to Himitsu no Kakurega Episode 8
+Episode Name: Bosanimal Episode 1
 
-Episode Link: https://allanime.to/watch/wQC2B9C2HFfGtnFZi/episode-8-sub
+Episode Link: https://allanime.to/watch/GH9RkLzbMa7ux9Cha/episode-1-sub
  
 # Analytics
 
