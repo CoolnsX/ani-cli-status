@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edens Zero Season 2 Episode 21
+Episode Name: Lv1 Maou to One Room Yuusha Episode 8
 
-Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-21-sub
+Episode Link: https://allanime.to/watch/2rRgDwqDDgzgDuLwi/episode-8-sub
  
 # Analytics
 
