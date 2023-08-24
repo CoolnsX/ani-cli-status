@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 9
+Episode Name: Synduality Noir Episode 7
 
-Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-9-sub
+Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-7-sub
  
 # Analytics
 
