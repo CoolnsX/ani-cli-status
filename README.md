@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BanG Dream It s MyGO Episode 11
+Episode Name: Hataraku Maou sama Season 2 Episode 7
 
-Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-11-sub
+Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-7-sub
  
 # Analytics
 
