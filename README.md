@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hataraku Maou sama Season 2 Episode 7
+Episode Name: Yami Shibai 11 Episode 7
 
-Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-7-sub
+Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-7-sub
  
 # Analytics
 
