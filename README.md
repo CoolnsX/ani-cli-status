@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Shiawase na Kekkon Episode 8
+Episode Name: Kyoukai Senki Kyokkou no Souki Episode 2
 
-Episode Link: https://allanime.to/watch/ZjJrrmrMKbLgebWAL/episode-8-sub
+Episode Link: https://allanime.to/watch/mJkFd49TfFs57Q6cp/episode-2-sub
  
 # Analytics
 
