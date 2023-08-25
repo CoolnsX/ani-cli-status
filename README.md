@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 19
+Episode Name: Suki na Ko ga Megane wo Wasureta Episode 8
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-19-sub
+Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-8-sub
  
 # Analytics
 
