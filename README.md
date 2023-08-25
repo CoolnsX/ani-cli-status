@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mononogatari Season 2 Episode 8
+Episode Name: BanG Dream It s MyGO Episode 11
 
-Episode Link: https://allanime.to/watch/LSoqxbhoRsLwgBWhF/episode-8-sub
+Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-11-sub
  
 # Analytics
 
