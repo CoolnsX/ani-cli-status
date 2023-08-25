@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 109
+Episode Name: Tousouchuu Great Mission Episode 19
 
-Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-109-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-19-sub
  
 # Analytics
 
