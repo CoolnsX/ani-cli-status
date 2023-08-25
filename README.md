@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chou Dendou Robo Tetsujin 28 gou FX Episode 47
+Episode Name: Sugar Bunnies Fleur Episode 5 8
 
-Episode Link: https://allanime.to/watch/GMRPF4C9wvofyNpkq/episode-47-sub
+Episode Link: https://allanime.to/watch/Xp2QgejK8rYdqsSWf/episode-5 8-sub
  
 # Analytics
 
