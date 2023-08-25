@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Synduality Noir Episode 7
+Episode Name: Watashi no Shiawase na Kekkon Episode 8
 
-Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-7-sub
+Episode Link: https://allanime.to/watch/ZjJrrmrMKbLgebWAL/episode-8-sub
  
 # Analytics
 
