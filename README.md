@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sugar Bunnies Fleur Episode 5 8
+Episode Name: Synduality Noir Episode 7
 
-Episode Link: https://allanime.to/watch/Xp2QgejK8rYdqsSWf/episode-5 8-sub
+Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-7-sub
  
 # Analytics
 
