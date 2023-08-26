@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seija Musou Salaryman Isekai de Ikinokoru Tame ni Ayumu Michi Episode 8
+Episode Name: Sugar Apple Fairy Tale Part 2 Episode 8
 
-Episode Link: https://allanime.to/watch/iYwbaywiQ86vCc3cf/episode-8-sub
+Episode Link: https://allanime.to/watch/KnoD88GBqQmvDfcpn/episode-8-sub
  
 # Analytics
 
