@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 144
+Episode Name: Bungou Stray Dogs Season 5 Episode 7
 
-Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-144-sub
+Episode Link: https://allanime.to/watch/JgfRwcQP9FH3n9G8D/episode-7-sub
  
 # Analytics
 
