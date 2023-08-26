@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 54
+Episode Name: Niehime to Kemono no Ou Episode 19
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-54-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-19-sub
  
 # Analytics
 
