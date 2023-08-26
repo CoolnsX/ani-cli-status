@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sugar Apple Fairy Tale Part 2 Episode 8
+Episode Name: Odekake Kozame Episode 4
 
-Episode Link: https://allanime.to/watch/KnoD88GBqQmvDfcpn/episode-8-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-4-sub
  
 # Analytics
 
