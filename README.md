@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 7
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 72
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-7-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-72-sub
  
 # Analytics
 
