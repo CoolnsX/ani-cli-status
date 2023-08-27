@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Liar Liar Episode 9
+Episode Name: Undead Girl Murder Farce Episode 8
 
-Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-9-sub
+Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-8-sub
  
 # Analytics
 
