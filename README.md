@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shiro Seijo to Kuro Bokushi Episode 7
+Episode Name: Ayaka Episode 9
 
-Episode Link: https://allanime.to/watch/DLGf3rD7huzx25mSJ/episode-7-sub
+Episode Link: https://allanime.to/watch/SERXBtRgFyER3LCSq/episode-9-sub
  
 # Analytics
 
