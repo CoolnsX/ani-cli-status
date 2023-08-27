@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 82
+Episode Name: Temple Episode 8
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-82-sub
+Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-8-sub
  
 # Analytics
 
