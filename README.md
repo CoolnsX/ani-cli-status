@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seija Musou Salaryman Isekai de Ikinokoru Tame ni Ayumu Michi Episode 8
+Episode Name: Bleach Sennen Kessen hen Ketsubetsu tan Episode 8
 
-Episode Link: https://allanime.to/watch/iYwbaywiQ86vCc3cf/episode-8-sub
+Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-8-sub
  
 # Analytics
 
