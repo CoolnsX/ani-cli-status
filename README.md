@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 8
+Episode Name: Ryza no Atelier Tokoyami no Joou to Himitsu no Kakurega Episode 9
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-8-sub
+Episode Link: https://allanime.to/watch/wQC2B9C2HFfGtnFZi/episode-9-sub
  
 # Analytics
 
