@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 8
+Episode Name: Tenchi Muyou GXP Paradise Shidou hen Episode 4
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-8-sub
+Episode Link: https://allanime.to/watch/DvKvm2E372X26QaqZ/episode-4-sub
  
 # Analytics
 
