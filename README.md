@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tenchi Muyou GXP Paradise Shidou hen Episode 4
+Episode Name: Shiro Seijo to Kuro Bokushi Episode 7
 
-Episode Link: https://allanime.to/watch/DvKvm2E372X26QaqZ/episode-4-sub
+Episode Link: https://allanime.to/watch/DLGf3rD7huzx25mSJ/episode-7-sub
  
 # Analytics
 
