@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hanma Baki 2nd Season Episode 27
+Episode Name: Eiyuu Kyoushitsu Episode 8
 
-Episode Link: https://allanime.to/watch/defW5fG67T8fHBKi8/episode-27-sub
+Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-8-sub
  
 # Analytics
 
