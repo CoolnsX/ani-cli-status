@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eiyuu Kyoushitsu Episode 8
+Episode Name: Araiguma Rascal Episode 42
 
-Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-8-sub
+Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-42-sub
  
 # Analytics
 
