@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cardfight Vanguard will Dress Season 3 Episode 7
+Episode Name: Nanatsu no Maken ga Shihai suru Episode 8
 
-Episode Link: https://allanime.to/watch/JS9XZz87T9a8ABhCw/episode-7-sub
+Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-8-sub
  
 # Analytics
 
