@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chou Dendou Robo Tetsujin 28 gou FX Episode 47
+Episode Name: Ayakashi Triangle Episode 8
 
-Episode Link: https://allanime.to/watch/GMRPF4C9wvofyNpkq/episode-47-sub
+Episode Link: https://allanime.to/watch/MAKvrdu5Qxfdqm2fz/episode-8-sub
  
 # Analytics
 
