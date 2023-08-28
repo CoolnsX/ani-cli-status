@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ayakashi Triangle Episode 8
+Episode Name: Tousouchuu Great Mission Episode 20
 
-Episode Link: https://allanime.to/watch/MAKvrdu5Qxfdqm2fz/episode-8-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-20-sub
  
 # Analytics
 
