@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 20
+Episode Name: Hanma Baki 2nd Season Episode 27
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-20-sub
+Episode Link: https://allanime.to/watch/defW5fG67T8fHBKi8/episode-27-sub
  
 # Analytics
 
