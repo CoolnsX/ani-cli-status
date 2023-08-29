@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 58
+Episode Name: Jitsu wa Ore Saikyou deshita Episode 7
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-58-sub
+Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-7-sub
  
 # Analytics
 
