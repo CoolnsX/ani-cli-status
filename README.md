@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 8
+Episode Name: Liar Liar Episode 9
 
-Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-8-sub
+Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-9-sub
  
 # Analytics
 
