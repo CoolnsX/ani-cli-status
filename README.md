@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 8
+Episode Name: Horimiya Piece Episode 9
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-8-sub
+Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-9-sub
  
 # Analytics
 
