@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Horimiya Piece Episode 9
+Episode Name: Shadowverse Flame Episode 58
 
-Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-9-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-58-sub
  
 # Analytics
 
