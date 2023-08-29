@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hanma Baki 2nd Season Episode 27
+Episode Name: Chou Dendou Robo Tetsujin 28 gou FX Episode 47
 
-Episode Link: https://allanime.to/watch/defW5fG67T8fHBKi8/episode-27-sub
+Episode Link: https://allanime.to/watch/GMRPF4C9wvofyNpkq/episode-47-sub
  
 # Analytics
 
