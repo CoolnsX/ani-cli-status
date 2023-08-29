@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 10
+Episode Name: Dark Gathering Episode 8
 
-Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-10-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-8-sub
  
 # Analytics
 
