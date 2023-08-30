@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ayaka Episode 9
+Episode Name: Uchi no Kaisha no Chiisai Senpai no Hanashi Episode 7
 
-Episode Link: https://allanime.to/watch/SERXBtRgFyER3LCSq/episode-9-sub
+Episode Link: https://allanime.to/watch/T4M7inSSaC3R2ahPT/episode-7-sub
  
 # Analytics
 
