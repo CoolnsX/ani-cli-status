@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 8
+Episode Name: Suki na Ko ga Megane wo Wasureta Episode 9
 
-Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-8-sub
+Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-9-sub
  
 # Analytics
 
