@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Suki na Ko ga Megane wo Wasureta Episode 9
+Episode Name: Bleach Sennen Kessen hen Ketsubetsu tan Episode 8
 
-Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-9-sub
+Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-8-sub
  
 # Analytics
 
