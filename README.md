@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 18
+Episode Name: Ayaka Episode 9
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-18-sub
+Episode Link: https://allanime.to/watch/SERXBtRgFyER3LCSq/episode-9-sub
  
 # Analytics
 
