@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Lv1 Maou to One Room Yuusha Episode 9
+Episode Name: Ayakashi Triangle Episode 8
 
-Episode Link: https://allanime.to/watch/2rRgDwqDDgzgDuLwi/episode-9-sub
+Episode Link: https://allanime.to/watch/MAKvrdu5Qxfdqm2fz/episode-8-sub
  
 # Analytics
 
