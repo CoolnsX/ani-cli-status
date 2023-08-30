@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 58
+Episode Name: Liar Liar Episode 9
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-58-sub
+Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-9-sub
  
 # Analytics
 
