@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 30
+Episode Name: Haai Step Jun Episode 14
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-30-sub
+Episode Link: https://allanime.to/watch/5dC9GDoPPJ5agJg2C/episode-14-sub
  
 # Analytics
 
