@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 8
+Episode Name: Helck Episode 8
 
-Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-8-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-8-sub
  
 # Analytics
 
