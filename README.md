@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shiro Seijo to Kuro Bokushi Episode 8
+Episode Name: Idol Tenshi Youkoso Youko Episode 7
 
-Episode Link: https://allanime.to/watch/DLGf3rD7huzx25mSJ/episode-8-sub
+Episode Link: https://allanime.to/watch/dsCaZtuePjaXACfB4/episode-7-sub
  
 # Analytics
 
