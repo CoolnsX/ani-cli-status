@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Idol Tenshi Youkoso Youko Episode 7
+Episode Name: Dekiru Neko wa Kyou mo Yuuutsu Episode 8
 
-Episode Link: https://allanime.to/watch/dsCaZtuePjaXACfB4/episode-7-sub
+Episode Link: https://allanime.to/watch/iwdYTD8AkMjawQXgY/episode-8-sub
  
 # Analytics
 
