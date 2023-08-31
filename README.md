@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Episode 9
+Episode Name: Helck Episode 8
 
-Episode Link: https://allanime.to/watch/mDmehMNfd4nTP9FKC/episode-9-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-8-sub
  
 # Analytics
 
