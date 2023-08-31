@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jewelpet Episode 29
+Episode Name: Ayakashi Triangle Episode 8
 
-Episode Link: https://allanime.to/watch/KTP7GNmpkcSeL92zs/episode-29-sub
+Episode Link: https://allanime.to/watch/MAKvrdu5Qxfdqm2fz/episode-8-sub
  
 # Analytics
 
