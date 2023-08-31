@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu Episode 9
+Episode Name: Suki na Ko ga Megane wo Wasureta Episode 9
 
-Episode Link: https://allanime.to/watch/3wRbRvqdfHBxxmarg/episode-9-sub
+Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-9-sub
  
 # Analytics
 
