@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Genjitsu no Rimuru Sunshine in the Slime Episode 2
+Episode Name: Masamune kun no Revenge R Episode 9
 
-Episode Link: https://allanime.to/watch/dBHneqwKgvqRCiKPF/episode-2-sub
+Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-9-sub
  
 # Analytics
 
