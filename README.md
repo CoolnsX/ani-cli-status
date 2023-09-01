@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jujutsu Kaisen 2nd Season Episode 6
+Episode Name: Tousouchuu Great Mission Episode 20
 
-Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-6-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-20-sub
  
 # Analytics
 
