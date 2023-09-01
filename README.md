@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eiyuu Kyoushitsu Episode 8
+Episode Name: Okashi na Tensei Episode 10
 
-Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-8-sub
+Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-10-sub
  
 # Analytics
 
