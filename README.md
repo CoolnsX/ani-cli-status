@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 5
+Episode Name: Haai Step Jun Episode 14
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-5-sub
+Episode Link: https://allanime.to/watch/5dC9GDoPPJ5agJg2C/episode-14-sub
  
 # Analytics
 
