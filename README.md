@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hataraku Maou sama Season 2 Episode 8
+Episode Name: Jujutsu Kaisen 2nd Season Episode 6
 
-Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-8-sub
+Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-6-sub
  
 # Analytics
 
