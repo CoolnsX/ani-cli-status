@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Episode 9
+Episode Name: Jewelpet Episode 29
 
-Episode Link: https://allanime.to/watch/mDmehMNfd4nTP9FKC/episode-9-sub
+Episode Link: https://allanime.to/watch/KTP7GNmpkcSeL92zs/episode-29-sub
  
 # Analytics
 
