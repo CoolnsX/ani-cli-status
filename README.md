@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 5
+Episode Name: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Episode 9
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-5-sub
+Episode Link: https://allanime.to/watch/mDmehMNfd4nTP9FKC/episode-9-sub
  
 # Analytics
 
