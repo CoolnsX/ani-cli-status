@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 8
+Episode Name: Hataraku Maou sama Season 2 Episode 8
 
-Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-8-sub
+Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-8-sub
  
 # Analytics
 
