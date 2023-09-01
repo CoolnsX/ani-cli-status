@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Masamune kun no Revenge R Episode 9
+Episode Name: Niehime to Kemono no Ou Episode 20
 
-Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-9-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-20-sub
  
 # Analytics
 
