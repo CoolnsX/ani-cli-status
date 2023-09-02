@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BanG Dream It s MyGO Episode 12
+Episode Name: Genjitsu no Rimuru Sunshine in the Slime Episode 2
 
-Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-12-sub
+Episode Link: https://allanime.to/watch/dBHneqwKgvqRCiKPF/episode-2-sub
  
 # Analytics
 
