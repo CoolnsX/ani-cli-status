@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo Okarishimasu Season 3 Episode 8
+Episode Name: Yami Shibai 11 Episode 8
 
-Episode Link: https://allanime.to/watch/Z4HXM5cXSxnvNkm8N/episode-8-sub
+Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-8-sub
  
 # Analytics
 
