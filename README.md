@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tanoshii Muumin Ikka Bouken Nikki Episode 52
+Episode Name: Jewelpet Episode 29
 
-Episode Link: https://allanime.to/watch/uTGbSs8QDZFLdeTBG/episode-52-sub
+Episode Link: https://allanime.to/watch/KTP7GNmpkcSeL92zs/episode-29-sub
  
 # Analytics
 
