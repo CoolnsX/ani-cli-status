@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Genjitsu no Rimuru Sunshine in the Slime Episode 2
+Episode Name: Spy Kyoushitsu Season 2 Episode 8
 
-Episode Link: https://allanime.to/watch/dBHneqwKgvqRCiKPF/episode-2-sub
+Episode Link: https://allanime.to/watch/Xaoi34yrDW4cA5zq4/episode-8-sub
  
 # Analytics
 
