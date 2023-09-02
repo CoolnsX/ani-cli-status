@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Uchi no Kaisha no Chiisai Senpai no Hanashi Episode 8
+Episode Name: Spy Kyoushitsu Season 2 Episode 8
 
-Episode Link: https://allanime.to/watch/T4M7inSSaC3R2ahPT/episode-8-sub
+Episode Link: https://allanime.to/watch/Xaoi34yrDW4cA5zq4/episode-8-sub
  
 # Analytics
 
