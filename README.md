@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Spy Kyoushitsu Season 2 Episode 8
+Episode Name: Jewelpet Episode 29
 
-Episode Link: https://allanime.to/watch/Xaoi34yrDW4cA5zq4/episode-8-sub
+Episode Link: https://allanime.to/watch/KTP7GNmpkcSeL92zs/episode-29-sub
  
 # Analytics
 
