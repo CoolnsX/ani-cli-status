@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tanoshii Muumin Ikka Bouken Nikki Episode 52
+Episode Name: Ryza no Atelier Tokoyami no Joou to Himitsu no Kakurega Episode 10
 
-Episode Link: https://allanime.to/watch/uTGbSs8QDZFLdeTBG/episode-52-sub
+Episode Link: https://allanime.to/watch/wQC2B9C2HFfGtnFZi/episode-10-sub
  
 # Analytics
 
