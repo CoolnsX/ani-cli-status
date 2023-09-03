@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jewelpet Episode 29
+Episode Name: Ayaka Episode 10
 
-Episode Link: https://allanime.to/watch/KTP7GNmpkcSeL92zs/episode-29-sub
+Episode Link: https://allanime.to/watch/SERXBtRgFyER3LCSq/episode-10-sub
  
 # Analytics
 
