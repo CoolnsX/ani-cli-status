@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: AI no Idenshi Episode 8
+Episode Name: SF Saiyuuki Starzinger Episode 60
 
-Episode Link: https://allanime.to/watch/7MkaaxjNqgpDZF54X/episode-8-sub
+Episode Link: https://allanime.to/watch/fJaqd6FELTs9cG4Ee/episode-60-sub
  
 # Analytics
 
