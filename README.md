@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 9
+Episode Name: Sugar Apple Fairy Tale Part 2 Episode 9
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-9-sub
+Episode Link: https://allanime.to/watch/KnoD88GBqQmvDfcpn/episode-9-sub
  
 # Analytics
 
