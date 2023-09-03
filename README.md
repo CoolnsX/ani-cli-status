@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ayaka Episode 10
+Episode Name: Tanoshii Muumin Ikka Bouken Nikki Episode 52
 
-Episode Link: https://allanime.to/watch/SERXBtRgFyER3LCSq/episode-10-sub
+Episode Link: https://allanime.to/watch/uTGbSs8QDZFLdeTBG/episode-52-sub
  
 # Analytics
 
