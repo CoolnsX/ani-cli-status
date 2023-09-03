@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Liar Liar Episode 10
+Episode Name: AI no Idenshi Episode 8
 
-Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-10-sub
+Episode Link: https://allanime.to/watch/7MkaaxjNqgpDZF54X/episode-8-sub
  
 # Analytics
 
