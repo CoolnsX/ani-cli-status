@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Maken ga Shihai suru Episode 9
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 9
 
-Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-9-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-9-sub
  
 # Analytics
 
