@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: SF Saiyuuki Starzinger Episode 60
+Episode Name: Nanatsu no Maken ga Shihai suru Episode 9
 
-Episode Link: https://allanime.to/watch/fJaqd6FELTs9cG4Ee/episode-60-sub
+Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-9-sub
  
 # Analytics
 
