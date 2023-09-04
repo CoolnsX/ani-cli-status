@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 9
+Episode Name: Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu Episode 9
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-9-sub
+Episode Link: https://allanime.to/watch/3wRbRvqdfHBxxmarg/episode-9-sub
  
 # Analytics
 
