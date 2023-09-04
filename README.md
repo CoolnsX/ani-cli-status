@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Temple Episode 9
+Episode Name: Kanojo Okarishimasu Season 3 Episode 8
 
-Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-9-sub
+Episode Link: https://allanime.to/watch/Z4HXM5cXSxnvNkm8N/episode-8-sub
  
 # Analytics
 
