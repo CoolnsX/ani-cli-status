@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 21
+Episode Name: Detective Conan TV Episode 1095
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-21-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1095-sub
  
 # Analytics
 
