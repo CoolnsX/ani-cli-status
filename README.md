@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 19
+Episode Name: Edens Zero Season 2 Episode 22
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-19-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-22-sub
  
 # Analytics
 
