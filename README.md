@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 59
+Episode Name: Ao no Orchestra Episode 19
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-59-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-19-sub
  
 # Analytics
 
