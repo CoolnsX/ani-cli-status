@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 9
+Episode Name: Tousouchuu Great Mission Episode 21
 
-Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-9-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-21-sub
  
 # Analytics
 
