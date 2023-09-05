@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cardfight Vanguard will Dress Season 3 Episode 8
+Episode Name: Jitsu wa Ore Saikyou deshita Episode 8
 
-Episode Link: https://allanime.to/watch/JS9XZz87T9a8ABhCw/episode-8-sub
+Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-8-sub
  
 # Analytics
 
