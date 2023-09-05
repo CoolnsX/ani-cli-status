@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 59
+Episode Name: Okashi na Tensei Episode 11
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-59-sub
+Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-11-sub
  
 # Analytics
 
