@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1095
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 9
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1095-sub
+Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-9-sub
  
 # Analytics
 
