@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Okashi na Tensei Episode 11
+Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 9
 
-Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-11-sub
+Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-9-sub
  
 # Analytics
 
