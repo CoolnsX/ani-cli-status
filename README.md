@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 19
+Episode Name: Cardfight Vanguard will Dress Season 3 Episode 8
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-19-sub
+Episode Link: https://allanime.to/watch/JS9XZz87T9a8ABhCw/episode-8-sub
  
 # Analytics
 
