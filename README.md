@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 21
+Episode Name: Cardfight Vanguard will Dress Season 3 Episode 8
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-21-sub
+Episode Link: https://allanime.to/watch/JS9XZz87T9a8ABhCw/episode-8-sub
  
 # Analytics
 
