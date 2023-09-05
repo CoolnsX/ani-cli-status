@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 9
+Episode Name: Shadowverse Flame Episode 59
 
-Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-9-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-59-sub
  
 # Analytics
 
