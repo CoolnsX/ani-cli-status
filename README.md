@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eiyuu Kyoushitsu Episode 9
+Episode Name: Uchi no Kaisha no Chiisai Senpai no Hanashi Episode 8
 
-Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-9-sub
+Episode Link: https://allanime.to/watch/T4M7inSSaC3R2ahPT/episode-8-sub
  
 # Analytics
 
