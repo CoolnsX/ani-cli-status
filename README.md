@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Liar Liar Episode 10
+Episode Name: Eiyuu Kyoushitsu Episode 9
 
-Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-10-sub
+Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-9-sub
  
 # Analytics
 
