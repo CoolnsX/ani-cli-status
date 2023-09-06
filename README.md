@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Synduality Noir Episode 9
+Episode Name: Mononogatari Season 2 Episode 10
 
-Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-9-sub
+Episode Link: https://allanime.to/watch/LSoqxbhoRsLwgBWhF/episode-10-sub
  
 # Analytics
 
