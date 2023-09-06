@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Oishinbo Episode 42
+Episode Name: Masamune kun no Revenge R Episode 10
 
-Episode Link: https://allanime.to/watch/x9hvM6xxnXBhhhJCn/episode-42-sub
+Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-10-sub
  
 # Analytics
 
