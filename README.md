@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ryza no Atelier Tokoyami no Joou to Himitsu no Kakurega Episode 10
+Episode Name: Eiyuu Kyoushitsu Episode 9
 
-Episode Link: https://allanime.to/watch/wQC2B9C2HFfGtnFZi/episode-10-sub
+Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-9-sub
  
 # Analytics
 
