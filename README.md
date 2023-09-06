@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Horimiya Piece Episode 10
+Episode Name: Level 1 dakedo Unique Skill de Saikyou desu Episode 9
 
-Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-10-sub
+Episode Link: https://allanime.to/watch/mypjxAxRSp3NibNMy/episode-9-sub
  
 # Analytics
 
