@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Masamune kun no Revenge R Episode 10
+Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 21
 
-Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-10-sub
+Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-21-sub
  
 # Analytics
 
