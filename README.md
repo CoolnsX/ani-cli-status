@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Temple Episode 9
+Episode Name: Horimiya Piece Episode 10
 
-Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-9-sub
+Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-10-sub
  
 # Analytics
 
