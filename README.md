@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 21
+Episode Name: Masamune kun no Revenge R Episode 10
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-21-sub
+Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-10-sub
  
 # Analytics
 
