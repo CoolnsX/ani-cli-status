@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mononogatari Season 2 Episode 10
+Episode Name: Dr Slump Arale chan Episode 145
 
-Episode Link: https://allanime.to/watch/LSoqxbhoRsLwgBWhF/episode-10-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-145-sub
  
 # Analytics
 
