@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho × GAMERA Rebirth Episode 1
+Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 10
 
-Episode Link: https://allanime.to/watch/G2HhKZeRRFGHZCLJA/episode-1-sub
+Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-10-sub
  
 # Analytics
 
