@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 10
+Episode Name: Mononogatari Season 2 Episode 10
 
-Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-10-sub
+Episode Link: https://allanime.to/watch/LSoqxbhoRsLwgBWhF/episode-10-sub
  
 # Analytics
 
