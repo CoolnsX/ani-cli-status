@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Suki na Ko ga Megane wo Wasureta Episode 10
+Episode Name: Uchi no Kaisha no Chiisai Senpai no Hanashi Episode 8
 
-Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-10-sub
+Episode Link: https://allanime.to/watch/T4M7inSSaC3R2ahPT/episode-8-sub
  
 # Analytics
 
