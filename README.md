@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 145
+Episode Name: Jujutsu Kaisen 2nd Season Episode 7
 
-Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-145-sub
+Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-7-sub
  
 # Analytics
 
