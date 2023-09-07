@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 9
+Episode Name: Dark Gathering Episode 9
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-9-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-9-sub
  
 # Analytics
 
