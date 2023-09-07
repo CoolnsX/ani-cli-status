@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 19
+Episode Name: Oishinbo Episode 42
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-19-sub
+Episode Link: https://allanime.to/watch/x9hvM6xxnXBhhhJCn/episode-42-sub
  
 # Analytics
 
