@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Oishinbo Episode 42
+Episode Name: Yoru wa Neko to Issho × GAMERA Rebirth Episode 1
 
-Episode Link: https://allanime.to/watch/x9hvM6xxnXBhhhJCn/episode-42-sub
+Episode Link: https://allanime.to/watch/G2HhKZeRRFGHZCLJA/episode-1-sub
  
 # Analytics
 
