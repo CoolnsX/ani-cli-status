@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ayakashi Triangle Episode 9
+Episode Name: Niehime to Kemono no Ou Episode 21
 
-Episode Link: https://allanime.to/watch/MAKvrdu5Qxfdqm2fz/episode-9-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-21-sub
  
 # Analytics
 
