@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ayakashi Triangle Episode 9
+Episode Name: Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu Episode 10
 
-Episode Link: https://allanime.to/watch/MAKvrdu5Qxfdqm2fz/episode-9-sub
+Episode Link: https://allanime.to/watch/3wRbRvqdfHBxxmarg/episode-10-sub
  
 # Analytics
 
