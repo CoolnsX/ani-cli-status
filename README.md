@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Atashin chi Episode 100
+Episode Name: Gamera Rebirth Episode 6
 
-Episode Link: https://allanime.to/watch/6bFbQnsqL5rpgonfm/episode-100-sub
+Episode Link: https://allanime.to/watch/bAeprY93gN86Zn3wq/episode-6-sub
  
 # Analytics
 
