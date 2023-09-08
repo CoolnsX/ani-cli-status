@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Houkago no Breath Episode 1
+Episode Name: Synduality Noir Episode 9
 
-Episode Link: https://allanime.to/watch/RFSfnCibPC7FKgvzr/episode-1-sub
+Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-9-sub
  
 # Analytics
 
