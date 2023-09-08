@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gamera Rebirth Episode 6
+Episode Name: Yami Shibai 11 Episode 9
 
-Episode Link: https://allanime.to/watch/bAeprY93gN86Zn3wq/episode-6-sub
+Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-9-sub
  
 # Analytics
 
