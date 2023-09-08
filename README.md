@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Shiawase na Kekkon Episode 10
+Episode Name: Gamera Rebirth Episode 6
 
-Episode Link: https://allanime.to/watch/ZjJrrmrMKbLgebWAL/episode-10-sub
+Episode Link: https://allanime.to/watch/bAeprY93gN86Zn3wq/episode-6-sub
  
 # Analytics
 
