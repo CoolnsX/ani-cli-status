@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Maken ga Shihai suru Episode 10
+Episode Name: Dekiru Neko wa Kyou mo Yuuutsu Episode 10
 
-Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-10-sub
+Episode Link: https://allanime.to/watch/iwdYTD8AkMjawQXgY/episode-10-sub
  
 # Analytics
 
