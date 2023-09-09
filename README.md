@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Episode 10
+Episode Name: Watashi no Shiawase na Kekkon Episode 10
 
-Episode Link: https://allanime.to/watch/mDmehMNfd4nTP9FKC/episode-10-sub
+Episode Link: https://allanime.to/watch/ZjJrrmrMKbLgebWAL/episode-10-sub
  
 # Analytics
 
