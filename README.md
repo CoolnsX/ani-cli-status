@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: AI no Idenshi Episode 9
+Episode Name: Shadowverse Flame Seven Shadows hen Episode 10
 
-Episode Link: https://allanime.to/watch/7MkaaxjNqgpDZF54X/episode-9-sub
+Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-10-sub
  
 # Analytics
 
