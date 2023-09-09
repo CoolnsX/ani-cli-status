@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dekiru Neko wa Kyou mo Yuuutsu Episode 10
+Episode Name: Okashi na Tensei Episode 11
 
-Episode Link: https://allanime.to/watch/iwdYTD8AkMjawQXgY/episode-10-sub
+Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-11-sub
  
 # Analytics
 
