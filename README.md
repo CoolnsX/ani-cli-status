@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1096
+Episode Name: Suki na Ko ga Megane wo Wasureta Episode 10
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1096-sub
+Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-10-sub
  
 # Analytics
 
