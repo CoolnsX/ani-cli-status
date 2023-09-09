@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Okashi na Tensei Episode 11
+Episode Name: Shijou Saikyou no Deshi Kenichi OVA Specials Episode 4
 
-Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-11-sub
+Episode Link: https://allanime.to/watch/ofpec6bgfvw4rKZ9b/episode-4-sub
  
 # Analytics
 
