@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 10
+Episode Name: Ninjala Episode 84
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-10-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-84-sub
  
 # Analytics
 
