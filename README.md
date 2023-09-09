@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shijou Saikyou no Deshi Kenichi OVA Specials Episode 4
+Episode Name: Nanatsu no Maken ga Shihai suru Episode 10
 
-Episode Link: https://allanime.to/watch/ofpec6bgfvw4rKZ9b/episode-4-sub
+Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-10-sub
  
 # Analytics
 
