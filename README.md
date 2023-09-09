@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: AI no Idenshi Episode 9
+Episode Name: Detective Conan TV Episode 1096
 
-Episode Link: https://allanime.to/watch/7MkaaxjNqgpDZF54X/episode-9-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1096-sub
  
 # Analytics
 
