@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Suki na Ko ga Megane wo Wasureta Episode 10
+Episode Name: Edens Zero Season 2 Episode 23
 
-Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-10-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-23-sub
  
 # Analytics
 
