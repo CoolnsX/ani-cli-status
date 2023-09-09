@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hataraku Maou sama Season 2 Episode 9
+Episode Name: Kyoukai Senki Kyokkou no Souki Episode 3
 
-Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-9-sub
+Episode Link: https://allanime.to/watch/mJkFd49TfFs57Q6cp/episode-3-sub
  
 # Analytics
 
