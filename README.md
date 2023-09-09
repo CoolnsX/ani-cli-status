@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 10
+Episode Name: Hataraku Maou sama Season 2 Episode 9
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-10-sub
+Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-9-sub
  
 # Analytics
 
