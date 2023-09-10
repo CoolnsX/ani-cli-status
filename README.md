@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shijou Saikyou no Deshi Kenichi OVA Specials Episode 4
+Episode Name: Jarinko Chie TV Episode 11
 
-Episode Link: https://allanime.to/watch/ofpec6bgfvw4rKZ9b/episode-4-sub
+Episode Link: https://allanime.to/watch/mSxuech6C2kxLs5hy/episode-11-sub
  
 # Analytics
 
