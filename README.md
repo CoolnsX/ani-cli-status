@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seija Musou Salaryman Isekai de Ikinokoru Tame ni Ayumu Michi Episode 10
+Episode Name: Atashin chi Episode 100
 
-Episode Link: https://allanime.to/watch/iYwbaywiQ86vCc3cf/episode-10-sub
+Episode Link: https://allanime.to/watch/6bFbQnsqL5rpgonfm/episode-100-sub
  
 # Analytics
 
