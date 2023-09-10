@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gamera Rebirth Episode 6
+Episode Name: 1P Episode 1075
 
-Episode Link: https://allanime.to/watch/bAeprY93gN86Zn3wq/episode-6-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1075-sub
  
 # Analytics
 
