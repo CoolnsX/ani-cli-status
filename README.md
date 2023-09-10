@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kyoukai Senki Kyokkou no Souki Episode 3
+Episode Name: Shiro Seijo to Kuro Bokushi Episode 9
 
-Episode Link: https://allanime.to/watch/mJkFd49TfFs57Q6cp/episode-3-sub
+Episode Link: https://allanime.to/watch/DLGf3rD7huzx25mSJ/episode-9-sub
  
 # Analytics
 
