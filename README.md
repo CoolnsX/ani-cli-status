@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seija Musou Salaryman Isekai de Ikinokoru Tame ni Ayumu Michi Episode 10
+Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 10
 
-Episode Link: https://allanime.to/watch/iYwbaywiQ86vCc3cf/episode-10-sub
+Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-10-sub
  
 # Analytics
 
