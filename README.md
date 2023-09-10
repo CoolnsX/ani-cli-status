@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1075
+Episode Name: Edens Zero Season 2 Episode 23
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1075-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-23-sub
  
 # Analytics
 
