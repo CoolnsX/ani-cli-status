@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 22
+Episode Name: Ninjala Episode 84
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-22-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-84-sub
  
 # Analytics
 
