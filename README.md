@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 11
+Episode Name: Horimiya Piece Episode 11
 
-Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-11-sub
+Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-11-sub
  
 # Analytics
 
