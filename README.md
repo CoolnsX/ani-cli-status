@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1075
+Episode Name: Horimiya Piece Episode 11
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1075-sub
+Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-11-sub
  
 # Analytics
 
