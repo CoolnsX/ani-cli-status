@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Maken ga Shihai suru Episode 10
+Episode Name: 1P Episode 1075
 
-Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-10-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1075-sub
  
 # Analytics
 
