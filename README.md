@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gamera Rebirth Episode 6
+Episode Name: Hyakushou Kizoku Episode 10
 
-Episode Link: https://allanime.to/watch/bAeprY93gN86Zn3wq/episode-6-sub
+Episode Link: https://allanime.to/watch/y9EHCDcAPCYSktPoY/episode-10-sub
  
 # Analytics
 
