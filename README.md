@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 12
+Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 22
 
-Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-12-sub
+Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-22-sub
  
 # Analytics
 
