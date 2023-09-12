@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 22
+Episode Name: Okashi na Tensei Episode 12
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-22-sub
+Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-12-sub
  
 # Analytics
 
