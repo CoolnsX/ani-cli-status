@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cardfight Vanguard will Dress Season 3 Episode 9
+Episode Name: BLEACH Sennen Kessen hen Ketsubetsu tan Episode 9
 
-Episode Link: https://allanime.to/watch/JS9XZz87T9a8ABhCw/episode-9-sub
+Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-9-sub
  
 # Analytics
 
