@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 12
+Episode Name: Liar Liar Episode 11
 
-Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-12-sub
+Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-11-sub
  
 # Analytics
 
