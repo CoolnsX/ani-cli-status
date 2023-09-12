@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 60
+Episode Name: Ao no Orchestra Episode 20
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-60-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-20-sub
  
 # Analytics
 
