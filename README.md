@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BLEACH Sennen Kessen hen Ketsubetsu tan Episode 9
+Episode Name: Shadowverse Flame Episode 60
 
-Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-9-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-60-sub
  
 # Analytics
 
