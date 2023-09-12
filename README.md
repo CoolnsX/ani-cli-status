@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 11 Episode 10
+Episode Name: Kyoukai Senki Kyokkou no Souki Episode 3
 
-Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-10-sub
+Episode Link: https://allanime.to/watch/mJkFd49TfFs57Q6cp/episode-3-sub
  
 # Analytics
 
