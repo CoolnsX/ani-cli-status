@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mononogatari Season 2 Episode 11
+Episode Name: Liar Liar Episode 11
 
-Episode Link: https://allanime.to/watch/LSoqxbhoRsLwgBWhF/episode-11-sub
+Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-11-sub
  
 # Analytics
 
