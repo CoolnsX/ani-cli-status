@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Okashi na Tensei Episode 12
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 10
 
-Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-12-sub
+Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-10-sub
  
 # Analytics
 
