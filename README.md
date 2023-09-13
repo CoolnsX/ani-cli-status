@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Atashin chi Episode 150
+Episode Name: Ryza no Atelier Tokoyami no Joou to Himitsu no Kakurega Episode 11
 
-Episode Link: https://allanime.to/watch/6bFbQnsqL5rpgonfm/episode-150-sub
+Episode Link: https://allanime.to/watch/wQC2B9C2HFfGtnFZi/episode-11-sub
  
 # Analytics
 
