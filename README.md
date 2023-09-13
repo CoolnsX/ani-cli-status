@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ryza no Atelier Tokoyami no Joou to Himitsu no Kakurega Episode 11
+Episode Name: Masamune kun no Revenge R Episode 11
 
-Episode Link: https://allanime.to/watch/wQC2B9C2HFfGtnFZi/episode-11-sub
+Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-11-sub
  
 # Analytics
 
