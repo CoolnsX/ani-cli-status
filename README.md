@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jitsu wa Ore Saikyou deshita Episode 9
+Episode Name: Tousouchuu Great Mission Episode 22
 
-Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-9-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-22-sub
  
 # Analytics
 
