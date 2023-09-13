@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jitsu wa Ore Saikyou deshita Episode 9
+Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 12
 
-Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-9-sub
+Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-12-sub
  
 # Analytics
 
