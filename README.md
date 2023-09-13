@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Masamune kun no Revenge R Episode 11
+Episode Name: Okashi na Tensei Episode 12
 
-Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-11-sub
+Episode Link: https://allanime.to/watch/FCkijFs4KQMhFvQm2/episode-12-sub
  
 # Analytics
 
