@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Undead Girl Murder Farce Episode 11
+Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 10
 
-Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-11-sub
+Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-10-sub
  
 # Analytics
 
