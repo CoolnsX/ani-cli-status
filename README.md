@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Masamune kun no Revenge R Episode 11
+Episode Name: Undead Girl Murder Farce Episode 11
 
-Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-11-sub
+Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-11-sub
  
 # Analytics
 
