@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 110
+Episode Name: Masamune kun no Revenge R Episode 11
 
-Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-110-sub
+Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-11-sub
  
 # Analytics
 
