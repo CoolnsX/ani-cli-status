@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Atashin chi Episode 200
+Episode Name: Niehime to Kemono no Ou Episode 22
 
-Episode Link: https://allanime.to/watch/6bFbQnsqL5rpgonfm/episode-200-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-22-sub
  
 # Analytics
 
