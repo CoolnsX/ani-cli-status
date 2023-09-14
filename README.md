@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 10
+Episode Name: 1P Episode 1075
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-10-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1075-sub
  
 # Analytics
 
