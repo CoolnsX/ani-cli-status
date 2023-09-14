@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Lv1 Maou to One Room Yuusha Episode 11
+Episode Name: Helck Episode 10
 
-Episode Link: https://allanime.to/watch/2rRgDwqDDgzgDuLwi/episode-11-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-10-sub
  
 # Analytics
 
