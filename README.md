@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 22
+Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 10
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-22-sub
+Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-10-sub
  
 # Analytics
 
