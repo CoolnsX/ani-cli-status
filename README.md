@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Undead Girl Murder Farce Episode 11
+Episode Name: FLCL Grunge Episode 1
 
-Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-11-sub
+Episode Link: https://allanime.to/watch/6dJAo9n8nNgktYeBu/episode-1-sub
  
 # Analytics
 
