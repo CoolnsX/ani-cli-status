@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 7
+Episode Name: BanG Dream It s MyGO Episode 13
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-7-sub
+Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-13-sub
  
 # Analytics
 
