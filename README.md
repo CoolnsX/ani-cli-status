@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 11
+Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 12
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-11-sub
+Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-12-sub
  
 # Analytics
 
