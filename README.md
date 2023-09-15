@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bungou Stray Dogs Season 5 Episode 10
+Episode Name: BanG Dream It s MyGO Episode 13
 
-Episode Link: https://allanime.to/watch/JgfRwcQP9FH3n9G8D/episode-10-sub
+Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-13-sub
  
 # Analytics
 
