@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jujutsu Kaisen 2nd Season Episode 8
+Episode Name: Ayakashi Triangle Episode 10
 
-Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-8-sub
+Episode Link: https://allanime.to/watch/MAKvrdu5Qxfdqm2fz/episode-10-sub
  
 # Analytics
 
