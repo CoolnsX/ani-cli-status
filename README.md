@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BanG Dream It s MyGO Episode 13
+Episode Name: Undead Girl Murder Farce Episode 11
 
-Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-13-sub
+Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-11-sub
  
 # Analytics
 
