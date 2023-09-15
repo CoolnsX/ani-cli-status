@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: FLCL Grunge Episode 1
+Episode Name: Odekake Kozame Episode 7
 
-Episode Link: https://allanime.to/watch/6dJAo9n8nNgktYeBu/episode-1-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-7-sub
  
 # Analytics
 
