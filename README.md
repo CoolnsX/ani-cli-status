@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shiro Seijo to Kuro Bokushi Episode 10
+Episode Name: Sugar Apple Fairy Tale Part 2 Episode 11
 
-Episode Link: https://allanime.to/watch/DLGf3rD7huzx25mSJ/episode-10-sub
+Episode Link: https://allanime.to/watch/KnoD88GBqQmvDfcpn/episode-11-sub
  
 # Analytics
 
