@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BanG Dream It s MyGO Episode 13
+Episode Name: Ninjala Episode 85
 
-Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-13-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-85-sub
  
 # Analytics
 
