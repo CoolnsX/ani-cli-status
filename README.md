@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu Episode 11
+Episode Name: BanG Dream It s MyGO Episode 13
 
-Episode Link: https://allanime.to/watch/3wRbRvqdfHBxxmarg/episode-11-sub
+Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-13-sub
  
 # Analytics
 
