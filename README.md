@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Atashin chi Episode 200
+Episode Name: Sasaki to Miyano Movie Sotsugyou hen Episode 1
 
-Episode Link: https://allanime.to/watch/6bFbQnsqL5rpgonfm/episode-200-sub
+Episode Link: https://allanime.to/watch/H7YSD3zTmMpFxyA2D/episode-1-sub
  
 # Analytics
 
