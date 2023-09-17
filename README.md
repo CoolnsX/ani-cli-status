@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 11
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 11
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-11-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-11-sub
  
 # Analytics
 
