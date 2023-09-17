@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jitsu wa Ore Saikyou deshita Episode 10
+Episode Name: AI no Idenshi Episode 10
 
-Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-10-sub
+Episode Link: https://allanime.to/watch/7MkaaxjNqgpDZF54X/episode-10-sub
  
 # Analytics
 
