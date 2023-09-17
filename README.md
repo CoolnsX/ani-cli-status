@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 15th Anniversary Short Animation Battle Spirits Shounen Toppa Bashin x Saikyou Ginga Ultimate Zero Battle Spirits Episode 1
+Episode Name: BanG Dream It s MyGO Episode 13
 
-Episode Link: https://allanime.to/watch/8ysWk2xipqasMwKKy/episode-1-sub
+Episode Link: https://allanime.to/watch/rP45EBdfZSEYs7Wub/episode-13-sub
  
 # Analytics
 
