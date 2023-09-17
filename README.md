@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Maken ga Shihai suru Episode 11
+Episode Name: Machine Robo Butchigiri Battle Hackers Episode 31
 
-Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-11-sub
+Episode Link: https://allanime.to/watch/EStmFFCfGhA6NvWXv/episode-31-sub
  
 # Analytics
 
