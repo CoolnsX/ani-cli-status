@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hataraku Maou sama Season 2 Episode 10
+Episode Name: Hirogaru Sky Precure Episode 33
 
-Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-10-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-33-sub
  
 # Analytics
 
