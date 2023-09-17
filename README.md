@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 85
+Episode Name: Ayaka Episode 12
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-85-sub
+Episode Link: https://allanime.to/watch/SERXBtRgFyER3LCSq/episode-12-sub
  
 # Analytics
 
