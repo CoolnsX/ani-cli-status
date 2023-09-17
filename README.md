@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jitsu wa Ore Saikyou deshita Episode 10
+Episode Name: Seija Musou Salaryman Isekai de Ikinokoru Tame ni Ayumu Michi Episode 11
 
-Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-10-sub
+Episode Link: https://allanime.to/watch/iYwbaywiQ86vCc3cf/episode-11-sub
  
 # Analytics
 
