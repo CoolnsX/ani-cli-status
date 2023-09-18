@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 11
+Episode Name: Detective Conan TV Episode 1097
 
-Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-11-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1097-sub
  
 # Analytics
 
