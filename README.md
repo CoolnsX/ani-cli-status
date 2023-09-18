@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Liar Liar Episode 12
+Episode Name: Jikuu Ihoujin Kyoko Chocola ni Omakase Episode 1
 
-Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-12-sub
+Episode Link: https://allanime.to/watch/5oFEssxjQ6QZm5BvT/episode-1-sub
  
 # Analytics
 
