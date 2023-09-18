@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ryza no Atelier Tokoyami no Joou to Himitsu no Kakurega Episode 12
+Episode Name: Tousouchuu Great Mission Episode 23
 
-Episode Link: https://allanime.to/watch/wQC2B9C2HFfGtnFZi/episode-12-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-23-sub
  
 # Analytics
 
