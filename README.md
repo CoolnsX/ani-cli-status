@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: AI no Idenshi Episode 10
+Episode Name: Hyakushou Kizoku Episode 11
 
-Episode Link: https://allanime.to/watch/7MkaaxjNqgpDZF54X/episode-10-sub
+Episode Link: https://allanime.to/watch/y9EHCDcAPCYSktPoY/episode-11-sub
  
 # Analytics
 
