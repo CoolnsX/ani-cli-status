@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1097
+Episode Name: Liar Liar Episode 12
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1097-sub
+Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-12-sub
  
 # Analytics
 
