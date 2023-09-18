@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Maken ga Shihai suru Episode 11
+Episode Name: AI no Idenshi Episode 10
 
-Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-11-sub
+Episode Link: https://allanime.to/watch/7MkaaxjNqgpDZF54X/episode-10-sub
  
 # Analytics
 
