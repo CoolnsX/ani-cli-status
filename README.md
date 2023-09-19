@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 11
+Episode Name: Edens Zero Season 2 Episode 24
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-11-sub
+Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-24-sub
  
 # Analytics
 
