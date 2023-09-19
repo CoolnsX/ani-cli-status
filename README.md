@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eiyuu Kyoushitsu Episode 11
+Episode Name: BLEACH Sennen Kessen hen Ketsubetsu tan Episode 10
 
-Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-11-sub
+Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-10-sub
  
 # Analytics
 
