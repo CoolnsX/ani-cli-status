@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eiyuu Kyoushitsu Episode 11
+Episode Name: 15th Anniversary Short Animation Battle Spirits Shounen Toppa Bashin x Saikyou Ginga Ultimate Zero Battle Spirits Episode 1
 
-Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-11-sub
+Episode Link: https://allanime.to/watch/8ysWk2xipqasMwKKy/episode-1-sub
  
 # Analytics
 
