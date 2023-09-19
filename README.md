@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 23
+Episode Name: Liar Liar Episode 12
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-23-sub
+Episode Link: https://allanime.to/watch/DTiTJwGqhhK8sPoNz/episode-12-sub
  
 # Analytics
 
