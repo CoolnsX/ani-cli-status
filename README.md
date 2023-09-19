@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ayakashi Triangle Episode 11
+Episode Name: Hirogaru Sky Precure Episode 33
 
-Episode Link: https://allanime.to/watch/MAKvrdu5Qxfdqm2fz/episode-11-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-33-sub
  
 # Analytics
 
