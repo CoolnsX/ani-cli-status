@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Machine Robo Butchigiri Battle Hackers Episode 31
+Episode Name: Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shison tachi no Gakkou e Kayou II Episode 11
 
-Episode Link: https://allanime.to/watch/EStmFFCfGhA6NvWXv/episode-31-sub
+Episode Link: https://allanime.to/watch/QWLhHnBT9jNj4owF6/episode-11-sub
  
 # Analytics
 
