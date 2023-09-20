@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 33
+Episode Name: 1P Episode 1076
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-33-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1076-sub
  
 # Analytics
 
