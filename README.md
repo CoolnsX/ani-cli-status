@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Lv1 Maou to One Room Yuusha Episode 12
+Episode Name: Hirogaru Sky Precure Episode 33
 
-Episode Link: https://allanime.to/watch/2rRgDwqDDgzgDuLwi/episode-12-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-33-sub
  
 # Analytics
 
