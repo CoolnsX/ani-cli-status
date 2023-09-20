@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shison tachi no Gakkou e Kayou II Episode 11
+Episode Name: Genjitsu no Yohane Sunshine in the Mirror Episode 13
 
-Episode Link: https://allanime.to/watch/QWLhHnBT9jNj4owF6/episode-11-sub
+Episode Link: https://allanime.to/watch/8r6HdkPYx9Z22u7Dv/episode-13-sub
  
 # Analytics
 
