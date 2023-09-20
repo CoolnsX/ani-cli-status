@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mix Meisei Story Season 2 Nidome no Natsu Sora no Mukou e Episode 23
+Episode Name: BLEACH Sennen Kessen hen Ketsubetsu tan Episode 10
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-23-sub
+Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-10-sub
  
 # Analytics
 
