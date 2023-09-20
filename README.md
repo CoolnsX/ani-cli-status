@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 33
+Episode Name: Ryza no Atelier Tokoyami no Joou to Himitsu no Kakurega Episode 12
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-33-sub
+Episode Link: https://allanime.to/watch/wQC2B9C2HFfGtnFZi/episode-12-sub
  
 # Analytics
 
