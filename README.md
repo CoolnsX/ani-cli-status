@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BLEACH Sennen Kessen hen Ketsubetsu tan Episode 10
+Episode Name: Kidou Senshi Gundam 0083 STARDUST MEMORY Uchuu no Kagerou 2 Episode 1
 
-Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-10-sub
+Episode Link: https://allanime.to/watch/qk8wf9CBM5aPKBzit/episode-1-sub
  
 # Analytics
 
