@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: SYNDUALITY Noir Episode 11
+Episode Name: Masamune kun no Revenge R Episode 12
 
-Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-11-sub
+Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-12-sub
  
 # Analytics
 
