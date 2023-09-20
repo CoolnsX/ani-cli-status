@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: SYNDUALITY Noir Episode 11
+Episode Name: Machine Robo Butchigiri Battle Hackers Episode 31
 
-Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-11-sub
+Episode Link: https://allanime.to/watch/EStmFFCfGhA6NvWXv/episode-31-sub
  
 # Analytics
 
