@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BLEACH Sennen Kessen hen Ketsubetsu tan Episode 10
+Episode Name: Lv1 Maou to One Room Yuusha Episode 12
 
-Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-10-sub
+Episode Link: https://allanime.to/watch/2rRgDwqDDgzgDuLwi/episode-12-sub
  
 # Analytics
 
