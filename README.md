@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Zom 100 Zombie ni Naru Made ni Shitai 100 no Koto Episode 8
+Episode Name: Ao no Orchestra Episode 21
 
-Episode Link: https://allanime.to/watch/GoKAhRw3sy8vS3NB8/episode-8-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-21-sub
  
 # Analytics
 
