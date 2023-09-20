@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 21
+Episode Name: SYNDUALITY Noir Episode 11
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-21-sub
+Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-11-sub
  
 # Analytics
 
