@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mobile Suit Gundam 0083 Stardust Memory The Mayfly of Space Episode 1
+Episode Name: Helck Episode 11
 
-Episode Link: https://allanime.to/watch/79Fp8dZALFPqXniQs/episode-1-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-11-sub
  
 # Analytics
 
