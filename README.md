@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Machine Robo Butchigiri Battle Hackers Episode 31
+Episode Name: Horimiya piece Episode 12
 
-Episode Link: https://allanime.to/watch/EStmFFCfGhA6NvWXv/episode-31-sub
+Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-12-sub
  
 # Analytics
 
