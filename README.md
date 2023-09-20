@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 11
+Episode Name: Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shison tachi no Gakkou e Kayou II Episode 11
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-11-sub
+Episode Link: https://allanime.to/watch/QWLhHnBT9jNj4owF6/episode-11-sub
  
 # Analytics
 
