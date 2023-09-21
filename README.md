@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 33
+Episode Name: Kidou Senshi Gundam 0083 STARDUST MEMORY Uchuu no Kagerou 2 Episode 1
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-33-sub
+Episode Link: https://allanime.to/watch/qk8wf9CBM5aPKBzit/episode-1-sub
  
 # Analytics
 
