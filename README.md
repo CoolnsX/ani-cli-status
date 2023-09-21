@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kengan Ashura Season 2 Episode 12
+Episode Name: SYNDUALITY Noir Episode 11
 
-Episode Link: https://allanime.to/watch/ZEF6kmFfDaBGorZvT/episode-12-sub
+Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-11-sub
  
 # Analytics
 
