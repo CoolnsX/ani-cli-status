@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 12
+Episode Name: Yumemiru Danshi wa Genjitsushugisha Episode 12
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-12-sub
+Episode Link: https://allanime.to/watch/HcvmvD4jqYeLTGsZt/episode-12-sub
  
 # Analytics
 
