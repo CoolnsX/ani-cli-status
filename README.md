@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Suki na Ko ga Megane wo Wasureta Episode 12
+Episode Name: Temple Episode 11
 
-Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-12-sub
+Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-11-sub
  
 # Analytics
 
