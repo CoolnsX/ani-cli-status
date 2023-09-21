@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bungou Stray Dogs 5th Season Episode 11
+Episode Name: Spy Kyoushitsu 2nd season Episode 11
 
-Episode Link: https://allanime.to/watch/JgfRwcQP9FH3n9G8D/episode-11-sub
+Episode Link: https://allanime.to/watch/Xaoi34yrDW4cA5zq4/episode-11-sub
  
 # Analytics
 
