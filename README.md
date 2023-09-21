@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Osomatsu san Hipipo Zoku to Kagayaku Kajitsu Episode 1
+Episode Name: Eiyuu Kyoushitsu Episode 11
 
-Episode Link: https://allanime.to/watch/L3c7s9JxnCbcCnPuf/episode-1-sub
+Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-11-sub
  
 # Analytics
 
