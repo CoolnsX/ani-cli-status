@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kidou Senshi Gundam 0083 STARDUST MEMORY Uchuu no Kagerou 2 Episode 1
+Episode Name: Masamune kun no Revenge R Episode 12
 
-Episode Link: https://allanime.to/watch/qk8wf9CBM5aPKBzit/episode-1-sub
+Episode Link: https://allanime.to/watch/wyjHgJZznWF28ARJD/episode-12-sub
  
 # Analytics
 
