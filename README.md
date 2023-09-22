@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 11
+Episode Name: Kidou Senshi Gundam 0083 STARDUST MEMORY Uchuu no Kagerou 2 Episode 1
 
-Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-11-sub
+Episode Link: https://allanime.to/watch/qk8wf9CBM5aPKBzit/episode-1-sub
  
 # Analytics
 
