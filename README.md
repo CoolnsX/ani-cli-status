@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 8
+Episode Name: Yami Shibai 11 Episode 11
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-8-sub
+Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-11-sub
  
 # Analytics
 
