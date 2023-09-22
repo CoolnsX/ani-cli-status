@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Roujin Z Episode 1
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Episode 11
 
-Episode Link: https://allanime.to/watch/WPS4DEEsJFrnFiyqt/episode-1-sub
+Episode Link: https://allanime.to/watch/uvaA8ufcJbrFmF8Sb/episode-11-sub
  
 # Analytics
 
