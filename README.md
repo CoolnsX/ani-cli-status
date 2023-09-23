@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou Episode 12
+Episode Name: Vampire Hunter Episode 4
 
-Episode Link: https://allanime.to/watch/mDmehMNfd4nTP9FKC/episode-12-sub
+Episode Link: https://allanime.to/watch/dszsMrt2G6Q9L3W6J/episode-4-sub
  
 # Analytics
 
