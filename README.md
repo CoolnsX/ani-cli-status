@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Heart Cocktail Episode 3
+Episode Name: Suki na Ko ga Megane wo Wasureta Episode 12
 
-Episode Link: https://allanime.to/watch/v9GMayYwmf96n9GY2/episode-3-sub
+Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-12-sub
  
 # Analytics
 
