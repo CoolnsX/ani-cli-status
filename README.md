@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BLEACH Sennen Kessen hen Ketsubetsu tan Episode 11
+Episode Name: Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shison tachi no Gakkou e Kayou II Episode 12
 
-Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-11-sub
+Episode Link: https://allanime.to/watch/QWLhHnBT9jNj4owF6/episode-12-sub
  
 # Analytics
 
