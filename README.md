@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 23
+Episode Name: Mobile Suit Gundam 0083 Stardust Memory The Mayfly of Space Episode 1
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-23-sub
+Episode Link: https://allanime.to/watch/79Fp8dZALFPqXniQs/episode-1-sub
  
 # Analytics
 
