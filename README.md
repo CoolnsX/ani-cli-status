@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: SYNDUALITY Noir Episode 11
+Episode Name: Vampire Hunter Episode 4
 
-Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-11-sub
+Episode Link: https://allanime.to/watch/dszsMrt2G6Q9L3W6J/episode-4-sub
  
 # Analytics
 
