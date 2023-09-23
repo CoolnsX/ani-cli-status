@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 86
+Episode Name: Bungou Stray Dogs 5th Season Episode 11
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-86-sub
+Episode Link: https://allanime.to/watch/JgfRwcQP9FH3n9G8D/episode-11-sub
  
 # Analytics
 
