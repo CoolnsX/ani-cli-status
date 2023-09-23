@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Vampire Hunter Episode 4
+Episode Name: Niehime to Kemono no Ou Episode 23
 
-Episode Link: https://allanime.to/watch/dszsMrt2G6Q9L3W6J/episode-4-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-23-sub
  
 # Analytics
 
