@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Suki na Ko ga Megane wo Wasureta Episode 12
+Episode Name: Undead Girl Murder Farce Episode 12
 
-Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-12-sub
+Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-12-sub
  
 # Analytics
 
