@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: MIX MEISEI STORY 2ND SEASON Nidome no Natsu Sora no Mukou e Episode 24
+Episode Name: Undead Girl Murder Farce Episode 12
 
-Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-24-sub
+Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-12-sub
  
 # Analytics
 
