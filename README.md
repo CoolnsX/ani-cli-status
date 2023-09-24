@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shison tachi no Gakkou e Kayou II Episode 12
+Episode Name: Roujin Z Episode 1
 
-Episode Link: https://allanime.to/watch/QWLhHnBT9jNj4owF6/episode-12-sub
+Episode Link: https://allanime.to/watch/WPS4DEEsJFrnFiyqt/episode-1-sub
  
 # Analytics
 
