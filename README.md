@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shiro Seijo to Kuro Bokushi Episode 11
+Episode Name: Undead Girl Murder Farce Episode 12
 
-Episode Link: https://allanime.to/watch/DLGf3rD7huzx25mSJ/episode-11-sub
+Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-12-sub
  
 # Analytics
 
