@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Undead Girl Murder Farce Episode 12
+Episode Name: Dekiru Neko wa Kyou mo Yuuutsu Episode 12
 
-Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-12-sub
+Episode Link: https://allanime.to/watch/iwdYTD8AkMjawQXgY/episode-12-sub
  
 # Analytics
 
