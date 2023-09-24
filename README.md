@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BLEACH Sennen Kessen hen Ketsubetsu tan Episode 11
+Episode Name: Kyoukai Senki Kyokkou no Souki Episode 4
 
-Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-11-sub
+Episode Link: https://allanime.to/watch/mJkFd49TfFs57Q6cp/episode-4-sub
  
 # Analytics
 
