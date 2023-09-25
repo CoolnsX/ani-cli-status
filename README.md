@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Maken ga Shihai Suru Episode 12
+Episode Name: Ninjala Episode 86
 
-Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-12-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-86-sub
  
 # Analytics
 
