@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hataraku Maou sama 2nd Season Episode 11
+Episode Name: Seija Musou Salaryman Isekai de Ikinokoru Tame ni Ayumu Michi Episode 12
 
-Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-11-sub
+Episode Link: https://allanime.to/watch/iYwbaywiQ86vCc3cf/episode-12-sub
  
 # Analytics
 
