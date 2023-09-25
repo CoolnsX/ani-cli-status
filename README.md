@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seija Musou Salaryman Isekai de Ikinokoru Tame ni Ayumu Michi Episode 12
+Episode Name: 1P Episode 1077
 
-Episode Link: https://allanime.to/watch/iYwbaywiQ86vCc3cf/episode-12-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1077-sub
  
 # Analytics
 
