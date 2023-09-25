@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Temple Episode 12
+Episode Name: Ao no Orchestra Episode 22
 
-Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-12-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-22-sub
  
 # Analytics
 
