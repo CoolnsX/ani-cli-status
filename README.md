@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sugar Apple Fairy Tale Part 2 Episode 12
+Episode Name: Hataraku Maou sama 2nd Season Episode 11
 
-Episode Link: https://allanime.to/watch/KnoD88GBqQmvDfcpn/episode-12-sub
+Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-11-sub
  
 # Analytics
 
