@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kengan Ashura Season 2 Episode 12
+Episode Name: Nanatsu no Maken ga Shihai Suru Episode 12
 
-Episode Link: https://allanime.to/watch/ZEF6kmFfDaBGorZvT/episode-12-sub
+Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-12-sub
  
 # Analytics
 
