@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 12
+Episode Name: Shadowverse Flame Episode 62
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-12-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-62-sub
  
 # Analytics
 
