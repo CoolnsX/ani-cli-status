@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cardfight Vanguard will Dress Season 3 Episode 11
+Episode Name: AI no Idenshi Episode 11
 
-Episode Link: https://allanime.to/watch/JS9XZz87T9a8ABhCw/episode-11-sub
+Episode Link: https://allanime.to/watch/7MkaaxjNqgpDZF54X/episode-11-sub
  
 # Analytics
 
