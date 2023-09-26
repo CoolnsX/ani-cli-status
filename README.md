@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BLEACH Sennen Kessen hen Ketsubetsu tan Episode 11
+Episode Name: Dekiru Neko wa Kyou mo Yuuutsu Episode 12
 
-Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-11-sub
+Episode Link: https://allanime.to/watch/iwdYTD8AkMjawQXgY/episode-12-sub
  
 # Analytics
 
