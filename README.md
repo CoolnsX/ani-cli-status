@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Horimiya piece Episode 13
+Episode Name: Vampire Hunter Episode 4
 
-Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-13-sub
+Episode Link: https://allanime.to/watch/dszsMrt2G6Q9L3W6J/episode-4-sub
  
 # Analytics
 
