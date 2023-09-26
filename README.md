@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Vampire Hunter Episode 4
+Episode Name: Temple Episode 12
 
-Episode Link: https://allanime.to/watch/dszsMrt2G6Q9L3W6J/episode-4-sub
+Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-12-sub
  
 # Analytics
 
