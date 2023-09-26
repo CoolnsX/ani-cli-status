@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Temple Episode 12
+Episode Name: Dr Slump Arale chan Episode 146
 
-Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-12-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-146-sub
  
 # Analytics
 
