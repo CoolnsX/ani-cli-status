@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Uchi no Kaisha no Chiisai Senpai no Hanashi Episode 11
+Episode Name: BLEACH Sennen Kessen hen Ketsubetsu tan Episode 11
 
-Episode Link: https://allanime.to/watch/T4M7inSSaC3R2ahPT/episode-11-sub
+Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-11-sub
  
 # Analytics
 
