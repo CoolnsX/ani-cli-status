@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 11 Episode 12
+Episode Name: Sugar Apple Fairy Tale Part 2 Episode 12
 
-Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-12-sub
+Episode Link: https://allanime.to/watch/KnoD88GBqQmvDfcpn/episode-12-sub
  
 # Analytics
 
