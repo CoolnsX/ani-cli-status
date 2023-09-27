@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eiyuu Kyoushitsu Episode 12
+Episode Name: MIX MEISEI STORY 2ND SEASON Nidome no Natsu Sora no Mukou e Episode 24
 
-Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-12-sub
+Episode Link: https://allanime.to/watch/i7kcwQD8FiWY6Msnb/episode-24-sub
  
 # Analytics
 
