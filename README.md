@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kyoukai Senki Kyokkou no Souki Episode 4
+Episode Name: Suki na Ko ga Megane wo Wasureta Episode 13
 
-Episode Link: https://allanime.to/watch/mJkFd49TfFs57Q6cp/episode-4-sub
+Episode Link: https://allanime.to/watch/pacQnmfnJnkCEwhJg/episode-13-sub
  
 # Analytics
 
