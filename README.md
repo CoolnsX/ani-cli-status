@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 12
+Episode Name: Synduality Noir Episode 12
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-12-sub
+Episode Link: https://allanime.to/watch/uxt7qqWKoc2dXZHxD/episode-12-sub
  
 # Analytics
 
