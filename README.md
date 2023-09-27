@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1077
+Episode Name: Uchi no Kaisha no Chiisai Senpai no Hanashi Episode 11
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1077-sub
+Episode Link: https://allanime.to/watch/T4M7inSSaC3R2ahPT/episode-11-sub
  
 # Analytics
 
