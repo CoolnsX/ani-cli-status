@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 12
+Episode Name: Dark Gathering Episode 12
 
-Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-12-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-12-sub
  
 # Analytics
 
