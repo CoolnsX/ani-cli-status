@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: FLCL Grunge Episode 3
+Episode Name: Spy Kyoushitsu Season 2 Episode 12
 
-Episode Link: https://allanime.to/watch/6dJAo9n8nNgktYeBu/episode-3-sub
+Episode Link: https://allanime.to/watch/Xaoi34yrDW4cA5zq4/episode-12-sub
  
 # Analytics
 
