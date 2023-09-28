@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jitsu wa Ore Saikyou Deshita Episode 11
+Episode Name: Horimiya piece Episode 13
 
-Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-11-sub
+Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-13-sub
  
 # Analytics
 
