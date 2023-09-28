@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1098
+Episode Name: Nanatsu no Maken ga Shihai Suru Episode 12
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1098-sub
+Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-12-sub
  
 # Analytics
 
