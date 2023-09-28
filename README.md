@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Horimiya piece Episode 13
+Episode Name: Uchi no Kaisha no Chiisai Senpai no Hanashi Episode 11
 
-Episode Link: https://allanime.to/watch/83QprbsMLHyKQBQRK/episode-13-sub
+Episode Link: https://allanime.to/watch/T4M7inSSaC3R2ahPT/episode-11-sub
  
 # Analytics
 
