@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eiyuu Kyoushitsu Episode 12
+Episode Name: Undead Girl Murder Farce Episode 13
 
-Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-12-sub
+Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-13-sub
  
 # Analytics
 
