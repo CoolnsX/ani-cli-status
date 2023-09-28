@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jujutsu Kaisen 2nd Season Episode 10
+Episode Name: Jitsu wa Ore Saikyou Deshita Episode 11
 
-Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-10-sub
+Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-11-sub
  
 # Analytics
 
