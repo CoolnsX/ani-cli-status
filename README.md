@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Undead Girl Murder Farce Episode 13
+Episode Name: Odekake Kozame Episode 9
 
-Episode Link: https://allanime.to/watch/mkrXHPdEyLeEm6uiv/episode-13-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-9-sub
  
 # Analytics
 
