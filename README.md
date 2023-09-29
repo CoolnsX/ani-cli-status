@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tenchi Muyou GXP Paradise Shidou hen Episode 5
+Episode Name: Eiyuu Kyoushitsu Episode 12
 
-Episode Link: https://allanime.to/watch/DvKvm2E372X26QaqZ/episode-5-sub
+Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-12-sub
  
 # Analytics
 
