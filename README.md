@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1098
+Episode Name: Jitsu wa Ore Saikyou Deshita Episode 11
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1098-sub
+Episode Link: https://allanime.to/watch/y2irm9vr8TA3Jhptb/episode-11-sub
  
 # Analytics
 
