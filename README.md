@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Eiyuu Kyoushitsu Episode 12
+Episode Name: Hataraku Maou sama Season 2 Episode 12
 
-Episode Link: https://allanime.to/watch/dmGEqnNKgv9PB8PR3/episode-12-sub
+Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-12-sub
  
 # Analytics
 
