@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 9
+Episode Name: Hataraku Maou sama Season 2 Episode 12
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-9-sub
+Episode Link: https://allanime.to/watch/yCyvXvgS8syEy5qSj/episode-12-sub
  
 # Analytics
 
