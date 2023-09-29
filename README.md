@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 12
+Episode Name: Ayakashi Triangle Episode 12
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-12-sub
+Episode Link: https://allanime.to/watch/MAKvrdu5Qxfdqm2fz/episode-12-sub
  
 # Analytics
 
