@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1077
+Episode Name: Shiro Seijo to Kuro Bokushi Episode 12
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1077-sub
+Episode Link: https://allanime.to/watch/DLGf3rD7huzx25mSJ/episode-12-sub
  
 # Analytics
 
