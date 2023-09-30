@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 13
+Episode Name: Shadowverse Flame Episode 63
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-13-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-63-sub
  
 # Analytics
 
