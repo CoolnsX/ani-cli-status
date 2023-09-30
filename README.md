@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 24
+Episode Name: Ninjala Episode 87
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-24-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-87-sub
  
 # Analytics
 
