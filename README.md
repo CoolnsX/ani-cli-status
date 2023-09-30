@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 1
+Episode Name: Tousouchuu Great Mission Episode 24
 
-Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-1-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-24-sub
  
 # Analytics
 
