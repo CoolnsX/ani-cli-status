@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ojou to Banken kun Episode 1
+Episode Name: Dekiru Neko wa Kyou mo Yuuutsu Episode 13
 
-Episode Link: https://allanime.to/watch/QMip3pmqPAsu42Nis/episode-1-sub
+Episode Link: https://allanime.to/watch/iwdYTD8AkMjawQXgY/episode-13-sub
  
 # Analytics
 
