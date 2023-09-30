@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren Episode 4
+Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 1
 
-Episode Link: https://allanime.to/watch/ReHMC7TQnch3C6z8j/episode-4-sub
+Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-1-sub
  
 # Analytics
 
