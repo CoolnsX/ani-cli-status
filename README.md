@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 87
+Episode Name: Cardfight Vanguard will Dress Season 3 Episode 12
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-87-sub
+Episode Link: https://allanime.to/watch/JS9XZz87T9a8ABhCw/episode-12-sub
  
 # Analytics
 
