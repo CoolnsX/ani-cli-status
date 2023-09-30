@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shinigami Bocchan to Kuro Maid Season 2 Episode 12
+Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 1
 
-Episode Link: https://allanime.to/watch/vEBgz78xYZicwevpt/episode-12-sub
+Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-1-sub
  
 # Analytics
 
