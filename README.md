@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seiken Gakuin no Makentsukai Episode 1
+Episode Name: Zom 100 Zombie ni Naru Made ni Shitai 100 no Koto Episode 9
 
-Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-1-sub
+Episode Link: https://allanime.to/watch/GoKAhRw3sy8vS3NB8/episode-9-sub
  
 # Analytics
 
