@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Overtake Episode 1
+Episode Name: Helck Episode 12
 
-Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-1-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-12-sub
  
 # Analytics
 
