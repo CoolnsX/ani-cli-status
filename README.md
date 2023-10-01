@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1078
+Episode Name: Overtake Episode 1
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1078-sub
+Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-1-sub
  
 # Analytics
 
