@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 1
+Episode Name: Shadowverse Flame Episode 63
 
-Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-1-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-63-sub
  
 # Analytics
 
