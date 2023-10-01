@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seiken Gakuin no Makentsukai Episode 1
+Episode Name: Niehime to Kemono no Ou Episode 24
 
-Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-1-sub
+Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-24-sub
  
 # Analytics
 
