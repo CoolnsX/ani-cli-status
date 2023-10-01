@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Attacker You Episode 47
+Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 1
 
-Episode Link: https://allanime.to/watch/jEgr3unzEo2xch3n9/episode-47-sub
+Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-1-sub
  
 # Analytics
 
