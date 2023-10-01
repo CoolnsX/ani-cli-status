@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Niehime to Kemono no Ou Episode 24
+Episode Name: Jujutsu Kaisen 2nd Season Episode 10
 
-Episode Link: https://allanime.to/watch/9JDdRBxrQrNe8GLta/episode-24-sub
+Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-10-sub
  
 # Analytics
 
