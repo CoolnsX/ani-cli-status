@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 35
+Episode Name: Sousou no Frieren Episode 4
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-35-sub
+Episode Link: https://allanime.to/watch/ReHMC7TQnch3C6z8j/episode-4-sub
  
 # Analytics
 
