@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Uchi no Kaisha no Chiisai Senpai no Hanashi Episode 12
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 13
 
-Episode Link: https://allanime.to/watch/T4M7inSSaC3R2ahPT/episode-12-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-13-sub
  
 # Analytics
 
