@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 11 Episode 13
+Episode Name: Nanatsu no Maken ga Shihai suru Episode 13
 
-Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-13-sub
+Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-13-sub
  
 # Analytics
 
