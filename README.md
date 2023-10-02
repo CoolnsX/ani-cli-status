@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Heart Cocktail Episode 5
+Episode Name: Dark Gathering Episode 13
 
-Episode Link: https://allanime.to/watch/v9GMayYwmf96n9GY2/episode-5-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-13-sub
  
 # Analytics
 
