@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Maken ga Shihai suru Episode 13
+Episode Name: Tenchi Muyou GXP Paradise Shidou hen Episode 5
 
-Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-13-sub
+Episode Link: https://allanime.to/watch/DvKvm2E372X26QaqZ/episode-5-sub
  
 # Analytics
 
