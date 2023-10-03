@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 63
+Episode Name: Hirogaru Sky Precure Episode 35
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-63-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-35-sub
  
 # Analytics
 
