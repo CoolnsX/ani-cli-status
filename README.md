@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boushoku no Berserk Episode 1
+Episode Name: B Project Netsuretsu Love Call Episode 1
 
-Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-1-sub
+Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-1-sub
  
 # Analytics
 
