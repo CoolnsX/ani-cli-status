@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kamonohashi Ron no Kindan Suiri Episode 1
+Episode Name: Ao no Orchestra Episode 23
 
-Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-1-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-23-sub
  
 # Analytics
 
