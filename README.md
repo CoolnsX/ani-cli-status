@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 23
+Episode Name: Kanojo Okarishimasu Season 3 Episode 12
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-23-sub
+Episode Link: https://allanime.to/watch/Z4HXM5cXSxnvNkm8N/episode-12-sub
  
 # Analytics
 
