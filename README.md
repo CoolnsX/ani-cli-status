@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Moffun to Issho Episode 57
+Episode Name: Boushoku no Berserk Episode 1
 
-Episode Link: https://allanime.to/watch/SJRgk4AgFib4rnLjW/episode-57-sub
+Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-1-sub
  
 # Analytics
 
