@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 63
+Episode Name: Uchi no Kaisha no Chiisai Senpai no Hanashi Episode 12
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-63-sub
+Episode Link: https://allanime.to/watch/T4M7inSSaC3R2ahPT/episode-12-sub
  
 # Analytics
 
