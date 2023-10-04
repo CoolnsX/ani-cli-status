@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: FLCL Shoegaze Episode 1
+Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 1
 
-Episode Link: https://allanime.to/watch/PHLP7i9duwYC4BNNG/episode-1-sub
+Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-1-sub
  
 # Analytics
 
