@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Edens Zero Season 2 Episode 25
+Episode Name: Attacker You Episode 47
 
-Episode Link: https://allanime.to/watch/WuYkafGGwhTgnSjE5/episode-25-sub
+Episode Link: https://allanime.to/watch/jEgr3unzEo2xch3n9/episode-47-sub
  
 # Analytics
 
