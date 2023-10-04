@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Attacker You Episode 47
+Episode Name: BLEACH Sennen Kessen hen Ketsubetsu tan Episode 13
 
-Episode Link: https://allanime.to/watch/jEgr3unzEo2xch3n9/episode-47-sub
+Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-13-sub
  
 # Analytics
 
