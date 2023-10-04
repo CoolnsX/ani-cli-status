@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: MF Ghost Episode 1
+Episode Name: Helck Episode 13
 
-Episode Link: https://allanime.to/watch/GEuvZ6qE29SDKJBbm/episode-1-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-13-sub
  
 # Analytics
 
