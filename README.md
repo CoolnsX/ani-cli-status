@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 25
+Episode Name: Kamonohashi Ron no Kindan Suiri Episode 1
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-25-sub
+Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-1-sub
  
 # Analytics
 
