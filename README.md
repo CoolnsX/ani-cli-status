@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BLEACH Sennen Kessen hen Ketsubetsu tan Episode 13
+Episode Name: Tousouchuu Great Mission Episode 25
 
-Episode Link: https://allanime.to/watch/Qwi4hM3qzcwv9Rbaa/episode-13-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-25-sub
  
 # Analytics
 
