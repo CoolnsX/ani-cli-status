@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: FLCL Shoegaze Episode 1
+Episode Name: Dark Gathering Episode 13
 
-Episode Link: https://allanime.to/watch/PHLP7i9duwYC4BNNG/episode-1-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-13-sub
  
 # Analytics
 
