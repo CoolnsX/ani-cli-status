@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 1
+Episode Name: Ajin Part 2 Shoutotsu Episode 1
 
-Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-1-sub
+Episode Link: https://allanime.to/watch/nd7FXZD6TD3n4HM4k/episode-1-sub
  
 # Analytics
 
