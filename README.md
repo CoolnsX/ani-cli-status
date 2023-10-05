@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 23
+Episode Name: Kizuna no Allele Season 2 Episode 1
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-23-sub
+Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-1-sub
  
 # Analytics
 
