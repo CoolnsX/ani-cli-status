@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 1
+Episode Name: Bullbuster Episode 1
 
-Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-1-sub
+Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-1-sub
  
 # Analytics
 
