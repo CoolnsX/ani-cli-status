@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bullbuster Episode 1
+Episode Name: Dark Gathering Episode 13
 
-Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-1-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-13-sub
  
 # Analytics
 
