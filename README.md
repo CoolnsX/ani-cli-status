@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Heart Cocktail Episode 5
+Episode Name: 16bit Sensation Another Layer Episode 1
 
-Episode Link: https://allanime.to/watch/v9GMayYwmf96n9GY2/episode-5-sub
+Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-1-sub
  
 # Analytics
 
