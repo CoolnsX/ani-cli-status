@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 23
+Episode Name: Heart Cocktail Episode 5
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-23-sub
+Episode Link: https://allanime.to/watch/v9GMayYwmf96n9GY2/episode-5-sub
  
 # Analytics
 
