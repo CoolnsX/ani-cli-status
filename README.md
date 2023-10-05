@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 11 Episode 13
+Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 1
 
-Episode Link: https://allanime.to/watch/k7LtLgWx9k7GNpGpN/episode-13-sub
+Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-1-sub
  
 # Analytics
 
