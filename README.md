@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kyoukai Senki Kyokkou no Souki Episode 5
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 1
 
-Episode Link: https://allanime.to/watch/mJkFd49TfFs57Q6cp/episode-5-sub
+Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-1-sub
  
 # Analytics
 
