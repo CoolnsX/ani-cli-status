@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 16bit Sensation Another Layer Episode 1
+Episode Name: Jujutsu Kaisen 2nd Season Episode 11
 
-Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-1-sub
+Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-11-sub
  
 # Analytics
 
