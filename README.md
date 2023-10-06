@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: FLCL Shoegaze Episode 1
+Episode Name: Seiken Gakuin no Makentsukai Episode 2
 
-Episode Link: https://allanime.to/watch/PHLP7i9duwYC4BNNG/episode-1-sub
+Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-2-sub
  
 # Analytics
 
