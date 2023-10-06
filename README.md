@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 16bit Sensation Another Layer Episode 1
+Episode Name: Uma Musume Pretty Derby Season 3 Episode 1
 
-Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-1-sub
+Episode Link: https://allanime.to/watch/Ba4KnehHnXKXN5cZe/episode-1-sub
  
 # Analytics
 
