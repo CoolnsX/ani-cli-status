@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 2
+Episode Name: Ao no Orchestra Episode 23
 
-Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-2-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-23-sub
  
 # Analytics
 
