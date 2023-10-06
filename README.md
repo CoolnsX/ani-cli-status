@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Migi to Dali Episode 1
+Episode Name: Overtake Episode 1
 
-Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-1-sub
+Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-1-sub
  
 # Analytics
 
