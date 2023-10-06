@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jujutsu Kaisen 2nd Season Episode 11
+Episode Name: Seiken Gakuin no Makentsukai Episode 2
 
-Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-11-sub
+Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-2-sub
  
 # Analytics
 
