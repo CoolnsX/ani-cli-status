@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seiken Gakuin no Makentsukai Episode 2
+Episode Name: 16bit Sensation Another Layer Episode 1
 
-Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-2-sub
+Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-1-sub
  
 # Analytics
 
