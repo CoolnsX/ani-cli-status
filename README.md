@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 25
+Episode Name: Kyoukai Senki Kyokkou no Souki Episode 5
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-25-sub
+Episode Link: https://allanime.to/watch/mJkFd49TfFs57Q6cp/episode-5-sub
  
 # Analytics
 
