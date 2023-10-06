@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seiken Gakuin no Makentsukai Episode 2
+Episode Name: Kyoukai Senki Kyokkou no Souki Episode 5
 
-Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-2-sub
+Episode Link: https://allanime.to/watch/mJkFd49TfFs57Q6cp/episode-5-sub
  
 # Analytics
 
