@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Overtake Episode 1
+Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 2
 
-Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-1-sub
+Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-2-sub
  
 # Analytics
 
