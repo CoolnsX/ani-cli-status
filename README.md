@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Cardfight Vanguard will Dress Season 3 Episode 13
+Episode Name: Seiken Gakuin no Makentsukai Episode 2
 
-Episode Link: https://allanime.to/watch/JS9XZz87T9a8ABhCw/episode-13-sub
+Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-2-sub
  
 # Analytics
 
