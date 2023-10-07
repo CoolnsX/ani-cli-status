@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 1
+Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 1
 
-Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-1-sub
+Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-1-sub
  
 # Analytics
 
