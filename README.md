@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bullbuster Episode 1
+Episode Name: Beyblade Burst God Episode 45
 
-Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-1-sub
+Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-45-sub
  
 # Analytics
 
