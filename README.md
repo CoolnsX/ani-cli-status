@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Goblin Slayer II Episode 1
+Episode Name: Shadowverse Flame Seven Shadows hen Episode 14
 
-Episode Link: https://allanime.to/watch/vdQ84BfvTwshJdWaP/episode-1-sub
+Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-14-sub
  
 # Analytics
 
