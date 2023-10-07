@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Beyblade Burst God Episode 45
+Episode Name: Seiken Gakuin no Makentsukai Episode 2
 
-Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-45-sub
+Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-2-sub
  
 # Analytics
 
