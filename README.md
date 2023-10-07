@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 10
+Episode Name: Hypnosis Mic Division Rap Battle Rhyme Anima Episode 1
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-10-sub
+Episode Link: https://allanime.to/watch/YnnH5QgEaaWE5bmKZ/episode-1-sub
  
 # Analytics
 
