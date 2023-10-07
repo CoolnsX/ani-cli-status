@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 1
+Episode Name: Cardfight Vanguard will Dress Season 3 Episode 13
 
-Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-1-sub
+Episode Link: https://allanime.to/watch/JS9XZz87T9a8ABhCw/episode-13-sub
  
 # Analytics
 
