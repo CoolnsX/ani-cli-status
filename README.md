@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 2
+Episode Name: Seiken Gakuin no Makentsukai Episode 2
 
-Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-2-sub
+Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-2-sub
  
 # Analytics
 
