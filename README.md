@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ragna Crimson Episode 2
+Episode Name: Potion danomi de Ikinobimasu Episode 1
 
-Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-2-sub
+Episode Link: https://allanime.to/watch/HSER99GAXJeJN57Nj/episode-1-sub
  
 # Analytics
 
