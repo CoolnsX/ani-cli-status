@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kibou no Chikara Otona Precure 23 Episode 1
+Episode Name: Shadowverse Flame Episode 64
 
-Episode Link: https://allanime.to/watch/JZkA4xrSJDSpNhMei/episode-1-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-64-sub
  
 # Analytics
 
