@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hametsu no Oukoku Episode 1
+Episode Name: Kibou no Chikara Otona Precure 23 Episode 1
 
-Episode Link: https://allanime.to/watch/attbXgRjuuxe8nS7R/episode-1-sub
+Episode Link: https://allanime.to/watch/JZkA4xrSJDSpNhMei/episode-1-sub
  
 # Analytics
 
