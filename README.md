@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi Episode 1
+Episode Name: Sousou no Frieren Episode 5
 
-Episode Link: https://allanime.to/watch/Zu9CDwp8AC7Fmc346/episode-1-sub
+Episode Link: https://allanime.to/watch/ReHMC7TQnch3C6z8j/episode-5-sub
  
 # Analytics
 
