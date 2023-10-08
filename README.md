@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahoutsukai no Yome Season 2 Part 2 Episode 1
+Episode Name: Under Ninja Episode 1
 
-Episode Link: https://allanime.to/watch/2ZtBn5GC5rogrd3Z8/episode-1-sub
+Episode Link: https://allanime.to/watch/cTfKHWK5mWpjzAEpr/episode-1-sub
  
 # Analytics
 
