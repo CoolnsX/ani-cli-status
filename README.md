@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 1
+Episode Name: Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi Episode 1
 
-Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-1-sub
+Episode Link: https://allanime.to/watch/Zu9CDwp8AC7Fmc346/episode-1-sub
  
 # Analytics
 
