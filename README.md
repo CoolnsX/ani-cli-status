@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 2
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 1
 
-Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-2-sub
+Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-1-sub
  
 # Analytics
 
