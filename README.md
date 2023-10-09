@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Maken ga Shihai suru Episode 14
+Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 1
 
-Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-14-sub
+Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-1-sub
  
 # Analytics
 
