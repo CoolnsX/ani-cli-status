@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 88
+Episode Name: Undead Unluck Episode 1
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-88-sub
+Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-1-sub
  
 # Analytics
 
