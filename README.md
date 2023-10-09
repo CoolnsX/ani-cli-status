@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 1
+Episode Name: Atarashii Joushi wa Do Tennen Episode 1
 
-Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-1-sub
+Episode Link: https://allanime.to/watch/2wP6RWDu339B7ZtPS/episode-1-sub
  
 # Analytics
 
