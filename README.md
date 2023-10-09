@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 24
+Episode Name: Ninjala Episode 88
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-24-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-88-sub
  
 # Analytics
 
