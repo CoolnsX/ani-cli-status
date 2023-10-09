@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ao no Orchestra Episode 24
+Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 1
 
-Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-24-sub
+Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-1-sub
  
 # Analytics
 
