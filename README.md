@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seiken Gakuin no Makentsukai Episode 2
+Episode Name: Nanatsu no Maken ga Shihai suru Episode 14
 
-Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-2-sub
+Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-14-sub
  
 # Analytics
 
