@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 1
+Episode Name: Ao no Orchestra Episode 24
 
-Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-1-sub
+Episode Link: https://allanime.to/watch/ScFAxYgguBPEM9Rfi/episode-24-sub
  
 # Analytics
 
