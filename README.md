@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Arknights Fuyukomori Kaerimichi Episode 1
+Episode Name: Gundam Build Metaverse Episode 1
 
-Episode Link: https://allanime.to/watch/aoDnrk66Tdj6M5Myf/episode-1-sub
+Episode Link: https://allanime.to/watch/bbYSAR2c55rCsce9Q/episode-1-sub
  
 # Analytics
 
