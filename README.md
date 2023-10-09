@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 1
+Episode Name: Dekoboko Majo no Oyako Jijou Episode 3
 
-Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-1-sub
+Episode Link: https://allanime.to/watch/Ld2BmMeqndxdeEq5H/episode-3-sub
  
 # Analytics
 
