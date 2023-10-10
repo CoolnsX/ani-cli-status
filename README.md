@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kibou no Chikara Otona Precure 23 Episode 1
+Episode Name: Atarashii Joushi wa Do Tennen Episode 1
 
-Episode Link: https://allanime.to/watch/JZkA4xrSJDSpNhMei/episode-1-sub
+Episode Link: https://allanime.to/watch/2wP6RWDu339B7ZtPS/episode-1-sub
  
 # Analytics
 
