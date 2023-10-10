@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Migi to Dali Episode 2
+Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 2
 
-Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-2-sub
+Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-2-sub
  
 # Analytics
 
