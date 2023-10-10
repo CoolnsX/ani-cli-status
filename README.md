@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 14
+Episode Name: The IDOLM STER Million Live Episode 1
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-14-sub
+Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-1-sub
  
 # Analytics
 
