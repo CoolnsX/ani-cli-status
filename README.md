@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The IDOLM STER Million Live Episode 1
+Episode Name: SPY×FAMILY Season 2 Episode 1
 
-Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-1-sub
+Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-1-sub
  
 # Analytics
 
