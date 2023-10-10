@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 64
+Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 2
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-64-sub
+Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-2-sub
  
 # Analytics
 
