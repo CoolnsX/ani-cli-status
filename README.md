@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: SPY×FAMILY Season 2 Episode 1
+Episode Name: Paradox Live the Animation Episode 2
 
-Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-1-sub
+Episode Link: https://allanime.to/watch/yzuWfjqR436gKg2oj/episode-2-sub
  
 # Analytics
 
