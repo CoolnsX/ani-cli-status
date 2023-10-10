@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boushoku no Berserk Episode 2
+Episode Name: BEYBLADE X Episode 1
 
-Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-2-sub
+Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-1-sub
  
 # Analytics
 
