@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kikansha no Mahou wa Tokubetsu desu Episode 1
+Episode Name: The IDOLM STER Million Live Episode 1
 
-Episode Link: https://allanime.to/watch/K8tzqTGyjMsHWKYWj/episode-1-sub
+Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-1-sub
  
 # Analytics
 
