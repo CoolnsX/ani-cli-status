@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kamonohashi Ron no Kindan Suiri Episode 2
+Episode Name: Helck Episode 14
 
-Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-2-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-14-sub
  
 # Analytics
 
