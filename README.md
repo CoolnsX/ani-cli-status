@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: MF Ghost Episode 2
+Episode Name: Tokyo Revengers Tenjiku hen Episode 2
 
-Episode Link: https://allanime.to/watch/GEuvZ6qE29SDKJBbm/episode-2-sub
+Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-2-sub
  
 # Analytics
 
