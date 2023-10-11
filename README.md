@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Buta no Liver wa Kanetsu Shiro Episode 1
+Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 2
 
-Episode Link: https://allanime.to/watch/KopH8vaGDb7qpKJgM/episode-1-sub
+Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-2-sub
  
 # Analytics
 
