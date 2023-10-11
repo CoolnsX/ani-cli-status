@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 2
+Episode Name: Bokura no Ameiro Protocol Episode 1
 
-Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-2-sub
+Episode Link: https://allanime.to/watch/7aN3Rmvr2wXuWsYAw/episode-1-sub
  
 # Analytics
 
