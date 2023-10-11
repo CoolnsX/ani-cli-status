@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The IDOLM STER Million Live Episode 1
+Episode Name: Boushoku no Berserk Episode 2
 
-Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-1-sub
+Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-2-sub
  
 # Analytics
 
