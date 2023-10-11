@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Part 2 Episode 1
+Episode Name: Kikansha no Mahou wa Tokubetsu desu Episode 1
 
-Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-1-sub
+Episode Link: https://allanime.to/watch/K8tzqTGyjMsHWKYWj/episode-1-sub
  
 # Analytics
 
