@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 2
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 79
 
-Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-2-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-79-sub
  
 # Analytics
 
