@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Season 2 Episode 2
+Episode Name: Kage no Jitsuryokusha ni Naritakute Season 2 Episode 2
 
-Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-2-sub
+Episode Link: https://allanime.to/watch/TzKpa9QpMbq5sXqum/episode-2-sub
  
 # Analytics
 
