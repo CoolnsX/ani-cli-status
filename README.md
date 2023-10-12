@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100 nin no Kanojo Episode 1
+Episode Name: Kizuna no Allele Season 2 Episode 2
 
-Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-1-sub
+Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-2-sub
  
 # Analytics
 
