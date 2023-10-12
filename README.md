@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 14
+Episode Name: Dead Mount Death Play Part 2 Episode 1
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-14-sub
+Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-1-sub
  
 # Analytics
 
