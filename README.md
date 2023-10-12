@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bullbuster Episode 2
+Episode Name: Under Ninja Episode 2
 
-Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-2-sub
+Episode Link: https://allanime.to/watch/cTfKHWK5mWpjzAEpr/episode-2-sub
  
 # Analytics
 
