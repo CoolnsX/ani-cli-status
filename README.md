@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kamierabi Episode 2
+Episode Name: Beyblade Burst God Episode 46
 
-Episode Link: https://allanime.to/watch/24W3oKkbHgXMcYic6/episode-2-sub
+Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-46-sub
  
 # Analytics
 
