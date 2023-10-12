@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bullbuster Episode 2
+Episode Name: Kamierabi Episode 2
 
-Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-2-sub
+Episode Link: https://allanime.to/watch/24W3oKkbHgXMcYic6/episode-2-sub
  
 # Analytics
 
