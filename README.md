@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 26
+Episode Name: Dead Mount Death Play Part 2 Episode 1
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-26-sub
+Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-1-sub
  
 # Analytics
 
