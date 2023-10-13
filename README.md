@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 2
+Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 3
 
-Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-2-sub
+Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-3-sub
  
 # Analytics
 
