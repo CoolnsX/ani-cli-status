@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 14
+Episode Name: Mahoutsukai no Yome Season 2 Part 2 Episode 2
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-14-sub
+Episode Link: https://allanime.to/watch/2ZtBn5GC5rogrd3Z8/episode-2-sub
  
 # Analytics
 
