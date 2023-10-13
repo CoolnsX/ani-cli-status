@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kawagoe Boys Sing Episode 1
+Episode Name: Mahoutsukai no Yome Season 2 Part 2 Episode 2
 
-Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-1-sub
+Episode Link: https://allanime.to/watch/2ZtBn5GC5rogrd3Z8/episode-2-sub
  
 # Analytics
 
