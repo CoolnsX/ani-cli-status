@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr Stone New World Part 2 Episode 1
+Episode Name: Kanojo mo Kanojo Season 2 Episode 2
 
-Episode Link: https://allanime.to/watch/MGJWWRWEdXWNyX6TX/episode-1-sub
+Episode Link: https://allanime.to/watch/EtMQTAuYg4AfFMsb8/episode-2-sub
  
 # Analytics
 
