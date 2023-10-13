@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Beyblade Burst God Episode 46
+Episode Name: B Project Netsuretsu Love Call Episode 2
 
-Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-46-sub
+Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-2-sub
  
 # Analytics
 
