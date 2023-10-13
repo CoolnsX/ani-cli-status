@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Under Ninja Episode 2
+Episode Name: Dark Gathering Episode 14
 
-Episode Link: https://allanime.to/watch/cTfKHWK5mWpjzAEpr/episode-2-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-14-sub
  
 # Analytics
 
