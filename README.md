@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 61
+Episode Name: Hoshikuzu Telepath Episode 1
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-61-sub
+Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-1-sub
  
 # Analytics
 
