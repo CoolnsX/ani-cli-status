@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 2
+Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 2
 
-Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-2-sub
+Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-2-sub
  
 # Analytics
 
