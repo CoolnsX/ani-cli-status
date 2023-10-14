@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho Season 2 Episode 25
+Episode Name: Odekake Kozame Episode 11
 
-Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-25-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-11-sub
  
 # Analytics
 
