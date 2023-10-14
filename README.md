@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ojou to Banken kun Episode 3
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 15
 
-Episode Link: https://allanime.to/watch/QMip3pmqPAsu42Nis/episode-3-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-15-sub
  
 # Analytics
 
