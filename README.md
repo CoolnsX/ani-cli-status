@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Maken ga Shihai suru Episode 15
+Episode Name: Odekake Kozame Episode 11
 
-Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-15-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-11-sub
  
 # Analytics
 
