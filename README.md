@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Maken ga Shihai suru Episode 15
+Episode Name: The Kabocha Wine Episode 46
 
-Episode Link: https://allanime.to/watch/MdoP8ntvBY6ktuR4a/episode-15-sub
+Episode Link: https://allanime.to/watch/366khzcCCjML8b96u/episode-46-sub
  
 # Analytics
 
