@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 11
+Episode Name: Chiikawa Episode 61
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-11-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-61-sub
  
 # Analytics
 
