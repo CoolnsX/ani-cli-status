@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 2
+Episode Name: Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu Episode 2
 
-Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-2-sub
+Episode Link: https://allanime.to/watch/WjbWDFPRq9kAxwsQ6/episode-2-sub
  
 # Analytics
 
