@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu Episode 2
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 79
 
-Episode Link: https://allanime.to/watch/WjbWDFPRq9kAxwsQ6/episode-2-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-79-sub
  
 # Analytics
 
