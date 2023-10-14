@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 61
+Episode Name: Undead Unluck Episode 2
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-61-sub
+Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-2-sub
  
 # Analytics
 
