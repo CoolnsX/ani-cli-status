@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jarinko Chie TV Episode 13
+Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 3
 
-Episode Link: https://allanime.to/watch/mSxuech6C2kxLs5hy/episode-13-sub
+Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-3-sub
  
 # Analytics
 
