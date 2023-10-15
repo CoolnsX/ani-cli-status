@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The Kabocha Wine Episode 46
+Episode Name: Potion danomi de Ikinobimasu Episode 2
 
-Episode Link: https://allanime.to/watch/366khzcCCjML8b96u/episode-46-sub
+Episode Link: https://allanime.to/watch/HSER99GAXJeJN57Nj/episode-2-sub
  
 # Analytics
 
