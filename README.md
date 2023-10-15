@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Potion danomi de Ikinobimasu Episode 2
+Episode Name: Detective Conan TV Episode 1100
 
-Episode Link: https://allanime.to/watch/HSER99GAXJeJN57Nj/episode-2-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1100-sub
  
 # Analytics
 
