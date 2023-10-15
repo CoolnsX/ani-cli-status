@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tearmoon Teikoku Monogatari Dantoudai kara Hajimaru Hime no Tensei Gyakuten Story Episode 2
+Episode Name: Detective Conan Amuro Secret Call Episode 2
 
-Episode Link: https://allanime.to/watch/aauZ6NzTYBq2SHW8M/episode-2-sub
+Episode Link: https://allanime.to/watch/G3w7MkwZkcxiQwDmd/episode-2-sub
  
 # Analytics
 
