@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1100
+Episode Name: Yuzuki san Chi no Yonkyoudai Episode 2
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1100-sub
+Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-2-sub
  
 # Analytics
 
