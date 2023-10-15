@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Undead Unluck Episode 2
+Episode Name: Jarinko Chie TV Episode 13
 
-Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-2-sub
+Episode Link: https://allanime.to/watch/mSxuech6C2kxLs5hy/episode-13-sub
  
 # Analytics
 
