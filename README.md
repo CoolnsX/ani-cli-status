@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kikansha no Mahou wa Tokubetsu desu Episode 2
+Episode Name: Shadowverse Flame Seven Shadows hen Episode 15
 
-Episode Link: https://allanime.to/watch/K8tzqTGyjMsHWKYWj/episode-2-sub
+Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-15-sub
  
 # Analytics
 
