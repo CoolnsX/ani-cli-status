@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Spy x Family Season 2 Episode 2
+Episode Name: Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi Episode 2
 
-Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-2-sub
+Episode Link: https://allanime.to/watch/Zu9CDwp8AC7Fmc346/episode-2-sub
  
 # Analytics
 
