@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ragna Crimson Episode 3
+Episode Name: 1P Episode 1079
 
-Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-3-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1079-sub
  
 # Analytics
 
