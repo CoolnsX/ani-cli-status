@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 37
+Episode Name: Kikansha no Mahou wa Tokubetsu desu Episode 2
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-37-sub
+Episode Link: https://allanime.to/watch/K8tzqTGyjMsHWKYWj/episode-2-sub
  
 # Analytics
 
