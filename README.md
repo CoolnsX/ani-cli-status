@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Potion danomi de Ikinobimasu Episode 2
+Episode Name: Hametsu no Oukoku Episode 2
 
-Episode Link: https://allanime.to/watch/HSER99GAXJeJN57Nj/episode-2-sub
+Episode Link: https://allanime.to/watch/attbXgRjuuxe8nS7R/episode-2-sub
  
 # Analytics
 
