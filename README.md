@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Arknights Touin Kiro Episode 2
+Episode Name: Potion danomi de Ikinobimasu Episode 2
 
-Episode Link: https://allanime.to/watch/aoDnrk66Tdj6M5Myf/episode-2-sub
+Episode Link: https://allanime.to/watch/HSER99GAXJeJN57Nj/episode-2-sub
  
 # Analytics
 
