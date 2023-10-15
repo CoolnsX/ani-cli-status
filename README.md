@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yuzuki san Chi no Yonkyoudai Episode 2
+Episode Name: Hirogaru Sky Precure Episode 37
 
-Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-2-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-37-sub
  
 # Analytics
 
