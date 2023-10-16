@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 2
+Episode Name: Dark Gathering Episode 15
 
-Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-2-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-15-sub
  
 # Analytics
 
