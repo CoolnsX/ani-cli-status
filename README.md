@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 65
+Episode Name: Atarashii Joushi wa Do Tennen Episode 2
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-65-sub
+Episode Link: https://allanime.to/watch/2wP6RWDu339B7ZtPS/episode-2-sub
  
 # Analytics
 
