@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The iDOLM STER Million Live Episode 2
+Episode Name: Dekoboko Majo no Oyako Jijou Episode 4
 
-Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-2-sub
+Episode Link: https://allanime.to/watch/Ld2BmMeqndxdeEq5H/episode-4-sub
  
 # Analytics
 
