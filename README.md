@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 2
+Episode Name: Kanojo mo Kanojo Season 2 Episode 2
 
-Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-2-sub
+Episode Link: https://allanime.to/watch/EtMQTAuYg4AfFMsb8/episode-2-sub
  
 # Analytics
 
