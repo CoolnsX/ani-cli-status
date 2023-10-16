@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Magical Hat Episode 16
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 3
 
-Episode Link: https://allanime.to/watch/PcwGeam6n37zsDya5/episode-16-sub
+Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-3-sub
  
 # Analytics
 
