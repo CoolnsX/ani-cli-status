@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Magical Hat Episode 16
+Episode Name: Hirogaru Sky Precure Episode 37
 
-Episode Link: https://allanime.to/watch/PcwGeam6n37zsDya5/episode-16-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-37-sub
  
 # Analytics
 
