@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 112
+Episode Name: Shy Episode 3
 
-Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-112-sub
+Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-3-sub
  
 # Analytics
 
