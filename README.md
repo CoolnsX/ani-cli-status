@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan Amuro Secret Call Episode 2
+Episode Name: Shadowverse Flame Episode 65
 
-Episode Link: https://allanime.to/watch/G3w7MkwZkcxiQwDmd/episode-2-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-65-sub
  
 # Analytics
 
