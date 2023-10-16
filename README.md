@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kimi no Koto ga Daidaidaidaidaisuki na 100 nin no Kanojo Episode 2
+Episode Name: Buta no Liver wa Kanetsu Shiro Episode 2
 
-Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-2-sub
+Episode Link: https://allanime.to/watch/KopH8vaGDb7qpKJgM/episode-2-sub
  
 # Analytics
 
