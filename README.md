@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The iDOLM STER Million Live Episode 2
+Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 3
 
-Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-2-sub
+Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-3-sub
  
 # Analytics
 
