@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shy Episode 3
+Episode Name: Kamonohashi Ron no Kindan Suiri Episode 3
 
-Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-3-sub
+Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-3-sub
  
 # Analytics
 
