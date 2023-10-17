@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kimi no Koto ga Daidaidaidaidaisuki na 100 nin no Kanojo Episode 2
+Episode Name: The iDOLM STER Million Live Episode 2
 
-Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-2-sub
+Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-2-sub
  
 # Analytics
 
