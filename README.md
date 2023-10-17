@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 3
+Episode Name: Shangri La Frontier Kusoge Hunter Kamige ni Idoman to su Episode 3
 
-Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-3-sub
+Episode Link: https://allanime.to/watch/Q4Aj2B9wj6hvbF3H5/episode-3-sub
  
 # Analytics
 
