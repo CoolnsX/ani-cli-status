@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gridman Universe Episode 1
+Episode Name: Tousouchuu Great Mission Episode 27
 
-Episode Link: https://allanime.to/watch/XJqeiNCEaeRhNXWdK/episode-1-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-27-sub
  
 # Analytics
 
