@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Spy x Family Season 2 Episode 2
+Episode Name: Shangri La Frontier Kusoge Hunter Kamige ni Idoman to su Episode 3
 
-Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-2-sub
+Episode Link: https://allanime.to/watch/Q4Aj2B9wj6hvbF3H5/episode-3-sub
  
 # Analytics
 
