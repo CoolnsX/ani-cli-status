@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kawagoe Boys Sing Episode 2
+Episode Name: Paradox Live the Animation Episode 3
 
-Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-2-sub
+Episode Link: https://allanime.to/watch/yzuWfjqR436gKg2oj/episode-3-sub
  
 # Analytics
 
