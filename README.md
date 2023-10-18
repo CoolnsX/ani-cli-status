@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Migi to Dali Episode 3
+Episode Name: Chibi Maruko chan Episode 112
 
-Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-3-sub
+Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-112-sub
  
 # Analytics
 
