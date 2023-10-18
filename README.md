@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Houkago Shounen Hanako kun Episode 2
+Episode Name: Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu Episode 3
 
-Episode Link: https://allanime.to/watch/Gb8sB89QDpJBeNnnE/episode-2-sub
+Episode Link: https://allanime.to/watch/WjbWDFPRq9kAxwsQ6/episode-3-sub
  
 # Analytics
 
