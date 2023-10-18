@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dekoboko Majo no Oyako Jijou Episode 4
+Episode Name: Boushoku no Berserk Episode 3
 
-Episode Link: https://allanime.to/watch/Ld2BmMeqndxdeEq5H/episode-4-sub
+Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-3-sub
  
 # Analytics
 
