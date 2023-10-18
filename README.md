@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 3
+Episode Name: Houkago Shounen Hanako kun Episode 2
 
-Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-3-sub
+Episode Link: https://allanime.to/watch/Gb8sB89QDpJBeNnnE/episode-2-sub
  
 # Analytics
 
