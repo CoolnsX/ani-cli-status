@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boushoku no Berserk Episode 3
+Episode Name: Tearmoon Teikoku Monogatari Dantoudai kara Hajimaru Hime no Tensei Gyakuten Story Episode 2
 
-Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-3-sub
+Episode Link: https://allanime.to/watch/aauZ6NzTYBq2SHW8M/episode-2-sub
  
 # Analytics
 
