@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Buta no Liver wa Kanetsu Shiro Episode 2
+Episode Name: Helck Episode 15
 
-Episode Link: https://allanime.to/watch/KopH8vaGDb7qpKJgM/episode-2-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-15-sub
  
 # Analytics
 
