@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 15
+Episode Name: Tousouchuu Great Mission Episode 27
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-15-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-27-sub
  
 # Analytics
 
