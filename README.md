@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 3
+Episode Name: Boushoku no Berserk Episode 3
 
-Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-3-sub
+Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-3-sub
  
 # Analytics
 
