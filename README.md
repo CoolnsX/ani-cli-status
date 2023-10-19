@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 2
+Episode Name: Kamonohashi Ron no Kindan Suiri Episode 3
 
-Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-2-sub
+Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-3-sub
  
 # Analytics
 
