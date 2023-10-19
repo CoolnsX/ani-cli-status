@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Detective Conan Amuro Secret Call Episode 2
+Episode Name: K SEVEN STORIES SIDE GREEN Uwagaki Sekai Episode 11
 
-Episode Link: https://allanime.to/watch/G3w7MkwZkcxiQwDmd/episode-2-sub
+Episode Link: https://allanime.to/watch/7miGTFQCmHR5fbZpN/episode-11-sub
  
 # Analytics
 
