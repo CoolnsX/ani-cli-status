@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seiken Gakuin no Makentsukai Episode 3
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 2
 
-Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-3-sub
+Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-2-sub
  
 # Analytics
 
