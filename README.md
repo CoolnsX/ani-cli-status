@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: K SEVEN STORIES SIDE GREEN Uwagaki Sekai Episode 11
+Episode Name: Shy Episode 3
 
-Episode Link: https://allanime.to/watch/7miGTFQCmHR5fbZpN/episode-11-sub
+Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-3-sub
  
 # Analytics
 
