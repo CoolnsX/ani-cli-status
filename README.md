@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu Episode 3
+Episode Name: Helck Episode 15
 
-Episode Link: https://allanime.to/watch/WjbWDFPRq9kAxwsQ6/episode-3-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-15-sub
  
 # Analytics
 
