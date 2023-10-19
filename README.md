@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 15
+Episode Name: B Project Netsuretsu Love Call Episode 3
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-15-sub
+Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-3-sub
  
 # Analytics
 
