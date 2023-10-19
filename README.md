@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hoshikuzu Telepath Episode 2
+Episode Name: Chiikawa Episode 62
 
-Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-2-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-62-sub
  
 # Analytics
 
