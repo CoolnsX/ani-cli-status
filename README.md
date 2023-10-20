@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 16
+Episode Name: Yuzuki san Chi no Yonkyoudai Episode 3
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-16-sub
+Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-3-sub
  
 # Analytics
 
