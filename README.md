@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr STONE NEW WORLD Part 2 Episode 2
+Episode Name: Biohazard Death Island Episode 1
 
-Episode Link: https://allanime.to/watch/MGJWWRWEdXWNyX6TX/episode-2-sub
+Episode Link: https://allanime.to/watch/iCkJmNqzEqa5aM3cX/episode-1-sub
  
 # Analytics
 
