@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 3
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 80
 
-Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-3-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-80-sub
  
 # Analytics
 
