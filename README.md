@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi Episode 3
+Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 3
 
-Episode Link: https://allanime.to/watch/Zu9CDwp8AC7Fmc346/episode-3-sub
+Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-3-sub
  
 # Analytics
 
