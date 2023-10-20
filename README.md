@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hoshikuzu Telepath Episode 2
+Episode Name: Mahoutsukai no Yome Season 2 Part 2 Episode 3
 
-Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-2-sub
+Episode Link: https://allanime.to/watch/2ZtBn5GC5rogrd3Z8/episode-3-sub
  
 # Analytics
 
