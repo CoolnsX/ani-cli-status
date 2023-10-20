@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 2
+Episode Name: Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi Episode 3
 
-Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-2-sub
+Episode Link: https://allanime.to/watch/Zu9CDwp8AC7Fmc346/episode-3-sub
  
 # Analytics
 
