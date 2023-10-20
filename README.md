@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 3
+Episode Name: Helck Episode 15
 
-Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-3-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-15-sub
  
 # Analytics
 
