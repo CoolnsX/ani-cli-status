@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tokyo Revengers Tenjiku hen Episode 3
+Episode Name: Bullbuster Episode 3
 
-Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-3-sub
+Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-3-sub
  
 # Analytics
 
