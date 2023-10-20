@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ojou to Banken kun Episode 4
+Episode Name: Kizuna no Allele Season 2 Episode 3
 
-Episode Link: https://allanime.to/watch/QMip3pmqPAsu42Nis/episode-4-sub
+Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-3-sub
  
 # Analytics
 
