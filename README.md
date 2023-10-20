@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Houkago no Breath Episode 2
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 26
 
-Episode Link: https://allanime.to/watch/RFSfnCibPC7FKgvzr/episode-2-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-26-sub
  
 # Analytics
 
