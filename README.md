@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bullbuster Episode 3
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 16
 
-Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-3-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-16-sub
  
 # Analytics
 
