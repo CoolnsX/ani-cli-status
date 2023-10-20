@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahoutsukai no Yome Season 2 Part 2 Episode 3
+Episode Name: Houkago Shounen Hanako kun Episode 2
 
-Episode Link: https://allanime.to/watch/2ZtBn5GC5rogrd3Z8/episode-3-sub
+Episode Link: https://allanime.to/watch/Gb8sB89QDpJBeNnnE/episode-2-sub
  
 # Analytics
 
