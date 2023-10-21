@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tokyo Revengers Tenjiku hen Episode 3
+Episode Name: Yuzuki san Chi no Yonkyoudai Episode 3
 
-Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-3-sub
+Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-3-sub
  
 # Analytics
 
