@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 62
+Episode Name: Araiguma Rascal Episode 45
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-62-sub
+Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-45-sub
  
 # Analytics
 
