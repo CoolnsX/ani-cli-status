@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Season 2 Episode 3
+Episode Name: Gundam Build Metaverse Episode 4
 
-Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-3-sub
+Episode Link: https://allanime.to/watch/bbYSAR2c55rCsce9Q/episode-4-sub
  
 # Analytics
 
