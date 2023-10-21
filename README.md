@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 16
+Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 3
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-16-sub
+Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-3-sub
  
 # Analytics
 
