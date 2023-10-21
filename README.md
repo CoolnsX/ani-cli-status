@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 3
+Episode Name: Arknights Touin Kiro Episode 3
 
-Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-3-sub
+Episode Link: https://allanime.to/watch/aoDnrk66Tdj6M5Myf/episode-3-sub
  
 # Analytics
 
