@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 2
+Episode Name: Hametsu no Oukoku Episode 3
 
-Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-2-sub
+Episode Link: https://allanime.to/watch/attbXgRjuuxe8nS7R/episode-3-sub
  
 # Analytics
 
