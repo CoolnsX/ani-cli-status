@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 62
+Episode Name: Kikansha no Mahou wa Tokubetsu desu Episode 3
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-62-sub
+Episode Link: https://allanime.to/watch/K8tzqTGyjMsHWKYWj/episode-3-sub
  
 # Analytics
 
