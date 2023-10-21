@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jujutsu Kaisen 2nd Season Episode 13
+Episode Name: Undead Unluck Episode 3
 
-Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-13-sub
+Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-3-sub
  
 # Analytics
 
