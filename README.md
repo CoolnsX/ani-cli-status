@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 16bit Sensation Another Layer Episode 3
+Episode Name: Kamierabi Episode 3
 
-Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-3-sub
+Episode Link: https://allanime.to/watch/24W3oKkbHgXMcYic6/episode-3-sub
  
 # Analytics
 
