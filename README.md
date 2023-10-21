@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kanojo mo Kanojo Season 2 Episode 3
+Episode Name: Chiikawa Episode 62
 
-Episode Link: https://allanime.to/watch/EtMQTAuYg4AfFMsb8/episode-3-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-62-sub
  
 # Analytics
 
