@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: SPY×FAMILY Season 2 Episode 3
+Episode Name: The IDOLM STER Million Live Episode 3
 
-Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-3-sub
+Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-3-sub
  
 # Analytics
 
