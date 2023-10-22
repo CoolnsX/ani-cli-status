@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Goblin Slayer II Episode 3
+Episode Name: Kanojo mo Kanojo Season 2 Episode 3
 
-Episode Link: https://allanime.to/watch/vdQ84BfvTwshJdWaP/episode-3-sub
+Episode Link: https://allanime.to/watch/EtMQTAuYg4AfFMsb8/episode-3-sub
  
 # Analytics
 
