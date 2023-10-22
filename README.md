@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Potion danomi de Ikinobimasu Episode 3
+Episode Name: Fight Da Pyuta Episode 4
 
-Episode Link: https://allanime.to/watch/HSER99GAXJeJN57Nj/episode-3-sub
+Episode Link: https://allanime.to/watch/323MysWjiWKRZ2XsB/episode-4-sub
  
 # Analytics
 
