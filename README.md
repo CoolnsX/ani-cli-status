@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Araiguma Rascal Episode 45
+Episode Name: Minami no Niji no Lucy Episode 13
 
-Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-45-sub
+Episode Link: https://allanime.to/watch/X7PffJcuAthGCcLkd/episode-13-sub
  
 # Analytics
 
