@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Fight Da Pyuta Episode 4
+Episode Name: Gundam Build Metaverse Episode 4
 
-Episode Link: https://allanime.to/watch/323MysWjiWKRZ2XsB/episode-4-sub
+Episode Link: https://allanime.to/watch/bbYSAR2c55rCsce9Q/episode-4-sub
  
 # Analytics
 
