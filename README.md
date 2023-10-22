@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shangri La Frontier Episode 4
+Episode Name: Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100 nin no Kanojo Episode 3
 
-Episode Link: https://allanime.to/watch/Q4Aj2B9wj6hvbF3H5/episode-4-sub
+Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-3-sub
  
 # Analytics
 
