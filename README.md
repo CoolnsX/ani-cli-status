@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gundam Build Metaverse Episode 4
+Episode Name: Araiguma Rascal Episode 45
 
-Episode Link: https://allanime.to/watch/bbYSAR2c55rCsce9Q/episode-4-sub
+Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-45-sub
  
 # Analytics
 
