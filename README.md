@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 3
+Episode Name: Yuzuki san Chi no Yonkyoudai Episode 3
 
-Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-3-sub
+Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-3-sub
  
 # Analytics
 
