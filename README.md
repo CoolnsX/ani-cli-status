@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The IDOLM STER Million Live Episode 3
+Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 4
 
-Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-3-sub
+Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-4-sub
  
 # Analytics
 
