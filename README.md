@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Buta no Liver wa Kanetsu Shiro Episode 3
+Episode Name: Detective Conan TV Episode 1101
 
-Episode Link: https://allanime.to/watch/KopH8vaGDb7qpKJgM/episode-3-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1101-sub
  
 # Analytics
 
