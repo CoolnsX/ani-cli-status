@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 3
+Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 4
 
-Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-3-sub
+Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-4-sub
  
 # Analytics
 
