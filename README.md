@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 16
+Episode Name: SPY×FAMILY Season 2 Episode 3
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-16-sub
+Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-3-sub
  
 # Analytics
 
