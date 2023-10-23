@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 4
+Episode Name: Kanojo mo Kanojo Season 2 Episode 3
 
-Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-4-sub
+Episode Link: https://allanime.to/watch/EtMQTAuYg4AfFMsb8/episode-3-sub
  
 # Analytics
 
