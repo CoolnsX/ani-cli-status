@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1080
+Episode Name: Bikkurimen Episode 3
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1080-sub
+Episode Link: https://allanime.to/watch/9kbdphJ9ayubD6Djh/episode-3-sub
  
 # Analytics
 
