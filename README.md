@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kikansha no Mahou wa Tokubetsu desu Episode 3
+Episode Name: Spirit of Wonder China san Tanpenshuu Episode 3
 
-Episode Link: https://allanime.to/watch/K8tzqTGyjMsHWKYWj/episode-3-sub
+Episode Link: https://allanime.to/watch/BLN3ppaKxCNd5zn4L/episode-3-sub
  
 # Analytics
 
