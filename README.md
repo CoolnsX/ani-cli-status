@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The IDOLM STER Million Live Episode 3
+Episode Name: Spirit of Wonder Shounen Kagaku Club Episode 1
 
-Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-3-sub
+Episode Link: https://allanime.to/watch/E5R9iqAormbczxAHz/episode-1-sub
  
 # Analytics
 
