@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Migi to Dali Episode 4
+Episode Name: Tousouchuu Great Mission Episode 28
 
-Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-4-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-28-sub
  
 # Analytics
 
