@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Spirit of Wonder Shounen Kagaku Club Episode 1
+Episode Name: Kawagoe Boys Sing Episode 3
 
-Episode Link: https://allanime.to/watch/E5R9iqAormbczxAHz/episode-1-sub
+Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-3-sub
  
 # Analytics
 
