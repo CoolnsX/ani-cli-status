@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 28
+Episode Name: Buta no Liver wa Kanetsu Shiro Episode 3
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-28-sub
+Episode Link: https://allanime.to/watch/KopH8vaGDb7qpKJgM/episode-3-sub
  
 # Analytics
 
