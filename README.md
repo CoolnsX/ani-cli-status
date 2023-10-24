@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kawagoe Boys Sing Episode 3
+Episode Name: Helck Episode 16
 
-Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-3-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-16-sub
  
 # Analytics
 
