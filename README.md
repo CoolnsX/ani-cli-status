@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 16
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 4
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-16-sub
+Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-4-sub
  
 # Analytics
 
