@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Buta no Liver wa Kanetsu Shiro Episode 3
+Episode Name: Seiken Gakuin no Maken Tsukai Episode 4
 
-Episode Link: https://allanime.to/watch/KopH8vaGDb7qpKJgM/episode-3-sub
+Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-4-sub
  
 # Analytics
 
