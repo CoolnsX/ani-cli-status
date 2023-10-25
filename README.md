@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tearmoon Teikoku Monogatari Dantoudai kara Hajimaru Hime no Tensei Gyakuten Story Episode 3
+Episode Name: Odekake Kozame Episode 13
 
-Episode Link: https://allanime.to/watch/aauZ6NzTYBq2SHW8M/episode-3-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-13-sub
  
 # Analytics
 
