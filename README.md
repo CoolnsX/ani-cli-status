@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Arcade Gamer Fubuki Tokebetsu hen Kabe no Mukou no Paradise Episode 1
+Episode Name: Spirit of Wonder Shounen Kagaku Club Episode 1
 
-Episode Link: https://allanime.to/watch/qorWiwBbmZtvGZH9H/episode-1-sub
+Episode Link: https://allanime.to/watch/E5R9iqAormbczxAHz/episode-1-sub
  
 # Analytics
 
