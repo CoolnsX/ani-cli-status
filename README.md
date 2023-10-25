@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 28
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 27
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-28-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-27-sub
  
 # Analytics
 
