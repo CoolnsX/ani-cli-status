@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seiken Gakuin no Maken Tsukai Episode 4
+Episode Name: 1P Episode 1080
 
-Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-4-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1080-sub
  
 # Analytics
 
