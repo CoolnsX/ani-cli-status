@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shangri La Frontier Episode 4
+Episode Name: Arcade Gamer Fubuki Tokebetsu hen Kabe no Mukou no Paradise Episode 1
 
-Episode Link: https://allanime.to/watch/Q4Aj2B9wj6hvbF3H5/episode-4-sub
+Episode Link: https://allanime.to/watch/qorWiwBbmZtvGZH9H/episode-1-sub
  
 # Analytics
 
