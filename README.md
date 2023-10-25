@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho Season 2 Episode 27
+Episode Name: Metal Skin Panic MADOX 01 Episode 1
 
-Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-27-sub
+Episode Link: https://allanime.to/watch/mPiH3avR87J7AkDe9/episode-1-sub
  
 # Analytics
 
