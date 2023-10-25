@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Spirit of Wonder Shounen Kagaku Club Episode 1
+Episode Name: Kusuriya no Hitorigoto Episode 3
 
-Episode Link: https://allanime.to/watch/E5R9iqAormbczxAHz/episode-1-sub
+Episode Link: https://allanime.to/watch/h4PMucgQwndzYNNxS/episode-3-sub
  
 # Analytics
 
