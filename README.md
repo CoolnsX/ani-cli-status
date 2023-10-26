@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tokyo Revengers Tenjiku hen Episode 4
+Episode Name: Kage no Jitsuryokusha ni Naritakute 2nd season Episode 4
 
-Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-4-sub
+Episode Link: https://allanime.to/watch/TzKpa9QpMbq5sXqum/episode-4-sub
  
 # Analytics
 
