@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 4
+Episode Name: Doraemon Nobita no Daimakyou Episode 1
 
-Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-4-sub
+Episode Link: https://allanime.to/watch/woMSqJm8zpf3hCoFP/episode-1-sub
  
 # Analytics
 
