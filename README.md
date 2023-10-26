@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: B PROJECT Netsuretsu Love Call Episode 4
+Episode Name: Spirit of Wonder Shounen Kagaku Club Episode 1
 
-Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-4-sub
+Episode Link: https://allanime.to/watch/E5R9iqAormbczxAHz/episode-1-sub
  
 # Analytics
 
