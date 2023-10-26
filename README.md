@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Spirit of Wonder China san Tanpenshuu Episode 3
+Episode Name: B PROJECT Netsuretsu Love Call Episode 4
 
-Episode Link: https://allanime.to/watch/BLN3ppaKxCNd5zn4L/episode-3-sub
+Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-4-sub
  
 # Analytics
 
