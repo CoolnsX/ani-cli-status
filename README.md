@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: SHY Episode 4
+Episode Name: Tokyo Revengers Tenjiku hen Episode 4
 
-Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-4-sub
+Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-4-sub
  
 # Analytics
 
