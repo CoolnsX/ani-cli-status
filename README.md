@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 3
+Episode Name: Paradox Live THE ANIMATION Episode 4
 
-Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-3-sub
+Episode Link: https://allanime.to/watch/yzuWfjqR436gKg2oj/episode-4-sub
  
 # Analytics
 
