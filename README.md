@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Part 2 Episode 3
+Episode Name: Migi to Dali Episode 4
 
-Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-3-sub
+Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-4-sub
  
 # Analytics
 
