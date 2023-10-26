@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tokyo Revengers Tenjiku hen Episode 4
+Episode Name: Bikkurimen Episode 3
 
-Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-4-sub
+Episode Link: https://allanime.to/watch/9kbdphJ9ayubD6Djh/episode-3-sub
  
 # Analytics
 
