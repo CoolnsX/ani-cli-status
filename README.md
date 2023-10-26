@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Metal Skin Panic MADOX 01 Episode 1
+Episode Name: Arcade Gamer Fubuki Tokebetsu hen Kabe no Mukou no Paradise Episode 1
 
-Episode Link: https://allanime.to/watch/mPiH3avR87J7AkDe9/episode-1-sub
+Episode Link: https://allanime.to/watch/qorWiwBbmZtvGZH9H/episode-1-sub
  
 # Analytics
 
