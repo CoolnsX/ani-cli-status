@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Doraemon Movie 31 Shin Nobita to Tetsujin Heidan Habatake Tenshi tachi Episode 1
+Episode Name: Hoshikuzu Telepath Episode 3
 
-Episode Link: https://allanime.to/watch/L6sgNfPorbsHTW22y/episode-1-sub
+Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-3-sub
  
 # Analytics
 
