@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 16bit Sensation ANOTHER LAYER Episode 4
+Episode Name: Tenchi Muyou GXP Paradise Shidou hen Episode 6
 
-Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-4-sub
+Episode Link: https://allanime.to/watch/DvKvm2E372X26QaqZ/episode-6-sub
  
 # Analytics
 
