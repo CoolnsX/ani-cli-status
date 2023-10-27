@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu Episode 4
+Episode Name: Doraemon Nobita no Daimakyou Episode 1
 
-Episode Link: https://allanime.to/watch/WjbWDFPRq9kAxwsQ6/episode-4-sub
+Episode Link: https://allanime.to/watch/woMSqJm8zpf3hCoFP/episode-1-sub
  
 # Analytics
 
