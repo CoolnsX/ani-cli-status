@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Season 2 Episode 4
+Episode Name: Spirit of Wonder Shounen Kagaku Club Episode 1
 
-Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-4-sub
+Episode Link: https://allanime.to/watch/E5R9iqAormbczxAHz/episode-1-sub
  
 # Analytics
 
