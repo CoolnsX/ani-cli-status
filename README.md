@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 16
+Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 4
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-16-sub
+Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-4-sub
  
 # Analytics
 
