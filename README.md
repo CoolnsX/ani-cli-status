@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tenchi Muyou GXP Paradise Shidou hen Episode 6
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 17
 
-Episode Link: https://allanime.to/watch/DvKvm2E372X26QaqZ/episode-6-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-17-sub
  
 # Analytics
 
