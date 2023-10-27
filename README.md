@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mahoutsukai no Yome Season 2 Part 2 Episode 4
+Episode Name: Heart Cocktail Episode 6
 
-Episode Link: https://allanime.to/watch/2ZtBn5GC5rogrd3Z8/episode-4-sub
+Episode Link: https://allanime.to/watch/v9GMayYwmf96n9GY2/episode-6-sub
  
 # Analytics
 
