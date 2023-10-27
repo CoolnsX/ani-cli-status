@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Heart Cocktail Episode 6
+Episode Name: PLUTO Episode 8
 
-Episode Link: https://allanime.to/watch/v9GMayYwmf96n9GY2/episode-6-sub
+Episode Link: https://allanime.to/watch/HRA9hAwiQFQvfX7Zn/episode-8-sub
  
 # Analytics
 
