@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kamierabi Episode 4
+Episode Name: Odekake Kozame Episode 13
 
-Episode Link: https://allanime.to/watch/24W3oKkbHgXMcYic6/episode-4-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-13-sub
  
 # Analytics
 
