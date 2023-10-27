@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Doraemon Nobita no Daimakyou Episode 1
+Episode Name: Kamierabi Episode 4
 
-Episode Link: https://allanime.to/watch/woMSqJm8zpf3hCoFP/episode-1-sub
+Episode Link: https://allanime.to/watch/24W3oKkbHgXMcYic6/episode-4-sub
  
 # Analytics
 
