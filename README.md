@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 4
+Episode Name: Kamierabi Episode 4
 
-Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-4-sub
+Episode Link: https://allanime.to/watch/24W3oKkbHgXMcYic6/episode-4-sub
  
 # Analytics
 
