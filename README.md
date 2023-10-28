@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 5
+Episode Name: Doraemon Movie 9 Nobita no Parallel Saiyuuki Episode 1
 
-Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-5-sub
+Episode Link: https://allanime.to/watch/9ZsGreJdi4ZiPiK8Q/episode-1-sub
  
 # Analytics
 
