@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kage no Jitsuryokusha ni Naritakute 2nd season Episode 4
+Episode Name: Jujutsu Kaisen 2nd Season Episode 14
 
-Episode Link: https://allanime.to/watch/TzKpa9QpMbq5sXqum/episode-4-sub
+Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-14-sub
  
 # Analytics
 
