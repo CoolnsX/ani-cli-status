@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Heart Cocktail Episode 6
+Episode Name: Hypnosis Mic Division Rap Battle Rhyme Anima Episode 4
 
-Episode Link: https://allanime.to/watch/v9GMayYwmf96n9GY2/episode-6-sub
+Episode Link: https://allanime.to/watch/YnnH5QgEaaWE5bmKZ/episode-4-sub
  
 # Analytics
 
