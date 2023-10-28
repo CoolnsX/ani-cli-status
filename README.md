@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 5
+Episode Name: Kizuna no Allele Season 2 Episode 4
 
-Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-5-sub
+Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-4-sub
  
 # Analytics
 
