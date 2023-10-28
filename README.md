@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho Season 2 Episode 27
+Episode Name: Kanojo mo Kanojo Season 2 Episode 4
 
-Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-27-sub
+Episode Link: https://allanime.to/watch/EtMQTAuYg4AfFMsb8/episode-4-sub
  
 # Analytics
 
