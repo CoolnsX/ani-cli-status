@@ -11,8 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
           
-      - name: install gnuplot
-        run: sudo apt --fix-missing update && sudo apt install -y gnuplot
+      #- name: install gnuplot
+       # run: sudo apt --fix-missing update && sudo apt install -y gnuplot
 
       - name: run me uwu
         run: sh check.sh
