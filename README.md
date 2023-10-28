@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: PLUTO Episode 8
+Episode Name: Under Ninja Episode 4
 
-Episode Link: https://allanime.to/watch/HRA9hAwiQFQvfX7Zn/episode-8-sub
+Episode Link: https://allanime.to/watch/cTfKHWK5mWpjzAEpr/episode-4-sub
  
 # Analytics
 
