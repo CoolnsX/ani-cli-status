@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Under Ninja Episode 4
+Episode Name: Seiken Gakuin no Maken Tsukai Episode 5
 
-Episode Link: https://allanime.to/watch/cTfKHWK5mWpjzAEpr/episode-4-sub
+Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-5-sub
  
 # Analytics
 
