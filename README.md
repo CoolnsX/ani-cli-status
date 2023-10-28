@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: PLUTO Episode 8
+Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 5
 
-Episode Link: https://allanime.to/watch/HRA9hAwiQFQvfX7Zn/episode-8-sub
+Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-5-sub
  
 # Analytics
 
