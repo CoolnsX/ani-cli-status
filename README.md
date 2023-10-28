@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seiken Gakuin no Maken Tsukai Episode 5
+Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 4
 
-Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-5-sub
+Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-4-sub
  
 # Analytics
 
