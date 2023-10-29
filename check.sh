@@ -89,5 +89,5 @@ provider_run "gogoplay" "/Luf-mp4 :/p" &
 
 wait
 
-#analytics
+#analytics using gnuplot
 gen_analytics && echo "Analytics graph generated"
