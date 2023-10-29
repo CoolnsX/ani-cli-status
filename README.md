@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 67
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 5
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-67-sub
+Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-5-sub
  
 # Analytics
 
