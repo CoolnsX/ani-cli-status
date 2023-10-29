@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shangri La Frontier Episode 5
+Episode Name: Shadowverse Flame Episode 67
 
-Episode Link: https://allanime.to/watch/Q4Aj2B9wj6hvbF3H5/episode-5-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-67-sub
  
 # Analytics
 
