@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dekoboko Majo no Oyako Jijou Episode 6
+Episode Name: Doraemon Nobita to Sora no Utopia Episode 1
 
-Episode Link: https://allanime.to/watch/Ld2BmMeqndxdeEq5H/episode-6-sub
+Episode Link: https://allanime.to/watch/o5xXp2y25L2d32r8q/episode-1-sub
  
 # Analytics
 
