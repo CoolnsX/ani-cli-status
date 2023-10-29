@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100 nin no Kanojo Episode 4
+Episode Name: Dark Gathering Episode 17
 
-Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-4-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-17-sub
  
 # Analytics
 
