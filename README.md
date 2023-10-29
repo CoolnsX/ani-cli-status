@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Buta no Liver wa Kanetsu Shiro Episode 4
+Episode Name: DOG SIGNAL Episode 1
 
-Episode Link: https://allanime.to/watch/KopH8vaGDb7qpKJgM/episode-4-sub
+Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-1-sub
  
 # Analytics
 
