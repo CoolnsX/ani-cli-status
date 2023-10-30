@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 29
+Episode Name: Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100 nin no Kanojo Episode 4
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-29-sub
+Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-4-sub
  
 # Analytics
 
