@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 17
+Episode Name: Shangri La Frontier Episode 5
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-17-sub
+Episode Link: https://allanime.to/watch/Q4Aj2B9wj6hvbF3H5/episode-5-sub
  
 # Analytics
 
