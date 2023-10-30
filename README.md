@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 4
+Episode Name: Tousouchuu Great Mission Episode 29
 
-Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-4-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-29-sub
  
 # Analytics
 
