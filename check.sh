@@ -51,12 +51,13 @@ decrypt_allanime() {
 provider_run() {
         provider_id="$(decrypt_allanime "$(printf "%s" "$data" | sed -n "$2" | head -1 | cut -d':' -f2)" | sed "s/\/clock/\/clock\.json/")"
         [ -z "$provider_id" ] && gen_img "$1" "! No" "embed link" "#a26b03" || printf "\n\033[1;34mFetching %s links < %s" "$1" "$provider_id"
-        [ -z "$provider_id" ] || (provider_video=$(curl -s "${base_url}$provider_id" | sed 's|},{|\n|g' | sed -nE 's|.*link":"([^"]*)".*"resolutionStr":"([^"]*)".*|\2 >\1|p') && [ -z "$provider_video" ] && gen_img "$1" "✗ No" "link returned" "darkred" || gen_img "$1" "✓ $(printf "%s\n" "$provider_video" | wc -l)" "links returned" "darkgreen" "yes")
+        [ -z "$provider_id" ] || (provider_video=$(curl -s "https://${domain}$provider_id" | sed 's|},{|\n|g' | sed -nE 's|.*link":"([^"]*)".*"resolutionStr":"([^"]*)".*|\2 >\1|p') && [ -z "$provider_video" ] && gen_img "$1" "✗ No" "link returned" "darkred" || gen_img "$1" "✓ $(printf "%s\n" "$provider_video" | wc -l)" "links returned" "darkgreen" "yes")
 }
 
 #intializing
 printf "" >results
-base_url="https://api.allanime.day"
+domain="allanime.day"
+base_url="https://api.$domain"
 lol="https://allanime.to"
 total=$(cat total)
 total=$((total + 1))
