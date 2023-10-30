@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Undead Unluck Episode 4
+Episode Name: Attacker YOU Episode 48
 
-Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-4-sub
+Episode Link: https://allanime.to/watch/jEgr3unzEo2xch3n9/episode-48-sub
  
 # Analytics
 
