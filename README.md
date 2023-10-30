@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1081
+Episode Name: Dr Slump Arale chan Episode 147
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1081-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-147-sub
  
 # Analytics
 
