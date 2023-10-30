@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: SPY×FAMILY Season 2 Episode 4
+Episode Name: Dekoboko Majo no Oyako Jijou Episode 6
 
-Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-4-sub
+Episode Link: https://allanime.to/watch/Ld2BmMeqndxdeEq5H/episode-6-sub
  
 # Analytics
 
