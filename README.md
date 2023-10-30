@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Attacker YOU Episode 48
+Episode Name: Ninjala Episode 91
 
-Episode Link: https://allanime.to/watch/jEgr3unzEo2xch3n9/episode-48-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-91-sub
  
 # Analytics
 
