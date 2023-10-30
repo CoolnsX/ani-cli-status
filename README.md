@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ochibi san Episode 3
+Episode Name: Shadowverse Flame Seven Shadows hen Episode 17
 
-Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-3-sub
+Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-17-sub
  
 # Analytics
 
