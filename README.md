@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Attacker YOU Episode 48
+Episode Name: The IDOLM STER Million Live Episode 4
 
-Episode Link: https://allanime.to/watch/jEgr3unzEo2xch3n9/episode-48-sub
+Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-4-sub
  
 # Analytics
 
