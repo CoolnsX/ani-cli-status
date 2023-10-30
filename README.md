@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The IDOLM STER Million Live Episode 4
+Episode Name: Dark Gathering Episode 17
 
-Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-4-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-17-sub
  
 # Analytics
 
