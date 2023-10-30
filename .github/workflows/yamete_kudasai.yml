@@ -9,17 +9,13 @@ jobs:
   Yamete_kudasai:
     runs-on: self-hosted    
     steps:
-      - uses: actions/checkout@v3
-          
-      #- name: install gnuplot
-       # run: sudo apt --fix-missing update && sudo apt install -y gnuplot
-      - name: check gnuplot
-        run: command -v gnuplot
+      - uses: actions/checkout@v4
+
       - name: run me uwu
         run: sh check.sh
         
       - name: auwuto commit uwu
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "update: status"
           repository: .
