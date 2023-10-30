@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Go Go Vehicle Zoo Episode 18
+Episode Name: Shadowverse Flame Episode 67
 
-Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-18-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-67-sub
  
 # Analytics
 
