@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 17
+Episode Name: Undead Unluck Episode 4
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-17-sub
+Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-4-sub
  
 # Analytics
 
