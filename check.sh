@@ -1,5 +1,7 @@
 #!/bin/sh
 
+set -x
+
 gen_img() {
         convert -fill white -background "$4" -pointsize 72 -font "iosevka-regular.ttf" label:"\ $2 $3 " "images/$1.jpg"
         printf "%s : %s %s\n" "$1" "$2" "$3" >>results
@@ -40,12 +42,14 @@ EOF
 }
 
 decrypt_allanime() {
+        printf "%s" "$-" | grep -q 'x' && set +x
         for hex in $(printf '%s' "$1" | sed 's/../&\n/g'); do
                 dec=$(printf "%d" "0x$hex")
                 xor=$((dec ^ 56))
                 #shellcheck disable=SC2059
                 printf "\\$(printf "%o" "$xor")"
         done
+        printf "%s" "$-" | grep -q 'x' || set -x
 }
 
 provider_run() {
