@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 91
+Episode Name: Kusuriya no Hitorigoto Episode 4
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-91-sub
+Episode Link: https://allanime.to/watch/h4PMucgQwndzYNNxS/episode-4-sub
  
 # Analytics
 
