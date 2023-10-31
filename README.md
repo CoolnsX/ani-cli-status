@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kusuriya no Hitorigoto Episode 4
+Episode Name: Doraemon Nobita to Sora no Utopia Episode 1
 
-Episode Link: https://allanime.to/watch/h4PMucgQwndzYNNxS/episode-4-sub
+Episode Link: https://allanime.to/watch/o5xXp2y25L2d32r8q/episode-1-sub
  
 # Analytics
 
