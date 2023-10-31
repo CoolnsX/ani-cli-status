@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dekoboko Majo no Oyako Jijou Episode 6
+Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 5
 
-Episode Link: https://allanime.to/watch/Ld2BmMeqndxdeEq5H/episode-6-sub
+Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-5-sub
  
 # Analytics
 
