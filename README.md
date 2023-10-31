@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: SPY×FAMILY Season 2 Episode 4
+Episode Name: Overtake Episode 5
 
-Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-4-sub
+Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-5-sub
  
 # Analytics
 
