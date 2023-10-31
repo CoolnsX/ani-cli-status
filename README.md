@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 29
+Episode Name: Ninjala Episode 91
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-29-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-91-sub
  
 # Analytics
 
