@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kusuriya no Hitorigoto Episode 4
+Episode Name: The IDOLM STER Million Live Episode 4
 
-Episode Link: https://allanime.to/watch/h4PMucgQwndzYNNxS/episode-4-sub
+Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-4-sub
  
 # Analytics
 
