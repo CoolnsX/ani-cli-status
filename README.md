@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Doraemon Movie Boku Momotarou no Nanna no Sa Episode 1
+Episode Name: Doraemon Nobita to Sora no Utopia Episode 1
 
-Episode Link: https://allanime.to/watch/DDJLPSySDHWuLeCBs/episode-1-sub
+Episode Link: https://allanime.to/watch/o5xXp2y25L2d32r8q/episode-1-sub
  
 # Analytics
 
