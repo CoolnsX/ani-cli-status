@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: B PROJECT Netsuretsu Love Call Episode 5
+Episode Name: Doraemon Movie Boku Momotarou no Nanna no Sa Episode 1
 
-Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-5-sub
+Episode Link: https://allanime.to/watch/DDJLPSySDHWuLeCBs/episode-1-sub
  
 # Analytics
 
