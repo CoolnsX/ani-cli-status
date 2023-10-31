@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 5
+Episode Name: Minami no Niji no Lucy Episode 14
 
-Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-5-sub
+Episode Link: https://allanime.to/watch/X7PffJcuAthGCcLkd/episode-14-sub
  
 # Analytics
 
