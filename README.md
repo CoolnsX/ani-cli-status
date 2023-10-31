@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Overtake Episode 5
+Episode Name: 1P Episode 1081
 
-Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-5-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1081-sub
  
 # Analytics
 
