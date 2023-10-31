@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Doraemon Nobita to Sora no Utopia Episode 1
+Episode Name: Dead Mount Death Play Part 2 Episode 4
 
-Episode Link: https://allanime.to/watch/o5xXp2y25L2d32r8q/episode-1-sub
+Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-4-sub
  
 # Analytics
 
