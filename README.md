@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Part 2 Episode 4
+Episode Name: Ninjala Episode 91
 
-Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-4-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-91-sub
  
 # Analytics
 
