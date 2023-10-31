@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 5
+Episode Name: Tousouchuu Great Mission Episode 29
 
-Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-5-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-29-sub
  
 # Analytics
 
