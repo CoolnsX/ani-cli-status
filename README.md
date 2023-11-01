@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 5
+Episode Name: Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100 nin no Kanojo Episode 4
 
-Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-5-sub
+Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-4-sub
  
 # Analytics
 
