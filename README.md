@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Youkaiden Nekome Kozou Episode 3
+Episode Name: Tokyo Revengers Tenjiku hen Episode 5
 
-Episode Link: https://allanime.to/watch/iZC9TGsnL3dm2zMhQ/episode-3-sub
+Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-5-sub
  
 # Analytics
 
