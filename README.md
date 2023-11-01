@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Go Go Vehicle Zoo Episode 18
+Episode Name: Overtake Episode 5
 
-Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-18-sub
+Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-5-sub
  
 # Analytics
 
