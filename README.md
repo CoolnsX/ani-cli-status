@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tokyo Revengers Tenjiku hen Episode 5
+Episode Name: Hoshikuzu Telepath Episode 4
 
-Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-5-sub
+Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-4-sub
  
 # Analytics
 
