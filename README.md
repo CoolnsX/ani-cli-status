@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Doraemon Movie 32 Nobita to Kiseki no Shima Animal Adventure Episode 1
+Episode Name: Paradox Live THE ANIMATION Episode 5
 
-Episode Link: https://allanime.to/watch/RBXr7ndToM6haGpXC/episode-1-sub
+Episode Link: https://allanime.to/watch/yzuWfjqR436gKg2oj/episode-5-sub
  
 # Analytics
 
