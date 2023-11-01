@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Overtake Episode 5
+Episode Name: Minami no Niji no Lucy Episode 14
 
-Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-5-sub
+Episode Link: https://allanime.to/watch/X7PffJcuAthGCcLkd/episode-14-sub
  
 # Analytics
 
