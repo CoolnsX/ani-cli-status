@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boushoku no Berserk Episode 5
+Episode Name: Dead Mount Death Play Part 2 Episode 4
 
-Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-5-sub
+Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-4-sub
  
 # Analytics
 
