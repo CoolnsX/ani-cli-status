@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 5
+Episode Name: Kage no Jitsuryokusha ni Naritakute 2nd season Episode 5
 
-Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-5-sub
+Episode Link: https://allanime.to/watch/TzKpa9QpMbq5sXqum/episode-5-sub
  
 # Analytics
 
