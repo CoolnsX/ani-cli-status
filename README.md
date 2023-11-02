@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kage no Jitsuryokusha ni Naritakute 2nd season Episode 5
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 28
 
-Episode Link: https://allanime.to/watch/TzKpa9QpMbq5sXqum/episode-5-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-28-sub
  
 # Analytics
 
