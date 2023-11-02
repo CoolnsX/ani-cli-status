@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Doraemon Movie Boku Momotarou no Nanna no Sa Episode 1
+Episode Name: SHY Episode 5
 
-Episode Link: https://allanime.to/watch/DDJLPSySDHWuLeCBs/episode-1-sub
+Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-5-sub
  
 # Analytics
 
