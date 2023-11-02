@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho Season 2 Episode 28
+Episode Name: Bullbuster Episode 5
 
-Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-28-sub
+Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-5-sub
  
 # Analytics
 
