@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: SHY Episode 5
+Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 5
 
-Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-5-sub
+Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-5-sub
  
 # Analytics
 
