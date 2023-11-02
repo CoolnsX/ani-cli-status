@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kage no Jitsuryokusha ni Naritakute 2nd season Episode 5
+Episode Name: Mahoutsukai no Yome SEASON 2 Part 2 Episode 5
 
-Episode Link: https://allanime.to/watch/TzKpa9QpMbq5sXqum/episode-5-sub
+Episode Link: https://allanime.to/watch/2ZtBn5GC5rogrd3Z8/episode-5-sub
  
 # Analytics
 
