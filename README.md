@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 16bit Sensation ANOTHER LAYER Episode 5
+Episode Name: BEYBLADE X Episode 4
 
-Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-5-sub
+Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-4-sub
  
 # Analytics
 
