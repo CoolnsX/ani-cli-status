@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Uma Musume Pretty Derby Season 3 Episode 5
+Episode Name: Under Ninja Episode 5
 
-Episode Link: https://allanime.to/watch/Ba4KnehHnXKXN5cZe/episode-5-sub
+Episode Link: https://allanime.to/watch/cTfKHWK5mWpjzAEpr/episode-5-sub
  
 # Analytics
 
