@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Paradox Live THE ANIMATION Episode 5
+Episode Name: Dr STONE NEW WORLD Part 2 Episode 4
 
-Episode Link: https://allanime.to/watch/yzuWfjqR436gKg2oj/episode-5-sub
+Episode Link: https://allanime.to/watch/MGJWWRWEdXWNyX6TX/episode-4-sub
  
 # Analytics
 
