@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Gegege no Kitarou 1996 Episode 13
+Episode Name: 16bit Sensation ANOTHER LAYER Episode 5
 
-Episode Link: https://allanime.to/watch/WisEv2vxpEsyfnfdm/episode-13-sub
+Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-5-sub
  
 # Analytics
 
