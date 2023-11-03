@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ojou to Banken kun Episode 6
+Episode Name: Seiken Gakuin no Maken Tsukai Episode 6
 
-Episode Link: https://allanime.to/watch/QMip3pmqPAsu42Nis/episode-6-sub
+Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-6-sub
  
 # Analytics
 
