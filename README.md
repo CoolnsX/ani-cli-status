@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: ONIMUSHA Episode 8
+Episode Name: Ojou to Banken kun Episode 6
 
-Episode Link: https://allanime.to/watch/yyPnRbSQsnNvJB2j5/episode-8-sub
+Episode Link: https://allanime.to/watch/QMip3pmqPAsu42Nis/episode-6-sub
  
 # Analytics
 
