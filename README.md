@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yuzuki san Chi no Yon Kyoudai Episode 5
+Episode Name: Doraemon Movie 32 Nobita to Kiseki no Shima Animal Adventure Episode 1
 
-Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-5-sub
+Episode Link: https://allanime.to/watch/RBXr7ndToM6haGpXC/episode-1-sub
  
 # Analytics
 
