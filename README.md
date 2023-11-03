@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seiken Gakuin no Maken Tsukai Episode 6
+Episode Name: 16bit Sensation ANOTHER LAYER Episode 5
 
-Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-6-sub
+Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-5-sub
  
 # Analytics
 
