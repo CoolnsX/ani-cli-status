@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 5
+Episode Name: Dr STONE NEW WORLD Part 2 Episode 4
 
-Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-5-sub
+Episode Link: https://allanime.to/watch/MGJWWRWEdXWNyX6TX/episode-4-sub
  
 # Analytics
 
