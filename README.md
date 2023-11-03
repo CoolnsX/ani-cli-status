@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BEYBLADE X Episode 4
+Episode Name: Mewkledreamy Mix Episode 20
 
-Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-4-sub
+Episode Link: https://allanime.to/watch/hiRpBoKJ49XD7inW5/episode-20-sub
  
 # Analytics
 
