@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dr STONE NEW WORLD Part 2 Episode 4
+Episode Name: BEYBLADE X Episode 4
 
-Episode Link: https://allanime.to/watch/MGJWWRWEdXWNyX6TX/episode-4-sub
+Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-4-sub
  
 # Analytics
 
