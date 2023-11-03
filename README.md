@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Mewkledreamy Mix Episode 20
+Episode Name: Kanojo mo Kanojo Season 2 Episode 5
 
-Episode Link: https://allanime.to/watch/hiRpBoKJ49XD7inW5/episode-20-sub
+Episode Link: https://allanime.to/watch/EtMQTAuYg4AfFMsb8/episode-5-sub
  
 # Analytics
 
