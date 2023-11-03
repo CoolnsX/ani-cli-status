@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: BEYBLADE X Episode 4
+Episode Name: Paradox Live THE ANIMATION Episode 5
 
-Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-4-sub
+Episode Link: https://allanime.to/watch/yzuWfjqR436gKg2oj/episode-5-sub
  
 # Analytics
 
