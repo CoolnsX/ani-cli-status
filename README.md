@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kusuriya no Hitorigoto Episode 5
+Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 6
 
-Episode Link: https://allanime.to/watch/h4PMucgQwndzYNNxS/episode-5-sub
+Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-6-sub
  
 # Analytics
 
