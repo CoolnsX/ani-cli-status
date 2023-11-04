@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 82
+Episode Name: Tokyo Revengers Tenjiku hen Episode 5
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-82-sub
+Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-5-sub
  
 # Analytics
 
