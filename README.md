@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 6
+Episode Name: Kibou no Chikara Otona Precure 23 Episode 5
 
-Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-6-sub
+Episode Link: https://allanime.to/watch/JZkA4xrSJDSpNhMei/episode-5-sub
  
 # Analytics
 
