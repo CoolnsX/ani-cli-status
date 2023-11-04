@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu Episode 5
+Episode Name: Jujutsu Kaisen 2nd Season Episode 15
 
-Episode Link: https://allanime.to/watch/WjbWDFPRq9kAxwsQ6/episode-5-sub
+Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-15-sub
  
 # Analytics
 
