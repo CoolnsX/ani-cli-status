@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 5
+Episode Name: Shadowverse Flame Episode 68
 
-Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-5-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-68-sub
  
 # Analytics
 
