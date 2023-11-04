@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: ONIMUSHA Episode 8
+Episode Name: Chiikawa Episode 64
 
-Episode Link: https://allanime.to/watch/yyPnRbSQsnNvJB2j5/episode-8-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-64-sub
  
 # Analytics
 
