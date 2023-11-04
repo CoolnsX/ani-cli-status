@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kibou no Chikara Otona Precure 23 Episode 5
+Episode Name: Yuzuki san Chi no Yon Kyoudai Episode 5
 
-Episode Link: https://allanime.to/watch/JZkA4xrSJDSpNhMei/episode-5-sub
+Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-5-sub
  
 # Analytics
 
