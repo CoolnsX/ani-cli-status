@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Jujutsu Kaisen 2nd Season Episode 15
+Episode Name: Sousou no Frieren ●● no Mahou Episode 2
 
-Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-15-sub
+Episode Link: https://allanime.to/watch/sG52nbcFo3PfLg6PD/episode-2-sub
  
 # Analytics
 
