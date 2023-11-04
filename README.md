@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Arknights Touin Kiro Episode 5
+Episode Name: Kibou no Chikara Otona Precure 23 Episode 5
 
-Episode Link: https://allanime.to/watch/aoDnrk66Tdj6M5Myf/episode-5-sub
+Episode Link: https://allanime.to/watch/JZkA4xrSJDSpNhMei/episode-5-sub
  
 # Analytics
 
