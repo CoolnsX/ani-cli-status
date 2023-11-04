@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren ●● no Mahou Episode 2
+Episode Name: Arknights Touin Kiro Episode 5
 
-Episode Link: https://allanime.to/watch/sG52nbcFo3PfLg6PD/episode-2-sub
+Episode Link: https://allanime.to/watch/aoDnrk66Tdj6M5Myf/episode-5-sub
  
 # Analytics
 
