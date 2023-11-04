@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: 16bit Sensation ANOTHER LAYER Episode 5
+Episode Name: Gegege no Kitarou 1968 Episode 24
 
-Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-5-sub
+Episode Link: https://allanime.to/watch/a4452ercPDFam2Dd7/episode-24-sub
  
 # Analytics
 
