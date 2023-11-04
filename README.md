@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kibou no Chikara Otona Precure 23 Episode 5
+Episode Name: ONIMUSHA Episode 8
 
-Episode Link: https://allanime.to/watch/JZkA4xrSJDSpNhMei/episode-5-sub
+Episode Link: https://allanime.to/watch/yyPnRbSQsnNvJB2j5/episode-8-sub
  
 # Analytics
 
