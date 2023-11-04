@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 82
+Episode Name: 16bit Sensation ANOTHER LAYER Episode 5
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-82-sub
+Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-5-sub
  
 # Analytics
 
