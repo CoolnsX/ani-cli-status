@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 68
+Episode Name: Buta no Liver wa Kanetsu Shiro Episode 5
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-68-sub
+Episode Link: https://allanime.to/watch/KopH8vaGDb7qpKJgM/episode-5-sub
  
 # Analytics
 
