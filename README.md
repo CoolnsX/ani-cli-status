@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Potion danomi de Ikinobimasu Episode 5
+Episode Name: Hypnosis Mic Division Rap Battle Rhyme Anima Episode 5
 
-Episode Link: https://allanime.to/watch/HSER99GAXJeJN57Nj/episode-5-sub
+Episode Link: https://allanime.to/watch/YnnH5QgEaaWE5bmKZ/episode-5-sub
  
 # Analytics
 
