@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 5
+Episode Name: Kusuriya no Hitorigoto Episode 5
 
-Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-5-sub
+Episode Link: https://allanime.to/watch/h4PMucgQwndzYNNxS/episode-5-sub
  
 # Analytics
 
