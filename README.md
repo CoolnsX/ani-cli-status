@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shangri La Frontier Episode 6
+Episode Name: Undead Unluck Episode 5
 
-Episode Link: https://allanime.to/watch/Q4Aj2B9wj6hvbF3H5/episode-6-sub
+Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-5-sub
  
 # Analytics
 
