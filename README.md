@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kikansha no Mahou wa Tokubetsu desu Episode 5
+Episode Name: Dekoboko Majo no Oyako Jijou Episode 7
 
-Episode Link: https://allanime.to/watch/K8tzqTGyjMsHWKYWj/episode-5-sub
+Episode Link: https://allanime.to/watch/Ld2BmMeqndxdeEq5H/episode-7-sub
  
 # Analytics
 
