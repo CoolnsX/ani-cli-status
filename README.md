@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 92
+Episode Name: Hametsu no Oukoku Episode 5
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-92-sub
+Episode Link: https://allanime.to/watch/attbXgRjuuxe8nS7R/episode-5-sub
  
 # Analytics
 
