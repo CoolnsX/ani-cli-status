@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren Episode 9
+Episode Name: Potion danomi de Ikinobimasu Episode 5
 
-Episode Link: https://allanime.to/watch/ReHMC7TQnch3C6z8j/episode-9-sub
+Episode Link: https://allanime.to/watch/HSER99GAXJeJN57Nj/episode-5-sub
  
 # Analytics
 
