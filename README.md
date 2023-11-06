@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: DOG SIGNAL Episode 2
+Episode Name: Shingeki no Kyojin The Final Season Kanketsu hen Kouhen Episode 1
 
-Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-2-sub
+Episode Link: https://allanime.to/watch/amrvmRigMzG6y9yAw/episode-1-sub
  
 # Analytics
 
