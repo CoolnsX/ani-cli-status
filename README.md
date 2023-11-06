@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 30
+Episode Name: Shadowverse Flame Episode 68
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-30-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-68-sub
  
 # Analytics
 
