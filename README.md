@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 113
+Episode Name: Ochibi san Episode 4
 
-Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-113-sub
+Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-4-sub
  
 # Analytics
 
