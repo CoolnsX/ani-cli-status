@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Inochi no Chikyuu Dioxin no Natsu Episode 1
+Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 5
 
-Episode Link: https://allanime.to/watch/eEjxJcCTuQDYWnDfX/episode-1-sub
+Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-5-sub
  
 # Analytics
 
