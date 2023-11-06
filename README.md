@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 68
+Episode Name: DOG SIGNAL Episode 2
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-68-sub
+Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-2-sub
  
 # Analytics
 
