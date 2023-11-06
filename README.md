@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Time Bokan Series Gyakuten Ippatsu man Episode 20
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 6
 
-Episode Link: https://allanime.to/watch/Ffz7aEAMe98zkXAqT/episode-20-sub
+Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-6-sub
  
 # Analytics
 
