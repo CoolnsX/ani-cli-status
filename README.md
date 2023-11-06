@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shingeki no Kyojin The Final Season Kanketsu hen Kouhen Episode 1
+Episode Name: Tearmoon Teikoku Monogatari Dantoudai kara Hajimaru Hime no Tensei Gyakuten Story Episode 5
 
-Episode Link: https://allanime.to/watch/amrvmRigMzG6y9yAw/episode-1-sub
+Episode Link: https://allanime.to/watch/aauZ6NzTYBq2SHW8M/episode-5-sub
  
 # Analytics
 
