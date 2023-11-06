@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: IDOLiSH7 LIVE 4bit BEYOND THE PERiOD DAY 2 Episode 1
+Episode Name: Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100 nin no Kanojo Episode 5
 
-Episode Link: https://allanime.to/watch/6NhWyQZr8tJBdfk2s/episode-1-sub
+Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-5-sub
  
 # Analytics
 
