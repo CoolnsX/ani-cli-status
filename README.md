@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boushoku no Berserk Episode 6
+Episode Name: B PROJECT Netsuretsu Love Call Episode 6
 
-Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-6-sub
+Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-6-sub
  
 # Analytics
 
