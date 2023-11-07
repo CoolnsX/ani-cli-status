@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 30
+Episode Name: Kawagoe Boys Sing Episode 5
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-30-sub
+Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-5-sub
  
 # Analytics
 
