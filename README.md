@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bokura no Ameiro Protocol Episode 5
+Episode Name: Chibi Maruko chan Episode 113
 
-Episode Link: https://allanime.to/watch/7aN3Rmvr2wXuWsYAw/episode-5-sub
+Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-113-sub
  
 # Analytics
 
