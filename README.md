@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kamonohashi Ron no Kindan Suiri Episode 6
+Episode Name: SPY×FAMILY Season 2 Episode 5
 
-Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-6-sub
+Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-5-sub
  
 # Analytics
 
