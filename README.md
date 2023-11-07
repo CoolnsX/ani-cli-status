@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Boushoku no Berserk Episode 6
+Episode Name: Kusuriya no Hitorigoto Episode 5
 
-Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-6-sub
+Episode Link: https://allanime.to/watch/h4PMucgQwndzYNNxS/episode-5-sub
  
 # Analytics
 
