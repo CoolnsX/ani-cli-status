@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shingeki no Kyojin The Final Season Kanketsu hen Kouhen Episode 1
+Episode Name: Dekoboko Majo no Oyako Jijou Episode 7
 
-Episode Link: https://allanime.to/watch/amrvmRigMzG6y9yAw/episode-1-sub
+Episode Link: https://allanime.to/watch/Ld2BmMeqndxdeEq5H/episode-7-sub
  
 # Analytics
 
