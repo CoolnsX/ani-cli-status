@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tearmoon Teikoku Monogatari Dantoudai kara Hajimaru Hime no Tensei Gyakuten Story Episode 5
+Episode Name: Boushoku no Berserk Episode 6
 
-Episode Link: https://allanime.to/watch/aauZ6NzTYBq2SHW8M/episode-5-sub
+Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-6-sub
  
 # Analytics
 
