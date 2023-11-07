@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Shangri La Frontier Episode 6
+Episode Name: Shingeki no Kyojin The Final Season Kanketsu hen Kouhen Episode 1
 
-Episode Link: https://allanime.to/watch/Q4Aj2B9wj6hvbF3H5/episode-6-sub
+Episode Link: https://allanime.to/watch/amrvmRigMzG6y9yAw/episode-1-sub
  
 # Analytics
 
