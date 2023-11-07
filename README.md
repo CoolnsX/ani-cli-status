@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Go Go Vehicle Zoo Episode 19
+Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 5
 
-Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-19-sub
+Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-5-sub
  
 # Analytics
 
