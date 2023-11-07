@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kawagoe Boys Sing Episode 5
+Episode Name: Chibi Maruko chan Episode 113
 
-Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-5-sub
+Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-113-sub
  
 # Analytics
 
