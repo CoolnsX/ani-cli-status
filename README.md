@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: MF Ghost Episode 6
+Episode Name: Time Bokan Series Gyakuten Ippatsu man Episode 20
 
-Episode Link: https://allanime.to/watch/GEuvZ6qE29SDKJBbm/episode-6-sub
+Episode Link: https://allanime.to/watch/Ffz7aEAMe98zkXAqT/episode-20-sub
  
 # Analytics
 
