@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: DOG SIGNAL Episode 3
+Episode Name: Tearmoon Teikoku Monogatari Dantoudai kara Hajimaru Hime no Tensei Gyakuten Story Episode 5
 
-Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-3-sub
+Episode Link: https://allanime.to/watch/aauZ6NzTYBq2SHW8M/episode-5-sub
  
 # Analytics
 
