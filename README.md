@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dekoboko Majo no Oyako Jijou Episode 7
+Episode Name: Kamonohashi Ron no Kindan Suiri Episode 6
 
-Episode Link: https://allanime.to/watch/Ld2BmMeqndxdeEq5H/episode-7-sub
+Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-6-sub
  
 # Analytics
 
