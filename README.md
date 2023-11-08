@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 15
+Episode Name: Go Go Vehicle Zoo Episode 19
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-15-sub
+Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-19-sub
  
 # Analytics
 
