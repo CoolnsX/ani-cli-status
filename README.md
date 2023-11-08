@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Overtake Episode 6
+Episode Name: Dark Gathering Episode 18
 
-Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-6-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-18-sub
  
 # Analytics
 
