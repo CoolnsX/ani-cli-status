@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu Episode 6
+Episode Name: Kizuna no Allele Season 2 Episode 6
 
-Episode Link: https://allanime.to/watch/WjbWDFPRq9kAxwsQ6/episode-6-sub
+Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-6-sub
  
 # Analytics
 
