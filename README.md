@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Buta no Liver wa Kanetsu Shiro Episode 5
+Episode Name: Overtake Episode 6
 
-Episode Link: https://allanime.to/watch/KopH8vaGDb7qpKJgM/episode-5-sub
+Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-6-sub
  
 # Analytics
 
