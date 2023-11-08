@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 18
+Episode Name: Atarashii Joushi wa Dotennen Episode 5
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-18-sub
+Episode Link: https://allanime.to/watch/2wP6RWDu339B7ZtPS/episode-5-sub
  
 # Analytics
 
