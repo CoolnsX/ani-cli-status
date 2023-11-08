@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 30
+Episode Name: Shangri La Frontier Episode 6
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-30-sub
+Episode Link: https://allanime.to/watch/Q4Aj2B9wj6hvbF3H5/episode-6-sub
  
 # Analytics
 
