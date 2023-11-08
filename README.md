@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: The IDOLM STER Million Live Episode 5
+Episode Name: Mewkledreamy Mix Episode 21
 
-Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-5-sub
+Episode Link: https://allanime.to/watch/hiRpBoKJ49XD7inW5/episode-21-sub
  
 # Analytics
 
