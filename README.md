@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 5
+Episode Name: Dekoboko Majo no Oyako Jijou Episode 7
 
-Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-5-sub
+Episode Link: https://allanime.to/watch/Ld2BmMeqndxdeEq5H/episode-7-sub
  
 # Analytics
 
