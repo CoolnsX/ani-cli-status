@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Time Bokan Series Gyakuten Ippatsu man Episode 20
+Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 6
 
-Episode Link: https://allanime.to/watch/Ffz7aEAMe98zkXAqT/episode-20-sub
+Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-6-sub
  
 # Analytics
 
