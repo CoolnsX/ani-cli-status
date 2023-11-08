@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 6
+Episode Name: Bokura no Ameiro Protocol Episode 5
 
-Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-6-sub
+Episode Link: https://allanime.to/watch/7aN3Rmvr2wXuWsYAw/episode-5-sub
  
 # Analytics
 
