@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Atarashii Joushi wa Dotennen Episode 5
+Episode Name: Time Bokan Series Gyakuten Ippatsu man Episode 20
 
-Episode Link: https://allanime.to/watch/2wP6RWDu339B7ZtPS/episode-5-sub
+Episode Link: https://allanime.to/watch/Ffz7aEAMe98zkXAqT/episode-20-sub
  
 # Analytics
 
