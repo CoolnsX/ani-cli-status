@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Season 2 Episode 6
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 5
 
-Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-6-sub
+Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-5-sub
  
 # Analytics
 
