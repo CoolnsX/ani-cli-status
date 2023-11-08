@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Ochibi san Episode 4
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 5
 
-Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-4-sub
+Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-5-sub
  
 # Analytics
 
