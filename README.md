@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Part 2 Episode 5
+Episode Name: SHY Episode 6
 
-Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-5-sub
+Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-6-sub
  
 # Analytics
 
