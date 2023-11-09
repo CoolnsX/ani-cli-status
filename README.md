@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 18
+Episode Name: Kamonohashi Ron no Kindan Suiri Episode 6
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-18-sub
+Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-6-sub
  
 # Analytics
 
