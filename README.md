@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ochibi san Episode 4
+Episode Name: Dark Gathering Episode 18
 
-Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-4-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-18-sub
  
 # Analytics
 
