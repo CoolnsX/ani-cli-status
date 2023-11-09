@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100 nin no Kanojo Episode 5
+Episode Name: Bullbuster Episode 6
 
-Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-5-sub
+Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-6-sub
  
 # Analytics
 
