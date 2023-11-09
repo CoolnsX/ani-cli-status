@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Oishinbo Episode 44
+Episode Name: Odekake Kozame Episode 15
 
-Episode Link: https://allanime.to/watch/x9hvM6xxnXBhhhJCn/episode-44-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-15-sub
  
 # Analytics
 
