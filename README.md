@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 15
+Episode Name: Helck Episode 18
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-15-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-18-sub
  
 # Analytics
 
