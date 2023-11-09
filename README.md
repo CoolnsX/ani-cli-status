@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Bullbuster Episode 6
+Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 6
 
-Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-6-sub
+Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-6-sub
  
 # Analytics
 
