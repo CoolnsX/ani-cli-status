@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boushoku no Berserk Episode 6
+Episode Name: Dekoboko Majo no Oyako Jijou Episode 7
 
-Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-6-sub
+Episode Link: https://allanime.to/watch/Ld2BmMeqndxdeEq5H/episode-7-sub
  
 # Analytics
 
