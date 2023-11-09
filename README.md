@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Kamierabi Episode 6
+Episode Name: Ochibi san Episode 4
 
-Episode Link: https://allanime.to/watch/24W3oKkbHgXMcYic6/episode-6-sub
+Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-4-sub
  
 # Analytics
 
