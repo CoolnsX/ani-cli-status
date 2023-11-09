@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 18
+Episode Name: SHY Episode 6
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-18-sub
+Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-6-sub
  
 # Analytics
 
