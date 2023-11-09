@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: SHY Episode 6
+Episode Name: Ochibi san Episode 4
 
-Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-6-sub
+Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-4-sub
  
 # Analytics
 
