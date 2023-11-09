@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 5
+Episode Name: Boushoku no Berserk Episode 6
 
-Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-5-sub
+Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-6-sub
  
 # Analytics
 
