@@ -2,7 +2,7 @@
 Provides the ani-cli script status..
 
 # description
-This script scrapes from animixplay homepage by fetching the random anime and then extracting the links from it..
+This script scrapes from allanime homepage by fetching the random anime and then extracting the links from it..
 
 #### Selected Episode details
 
