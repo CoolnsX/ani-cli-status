@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 113
+Episode Name: Mewkledreamy Mix Episode 21
 
-Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-113-sub
+Episode Link: https://allanime.to/watch/hiRpBoKJ49XD7inW5/episode-21-sub
  
 # Analytics
 
