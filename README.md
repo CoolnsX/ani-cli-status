@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 83
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 5
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-83-sub
+Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-5-sub
  
 # Analytics
 
