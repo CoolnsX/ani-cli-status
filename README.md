@@ -6,9 +6,9 @@ This script scrapes from animixplay homepage by fetching the random anime and th
 
 #### Selected Episode details
 
-Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 6
+Episode Name: Dead Mount Death Play Part 2 Episode 5
 
-Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-6-sub
+Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-5-sub
  
 # Analytics
 
