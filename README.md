@@ -18,7 +18,7 @@ Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-6-sub
 
 ##  vrv|wixmp links
 
-<img src="./images/vrv.jpg">
+<img src="./images/wixmp.jpg">
 
 ##  dropbox links
 
