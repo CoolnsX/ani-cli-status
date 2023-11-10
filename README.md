@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jewelpet Episode 30
+Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 6
 
-Episode Link: https://allanime.to/watch/KTP7GNmpkcSeL92zs/episode-30-sub
+Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-6-sub
  
 # Analytics
 
