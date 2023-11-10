@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Under Ninja Episode 6
+Episode Name: Dr STONE NEW WORLD Part 2 Episode 5
 
-Episode Link: https://allanime.to/watch/cTfKHWK5mWpjzAEpr/episode-6-sub
+Episode Link: https://allanime.to/watch/MGJWWRWEdXWNyX6TX/episode-5-sub
  
 # Analytics
 
