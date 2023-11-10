@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jewelpet Episode 30
+Episode Name: Jujutsu Kaisen 2nd Season Episode 16
 
-Episode Link: https://allanime.to/watch/KTP7GNmpkcSeL92zs/episode-30-sub
+Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-16-sub
  
 # Analytics
 
