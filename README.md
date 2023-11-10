@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bikkurimen Episode 6
+Episode Name: Mahoutsukai no Yome SEASON 2 Part 2 Episode 6
 
-Episode Link: https://allanime.to/watch/9kbdphJ9ayubD6Djh/episode-6-sub
+Episode Link: https://allanime.to/watch/2ZtBn5GC5rogrd3Z8/episode-6-sub
  
 # Analytics
 
