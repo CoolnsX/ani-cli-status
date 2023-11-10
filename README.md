@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yoru wa Neko to Issho Season 2 Episode 29
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 19
 
-Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-29-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-19-sub
  
 # Analytics
 
