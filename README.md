@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jujutsu Kaisen 2nd Season Episode 16
+Episode Name: Yoru wa Neko to Issho Season 2 Episode 29
 
-Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-16-sub
+Episode Link: https://allanime.to/watch/AisZGmCfRHttGtQs2/episode-29-sub
  
 # Analytics
 
