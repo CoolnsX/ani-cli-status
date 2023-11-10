@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hoshikuzu Telepath Episode 5
+Episode Name: Kamierabi Episode 6
 
-Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-5-sub
+Episode Link: https://allanime.to/watch/24W3oKkbHgXMcYic6/episode-6-sub
  
 # Analytics
 
