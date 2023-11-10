@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 19
+Episode Name: Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu Episode 6
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-19-sub
+Episode Link: https://allanime.to/watch/WjbWDFPRq9kAxwsQ6/episode-6-sub
  
 # Analytics
 
