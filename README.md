@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 6
+Episode Name: Jujutsu Kaisen 2nd Season Episode 16
 
-Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-6-sub
+Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-16-sub
  
 # Analytics
 
