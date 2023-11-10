@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 65
+Episode Name: Kawagoe Boys Sing Episode 5
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-65-sub
+Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-5-sub
  
 # Analytics
 
