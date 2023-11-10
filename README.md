@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kamierabi Episode 6
+Episode Name: Kizuna no Allele Season 2 Episode 6
 
-Episode Link: https://allanime.to/watch/24W3oKkbHgXMcYic6/episode-6-sub
+Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-6-sub
  
 # Analytics
 
