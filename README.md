@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dr STONE NEW WORLD Part 2 Episode 5
+Episode Name: Bullbuster Episode 6
 
-Episode Link: https://allanime.to/watch/MGJWWRWEdXWNyX6TX/episode-5-sub
+Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-6-sub
  
 # Analytics
 
