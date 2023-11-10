@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 6
+Episode Name: Jewelpet Episode 30
 
-Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-6-sub
+Episode Link: https://allanime.to/watch/KTP7GNmpkcSeL92zs/episode-30-sub
  
 # Analytics
 
