@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kawagoe Boys Sing Episode 5
+Episode Name: B PROJECT Netsuretsu Love Call Episode 6
 
-Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-5-sub
+Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-6-sub
  
 # Analytics
 
