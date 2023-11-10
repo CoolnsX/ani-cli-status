@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bullbuster Episode 6
+Episode Name: Jewelpet Episode 30
 
-Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-6-sub
+Episode Link: https://allanime.to/watch/KTP7GNmpkcSeL92zs/episode-30-sub
  
 # Analytics
 
