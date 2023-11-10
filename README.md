@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren Episode 10
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 83
 
-Episode Link: https://allanime.to/watch/ReHMC7TQnch3C6z8j/episode-10-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-83-sub
  
 # Analytics
 
