@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 15
+Episode Name: Tokyo Revengers Tenjiku hen Episode 6
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-15-sub
+Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-6-sub
  
 # Analytics
 
