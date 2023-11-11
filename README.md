@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hametsu no Oukoku Episode 6
+Episode Name: Bikkurimen Episode 6
 
-Episode Link: https://allanime.to/watch/attbXgRjuuxe8nS7R/episode-6-sub
+Episode Link: https://allanime.to/watch/9kbdphJ9ayubD6Djh/episode-6-sub
  
 # Analytics
 
