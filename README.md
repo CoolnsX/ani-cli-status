@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 6
+Episode Name: Kaze to Ki no Uta Sanctus Sei Naru Kana Episode 1
 
-Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-6-sub
+Episode Link: https://allanime.to/watch/wh3FqZLn8x9rKZ6sw/episode-1-sub
  
 # Analytics
 
