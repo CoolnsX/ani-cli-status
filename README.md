@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hametsu no Oukoku Episode 6
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 83
 
-Episode Link: https://allanime.to/watch/attbXgRjuuxe8nS7R/episode-6-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-83-sub
  
 # Analytics
 
