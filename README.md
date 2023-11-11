@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 83
+Episode Name: Kage no Jitsuryokusha ni Naritakute 2nd season Episode 6
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-83-sub
+Episode Link: https://allanime.to/watch/TzKpa9QpMbq5sXqum/episode-6-sub
  
 # Analytics
 
