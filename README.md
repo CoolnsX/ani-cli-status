@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kibou no Chikara Otona Precure 23 Episode 6
+Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 6
 
-Episode Link: https://allanime.to/watch/JZkA4xrSJDSpNhMei/episode-6-sub
+Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-6-sub
  
 # Analytics
 
