@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kaze to Ki no Uta Sanctus Sei Naru Kana Episode 1
+Episode Name: Yuzuki san Chi no Yon Kyoudai Episode 6
 
-Episode Link: https://allanime.to/watch/wh3FqZLn8x9rKZ6sw/episode-1-sub
+Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-6-sub
  
 # Analytics
 
