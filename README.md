@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kage no Jitsuryokusha ni Naritakute 2nd season Episode 6
+Episode Name: Odekake Kozame Episode 15
 
-Episode Link: https://allanime.to/watch/TzKpa9QpMbq5sXqum/episode-6-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-15-sub
  
 # Analytics
 
