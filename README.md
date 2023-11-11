@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Akuma kun ONA Episode 12
+Episode Name: Hametsu no Oukoku Episode 6
 
-Episode Link: https://allanime.to/watch/Pb7FyjPkYez5SM2GQ/episode-12-sub
+Episode Link: https://allanime.to/watch/attbXgRjuuxe8nS7R/episode-6-sub
  
 # Analytics
 
