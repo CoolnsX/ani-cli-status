@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yuzuki san Chi no Yon Kyoudai Episode 6
+Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 6
 
-Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-6-sub
+Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-6-sub
  
 # Analytics
 
