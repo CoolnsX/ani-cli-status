@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kaze to Ki no Uta Sanctus Sei Naru Kana Episode 1
+Episode Name: Akuma kun ONA Episode 12
 
-Episode Link: https://allanime.to/watch/wh3FqZLn8x9rKZ6sw/episode-1-sub
+Episode Link: https://allanime.to/watch/Pb7FyjPkYez5SM2GQ/episode-12-sub
  
 # Analytics
 
