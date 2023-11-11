@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 19
+Episode Name: Kaze to Ki no Uta Sanctus Sei Naru Kana Episode 1
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-19-sub
+Episode Link: https://allanime.to/watch/wh3FqZLn8x9rKZ6sw/episode-1-sub
  
 # Analytics
 
