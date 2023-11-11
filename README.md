@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Goblin Slayer II Episode 6
+Episode Name: Ojou to Banken kun Episode 7
 
-Episode Link: https://allanime.to/watch/vdQ84BfvTwshJdWaP/episode-6-sub
+Episode Link: https://allanime.to/watch/QMip3pmqPAsu42Nis/episode-7-sub
  
 # Analytics
 
