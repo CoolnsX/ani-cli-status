@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1083
+Episode Name: Hirogaru Sky Precure Episode 40
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1083-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-40-sub
  
 # Analytics
 
