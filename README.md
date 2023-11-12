@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1103
+Episode Name: Bokura no Ameiro Protocol Episode 6
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1103-sub
+Episode Link: https://allanime.to/watch/7aN3Rmvr2wXuWsYAw/episode-6-sub
  
 # Analytics
 
