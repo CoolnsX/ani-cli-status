@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 19
+Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 6
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-19-sub
+Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-6-sub
  
 # Analytics
 
