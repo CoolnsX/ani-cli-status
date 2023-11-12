@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 7
+Episode Name: Paul no Miracle Daisakusen Episode 32
 
-Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-7-sub
+Episode Link: https://allanime.to/watch/ENyTLFK8ci6HqDqxD/episode-32-sub
  
 # Analytics
 
