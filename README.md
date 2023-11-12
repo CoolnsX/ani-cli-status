@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1083
+Episode Name: Detective Conan TV Episode 1103
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1083-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1103-sub
  
 # Analytics
 
