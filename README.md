@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Arknights Touin Kiro Episode 6
+Episode Name: 1P Episode 1083
 
-Episode Link: https://allanime.to/watch/aoDnrk66Tdj6M5Myf/episode-6-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1083-sub
  
 # Analytics
 
