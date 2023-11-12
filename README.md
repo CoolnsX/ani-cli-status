@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Undead Unluck Episode 6
+Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 7
 
-Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-6-sub
+Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-7-sub
  
 # Analytics
 
