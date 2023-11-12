@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: SPY×FAMILY Season 2 Episode 6
+Episode Name: Hirogaru Sky Precure Episode 40
 
-Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-6-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-40-sub
  
 # Analytics
 
