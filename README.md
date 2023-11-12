@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 19
+Episode Name: Undead Unluck Episode 6
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-19-sub
+Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-6-sub
  
 # Analytics
 
