@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Paul no Miracle Daisakusen Episode 32
+Episode Name: Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi Episode 6
 
-Episode Link: https://allanime.to/watch/ENyTLFK8ci6HqDqxD/episode-32-sub
+Episode Link: https://allanime.to/watch/Zu9CDwp8AC7Fmc346/episode-6-sub
  
 # Analytics
 
