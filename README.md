@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Overtake Episode 7
+Episode Name: Shadowverse Flame Seven Shadows hen Episode 19
 
-Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-7-sub
+Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-19-sub
  
 # Analytics
 
