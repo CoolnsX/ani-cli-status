@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Potion danomi de Ikinobimasu Episode 6
+Episode Name: Go Go Vehicle Zoo Episode 20
 
-Episode Link: https://allanime.to/watch/HSER99GAXJeJN57Nj/episode-6-sub
+Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-20-sub
  
 # Analytics
 
