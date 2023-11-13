@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 6
+Episode Name: SHY Episode 7
 
-Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-6-sub
+Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-7-sub
  
 # Analytics
 
