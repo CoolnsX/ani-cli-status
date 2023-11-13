@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hypnosis Mic Division Rap Battle Rhyme Anima Episode 6
+Episode Name: Potion danomi de Ikinobimasu Episode 6
 
-Episode Link: https://allanime.to/watch/YnnH5QgEaaWE5bmKZ/episode-6-sub
+Episode Link: https://allanime.to/watch/HSER99GAXJeJN57Nj/episode-6-sub
  
 # Analytics
 
