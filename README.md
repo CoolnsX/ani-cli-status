@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: MF Ghost Episode 7
+Episode Name: Arknights Touin Kiro Episode 6
 
-Episode Link: https://allanime.to/watch/GEuvZ6qE29SDKJBbm/episode-7-sub
+Episode Link: https://allanime.to/watch/aoDnrk66Tdj6M5Myf/episode-6-sub
  
 # Analytics
 
