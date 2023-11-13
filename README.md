@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Go Go Vehicle Zoo Episode 20
+Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 6
 
-Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-20-sub
+Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-6-sub
  
 # Analytics
 
