@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ragna Crimson Episode 7
+Episode Name: Dark Gathering Episode 19
 
-Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-7-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-19-sub
  
 # Analytics
 
