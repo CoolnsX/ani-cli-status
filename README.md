@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 31
+Episode Name: Overtake Episode 7
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-31-sub
+Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-7-sub
  
 # Analytics
 
