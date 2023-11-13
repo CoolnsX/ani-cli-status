@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Arknights Touin Kiro Episode 6
+Episode Name: Overtake Episode 7
 
-Episode Link: https://allanime.to/watch/aoDnrk66Tdj6M5Myf/episode-6-sub
+Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-7-sub
  
 # Analytics
 
