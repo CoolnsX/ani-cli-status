@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: SHY Episode 7
+Episode Name: Tousouchuu Great Mission Episode 31
 
-Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-7-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-31-sub
  
 # Analytics
 
