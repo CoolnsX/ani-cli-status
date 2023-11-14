@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: DOG SIGNAL Episode 4
+Episode Name: Kamonohashi Ron no Kindan Suiri Episode 7
 
-Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-4-sub
+Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-7-sub
  
 # Analytics
 
