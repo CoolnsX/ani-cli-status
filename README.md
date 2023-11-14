@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kamonohashi Ron no Kindan Suiri Episode 7
+Episode Name: Dead Mount Death Play Part 2 Episode 6
 
-Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-7-sub
+Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-6-sub
  
 # Analytics
 
