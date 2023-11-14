@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Go Go Vehicle Zoo Episode 20
+Episode Name: Magical Hat Episode 17
 
-Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-20-sub
+Episode Link: https://allanime.to/watch/PcwGeam6n37zsDya5/episode-17-sub
  
 # Analytics
 
