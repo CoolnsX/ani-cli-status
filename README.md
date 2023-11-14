@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shangri La Frontier Episode 7
+Episode Name: Minami no Niji no Lucy Episode 15
 
-Episode Link: https://allanime.to/watch/Q4Aj2B9wj6hvbF3H5/episode-7-sub
+Episode Link: https://allanime.to/watch/X7PffJcuAthGCcLkd/episode-15-sub
  
 # Analytics
 
