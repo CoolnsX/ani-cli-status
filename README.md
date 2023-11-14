@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Minami no Niji no Lucy Episode 15
+Episode Name: SHY Episode 7
 
-Episode Link: https://allanime.to/watch/X7PffJcuAthGCcLkd/episode-15-sub
+Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-7-sub
  
 # Analytics
 
