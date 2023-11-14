@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: B PROJECT Netsuretsu Love Call Episode 7
+Episode Name: Ochibi san Episode 5
 
-Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-7-sub
+Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-5-sub
  
 # Analytics
 
