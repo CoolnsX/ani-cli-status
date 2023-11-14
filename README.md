@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ochibi san Episode 5
+Episode Name: Kusuriya no Hitorigoto Episode 6
 
-Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-5-sub
+Episode Link: https://allanime.to/watch/h4PMucgQwndzYNNxS/episode-6-sub
  
 # Analytics
 
