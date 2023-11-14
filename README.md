@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: SHY Episode 7
+Episode Name: Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100 nin no Kanojo Episode 6
 
-Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-7-sub
+Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-6-sub
  
 # Analytics
 
