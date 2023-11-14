@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boushoku no Berserk Episode 7
+Episode Name: DOG SIGNAL Episode 4
 
-Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-7-sub
+Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-4-sub
  
 # Analytics
 
