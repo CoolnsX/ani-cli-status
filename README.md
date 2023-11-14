@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: MF Ghost Episode 7
+Episode Name: Go Go Vehicle Zoo Episode 20
 
-Episode Link: https://allanime.to/watch/GEuvZ6qE29SDKJBbm/episode-7-sub
+Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-20-sub
  
 # Analytics
 
