@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hoshikuzu Telepath Episode 6
+Episode Name: Migi to Dali Episode 7
 
-Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-6-sub
+Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-7-sub
  
 # Analytics
 
