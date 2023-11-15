@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dekoboko Majo no Oyako Jijou Episode 8
+Episode Name: Bokura no Ameiro Protocol Episode 6
 
-Episode Link: https://allanime.to/watch/Ld2BmMeqndxdeEq5H/episode-8-sub
+Episode Link: https://allanime.to/watch/7aN3Rmvr2wXuWsYAw/episode-6-sub
  
 # Analytics
 
