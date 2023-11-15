@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 7
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 84
 
-Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-7-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-84-sub
  
 # Analytics
 
