@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Part 2 Episode 6
+Episode Name: Kage no Jitsuryokusha ni Naritakute 2nd season Episode 7
 
-Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-6-sub
+Episode Link: https://allanime.to/watch/TzKpa9QpMbq5sXqum/episode-7-sub
  
 # Analytics
 
