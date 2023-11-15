@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 7
+Episode Name: Hoshikuzu Telepath Episode 6
 
-Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-7-sub
+Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-6-sub
  
 # Analytics
 
