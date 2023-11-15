@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bokura no Ameiro Protocol Episode 6
+Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 7
 
-Episode Link: https://allanime.to/watch/7aN3Rmvr2wXuWsYAw/episode-6-sub
+Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-7-sub
  
 # Analytics
 
