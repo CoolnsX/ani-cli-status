@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 7
+Episode Name: Migi to Dali Episode 7
 
-Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-7-sub
+Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-7-sub
  
 # Analytics
 
