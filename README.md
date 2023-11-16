@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hai Step Jun Episode 15
+Episode Name: MF Ghost Episode 7
 
-Episode Link: https://allanime.to/watch/5dC9GDoPPJ5agJg2C/episode-15-sub
+Episode Link: https://allanime.to/watch/GEuvZ6qE29SDKJBbm/episode-7-sub
  
 # Analytics
 
