@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The♥Kabocha Wine Episode 47
+Episode Name: SHY Episode 7
 
-Episode Link: https://allanime.to/watch/366khzcCCjML8b96u/episode-47-sub
+Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-7-sub
  
 # Analytics
 
