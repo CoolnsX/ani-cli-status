@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bullbuster Episode 7
+Episode Name: The♥Kabocha Wine Episode 47
 
-Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-7-sub
+Episode Link: https://allanime.to/watch/366khzcCCjML8b96u/episode-47-sub
  
 # Analytics
 
