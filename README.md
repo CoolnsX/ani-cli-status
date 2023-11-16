@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Season 2 Episode 7
+Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 7
 
-Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-7-sub
+Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-7-sub
  
 # Analytics
 
