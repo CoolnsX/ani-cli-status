@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 84
+Episode Name: Shangri La Frontier Episode 7
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-84-sub
+Episode Link: https://allanime.to/watch/Q4Aj2B9wj6hvbF3H5/episode-7-sub
  
 # Analytics
 
