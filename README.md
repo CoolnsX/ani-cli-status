@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 8
+Episode Name: The♥Kabocha Wine Episode 47
 
-Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-8-sub
+Episode Link: https://allanime.to/watch/366khzcCCjML8b96u/episode-47-sub
  
 # Analytics
 
