@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 7
+Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 8
 
-Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-7-sub
+Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-8-sub
  
 # Analytics
 
