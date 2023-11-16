@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: SHY Episode 7
+Episode Name: Sousou no Frieren ●● no Mahou Episode 3
 
-Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-7-sub
+Episode Link: https://allanime.to/watch/sG52nbcFo3PfLg6PD/episode-3-sub
  
 # Analytics
 
