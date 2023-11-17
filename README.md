@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 7
+Episode Name: Undead Unluck Episode 7
 
-Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-7-sub
+Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-7-sub
  
 # Analytics
 
