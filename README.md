@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: B PROJECT Netsuretsu Love Call Episode 7
+Episode Name: Odekake Kozame Episode 16
 
-Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-7-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-16-sub
  
 # Analytics
 
