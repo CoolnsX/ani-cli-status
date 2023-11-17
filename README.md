@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 31
+Episode Name: Chiikawa Episode 66
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-31-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-66-sub
  
 # Analytics
 
