@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 16bit Sensation ANOTHER LAYER Episode 7
+Episode Name: Ojou to Banken kun Episode 8
 
-Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-7-sub
+Episode Link: https://allanime.to/watch/QMip3pmqPAsu42Nis/episode-8-sub
  
 # Analytics
 
