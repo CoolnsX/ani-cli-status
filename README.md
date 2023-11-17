@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 16
+Episode Name: Paradox Live THE ANIMATION Episode 6
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-16-sub
+Episode Link: https://allanime.to/watch/yzuWfjqR436gKg2oj/episode-6-sub
  
 # Analytics
 
