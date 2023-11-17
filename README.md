@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ojou to Banken kun Episode 8
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 20
 
-Episode Link: https://allanime.to/watch/QMip3pmqPAsu42Nis/episode-8-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-20-sub
  
 # Analytics
 
