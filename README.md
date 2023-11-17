@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 20
+Episode Name: DOG SIGNAL Episode 4
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-20-sub
+Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-4-sub
  
 # Analytics
 
