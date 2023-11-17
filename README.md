@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: DOG SIGNAL Episode 4
+Episode Name: 16bit Sensation ANOTHER LAYER Episode 7
 
-Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-4-sub
+Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-7-sub
  
 # Analytics
 
