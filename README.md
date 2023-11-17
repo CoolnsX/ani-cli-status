@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 8
+Episode Name: Migi to Dali Episode 7
 
-Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-8-sub
+Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-7-sub
  
 # Analytics
 
