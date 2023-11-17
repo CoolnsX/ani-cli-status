@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: BEYBLADE X Episode 6
+Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 8
 
-Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-6-sub
+Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-8-sub
  
 # Analytics
 
