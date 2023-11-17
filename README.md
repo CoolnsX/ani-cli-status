@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yuzuki san Chi no Yonkyoudai Episode 7
+Episode Name: Tokyo Revengers Tenjiku hen Episode 7
 
-Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-7-sub
+Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-7-sub
  
 # Analytics
 
