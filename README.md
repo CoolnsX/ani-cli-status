@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: B PROJECT Netsuretsu Love Call Episode 7
+Episode Name: Tousouchuu Great Mission Episode 31
 
-Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-7-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-31-sub
  
 # Analytics
 
