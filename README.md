@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 16bit Sensation ANOTHER LAYER Episode 7
+Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 7
 
-Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-7-sub
+Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-7-sub
  
 # Analytics
 
