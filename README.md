@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seiken Gakuin no Makentsukai Episode 8
+Episode Name: Shadowverse Flame Episode 70
 
-Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-8-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-70-sub
  
 # Analytics
 
