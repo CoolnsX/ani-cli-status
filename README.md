@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 70
+Episode Name: Ojou to Banken kun Episode 8
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-70-sub
+Episode Link: https://allanime.to/watch/QMip3pmqPAsu42Nis/episode-8-sub
  
 # Analytics
 
