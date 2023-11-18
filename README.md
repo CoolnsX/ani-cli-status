@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hametsu no Oukoku Episode 7
+Episode Name: Jujutsu Kaisen 2nd Season Episode 17
 
-Episode Link: https://allanime.to/watch/attbXgRjuuxe8nS7R/episode-7-sub
+Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-17-sub
  
 # Analytics
 
