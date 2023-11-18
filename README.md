@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 84
+Episode Name: Shadowverse Flame Episode 70
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-84-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-70-sub
  
 # Analytics
 
