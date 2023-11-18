@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 20
+Episode Name: Helck Episode 19
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-20-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-19-sub
  
 # Analytics
 
