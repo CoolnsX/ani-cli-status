@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Season 2 Episode 7
+Episode Name: Tearmoon Teikoku Monogatari Dantoudai kara Hajimaru Hime no Tensei Gyakuten Story Episode 7
 
-Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-7-sub
+Episode Link: https://allanime.to/watch/aauZ6NzTYBq2SHW8M/episode-7-sub
  
 # Analytics
 
