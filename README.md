@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ragna Crimson Episode 8
+Episode Name: Yuzuki san Chi no Yonkyoudai Episode 7
 
-Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-8-sub
+Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-7-sub
  
 # Analytics
 
