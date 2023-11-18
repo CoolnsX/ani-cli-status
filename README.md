@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi Episode 7
+Episode Name: Undead Unluck Episode 7
 
-Episode Link: https://allanime.to/watch/Zu9CDwp8AC7Fmc346/episode-7-sub
+Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-7-sub
  
 # Analytics
 
