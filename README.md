@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 70
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 20
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-70-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-20-sub
  
 # Analytics
 
