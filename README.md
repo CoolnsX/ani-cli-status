@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 19
+Episode Name: 16bit Sensation ANOTHER LAYER Episode 7
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-19-sub
+Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-7-sub
  
 # Analytics
 
