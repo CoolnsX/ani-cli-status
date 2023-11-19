@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ragna Crimson Episode 8
+Episode Name: Arknights Touin Kiro Episode 7
 
-Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-8-sub
+Episode Link: https://allanime.to/watch/aoDnrk66Tdj6M5Myf/episode-7-sub
  
 # Analytics
 
