@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 41
+Episode Name: Undead Unluck Episode 7
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-41-sub
+Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-7-sub
  
 # Analytics
 
