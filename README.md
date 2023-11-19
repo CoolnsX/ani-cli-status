@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 7
+Episode Name: Atarashii Joushi wa Do Tennen Episode 7
 
-Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-7-sub
+Episode Link: https://allanime.to/watch/2wP6RWDu339B7ZtPS/episode-7-sub
  
 # Analytics
 
