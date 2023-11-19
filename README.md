@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jujutsu Kaisen 2nd Season Episode 17
+Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 7
 
-Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-17-sub
+Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-7-sub
  
 # Analytics
 
