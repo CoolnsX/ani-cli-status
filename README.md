@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kanojo mo Kanojo Season 2 Episode 7
+Episode Name: Ragna Crimson Episode 8
 
-Episode Link: https://allanime.to/watch/EtMQTAuYg4AfFMsb8/episode-7-sub
+Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-8-sub
  
 # Analytics
 
