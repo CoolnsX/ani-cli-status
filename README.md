@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Fight Da Pyuta Episode 5
+Episode Name: Ragna Crimson Episode 8
 
-Episode Link: https://allanime.to/watch/323MysWjiWKRZ2XsB/episode-5-sub
+Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-8-sub
  
 # Analytics
 
