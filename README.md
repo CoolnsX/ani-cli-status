@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1104
+Episode Name: Shadowverse Flame Episode 70
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1104-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-70-sub
  
 # Analytics
 
