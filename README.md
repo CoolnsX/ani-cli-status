@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kibou no Chikara Otona Precure 23 Episode 7
+Episode Name: Detective Conan TV Episode 1104
 
-Episode Link: https://allanime.to/watch/JZkA4xrSJDSpNhMei/episode-7-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1104-sub
  
 # Analytics
 
