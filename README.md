@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kanojo mo Kanojo Season 2 Episode 7
+Episode Name: Buta no Liver wa Kanetsu Shiro Episode 7
 
-Episode Link: https://allanime.to/watch/EtMQTAuYg4AfFMsb8/episode-7-sub
+Episode Link: https://allanime.to/watch/KopH8vaGDb7qpKJgM/episode-7-sub
  
 # Analytics
 
