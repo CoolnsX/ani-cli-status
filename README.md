@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Spy x Family Season 2 Episode 7
+Episode Name: MF Ghost Episode 8
 
-Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-7-sub
+Episode Link: https://allanime.to/watch/GEuvZ6qE29SDKJBbm/episode-8-sub
  
 # Analytics
 
