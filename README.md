@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade Burst God Episode 49
+Episode Name: Ragna Crimson Episode 8
 
-Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-49-sub
+Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-8-sub
  
 # Analytics
 
