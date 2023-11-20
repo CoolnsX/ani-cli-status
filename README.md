@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Overtake Episode 8
+Episode Name: The iDOLM STER Million Live Episode 7
 
-Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-8-sub
+Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-7-sub
  
 # Analytics
 
