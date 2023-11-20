@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hoshikuzu Telepath Episode 7
+Episode Name: Dark Gathering Episode 20
 
-Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-7-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-20-sub
  
 # Analytics
 
