@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ochibi san Episode 6
+Episode Name: Beyblade Burst God Episode 49
 
-Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-6-sub
+Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-49-sub
  
 # Analytics
 
