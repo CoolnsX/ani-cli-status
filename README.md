@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The iDOLM STER Million Live Episode 7
+Episode Name: Kikansha no Mahou wa Tokubetsu desu Episode 7
 
-Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-7-sub
+Episode Link: https://allanime.to/watch/K8tzqTGyjMsHWKYWj/episode-7-sub
  
 # Analytics
 
