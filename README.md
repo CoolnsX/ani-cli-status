@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 32
+Episode Name: Bokura no Ameiro Protocol Episode 7
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-32-sub
+Episode Link: https://allanime.to/watch/7aN3Rmvr2wXuWsYAw/episode-7-sub
  
 # Analytics
 
