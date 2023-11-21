@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 7
+Episode Name: Dekoboko Majo no Oyako Jijou Episode 9
 
-Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-7-sub
+Episode Link: https://allanime.to/watch/Ld2BmMeqndxdeEq5H/episode-9-sub
  
 # Analytics
 
