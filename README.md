@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kusuriya no Hitorigoto Episode 7
+Episode Name: Tousouchuu Great Mission Episode 32
 
-Episode Link: https://allanime.to/watch/h4PMucgQwndzYNNxS/episode-7-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-32-sub
  
 # Analytics
 
