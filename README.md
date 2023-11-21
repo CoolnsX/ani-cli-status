@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tokyo Revengers Tenjiku hen Episode 8
+Episode Name: Buta no Liver wa Kanetsu Shiro Episode 7
 
-Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-8-sub
+Episode Link: https://allanime.to/watch/KopH8vaGDb7qpKJgM/episode-7-sub
  
 # Analytics
 
