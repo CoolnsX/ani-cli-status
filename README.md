@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 8
+Episode Name: Dr Slump Arale chan Episode 148
 
-Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-8-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-148-sub
  
 # Analytics
 
