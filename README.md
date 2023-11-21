@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bokura no Ameiro Protocol Episode 7
+Episode Name: Dead Mount Death Play Part 2 Episode 7
 
-Episode Link: https://allanime.to/watch/7aN3Rmvr2wXuWsYAw/episode-7-sub
+Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-7-sub
  
 # Analytics
 
