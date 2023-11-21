@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 8
+Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 8
 
-Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-8-sub
+Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-8-sub
  
 # Analytics
 
