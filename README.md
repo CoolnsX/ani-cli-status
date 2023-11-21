@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1084
+Episode Name: Tearmoon Teikoku Monogatari Dantoudai kara Hajimaru Hime no Tensei Gyakuten Story Episode 7
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1084-sub
+Episode Link: https://allanime.to/watch/aauZ6NzTYBq2SHW8M/episode-7-sub
  
 # Analytics
 
