@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Part 2 Episode 7
+Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 8
 
-Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-7-sub
+Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-8-sub
  
 # Analytics
 
