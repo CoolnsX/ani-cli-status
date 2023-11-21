@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The iDOLM STER Million Live Episode 7
+Episode Name: Beyblade Burst God Episode 49
 
-Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-7-sub
+Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-49-sub
  
 # Analytics
 
