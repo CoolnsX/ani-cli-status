@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 148
+Episode Name: Kawagoe Boys Sing Episode 7
 
-Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-148-sub
+Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-7-sub
  
 # Analytics
 
