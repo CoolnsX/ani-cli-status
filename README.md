@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kawagoe Boys Sing Episode 7
+Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 8
 
-Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-7-sub
+Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-8-sub
  
 # Analytics
 
