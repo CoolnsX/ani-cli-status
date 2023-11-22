@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shy Episode 8
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 85
 
-Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-8-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-85-sub
  
 # Analytics
 
