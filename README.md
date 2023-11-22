@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 114
+Episode Name: Dead Mount Death Play Part 2 Episode 7
 
-Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-114-sub
+Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-7-sub
  
 # Analytics
 
