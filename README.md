@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kimi no Koto ga Daidaidaidaidaisuki na 100 nin no Kanojo Episode 7
+Episode Name: Go Go Vehicle Zoo Episode 21
 
-Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-7-sub
+Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-21-sub
  
 # Analytics
 
