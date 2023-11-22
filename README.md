@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Part 2 Episode 7
+Episode Name: Dr Slump Arale chan Episode 148
 
-Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-7-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-148-sub
  
 # Analytics
 
