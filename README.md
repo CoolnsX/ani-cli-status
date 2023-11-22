@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Go Go Vehicle Zoo Episode 21
+Episode Name: Overtake Episode 8
 
-Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-21-sub
+Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-8-sub
  
 # Analytics
 
