@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kamonohashi Ron no Kindan Suiri Episode 8
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 8
 
-Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-8-sub
+Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-8-sub
  
 # Analytics
 
