@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hoshikuzu Telepath Episode 7
+Episode Name: Boushoku no Berserk Episode 8
 
-Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-7-sub
+Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-8-sub
  
 # Analytics
 
