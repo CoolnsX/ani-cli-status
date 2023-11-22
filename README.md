@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Buta no Liver wa Kanetsu Shiro Episode 7
+Episode Name: Ochibi san Episode 6
 
-Episode Link: https://allanime.to/watch/KopH8vaGDb7qpKJgM/episode-7-sub
+Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-6-sub
  
 # Analytics
 
