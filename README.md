@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 85
+Episode Name: Dead Mount Death Play Part 2 Episode 7
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-85-sub
+Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-7-sub
  
 # Analytics
 
