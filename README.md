@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yuzuki san Chi no Yonkyoudai Episode 8
+Episode Name: Dark Gathering Episode 20
 
-Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-8-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-20-sub
  
 # Analytics
 
