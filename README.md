@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 17
+Episode Name: Uma Musume Pretty Derby Season 3 Episode 8
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-17-sub
+Episode Link: https://allanime.to/watch/Ba4KnehHnXKXN5cZe/episode-8-sub
  
 # Analytics
 
