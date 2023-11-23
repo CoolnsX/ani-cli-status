@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kamierabi Episode 8
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 21
 
-Episode Link: https://allanime.to/watch/24W3oKkbHgXMcYic6/episode-8-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-21-sub
  
 # Analytics
 
