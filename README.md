@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Migi to Dali Episode 8
+Episode Name: Odekake Kozame Episode 17
 
-Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-8-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-17-sub
  
 # Analytics
 
