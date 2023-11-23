@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 20
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 6
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-20-sub
+Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-6-sub
  
 # Analytics
 
