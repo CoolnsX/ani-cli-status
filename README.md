@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 17
+Episode Name: Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu Episode 8
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-17-sub
+Episode Link: https://allanime.to/watch/WjbWDFPRq9kAxwsQ6/episode-8-sub
  
 # Analytics
 
