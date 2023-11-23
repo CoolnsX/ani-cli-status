@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Temple Episode 13
+Episode Name: Yuzuki san Chi no Yonkyoudai Episode 8
 
-Episode Link: https://allanime.to/watch/3msX5MfDNPFYz5ZtE/episode-13-sub
+Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-8-sub
  
 # Analytics
 
