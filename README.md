@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 20
+Episode Name: Tokyo Revengers Tenjiku hen Episode 8
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-20-sub
+Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-8-sub
  
 # Analytics
 
