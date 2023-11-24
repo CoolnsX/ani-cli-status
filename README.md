@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade Burst God Episode 49
+Episode Name: Paradox Live the Animation Episode 7
 
-Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-49-sub
+Episode Link: https://allanime.to/watch/yzuWfjqR436gKg2oj/episode-7-sub
  
 # Analytics
 
