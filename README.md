@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Paradox Live the Animation Episode 7
+Episode Name: Helck Episode 20
 
-Episode Link: https://allanime.to/watch/yzuWfjqR436gKg2oj/episode-7-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-20-sub
  
 # Analytics
 
