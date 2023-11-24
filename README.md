@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 17
+Episode Name: Idol Land PriPara Episode 4
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-17-sub
+Episode Link: https://allanime.to/watch/vMPXhG8mfKNtcK8dy/episode-4-sub
  
 # Analytics
 
