@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 8
+Episode Name: Beyblade Burst God Episode 49
 
-Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-8-sub
+Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-49-sub
  
 # Analytics
 
