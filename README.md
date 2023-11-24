@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 21
+Episode Name: Tokyo Revengers Tenjiku hen Episode 8
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-21-sub
+Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-8-sub
  
 # Analytics
 
