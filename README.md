@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kawagoe Boys Sing Episode 7
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 21
 
-Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-7-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-21-sub
  
 # Analytics
 
