@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 7
+Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 8
 
-Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-7-sub
+Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-8-sub
  
 # Analytics
 
