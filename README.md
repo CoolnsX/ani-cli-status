@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Season 2 Episode 8
+Episode Name: Ninjala Episode 95
 
-Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-8-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-95-sub
  
 # Analytics
 
