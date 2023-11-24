@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Houkago no Breath Episode 3
+Episode Name: Kizuna no Allele Season 2 Episode 8
 
-Episode Link: https://allanime.to/watch/RFSfnCibPC7FKgvzr/episode-3-sub
+Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-8-sub
  
 # Analytics
 
