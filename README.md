@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 20
+Episode Name: Bullbuster Episode 8
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-20-sub
+Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-8-sub
  
 # Analytics
 
