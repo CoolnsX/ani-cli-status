@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dr Stone New World Part 2 Episode 7
+Episode Name: Idol Land PriPara Episode 4
 
-Episode Link: https://allanime.to/watch/MGJWWRWEdXWNyX6TX/episode-7-sub
+Episode Link: https://allanime.to/watch/vMPXhG8mfKNtcK8dy/episode-4-sub
  
 # Analytics
 
