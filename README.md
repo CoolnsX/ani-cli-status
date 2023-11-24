@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Idol Land PriPara Episode 4
+Episode Name: Houkago no Breath Episode 3
 
-Episode Link: https://allanime.to/watch/vMPXhG8mfKNtcK8dy/episode-4-sub
+Episode Link: https://allanime.to/watch/RFSfnCibPC7FKgvzr/episode-3-sub
  
 # Analytics
 
