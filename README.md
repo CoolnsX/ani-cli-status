@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 95
+Episode Name: Migi to Dali Episode 8
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-95-sub
+Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-8-sub
  
 # Analytics
 
