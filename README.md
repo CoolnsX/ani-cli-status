@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 67
+Episode Name: Arknights Touin Kiro Episode 8
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-67-sub
+Episode Link: https://allanime.to/watch/aoDnrk66Tdj6M5Myf/episode-8-sub
  
 # Analytics
 
