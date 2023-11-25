@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kanojo mo Kanojo Season 2 Episode 8
+Episode Name: Idol Land PriPara Episode 4
 
-Episode Link: https://allanime.to/watch/EtMQTAuYg4AfFMsb8/episode-8-sub
+Episode Link: https://allanime.to/watch/vMPXhG8mfKNtcK8dy/episode-4-sub
  
 # Analytics
 
