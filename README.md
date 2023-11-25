@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 8
+Episode Name: Spy x Family Season 2 Episode 8
 
-Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-8-sub
+Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-8-sub
  
 # Analytics
 
