@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Scott Pilgrim Takes Off Episode 8
+Episode Name: 16bit Sensation Another Layer Episode 8
 
-Episode Link: https://allanime.to/watch/9HTqHLbwhHt2TmYSv/episode-8-sub
+Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-8-sub
  
 # Analytics
 
