@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 21
+Episode Name: Kamierabi Episode 8
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-21-sub
+Episode Link: https://allanime.to/watch/24W3oKkbHgXMcYic6/episode-8-sub
  
 # Analytics
 
