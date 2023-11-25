@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahoutsukai no Yome Season 2 Part 2 Episode 8
+Episode Name: Chiikawa Episode 67
 
-Episode Link: https://allanime.to/watch/2ZtBn5GC5rogrd3Z8/episode-8-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-67-sub
  
 # Analytics
 
