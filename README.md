@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Blue Giant Episode 1
+Episode Name: Scott Pilgrim Takes Off Episode 8
 
-Episode Link: https://allanime.to/watch/KLpcJdnaAtZzmKmz6/episode-1-sub
+Episode Link: https://allanime.to/watch/9HTqHLbwhHt2TmYSv/episode-8-sub
  
 # Analytics
 
