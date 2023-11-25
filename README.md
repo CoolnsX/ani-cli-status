@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 16bit Sensation Another Layer Episode 8
+Episode Name: Kamierabi Episode 8
 
-Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-8-sub
+Episode Link: https://allanime.to/watch/24W3oKkbHgXMcYic6/episode-8-sub
  
 # Analytics
 
