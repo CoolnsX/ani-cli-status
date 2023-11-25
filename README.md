@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hametsu no Oukoku Episode 8
+Episode Name: Undead Unluck Episode 8
 
-Episode Link: https://allanime.to/watch/attbXgRjuuxe8nS7R/episode-8-sub
+Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-8-sub
  
 # Analytics
 
