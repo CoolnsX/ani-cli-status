@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Under Ninja Episode 8
+Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 9
 
-Episode Link: https://allanime.to/watch/cTfKHWK5mWpjzAEpr/episode-8-sub
+Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-9-sub
  
 # Analytics
 
