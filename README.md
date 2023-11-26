@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1085
+Episode Name: Arknights Touin Kiro Episode 8
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1085-sub
+Episode Link: https://allanime.to/watch/aoDnrk66Tdj6M5Myf/episode-8-sub
  
 # Analytics
 
