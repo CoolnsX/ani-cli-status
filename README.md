@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kikansha no Mahou wa Tokubetsu desu Episode 8
+Episode Name: Under Ninja Episode 8
 
-Episode Link: https://allanime.to/watch/K8tzqTGyjMsHWKYWj/episode-8-sub
+Episode Link: https://allanime.to/watch/cTfKHWK5mWpjzAEpr/episode-8-sub
  
 # Analytics
 
