@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 21
+Episode Name: Kikansha no Mahou wa Tokubetsu desu Episode 8
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-21-sub
+Episode Link: https://allanime.to/watch/K8tzqTGyjMsHWKYWj/episode-8-sub
  
 # Analytics
 
