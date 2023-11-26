@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Spy x Family Season 2 Episode 8
+Episode Name: Under Ninja Episode 8
 
-Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-8-sub
+Episode Link: https://allanime.to/watch/cTfKHWK5mWpjzAEpr/episode-8-sub
  
 # Analytics
 
