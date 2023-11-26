@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi Episode 8
+Episode Name: Sousou no Frieren Episode 12
 
-Episode Link: https://allanime.to/watch/Zu9CDwp8AC7Fmc346/episode-8-sub
+Episode Link: https://allanime.to/watch/ReHMC7TQnch3C6z8j/episode-12-sub
  
 # Analytics
 
