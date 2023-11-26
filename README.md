@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 9
+Episode Name: Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi Episode 8
 
-Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-9-sub
+Episode Link: https://allanime.to/watch/Zu9CDwp8AC7Fmc346/episode-8-sub
  
 # Analytics
 
