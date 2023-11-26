@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Atarashii Joushi wa Do Tennen Episode 8
+Episode Name: Arknights Touin Kiro Episode 8
 
-Episode Link: https://allanime.to/watch/2wP6RWDu339B7ZtPS/episode-8-sub
+Episode Link: https://allanime.to/watch/aoDnrk66Tdj6M5Myf/episode-8-sub
  
 # Analytics
 
