@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 42
+Episode Name: Kibou no Chikara Otona Precure 23 Episode 21
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-42-sub
+Episode Link: https://allanime.to/watch/JZkA4xrSJDSpNhMei/episode-21-sub
  
 # Analytics
 
