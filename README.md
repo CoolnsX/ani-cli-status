@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kibou no Chikara Otona Precure 23 Episode 21
+Episode Name: Dr Slump Arale chan Episode 149
 
-Episode Link: https://allanime.to/watch/JZkA4xrSJDSpNhMei/episode-21-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-149-sub
  
 # Analytics
 
