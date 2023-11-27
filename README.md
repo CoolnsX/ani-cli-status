@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kibou no Chikara Otona Precure 23 Episode 21
+Episode Name: Hypnosis Mic Division Rap Battle Rhyme Anima Episode 8
 
-Episode Link: https://allanime.to/watch/JZkA4xrSJDSpNhMei/episode-21-sub
+Episode Link: https://allanime.to/watch/YnnH5QgEaaWE5bmKZ/episode-8-sub
  
 # Analytics
 
