@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Spy x Family Season 2 Episode 8
+Episode Name: Kibou no Chikara Otona Precure 23 Episode 21
 
-Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-8-sub
+Episode Link: https://allanime.to/watch/JZkA4xrSJDSpNhMei/episode-21-sub
  
 # Analytics
 
