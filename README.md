@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 71
+Episode Name: Hirogaru Sky Precure Episode 42
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-71-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-42-sub
  
 # Analytics
 
