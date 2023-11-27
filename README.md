@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hypnosis Mic Division Rap Battle Rhyme Anima Episode 8
+Episode Name: Bokura no Ameiro Protocol Episode 8
 
-Episode Link: https://allanime.to/watch/YnnH5QgEaaWE5bmKZ/episode-8-sub
+Episode Link: https://allanime.to/watch/7aN3Rmvr2wXuWsYAw/episode-8-sub
  
 # Analytics
 
