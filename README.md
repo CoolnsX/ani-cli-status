@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Go Go Vehicle Zoo Episode 22
+Episode Name: Ragna Crimson Episode 9
 
-Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-22-sub
+Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-9-sub
  
 # Analytics
 
