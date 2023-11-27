@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 9
+Episode Name: Migi to Dali Episode 9
 
-Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-9-sub
+Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-9-sub
  
 # Analytics
 
