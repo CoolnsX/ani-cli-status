@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 149
+Episode Name: Go Go Vehicle Zoo Episode 22
 
-Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-149-sub
+Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-22-sub
  
 # Analytics
 
