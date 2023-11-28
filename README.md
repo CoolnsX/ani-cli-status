@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 9
+Episode Name: Dog Signal Episode 5
 
-Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-9-sub
+Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-5-sub
  
 # Analytics
 
