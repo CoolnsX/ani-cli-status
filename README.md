@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 8
+Episode Name: 1P Episode 1085
 
-Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-8-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1085-sub
  
 # Analytics
 
