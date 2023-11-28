@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bokura no Ameiro Protocol Episode 8
+Episode Name: 1P Episode 1085
 
-Episode Link: https://allanime.to/watch/7aN3Rmvr2wXuWsYAw/episode-8-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1085-sub
  
 # Analytics
 
