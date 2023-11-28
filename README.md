@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dekoboko Majo no Oyako Jijou Episode 10
+Episode Name: Dark Gathering Episode 21
 
-Episode Link: https://allanime.to/watch/Ld2BmMeqndxdeEq5H/episode-10-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-21-sub
  
 # Analytics
 
