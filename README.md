@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 21
+Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 8
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-21-sub
+Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-8-sub
  
 # Analytics
 
