@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Overtake Episode 9
+Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 9
 
-Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-9-sub
+Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-9-sub
  
 # Analytics
 
