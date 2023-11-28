@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kamonohashi Ron no Kindan Suiri Episode 9
+Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 9
 
-Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-9-sub
+Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-9-sub
  
 # Analytics
 
