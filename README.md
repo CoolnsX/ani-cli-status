@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 42
+Episode Name: Overtake Episode 9
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-42-sub
+Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-9-sub
  
 # Analytics
 
