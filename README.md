@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 9
+Episode Name: Overtake Episode 9
 
-Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-9-sub
+Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-9-sub
  
 # Analytics
 
