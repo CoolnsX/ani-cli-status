@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kawagoe Boys Sing Episode 8
+Episode Name: Go Go Vehicle Zoo Episode 22
 
-Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-8-sub
+Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-22-sub
  
 # Analytics
 
