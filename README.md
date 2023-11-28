@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dog Signal Episode 5
+Episode Name: Pururun Shizuku chan Aha Episode 29
 
-Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-5-sub
+Episode Link: https://allanime.to/watch/ygyYy7jXgkHtLZFTH/episode-29-sub
  
 # Analytics
 
