@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 8
+Episode Name: Helck Episode 21
 
-Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-8-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-21-sub
  
 # Analytics
 
