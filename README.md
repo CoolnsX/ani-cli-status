@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The iDOLM STER Million Live Episode 8
+Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 9
 
-Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-8-sub
+Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-9-sub
  
 # Analytics
 
