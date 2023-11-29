@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Overtake Episode 9
+Episode Name: Tokyo Revengers Tenjiku hen Episode 9
 
-Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-9-sub
+Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-9-sub
  
 # Analytics
 
