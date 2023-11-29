@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kawagoe Boys Sing Episode 8
+Episode Name: Onmyouji Episode 13
 
-Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-8-sub
+Episode Link: https://allanime.to/watch/t4jhWBhCqjmCjfQ5G/episode-13-sub
  
 # Analytics
 
