@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shangri La Frontier Kusoge Hunter Kamige ni Idoman to su Episode 9
+Episode Name: Tousouchuu Great Mission Episode 33
 
-Episode Link: https://allanime.to/watch/Q4Aj2B9wj6hvbF3H5/episode-9-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-33-sub
  
 # Analytics
 
