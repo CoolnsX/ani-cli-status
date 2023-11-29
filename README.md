@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 9
+Episode Name: Kikou Kai Galient OVA Episode 3
 
-Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-9-sub
+Episode Link: https://allanime.to/watch/2xLcE4L9uhcWehxpj/episode-3-sub
  
 # Analytics
 
