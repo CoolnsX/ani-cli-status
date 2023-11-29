@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tearmoon Teikoku Monogatari Dantoudai kara Hajimaru Hime no Tensei Gyakuten Story Episode 8
+Episode Name: Onmyouji Episode 13
 
-Episode Link: https://allanime.to/watch/aauZ6NzTYBq2SHW8M/episode-8-sub
+Episode Link: https://allanime.to/watch/t4jhWBhCqjmCjfQ5G/episode-13-sub
  
 # Analytics
 
