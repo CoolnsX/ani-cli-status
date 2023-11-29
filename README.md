@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Onmyouji Episode 13
+Episode Name: Buta no Liver wa Kanetsu Shiro Episode 8
 
-Episode Link: https://allanime.to/watch/t4jhWBhCqjmCjfQ5G/episode-13-sub
+Episode Link: https://allanime.to/watch/KopH8vaGDb7qpKJgM/episode-8-sub
  
 # Analytics
 
