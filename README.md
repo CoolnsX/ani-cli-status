@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Buta no Liver wa Kanetsu Shiro Episode 8
+Episode Name: The iDOLM STER Million Live Episode 8
 
-Episode Link: https://allanime.to/watch/KopH8vaGDb7qpKJgM/episode-8-sub
+Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-8-sub
  
 # Analytics
 
