@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 21
+Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 9
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-21-sub
+Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-9-sub
  
 # Analytics
 
