@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 21
+Episode Name: Odekake Kozame Episode 18
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-21-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-18-sub
  
 # Analytics
 
