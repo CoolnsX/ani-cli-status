@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dekoboko Majo no Oyako Jijou Episode 10
+Episode Name: Tousouchuu Great Mission Episode 33
 
-Episode Link: https://allanime.to/watch/Ld2BmMeqndxdeEq5H/episode-10-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-33-sub
  
 # Analytics
 
