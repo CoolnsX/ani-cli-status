@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 33
+Episode Name: Tokyo Revengers Tenjiku hen Episode 9
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-33-sub
+Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-9-sub
  
 # Analytics
 
