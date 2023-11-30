@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tokyo Revengers Tenjiku hen Episode 9
+Episode Name: Paradox Live the Animation Episode 8
 
-Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-9-sub
+Episode Link: https://allanime.to/watch/yzuWfjqR436gKg2oj/episode-8-sub
  
 # Analytics
 
