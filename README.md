@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Part 2 Episode 8
+Episode Name: Beyblade Burst God Episode 50
 
-Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-8-sub
+Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-50-sub
  
 # Analytics
 
