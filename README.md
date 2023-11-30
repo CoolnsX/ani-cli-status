@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rail Romanesque 2 Episode 2
+Episode Name: Dark Gathering Episode 21
 
-Episode Link: https://allanime.to/watch/HxwaxhfXRDKGzjBs6/episode-2-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-21-sub
  
 # Analytics
 
