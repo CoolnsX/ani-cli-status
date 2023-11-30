@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bullbuster Episode 9
+Episode Name: B Project Netsuretsu Love Call Episode 9
 
-Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-9-sub
+Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-9-sub
  
 # Analytics
 
