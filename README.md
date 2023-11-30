@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade Burst God Episode 50
+Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 9
 
-Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-50-sub
+Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-9-sub
  
 # Analytics
 
