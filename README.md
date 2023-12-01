@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 22
+Episode Name: Shy Episode 9
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-22-sub
+Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-9-sub
  
 # Analytics
 
