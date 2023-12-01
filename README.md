@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Under Ninja Episode 9
+Episode Name: Odekake Kozame Episode 18
 
-Episode Link: https://allanime.to/watch/cTfKHWK5mWpjzAEpr/episode-9-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-18-sub
  
 # Analytics
 
