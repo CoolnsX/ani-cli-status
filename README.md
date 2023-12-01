@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 18
+Episode Name: Beyblade X Episode 8
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-18-sub
+Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-8-sub
  
 # Analytics
 
