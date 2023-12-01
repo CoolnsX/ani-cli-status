@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Onmyouji Episode 13
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 22
 
-Episode Link: https://allanime.to/watch/t4jhWBhCqjmCjfQ5G/episode-13-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-22-sub
  
 # Analytics
 
