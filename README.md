@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shy Episode 9
+Episode Name: Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu Episode 9
 
-Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-9-sub
+Episode Link: https://allanime.to/watch/WjbWDFPRq9kAxwsQ6/episode-9-sub
  
 # Analytics
 
