@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 22
+Episode Name: Sousou no Frieren ●● no Mahou Episode 4
 
-Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-22-sub
+Episode Link: https://allanime.to/watch/sG52nbcFo3PfLg6PD/episode-4-sub
  
 # Analytics
 
