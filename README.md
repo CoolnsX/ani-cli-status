@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 8
+Episode Name: Ojou to Banken kun Episode 10
 
-Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-8-sub
+Episode Link: https://allanime.to/watch/QMip3pmqPAsu42Nis/episode-10-sub
  
 # Analytics
 
