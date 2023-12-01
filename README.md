@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 68
+Episode Name: Uma Musume Pretty Derby Season 3 Episode 9
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-68-sub
+Episode Link: https://allanime.to/watch/Ba4KnehHnXKXN5cZe/episode-9-sub
  
 # Analytics
 
