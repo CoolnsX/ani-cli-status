@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 9
+Episode Name: Onmyouji Episode 13
 
-Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-9-sub
+Episode Link: https://allanime.to/watch/t4jhWBhCqjmCjfQ5G/episode-13-sub
  
 # Analytics
 
