@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tokyo Revengers Tenjiku hen Episode 9
+Episode Name: Dog Signal Episode 6
 
-Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-9-sub
+Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-6-sub
  
 # Analytics
 
