@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dog Signal Episode 6
+Episode Name: Sousou no Frieren ●● no Mahou Episode 4
 
-Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-6-sub
+Episode Link: https://allanime.to/watch/sG52nbcFo3PfLg6PD/episode-4-sub
  
 # Analytics
 
