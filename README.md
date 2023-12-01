@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren ●● no Mahou Episode 4
+Episode Name: Beyblade X Episode 8
 
-Episode Link: https://allanime.to/watch/sG52nbcFo3PfLg6PD/episode-4-sub
+Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-8-sub
  
 # Analytics
 
