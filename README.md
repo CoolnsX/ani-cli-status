@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ganbare Genki Episode 5
+Episode Name: Araiguma Rascal Episode 46
 
-Episode Link: https://allanime.to/watch/BYdHyfqDGXxWSDgAj/episode-5-sub
+Episode Link: https://allanime.to/watch/2BfL69oW9fbiRJwgC/episode-46-sub
  
 # Analytics
 
