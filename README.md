@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dr Stone New World Part 2 Episode 8
+Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 10
 
-Episode Link: https://allanime.to/watch/MGJWWRWEdXWNyX6TX/episode-8-sub
+Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-10-sub
  
 # Analytics
 
