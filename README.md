@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dr Stone New World Part 2 Episode 8
+Episode Name: Kamierabi Episode 9
 
-Episode Link: https://allanime.to/watch/MGJWWRWEdXWNyX6TX/episode-8-sub
+Episode Link: https://allanime.to/watch/24W3oKkbHgXMcYic6/episode-9-sub
  
 # Analytics
 
