@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Hero Academia Yuuei Heroes Battle Episode 1
+Episode Name: Dr Stone New World Part 2 Episode 8
 
-Episode Link: https://allanime.to/watch/Y8wW6TvshvjrWXzvT/episode-1-sub
+Episode Link: https://allanime.to/watch/MGJWWRWEdXWNyX6TX/episode-8-sub
  
 # Analytics
 
