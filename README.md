@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Under Ninja Episode 9
+Episode Name: Beyblade Burst God Episode 51
 
-Episode Link: https://allanime.to/watch/cTfKHWK5mWpjzAEpr/episode-9-sub
+Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-51-sub
  
 # Analytics
 
