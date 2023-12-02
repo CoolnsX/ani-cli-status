@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren Episode 13
+Episode Name: Kanojo mo Kanojo Season 2 Episode 9
 
-Episode Link: https://allanime.to/watch/ReHMC7TQnch3C6z8j/episode-13-sub
+Episode Link: https://allanime.to/watch/EtMQTAuYg4AfFMsb8/episode-9-sub
  
 # Analytics
 
