@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Season 2 Episode 9
+Episode Name: Tokyo Revengers Tenjiku hen Episode 9
 
-Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-9-sub
+Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-9-sub
  
 # Analytics
 
