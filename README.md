@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kizuna no Allele Season 2 Episode 9
+Episode Name: Dr Stone New World Part 2 Episode 8
 
-Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-9-sub
+Episode Link: https://allanime.to/watch/MGJWWRWEdXWNyX6TX/episode-8-sub
  
 # Analytics
 
