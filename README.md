@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren ●● no Mahou Episode 4
+Episode Name: Ganbare Genki Episode 5
 
-Episode Link: https://allanime.to/watch/sG52nbcFo3PfLg6PD/episode-4-sub
+Episode Link: https://allanime.to/watch/BYdHyfqDGXxWSDgAj/episode-5-sub
  
 # Analytics
 
