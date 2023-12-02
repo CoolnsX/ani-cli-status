@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 7
+Episode Name: Boku no Hero Academia Yuuei Heroes Battle Episode 1
 
-Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-7-sub
+Episode Link: https://allanime.to/watch/Y8wW6TvshvjrWXzvT/episode-1-sub
  
 # Analytics
 
