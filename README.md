@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dog Signal Episode 6
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 22
 
-Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-6-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-22-sub
  
 # Analytics
 
