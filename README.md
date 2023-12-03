@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade Burst God Episode 51
+Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 10
 
-Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-51-sub
+Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-10-sub
  
 # Analytics
 
