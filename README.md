@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ragna Crimson Episode 10
+Episode Name: Hametsu no Oukoku Episode 9
 
-Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-10-sub
+Episode Link: https://allanime.to/watch/attbXgRjuuxe8nS7R/episode-9-sub
  
 # Analytics
 
