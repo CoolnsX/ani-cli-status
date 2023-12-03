@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yuzuki san Chi no Yonkyoudai Episode 9
+Episode Name: Goblin Slayer II Episode 9
 
-Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-9-sub
+Episode Link: https://allanime.to/watch/vdQ84BfvTwshJdWaP/episode-9-sub
  
 # Analytics
 
