@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Goblin Slayer II Episode 9
+Episode Name: Hypnosis Mic Division Rap Battle Rhyme Anima Episode 9
 
-Episode Link: https://allanime.to/watch/vdQ84BfvTwshJdWaP/episode-9-sub
+Episode Link: https://allanime.to/watch/YnnH5QgEaaWE5bmKZ/episode-9-sub
  
 # Analytics
 
