@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 9
+Episode Name: Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi Episode 9
 
-Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-9-sub
+Episode Link: https://allanime.to/watch/Zu9CDwp8AC7Fmc346/episode-9-sub
  
 # Analytics
 
