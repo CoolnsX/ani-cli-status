@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Go Go Vehicle Zoo Episode 23
+Episode Name: Beyblade Burst God Episode 51
 
-Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-23-sub
+Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-51-sub
  
 # Analytics
 
