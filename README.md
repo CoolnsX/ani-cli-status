@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kikansha no Mahou wa Tokubetsu desu Episode 9
+Episode Name: Bokura no Ameiro Protocol Episode 9
 
-Episode Link: https://allanime.to/watch/K8tzqTGyjMsHWKYWj/episode-9-sub
+Episode Link: https://allanime.to/watch/7aN3Rmvr2wXuWsYAw/episode-9-sub
  
 # Analytics
 
