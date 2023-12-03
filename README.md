@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi Episode 9
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 22
 
-Episode Link: https://allanime.to/watch/Zu9CDwp8AC7Fmc346/episode-9-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-22-sub
  
 # Analytics
 
