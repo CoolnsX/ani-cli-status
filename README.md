@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade Burst God Episode 51
+Episode Name: Ragna Crimson Episode 10
 
-Episode Link: https://allanime.to/watch/PoNqTsCt8dxKrBoFH/episode-51-sub
+Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-10-sub
  
 # Analytics
 
