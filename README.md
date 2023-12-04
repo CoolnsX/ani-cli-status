@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 22
+Episode Name: Pururun Shizuku chan Aha Episode 31
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-22-sub
+Episode Link: https://allanime.to/watch/ygyYy7jXgkHtLZFTH/episode-31-sub
  
 # Analytics
 
