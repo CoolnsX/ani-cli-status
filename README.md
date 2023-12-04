@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The iDOLM STER Million Live Episode 9
+Episode Name: Shadowverse Flame Seven Shadows hen Episode 22
 
-Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-9-sub
+Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-22-sub
  
 # Analytics
 
