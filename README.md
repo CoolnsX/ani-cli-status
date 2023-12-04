@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 22
+Episode Name: Spy x Family Season 2 Episode 9
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-22-sub
+Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-9-sub
  
 # Analytics
 
