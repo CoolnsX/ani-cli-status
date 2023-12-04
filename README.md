@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 72
+Episode Name: Shadowverse Flame Seven Shadows hen Episode 22
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-72-sub
+Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-22-sub
  
 # Analytics
 
