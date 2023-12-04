@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boushoku no Berserk Episode 10
+Episode Name: Ninjala Episode 96
 
-Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-10-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-96-sub
  
 # Analytics
 
