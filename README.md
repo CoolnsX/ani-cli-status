@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Pururun Shizuku chan Aha Episode 31
+Episode Name: The iDOLM STER Million Live Episode 9
 
-Episode Link: https://allanime.to/watch/ygyYy7jXgkHtLZFTH/episode-31-sub
+Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-9-sub
  
 # Analytics
 
