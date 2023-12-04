@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Spy x Family Season 2 Episode 9
+Episode Name: Ragna Crimson Episode 10
 
-Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-9-sub
+Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-10-sub
  
 # Analytics
 
