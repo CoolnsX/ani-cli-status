@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 10
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 10
 
-Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-10-sub
+Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-10-sub
  
 # Analytics
 
