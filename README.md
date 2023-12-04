@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Seven Shadows hen Episode 22
+Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 10
 
-Episode Link: https://allanime.to/watch/nNRZio54xWHQFuoDa/episode-22-sub
+Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-10-sub
  
 # Analytics
 
