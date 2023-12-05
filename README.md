@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 10
+Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 10
 
-Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-10-sub
+Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-10-sub
  
 # Analytics
 
