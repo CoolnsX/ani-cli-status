@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1086
+Episode Name: The iDOLM STER Million Live Episode 9
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1086-sub
+Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-9-sub
  
 # Analytics
 
