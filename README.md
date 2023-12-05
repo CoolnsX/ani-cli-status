@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shangri La Frontier Kusoge Hunter Kamige ni Idoman to su Episode 10
+Episode Name: Kusuriya no Hitorigoto Episode 9
 
-Episode Link: https://allanime.to/watch/Q4Aj2B9wj6hvbF3H5/episode-10-sub
+Episode Link: https://allanime.to/watch/h4PMucgQwndzYNNxS/episode-9-sub
  
 # Analytics
 
