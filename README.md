@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kimi no Koto ga Daidaidaidaidaisuki na 100 nin no Kanojo Episode 9
+Episode Name: Shangri La Frontier Kusoge Hunter Kamige ni Idoman to su Episode 10
 
-Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-9-sub
+Episode Link: https://allanime.to/watch/Q4Aj2B9wj6hvbF3H5/episode-10-sub
  
 # Analytics
 
