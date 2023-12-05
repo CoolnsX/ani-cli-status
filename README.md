@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kusuriya no Hitorigoto Episode 9
+Episode Name: Kamonohashi Ron no Kindan Suiri Episode 10
 
-Episode Link: https://allanime.to/watch/h4PMucgQwndzYNNxS/episode-9-sub
+Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-10-sub
  
 # Analytics
 
