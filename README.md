@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Go Go Vehicle Zoo Episode 23
+Episode Name: Odekake Kozame Episode 19
 
-Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-23-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-19-sub
  
 # Analytics
 
