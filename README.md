@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Spy x Family Season 2 Episode 9
+Episode Name: 1P Episode 1086
 
-Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-9-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1086-sub
  
 # Analytics
 
