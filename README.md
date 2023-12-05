@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Overtake Episode 10
+Episode Name: Seishun Buta Yarou wa Odekake Sister no Yume wo Minai Episode 1
 
-Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-10-sub
+Episode Link: https://allanime.to/watch/22sT2RLAHdp8vugkp/episode-1-sub
  
 # Analytics
 
