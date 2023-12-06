@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 10
+Episode Name: Dead Mount Death Play Part 2 Episode 9
 
-Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-10-sub
+Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-9-sub
  
 # Analytics
 
