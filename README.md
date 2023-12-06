@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 22
+Episode Name: Seishun Buta Yarou wa Odekake Sister no Yume wo Minai Episode 1
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-22-sub
+Episode Link: https://allanime.to/watch/22sT2RLAHdp8vugkp/episode-1-sub
  
 # Analytics
 
