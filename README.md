@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The iDOLM STER Million Live Episode 9
+Episode Name: Migi to Dali Episode 10
 
-Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-9-sub
+Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-10-sub
  
 # Analytics
 
