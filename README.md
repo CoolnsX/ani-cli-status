@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kage no Jitsuryokusha ni Naritakute Season 2 Episode 10
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 8
 
-Episode Link: https://allanime.to/watch/TzKpa9QpMbq5sXqum/episode-10-sub
+Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-8-sub
  
 # Analytics
 
