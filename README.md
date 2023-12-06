@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Go Go Vehicle Zoo Episode 23
+Episode Name: Chibi Maruko chan Episode 115
 
-Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-23-sub
+Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-115-sub
  
 # Analytics
 
