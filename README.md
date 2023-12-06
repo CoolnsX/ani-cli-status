@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Migi to Dali Episode 10
+Episode Name: Dark Gathering Episode 22
 
-Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-10-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-22-sub
  
 # Analytics
 
