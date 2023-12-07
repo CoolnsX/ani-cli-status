@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seishun Buta Yarou wa Odekake Sister no Yume wo Minai Episode 1
+Episode Name: Kage no Jitsuryokusha ni Naritakute Season 2 Episode 10
 
-Episode Link: https://allanime.to/watch/22sT2RLAHdp8vugkp/episode-1-sub
+Episode Link: https://allanime.to/watch/TzKpa9QpMbq5sXqum/episode-10-sub
  
 # Analytics
 
