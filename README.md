@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahoutsukai no Yome Season 2 Part 2 Episode 10
+Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 11
 
-Episode Link: https://allanime.to/watch/2ZtBn5GC5rogrd3Z8/episode-10-sub
+Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-11-sub
  
 # Analytics
 
