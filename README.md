@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bullbuster Episode 10
+Episode Name: Tokyo Revengers Tenjiku hen Episode 10
 
-Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-10-sub
+Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-10-sub
  
 # Analytics
 
