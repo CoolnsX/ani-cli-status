@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 22
+Episode Name: B Project Netsuretsu Love Call Episode 10
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-22-sub
+Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-10-sub
  
 # Analytics
 
