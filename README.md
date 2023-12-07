@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kamierabi Episode 10
+Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 10
 
-Episode Link: https://allanime.to/watch/24W3oKkbHgXMcYic6/episode-10-sub
+Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-10-sub
  
 # Analytics
 
