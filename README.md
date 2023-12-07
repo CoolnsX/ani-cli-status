@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 22
+Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 10
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-22-sub
+Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-10-sub
  
 # Analytics
 
