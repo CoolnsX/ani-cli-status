@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boushoku no Berserk Episode 10
+Episode Name: Shangri La Frontier Kusoge Hunter Kamige ni Idoman to su Episode 10
 
-Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-10-sub
+Episode Link: https://allanime.to/watch/Q4Aj2B9wj6hvbF3H5/episode-10-sub
  
 # Analytics
 
