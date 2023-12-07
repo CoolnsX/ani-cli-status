@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kamonohashi Ron no Kindan Suiri Episode 10
+Episode Name: Bullbuster Episode 10
 
-Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-10-sub
+Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-10-sub
  
 # Analytics
 
