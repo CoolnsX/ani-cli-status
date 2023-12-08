@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Under Ninja Episode 10
+Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 10
 
-Episode Link: https://allanime.to/watch/cTfKHWK5mWpjzAEpr/episode-10-sub
+Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-10-sub
  
 # Analytics
 
