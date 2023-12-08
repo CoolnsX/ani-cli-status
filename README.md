@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 22
+Episode Name: Chiikawa Episode 69
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-22-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-69-sub
  
 # Analytics
 
