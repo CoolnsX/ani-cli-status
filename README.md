@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Part 2 Episode 9
+Episode Name: Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu Episode 10
 
-Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-9-sub
+Episode Link: https://allanime.to/watch/WjbWDFPRq9kAxwsQ6/episode-10-sub
  
 # Analytics
 
