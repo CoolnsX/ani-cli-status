@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seiken Gakuin no Makentsukai Episode 10
+Episode Name: Dr Slump Arale chan Episode 150
 
-Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-10-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-150-sub
  
 # Analytics
 
