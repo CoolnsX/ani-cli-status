@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu Episode 10
+Episode Name: Under Ninja Episode 10
 
-Episode Link: https://allanime.to/watch/WjbWDFPRq9kAxwsQ6/episode-10-sub
+Episode Link: https://allanime.to/watch/cTfKHWK5mWpjzAEpr/episode-10-sub
  
 # Analytics
 
