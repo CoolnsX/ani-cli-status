@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yuzuki san Chi no Yonkyoudai Episode 10
+Episode Name: Uma Musume Pretty Derby Season 3 Episode 10
 
-Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-10-sub
+Episode Link: https://allanime.to/watch/Ba4KnehHnXKXN5cZe/episode-10-sub
  
 # Analytics
 
