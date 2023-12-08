@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kawagoe Boys Sing Episode 9
+Episode Name: Yuzuki san Chi no Yonkyoudai Episode 10
 
-Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-9-sub
+Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-10-sub
  
 # Analytics
 
