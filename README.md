@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 150
+Episode Name: Tokyo Revengers Tenjiku hen Episode 10
 
-Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-150-sub
+Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-10-sub
  
 # Analytics
 
