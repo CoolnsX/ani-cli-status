@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 69
+Episode Name: Kawagoe Boys Sing Episode 9
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-69-sub
+Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-9-sub
  
 # Analytics
 
