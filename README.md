@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hoshikuzu Telepath Episode 9
+Episode Name: Helck Episode 22
 
-Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-9-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-22-sub
  
 # Analytics
 
