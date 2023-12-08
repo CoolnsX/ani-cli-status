@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 10
+Episode Name: Tousouchuu Great Mission Episode 34
 
-Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-10-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-34-sub
  
 # Analytics
 
