@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dog Signal Episode 7
+Episode Name: Shy Episode 10
 
-Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-7-sub
+Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-10-sub
  
 # Analytics
 
