@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 9
+Episode Name: Bullbuster Episode 10
 
-Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-9-sub
+Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-10-sub
  
 # Analytics
 
