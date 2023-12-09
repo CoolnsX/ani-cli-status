@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 97
+Episode Name: Kizuna no Allele Season 2 Episode 10
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-97-sub
+Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-10-sub
  
 # Analytics
 
