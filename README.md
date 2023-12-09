@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ojou to Banken kun Episode 11
+Episode Name: Beyblade X Episode 9
 
-Episode Link: https://allanime.to/watch/QMip3pmqPAsu42Nis/episode-11-sub
+Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-9-sub
  
 # Analytics
 
