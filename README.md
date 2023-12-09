@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahoutsukai no Yome Season 2 Part 2 Episode 10
+Episode Name: I Cinnamoroll Animation Episode 10
 
-Episode Link: https://allanime.to/watch/2ZtBn5GC5rogrd3Z8/episode-10-sub
+Episode Link: https://allanime.to/watch/6EfRM3du3WQCZ36de/episode-10-sub
  
 # Analytics
 
