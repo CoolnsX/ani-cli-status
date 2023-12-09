@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Goblin Slayer II Episode 10
+Episode Name: Ninjala Episode 97
 
-Episode Link: https://allanime.to/watch/vdQ84BfvTwshJdWaP/episode-10-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-97-sub
  
 # Analytics
 
