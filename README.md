@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 11
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 87
 
-Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-11-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-87-sub
  
 # Analytics
 
