@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Paradox Live the Animation Episode 9
+Episode Name: Ragna Crimson Episode 11
 
-Episode Link: https://allanime.to/watch/yzuWfjqR436gKg2oj/episode-9-sub
+Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-11-sub
  
 # Analytics
 
