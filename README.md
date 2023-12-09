@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: B Project Netsuretsu Love Call Episode 10
+Episode Name: Tokyo Revengers Tenjiku hen Episode 10
 
-Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-10-sub
+Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-10-sub
  
 # Analytics
 
