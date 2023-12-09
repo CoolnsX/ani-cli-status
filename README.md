@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Undead Unluck Episode 10
+Episode Name: Ninjala Episode 97
 
-Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-10-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-97-sub
  
 # Analytics
 
