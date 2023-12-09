@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hypnosis Mic Division Rap Battle Rhyme Anima Episode 10
+Episode Name: Kikansha no Mahou wa Tokubetsu desu Episode 10
 
-Episode Link: https://allanime.to/watch/YnnH5QgEaaWE5bmKZ/episode-10-sub
+Episode Link: https://allanime.to/watch/K8tzqTGyjMsHWKYWj/episode-10-sub
  
 # Analytics
 
