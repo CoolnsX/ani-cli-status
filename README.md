@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ragna Crimson Episode 11
+Episode Name: Hypnosis Mic Division Rap Battle Rhyme Anima Episode 10
 
-Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-11-sub
+Episode Link: https://allanime.to/watch/YnnH5QgEaaWE5bmKZ/episode-10-sub
  
 # Analytics
 
