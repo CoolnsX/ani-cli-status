@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 97
+Episode Name: Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi Episode 10
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-97-sub
+Episode Link: https://allanime.to/watch/Zu9CDwp8AC7Fmc346/episode-10-sub
  
 # Analytics
 
