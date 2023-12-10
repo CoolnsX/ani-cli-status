@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kamierabi Episode 10
+Episode Name: Shadowverse Flame Episode 73
 
-Episode Link: https://allanime.to/watch/24W3oKkbHgXMcYic6/episode-10-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-73-sub
  
 # Analytics
 
