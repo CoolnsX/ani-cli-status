@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 10
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 87
 
-Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-10-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-87-sub
  
 # Analytics
 
