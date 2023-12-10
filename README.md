@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 97
+Episode Name: Mahoutsukai no Yome Season 2 Part 2 Episode 10
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-97-sub
+Episode Link: https://allanime.to/watch/2ZtBn5GC5rogrd3Z8/episode-10-sub
  
 # Analytics
 
