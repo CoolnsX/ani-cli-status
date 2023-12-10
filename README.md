@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 23
+Episode Name: Hametsu no Oukoku Episode 10
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-23-sub
+Episode Link: https://allanime.to/watch/attbXgRjuuxe8nS7R/episode-10-sub
  
 # Analytics
 
