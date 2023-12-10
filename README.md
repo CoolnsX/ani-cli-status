@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ragna Crimson Episode 11
+Episode Name: Mewkledreamy Mix Episode 32
 
-Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-11-sub
+Episode Link: https://allanime.to/watch/hiRpBoKJ49XD7inW5/episode-32-sub
  
 # Analytics
 
