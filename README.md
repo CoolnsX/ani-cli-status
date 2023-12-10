@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 10
+Episode Name: Overtake Episode 11
 
-Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-10-sub
+Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-11-sub
  
 # Analytics
 
