@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Overtake Episode 11
+Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 10
 
-Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-11-sub
+Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-10-sub
  
 # Analytics
 
