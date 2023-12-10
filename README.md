@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren Episode 14
+Episode Name: Shadowverse Flame Episode 73
 
-Episode Link: https://allanime.to/watch/ReHMC7TQnch3C6z8j/episode-14-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-73-sub
  
 # Analytics
 
