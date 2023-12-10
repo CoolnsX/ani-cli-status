@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hametsu no Oukoku Episode 10
+Episode Name: Sousou no Frieren Episode 14
 
-Episode Link: https://allanime.to/watch/attbXgRjuuxe8nS7R/episode-10-sub
+Episode Link: https://allanime.to/watch/ReHMC7TQnch3C6z8j/episode-14-sub
  
 # Analytics
 
