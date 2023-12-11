@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hypnosis Mic Division Rap Battle Rhyme Anima Episode 10
+Episode Name: Ninjala Episode 97
 
-Episode Link: https://allanime.to/watch/YnnH5QgEaaWE5bmKZ/episode-10-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-97-sub
  
 # Analytics
 
