@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: MF Ghost Episode 11
+Episode Name: Magical★Taruruuto kun Episode 35
 
-Episode Link: https://allanime.to/watch/GEuvZ6qE29SDKJBbm/episode-11-sub
+Episode Link: https://allanime.to/watch/yTszgTsufjJcz6AZc/episode-35-sub
  
 # Analytics
 
