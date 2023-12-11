@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tearmoon Teikoku Monogatari Dantoudai kara Hajimaru Hime no Tensei Gyakuten Story Episode 10
+Episode Name: MF Ghost Episode 11
 
-Episode Link: https://allanime.to/watch/aauZ6NzTYBq2SHW8M/episode-10-sub
+Episode Link: https://allanime.to/watch/GEuvZ6qE29SDKJBbm/episode-11-sub
  
 # Analytics
 
