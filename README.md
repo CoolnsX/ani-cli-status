@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Magical★Taruruuto kun Episode 35
+Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 9
 
-Episode Link: https://allanime.to/watch/yTszgTsufjJcz6AZc/episode-35-sub
+Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-9-sub
  
 # Analytics
 
