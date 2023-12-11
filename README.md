@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hoshikuzu Telepath Episode 10
+Episode Name: Ragna Crimson Episode 11
 
-Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-10-sub
+Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-11-sub
  
 # Analytics
 
