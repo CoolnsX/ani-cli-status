@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Potion danomi de Ikinobimasu Episode 10
+Episode Name: Atarashii Joushi wa Do Tennen Episode 10
 
-Episode Link: https://allanime.to/watch/HSER99GAXJeJN57Nj/episode-10-sub
+Episode Link: https://allanime.to/watch/2wP6RWDu339B7ZtPS/episode-10-sub
  
 # Analytics
 
