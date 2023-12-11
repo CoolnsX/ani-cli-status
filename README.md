@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kikansha no Mahou wa Tokubetsu desu Episode 10
+Episode Name: Shadowverse Flame Episode 73
 
-Episode Link: https://allanime.to/watch/K8tzqTGyjMsHWKYWj/episode-10-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-73-sub
  
 # Analytics
 
