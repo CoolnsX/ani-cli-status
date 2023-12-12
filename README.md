@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 44
+Episode Name: Detective Conan TV Episode 1106
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-44-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1106-sub
  
 # Analytics
 
