@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 11
+Episode Name: Bokura no Ameiro Protocol Episode 10
 
-Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-11-sub
+Episode Link: https://allanime.to/watch/7aN3Rmvr2wXuWsYAw/episode-10-sub
  
 # Analytics
 
