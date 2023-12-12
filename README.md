@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: MF Ghost Episode 11
+Episode Name: Hirogaru Sky Precure Episode 44
 
-Episode Link: https://allanime.to/watch/GEuvZ6qE29SDKJBbm/episode-11-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-44-sub
  
 # Analytics
 
