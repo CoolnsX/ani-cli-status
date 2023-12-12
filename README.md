@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Buta no Liver wa Kanetsu Shiro Episode 9
+Episode Name: Potion danomi de Ikinobimasu Episode 10
 
-Episode Link: https://allanime.to/watch/KopH8vaGDb7qpKJgM/episode-9-sub
+Episode Link: https://allanime.to/watch/HSER99GAXJeJN57Nj/episode-10-sub
  
 # Analytics
 
