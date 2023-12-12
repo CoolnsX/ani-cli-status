@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bokura no Ameiro Protocol Episode 10
+Episode Name: Migi to Dali Episode 11
 
-Episode Link: https://allanime.to/watch/7aN3Rmvr2wXuWsYAw/episode-10-sub
+Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-11-sub
  
 # Analytics
 
