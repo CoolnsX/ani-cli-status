@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 73
+Episode Name: B Project Netsuretsu Love Call Episode 11
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-73-sub
+Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-11-sub
  
 # Analytics
 
