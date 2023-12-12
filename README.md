@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1087
+Episode Name: Bokura no Ameiro Protocol Episode 10
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1087-sub
+Episode Link: https://allanime.to/watch/7aN3Rmvr2wXuWsYAw/episode-10-sub
  
 # Analytics
 
