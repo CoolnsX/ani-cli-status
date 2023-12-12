@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 10
+Episode Name: 1P Episode 1087
 
-Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-10-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1087-sub
  
 # Analytics
 
