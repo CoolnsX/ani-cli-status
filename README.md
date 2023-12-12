@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shy Episode 11
+Episode Name: Ochibi san Episode 8
 
-Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-11-sub
+Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-8-sub
  
 # Analytics
 
