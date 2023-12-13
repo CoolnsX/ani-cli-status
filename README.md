@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 11
+Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 11
 
-Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-11-sub
+Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-11-sub
  
 # Analytics
 
