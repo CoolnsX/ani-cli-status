@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kawagoe Boys Sing Episode 10
+Episode Name: Ochibi san Episode 8
 
-Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-10-sub
+Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-8-sub
  
 # Analytics
 
