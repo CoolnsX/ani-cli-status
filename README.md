@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Go Go Vehicle Zoo Episode 24
+Episode Name: Ochibi san Episode 8
 
-Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-24-sub
+Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-8-sub
  
 # Analytics
 
