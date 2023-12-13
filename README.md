@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 11
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 11
 
-Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-11-sub
+Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-11-sub
  
 # Analytics
 
