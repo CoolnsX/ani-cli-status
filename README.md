@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kimi no Koto ga Daidaidaidaidaisuki na 100 nin no Kanojo Episode 10
+Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 11
 
-Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-10-sub
+Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-11-sub
  
 # Analytics
 
