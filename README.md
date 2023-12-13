@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: B Project Netsuretsu Love Call Episode 11
+Episode Name: Boushoku no Berserk Episode 11
 
-Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-11-sub
+Episode Link: https://allanime.to/watch/eYsFMbyQafWzsHZDW/episode-11-sub
  
 # Analytics
 
