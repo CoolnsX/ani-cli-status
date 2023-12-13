@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1087
+Episode Name: Kikansha no Mahou wa Tokubetsu desu Episode 10
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1087-sub
+Episode Link: https://allanime.to/watch/K8tzqTGyjMsHWKYWj/episode-10-sub
  
 # Analytics
 
