@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 35
+Episode Name: Kawagoe Boys Sing Episode 10
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-35-sub
+Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-10-sub
  
 # Analytics
 
