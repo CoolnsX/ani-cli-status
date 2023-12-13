@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dog Signal Episode 8
+Episode Name: Hoshikuzu Telepath Episode 10
 
-Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-8-sub
+Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-10-sub
  
 # Analytics
 
