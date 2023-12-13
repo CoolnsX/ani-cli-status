@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 11
+Episode Name: Dog Signal Episode 8
 
-Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-11-sub
+Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-8-sub
  
 # Analytics
 
