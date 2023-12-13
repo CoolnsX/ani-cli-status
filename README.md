@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ochibi san Episode 8
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 9
 
-Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-8-sub
+Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-9-sub
  
 # Analytics
 
