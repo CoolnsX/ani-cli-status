@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 20
+Episode Name: 1P Episode 1087
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-20-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1087-sub
  
 # Analytics
 
