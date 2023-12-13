@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Paradox Live the Animation Episode 10
+Episode Name: Tousouchuu Great Mission Episode 35
 
-Episode Link: https://allanime.to/watch/yzuWfjqR436gKg2oj/episode-10-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-35-sub
  
 # Analytics
 
