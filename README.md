@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 20
+Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 11
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-20-sub
+Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-11-sub
  
 # Analytics
 
