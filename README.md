@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 16bit Sensation Another Layer Episode 11
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 88
 
-Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-11-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-88-sub
  
 # Analytics
 
