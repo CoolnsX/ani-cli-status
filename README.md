@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 9
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 11
 
-Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-9-sub
+Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-11-sub
  
 # Analytics
 
