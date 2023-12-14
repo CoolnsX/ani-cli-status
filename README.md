@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The iDOLM STER Million Live Episode 10
+Episode Name: Dark Gathering Episode 23
 
-Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-10-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-23-sub
  
 # Analytics
 
