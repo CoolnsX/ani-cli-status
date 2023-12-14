@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seiken Gakuin no Makentsukai Episode 11
+Episode Name: Odekake Kozame Episode 20
 
-Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-11-sub
+Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-20-sub
  
 # Analytics
 
