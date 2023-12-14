@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Migi to Dali Episode 11
+Episode Name: Tokyo Revengers Tenjiku hen Episode 11
 
-Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-11-sub
+Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-11-sub
  
 # Analytics
 
