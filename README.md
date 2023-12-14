@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kage no Jitsuryokusha ni Naritakute Season 2 Episode 11
+Episode Name: Go Go Vehicle Zoo Episode 24
 
-Episode Link: https://allanime.to/watch/TzKpa9QpMbq5sXqum/episode-11-sub
+Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-24-sub
  
 # Analytics
 
