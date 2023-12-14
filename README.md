@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tokyo Revengers Tenjiku hen Episode 11
+Episode Name: The iDOLM STER Million Live Episode 10
 
-Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-11-sub
+Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-10-sub
  
 # Analytics
 
