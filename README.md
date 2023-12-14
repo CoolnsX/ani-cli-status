@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 23
+Episode Name: Dekoboko Majo no Oyako Jijou Episode 12
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-23-sub
+Episode Link: https://allanime.to/watch/Ld2BmMeqndxdeEq5H/episode-12-sub
  
 # Analytics
 
