@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Helck Episode 23
+Episode Name: Seiken Gakuin no Makentsukai Episode 11
 
-Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-23-sub
+Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-11-sub
  
 # Analytics
 
