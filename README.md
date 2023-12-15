@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bikkurimen Episode 11
+Episode Name: Shy Episode 11
 
-Episode Link: https://allanime.to/watch/9kbdphJ9ayubD6Djh/episode-11-sub
+Episode Link: https://allanime.to/watch/ZNoEZwE7fQvpt28PF/episode-11-sub
  
 # Analytics
 
