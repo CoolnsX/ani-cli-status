@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 10
+Episode Name: Helck Episode 23
 
-Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-10-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-23-sub
  
 # Analytics
 
