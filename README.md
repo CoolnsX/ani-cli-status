@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 20
+Episode Name: Ojou to Banken kun Episode 12
 
-Episode Link: https://allanime.to/watch/7WXdt3r7WYtrMJ7Cx/episode-20-sub
+Episode Link: https://allanime.to/watch/QMip3pmqPAsu42Nis/episode-12-sub
  
 # Analytics
 
