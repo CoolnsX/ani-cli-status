@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 151
+Episode Name: Paradox Live the Animation Episode 10
 
-Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-151-sub
+Episode Link: https://allanime.to/watch/yzuWfjqR436gKg2oj/episode-10-sub
  
 # Analytics
 
