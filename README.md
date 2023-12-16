@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Goblin Slayer II Episode 11
+Episode Name: Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi Episode 11
 
-Episode Link: https://allanime.to/watch/vdQ84BfvTwshJdWaP/episode-11-sub
+Episode Link: https://allanime.to/watch/Zu9CDwp8AC7Fmc346/episode-11-sub
  
 # Analytics
 
