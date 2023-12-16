@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hametsu no Oukoku Episode 11
+Episode Name: Kanojo mo Kanojo Season 2 Episode 11
 
-Episode Link: https://allanime.to/watch/attbXgRjuuxe8nS7R/episode-11-sub
+Episode Link: https://allanime.to/watch/EtMQTAuYg4AfFMsb8/episode-11-sub
  
 # Analytics
 
