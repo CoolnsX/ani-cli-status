@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kanojo mo Kanojo Season 2 Episode 11
+Episode Name: Shadowverse Flame Episode 74
 
-Episode Link: https://allanime.to/watch/EtMQTAuYg4AfFMsb8/episode-11-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-74-sub
  
 # Analytics
 
