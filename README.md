@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 10
+Episode Name: Kusuriya no Hitorigoto Episode 12
 
-Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-10-sub
+Episode Link: https://allanime.to/watch/h4PMucgQwndzYNNxS/episode-12-sub
  
 # Analytics
 
