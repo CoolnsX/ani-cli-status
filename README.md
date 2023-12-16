@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Houkago no Breath Episode 4
+Episode Name: Hypnosis Mic Division Rap Battle Rhyme Anima Episode 11
 
-Episode Link: https://allanime.to/watch/RFSfnCibPC7FKgvzr/episode-4-sub
+Episode Link: https://allanime.to/watch/YnnH5QgEaaWE5bmKZ/episode-11-sub
  
 # Analytics
 
