@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 74
+Episode Name: Beyblade X Episode 10
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-74-sub
+Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-10-sub
  
 # Analytics
 
