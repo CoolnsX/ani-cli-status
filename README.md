@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 11
+Episode Name: Ninjala Episode 98
 
-Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-11-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-98-sub
  
 # Analytics
 
