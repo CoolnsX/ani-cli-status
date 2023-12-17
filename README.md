@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 98
+Episode Name: Dr Slump Arale chan Episode 151
 
-Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-98-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-151-sub
  
 # Analytics
 
