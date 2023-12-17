@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ragna Crimson Episode 12
+Episode Name: Seiken Gakuin no Makentsukai Episode 12
 
-Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-12-sub
+Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-12-sub
  
 # Analytics
 
