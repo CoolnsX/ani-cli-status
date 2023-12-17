@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 12
+Episode Name: Hirogaru Sky Precure Episode 45
 
-Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-12-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-45-sub
  
 # Analytics
 
