@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seiken Gakuin no Makentsukai Episode 12
+Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 11
 
-Episode Link: https://allanime.to/watch/qsJYembEK6pfrcQsF/episode-12-sub
+Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-11-sub
  
 # Analytics
 
