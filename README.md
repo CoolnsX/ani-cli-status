@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Goblin Slayer II Episode 11
+Episode Name: Rurouni Kenshin Meiji Kenkaku Romantan 2023 Episode 24
 
-Episode Link: https://allanime.to/watch/vdQ84BfvTwshJdWaP/episode-11-sub
+Episode Link: https://allanime.to/watch/tLAyXvra4wTWJTJNG/episode-24-sub
  
 # Analytics
 
