@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 74
+Episode Name: Dr Stone New World Part 2 Episode 10
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-74-sub
+Episode Link: https://allanime.to/watch/MGJWWRWEdXWNyX6TX/episode-10-sub
  
 # Analytics
 
