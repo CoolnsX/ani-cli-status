@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 11
+Episode Name: Dr Slump Arale chan Episode 151
 
-Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-11-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-151-sub
  
 # Analytics
 
