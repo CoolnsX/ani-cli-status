@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 11
+Episode Name: Goblin Slayer II Episode 11
 
-Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-11-sub
+Episode Link: https://allanime.to/watch/vdQ84BfvTwshJdWaP/episode-11-sub
  
 # Analytics
 
