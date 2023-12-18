@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 12
+Episode Name: Kimi no Koto ga Daidaidaidaidaisuki na 100 nin no Kanojo Episode 11
 
-Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-12-sub
+Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-11-sub
  
 # Analytics
 
