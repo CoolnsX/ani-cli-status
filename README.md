@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kimi no Koto ga Daidaidaidaidaisuki na 100 nin no Kanojo Episode 11
+Episode Name: Dr Slump Arale chan Episode 151
 
-Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-11-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-151-sub
  
 # Analytics
 
