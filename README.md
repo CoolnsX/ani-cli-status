@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ochibi san Episode 9
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 12
 
-Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-9-sub
+Episode Link: https://allanime.to/watch/67yY9SupCnNf7AWet/episode-12-sub
  
 # Analytics
 
