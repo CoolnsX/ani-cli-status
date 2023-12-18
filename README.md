@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1107
+Episode Name: Ragna Crimson Episode 12
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1107-sub
+Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-12-sub
  
 # Analytics
 
