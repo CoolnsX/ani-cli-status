@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kimi no Koto ga Daidaidaidaidaisuki na 100 nin no Kanojo Episode 11
+Episode Name: Detective Conan TV Episode 1107
 
-Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-11-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1107-sub
  
 # Analytics
 
