@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ragna Crimson Episode 12
+Episode Name: Kimi no Koto ga Daidaidaidaidaisuki na 100 nin no Kanojo Episode 11
 
-Episode Link: https://allanime.to/watch/xmfsBA3GDvMTyNrza/episode-12-sub
+Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-11-sub
  
 # Analytics
 
