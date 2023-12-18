@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1107
+Episode Name: Dr Slump Arale chan Episode 151
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1107-sub
+Episode Link: https://allanime.to/watch/PGqQKyyef49RWDzsc/episode-151-sub
  
 # Analytics
 
