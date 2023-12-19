@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: B Project Netsuretsu Love Call Episode 12
+Episode Name: Dead Mount Death Play Part 2 Episode 11
 
-Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-12-sub
+Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-11-sub
  
 # Analytics
 
