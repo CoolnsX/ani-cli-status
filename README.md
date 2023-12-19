@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren ●● no Mahou Episode 5
+Episode Name: Kamonohashi Ron no Kindan Suiri Episode 12
 
-Episode Link: https://allanime.to/watch/sG52nbcFo3PfLg6PD/episode-5-sub
+Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-12-sub
  
 # Analytics
 
