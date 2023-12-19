@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hoshikuzu Telepath Episode 11
+Episode Name: Overtake Episode 12
 
-Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-11-sub
+Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-12-sub
  
 # Analytics
 
