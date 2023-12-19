@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Atarashii Joushi wa Do Tennen Episode 11
+Episode Name: Kusuriya no Hitorigoto Episode 12
 
-Episode Link: https://allanime.to/watch/2wP6RWDu339B7ZtPS/episode-11-sub
+Episode Link: https://allanime.to/watch/h4PMucgQwndzYNNxS/episode-12-sub
  
 # Analytics
 
