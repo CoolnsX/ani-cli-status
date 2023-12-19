@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 10
+Episode Name: Overtake Episode 12
 
-Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-10-sub
+Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-12-sub
  
 # Analytics
 
