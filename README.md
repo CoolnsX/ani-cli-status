@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hoshikuzu Telepath Episode 11
+Episode Name: B Project Netsuretsu Love Call Episode 12
 
-Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-11-sub
+Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-12-sub
  
 # Analytics
 
