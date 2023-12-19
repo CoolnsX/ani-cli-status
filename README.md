@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The iDOLM STER Million Live Episode 11
+Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 10
 
-Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-11-sub
+Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-10-sub
  
 # Analytics
 
