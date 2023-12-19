@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Part 2 Episode 11
+Episode Name: Hoshikuzu Telepath Episode 11
 
-Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-11-sub
+Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-11-sub
  
 # Analytics
 
