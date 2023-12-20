@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: MF Ghost Episode 12
+Episode Name: Ochibi san Episode 9
 
-Episode Link: https://allanime.to/watch/GEuvZ6qE29SDKJBbm/episode-12-sub
+Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-9-sub
  
 # Analytics
 
