@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Migi to Dali Episode 12
+Episode Name: Kimi no Koto ga Daidaidaidaidaisuki na 100 nin no Kanojo Episode 11
 
-Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-12-sub
+Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-11-sub
  
 # Analytics
 
