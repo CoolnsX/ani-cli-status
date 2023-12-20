@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 11
+Episode Name: Tousouchuu Great Mission Episode 36
 
-Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-11-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-36-sub
  
 # Analytics
 
