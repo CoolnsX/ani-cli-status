@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ochibi san Episode 9
+Episode Name: Sousou no Frieren ●● no Mahou Episode 5
 
-Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-9-sub
+Episode Link: https://allanime.to/watch/sG52nbcFo3PfLg6PD/episode-5-sub
  
 # Analytics
 
