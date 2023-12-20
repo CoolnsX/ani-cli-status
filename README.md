@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Overtake Episode 12
+Episode Name: 1P Episode 1088
 
-Episode Link: https://allanime.to/watch/8kM8L3wyJbZ7kGrmB/episode-12-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1088-sub
  
 # Analytics
 
