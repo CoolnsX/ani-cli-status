@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 36
+Episode Name: Go Go Vehicle Zoo Episode 25
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-36-sub
+Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-25-sub
  
 # Analytics
 
