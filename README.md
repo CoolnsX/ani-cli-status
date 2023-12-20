@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1088
+Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 12
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1088-sub
+Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-12-sub
  
 # Analytics
 
