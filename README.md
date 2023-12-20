@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shangri La Frontier Kusoge Hunter Kamige ni Idoman to su Episode 12
+Episode Name: Haai Step Jun Episode 16
 
-Episode Link: https://allanime.to/watch/Q4Aj2B9wj6hvbF3H5/episode-12-sub
+Episode Link: https://allanime.to/watch/5dC9GDoPPJ5agJg2C/episode-16-sub
  
 # Analytics
 
