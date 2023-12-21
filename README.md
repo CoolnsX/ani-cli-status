@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Haai Step Jun Episode 16
+Episode Name: Paradox Live the Animation Episode 11
 
-Episode Link: https://allanime.to/watch/5dC9GDoPPJ5agJg2C/episode-16-sub
+Episode Link: https://allanime.to/watch/yzuWfjqR436gKg2oj/episode-11-sub
  
 # Analytics
 
