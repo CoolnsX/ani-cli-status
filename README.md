@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dog Signal Episode 9
+Episode Name: B Project Netsuretsu Love Call Episode 12
 
-Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-9-sub
+Episode Link: https://allanime.to/watch/mp8bDrkNDmNHF7cpW/episode-12-sub
  
 # Analytics
 
