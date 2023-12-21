@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu Episode 12
+Episode Name: MF Ghost Episode 12
 
-Episode Link: https://allanime.to/watch/WjbWDFPRq9kAxwsQ6/episode-12-sub
+Episode Link: https://allanime.to/watch/GEuvZ6qE29SDKJBbm/episode-12-sub
  
 # Analytics
 
