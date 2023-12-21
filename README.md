@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 45
+Episode Name: Sousou no Frieren ●● no Mahou Episode 5
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-45-sub
+Episode Link: https://allanime.to/watch/sG52nbcFo3PfLg6PD/episode-5-sub
  
 # Analytics
 
