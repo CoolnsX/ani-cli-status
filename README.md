@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jujutsu Kaisen 2nd Season Episode 22
+Episode Name: Ojou to Banken kun Episode 13
 
-Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-22-sub
+Episode Link: https://allanime.to/watch/QMip3pmqPAsu42Nis/episode-13-sub
  
 # Analytics
 
