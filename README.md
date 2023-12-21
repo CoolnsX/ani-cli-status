@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: MF Ghost Episode 12
+Episode Name: 1P Episode 1088
 
-Episode Link: https://allanime.to/watch/GEuvZ6qE29SDKJBbm/episode-12-sub
+Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1088-sub
  
 # Analytics
 
