@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ojou to Banken kun Episode 13
+Episode Name: Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu Episode 12
 
-Episode Link: https://allanime.to/watch/QMip3pmqPAsu42Nis/episode-13-sub
+Episode Link: https://allanime.to/watch/WjbWDFPRq9kAxwsQ6/episode-12-sub
  
 # Analytics
 
