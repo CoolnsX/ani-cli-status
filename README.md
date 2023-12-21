@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Konyaku Haki sareta Reijou wo Hirotta Ore ga Ikenai Koto wo Oshiekomu Episode 12
+Episode Name: Dog Signal Episode 9
 
-Episode Link: https://allanime.to/watch/WjbWDFPRq9kAxwsQ6/episode-12-sub
+Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-9-sub
  
 # Analytics
 
