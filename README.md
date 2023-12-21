@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ochibi san Episode 9
+Episode Name: Jujutsu Kaisen 2nd Season Episode 22
 
-Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-9-sub
+Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-22-sub
  
 # Analytics
 
