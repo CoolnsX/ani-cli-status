@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1088
+Episode Name: Dog Signal Episode 9
 
-Episode Link: https://allanime.to/watch/ReooPAxPMsHM4KPMY/episode-1088-sub
+Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-9-sub
  
 # Analytics
 
