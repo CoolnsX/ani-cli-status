@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yuzuki san Chi no Yonkyoudai Episode 12
+Episode Name: Tousouchuu Great Mission Episode 36
 
-Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-12-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-36-sub
  
 # Analytics
 
