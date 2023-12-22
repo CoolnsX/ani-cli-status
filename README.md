@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jujutsu Kaisen 2nd Season Episode 22
+Episode Name: Watashi no Oshi wa Akuyaku Reijou Episode 12
 
-Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-22-sub
+Episode Link: https://allanime.to/watch/csak2Gb5bLocGxZLz/episode-12-sub
  
 # Analytics
 
