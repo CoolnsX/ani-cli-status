@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kamonohashi Ron no Kindan Suiri Episode 12
+Episode Name: Mewkledreamy Mix Episode 33
 
-Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-12-sub
+Episode Link: https://allanime.to/watch/hiRpBoKJ49XD7inW5/episode-33-sub
  
 # Analytics
 
