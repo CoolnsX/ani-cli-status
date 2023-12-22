@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dark Gathering Episode 24
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 10
 
-Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-24-sub
+Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-10-sub
  
 # Analytics
 
