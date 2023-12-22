@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yuzuki san Chi no Yonkyoudai Episode 12
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 89
 
-Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-12-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-89-sub
  
 # Analytics
 
