@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta Episode 13
+Episode Name: Helck Episode 24
 
-Episode Link: https://allanime.to/watch/ZNHLq5u4YApjEywJt/episode-13-sub
+Episode Link: https://allanime.to/watch/9abvgrFvSXs8L63eF/episode-24-sub
  
 # Analytics
 
