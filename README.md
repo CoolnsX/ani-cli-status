@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Migi to Dali Episode 12
+Episode Name: Kizuna no Allele Season 2 Episode 12
 
-Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-12-sub
+Episode Link: https://allanime.to/watch/C26riN82FqbzNRTyY/episode-12-sub
  
 # Analytics
 
