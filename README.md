@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 36
+Episode Name: Bullbuster Episode 12
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-36-sub
+Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-12-sub
  
 # Analytics
 
