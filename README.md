@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 12
+Episode Name: Jujutsu Kaisen 2nd Season Episode 22
 
-Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-12-sub
+Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-22-sub
  
 # Analytics
 
