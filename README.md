@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 89
+Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 12
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-89-sub
+Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-12-sub
  
 # Analytics
 
