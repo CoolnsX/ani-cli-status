@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bullbuster Episode 12
+Episode Name: Dark Gathering Episode 24
 
-Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-12-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-24-sub
  
 # Analytics
 
