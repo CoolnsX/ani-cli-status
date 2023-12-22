@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Haai Step Jun Episode 16
+Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 12
 
-Episode Link: https://allanime.to/watch/5dC9GDoPPJ5agJg2C/episode-16-sub
+Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-12-sub
  
 # Analytics
 
