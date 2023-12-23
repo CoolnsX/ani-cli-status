@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 75
+Episode Name: Yuzuki san Chi no Yonkyoudai Episode 12
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-75-sub
+Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-12-sub
  
 # Analytics
 
