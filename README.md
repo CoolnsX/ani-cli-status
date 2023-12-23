@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Migi to Dali Episode 12
+Episode Name: Sousou no Frieren Episode 16
 
-Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-12-sub
+Episode Link: https://allanime.to/watch/ReHMC7TQnch3C6z8j/episode-16-sub
  
 # Analytics
 
