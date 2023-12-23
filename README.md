@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi Episode 12
+Episode Name: Detective Conan TV Episode 1108
 
-Episode Link: https://allanime.to/watch/Zu9CDwp8AC7Fmc346/episode-12-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1108-sub
  
 # Analytics
 
