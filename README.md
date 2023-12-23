@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren ●● no Mahou Episode 5
+Episode Name: Dr Stone New World Part 2 Episode 11
 
-Episode Link: https://allanime.to/watch/sG52nbcFo3PfLg6PD/episode-5-sub
+Episode Link: https://allanime.to/watch/MGJWWRWEdXWNyX6TX/episode-11-sub
  
 # Analytics
 
