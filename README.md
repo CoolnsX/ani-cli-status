@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seijo no Maryoku wa Bannou desu Season 2 Episode 12
+Episode Name: Sousou no Frieren ●● no Mahou Episode 5
 
-Episode Link: https://allanime.to/watch/StA27FsPuLjp6jDeQ/episode-12-sub
+Episode Link: https://allanime.to/watch/sG52nbcFo3PfLg6PD/episode-5-sub
  
 # Analytics
 
