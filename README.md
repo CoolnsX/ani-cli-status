@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bullbuster Episode 12
+Episode Name: Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi Episode 12
 
-Episode Link: https://allanime.to/watch/8KQvREmbKGzPPb4PF/episode-12-sub
+Episode Link: https://allanime.to/watch/Zu9CDwp8AC7Fmc346/episode-12-sub
  
 # Analytics
 
