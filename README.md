@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Toaru Ossan no VRMMO Katsudouki Episode 12
+Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 12
 
-Episode Link: https://allanime.to/watch/o7ZkYqR85v7CWGv5s/episode-12-sub
+Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-12-sub
  
 # Analytics
 
