@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1108
+Episode Name: Mahoutsukai no Yome Season 2 Part 2 Episode 12
 
-Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1108-sub
+Episode Link: https://allanime.to/watch/2ZtBn5GC5rogrd3Z8/episode-12-sub
  
 # Analytics
 
