@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mewkledreamy Mix Episode 33
+Episode Name: Kamierabi Episode 12
 
-Episode Link: https://allanime.to/watch/hiRpBoKJ49XD7inW5/episode-33-sub
+Episode Link: https://allanime.to/watch/24W3oKkbHgXMcYic6/episode-12-sub
  
 # Analytics
 
