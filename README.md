@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The iDOLM STER Million Live Episode 12
+Episode Name: Under Ninja Episode 12
 
-Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-12-sub
+Episode Link: https://allanime.to/watch/cTfKHWK5mWpjzAEpr/episode-12-sub
  
 # Analytics
 
