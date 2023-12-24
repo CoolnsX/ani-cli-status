@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dr Stone New World Part 2 Episode 11
+Episode Name: Kage no Jitsuryokusha ni Naritakute Season 2 Episode 12
 
-Episode Link: https://allanime.to/watch/MGJWWRWEdXWNyX6TX/episode-11-sub
+Episode Link: https://allanime.to/watch/TzKpa9QpMbq5sXqum/episode-12-sub
  
 # Analytics
 
