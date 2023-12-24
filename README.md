@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jujutsu Kaisen 2nd Season Episode 22
+Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 12
 
-Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-22-sub
+Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-12-sub
  
 # Analytics
 
