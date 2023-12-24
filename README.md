@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 75
+Episode Name: Ojou to Banken kun Episode 13
 
-Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-75-sub
+Episode Link: https://allanime.to/watch/QMip3pmqPAsu42Nis/episode-13-sub
  
 # Analytics
 
