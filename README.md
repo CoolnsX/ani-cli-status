@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 46
+Episode Name: Tate no Yuusha no Nariagari Season 3 Episode 12
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-46-sub
+Episode Link: https://allanime.to/watch/RcPWkrZPpcnpHqyCc/episode-12-sub
  
 # Analytics
 
