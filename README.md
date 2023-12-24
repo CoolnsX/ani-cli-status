@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mewkledreamy Mix Episode 33
+Episode Name: Shadowverse Flame Episode 75
 
-Episode Link: https://allanime.to/watch/hiRpBoKJ49XD7inW5/episode-33-sub
+Episode Link: https://allanime.to/watch/QJYZNwWCYS7g5BLmj/episode-75-sub
  
 # Analytics
 
