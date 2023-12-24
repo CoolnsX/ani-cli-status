@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Go Go Vehicle Zoo Episode 26
+Episode Name: Detective Conan TV Episode 1108
 
-Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-26-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1108-sub
  
 # Analytics
 
