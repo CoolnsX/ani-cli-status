@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Buta no Liver wa Kanetsu Shiro Episode 11
+Episode Name: Kusuriya no Hitorigoto Episode 12
 
-Episode Link: https://allanime.to/watch/KopH8vaGDb7qpKJgM/episode-11-sub
+Episode Link: https://allanime.to/watch/h4PMucgQwndzYNNxS/episode-12-sub
  
 # Analytics
 
