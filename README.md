@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren Episode 16
+Episode Name: Go Go Vehicle Zoo Episode 26
 
-Episode Link: https://allanime.to/watch/ReHMC7TQnch3C6z8j/episode-16-sub
+Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-26-sub
  
 # Analytics
 
