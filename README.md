@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yuzuki san Chi no Yonkyoudai Episode 12
+Episode Name: Kusuriya no Hitorigoto Episode 12
 
-Episode Link: https://allanime.to/watch/vZaWWQdGTfyGW2RXJ/episode-12-sub
+Episode Link: https://allanime.to/watch/h4PMucgQwndzYNNxS/episode-12-sub
  
 # Analytics
 
