@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 46
+Episode Name: Zom 100 Zombie ni Naru made ni Shitai 100 no Koto Episode 12
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-46-sub
+Episode Link: https://allanime.to/watch/GoKAhRw3sy8vS3NB8/episode-12-sub
  
 # Analytics
 
