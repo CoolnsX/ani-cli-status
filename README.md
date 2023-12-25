@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hoshikuzu Telepath Episode 12
+Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 12 5
 
-Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-12-sub
+Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-12 5-sub
  
 # Analytics
 
