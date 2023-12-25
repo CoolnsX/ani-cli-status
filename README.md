@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 37
+Episode Name: Zom 100 Zombie ni Naru made ni Shitai 100 no Koto Episode 10
 
-Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-37-sub
+Episode Link: https://allanime.to/watch/GoKAhRw3sy8vS3NB8/episode-10-sub
  
 # Analytics
 
