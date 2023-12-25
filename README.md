@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Under Ninja Episode 12
+Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 12
 
-Episode Link: https://allanime.to/watch/cTfKHWK5mWpjzAEpr/episode-12-sub
+Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-12-sub
  
 # Analytics
 
