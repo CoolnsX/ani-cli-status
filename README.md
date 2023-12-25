@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kamonohashi Ron no Kindan Suiri Episode 13
+Episode Name: Hirogaru Sky Precure Episode 46
 
-Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-13-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-46-sub
  
 # Analytics
 
