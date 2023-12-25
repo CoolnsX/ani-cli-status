@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Go Go Vehicle Zoo Episode 26
+Episode Name: Dark Gathering Episode 25
 
-Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-26-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-25-sub
  
 # Analytics
 
