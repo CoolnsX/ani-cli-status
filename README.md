@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Cyborg Kuro chan Episode 66
+Episode Name: Detective Conan TV Episode 1108
 
-Episode Link: https://allanime.to/watch/79DKCnfeEoG377brS/episode-66-sub
+Episode Link: https://allanime.to/watch/taSxDp8w4JTADN9hJ/episode-1108-sub
  
 # Analytics
 
