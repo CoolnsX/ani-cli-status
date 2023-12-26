@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Zom 100 Zombie ni Naru made ni Shitai 100 no Koto Episode 12
+Episode Name: Kimi no Koto ga Daidaidaidaidaisuki na 100 nin no Kanojo Episode 12
 
-Episode Link: https://allanime.to/watch/GoKAhRw3sy8vS3NB8/episode-12-sub
+Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-12-sub
  
 # Analytics
 
