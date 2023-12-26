@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 46
+Episode Name: Tousouchuu Great Mission Episode 37
 
-Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-46-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-37-sub
  
 # Analytics
 
