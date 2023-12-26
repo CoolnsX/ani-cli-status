@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tearmoon Teikoku Monogatari Dantoudai kara Hajimaru Hime no Tensei Gyakuten Story Episode 12
+Episode Name: Atarashii Joushi wa Do Tennen Episode 12
 
-Episode Link: https://allanime.to/watch/aauZ6NzTYBq2SHW8M/episode-12-sub
+Episode Link: https://allanime.to/watch/2wP6RWDu339B7ZtPS/episode-12-sub
  
 # Analytics
 
