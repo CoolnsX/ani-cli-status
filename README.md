@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Spy x Family Season 2 Episode 12
+Episode Name: Kusuriya no Hitorigoto Episode 12
 
-Episode Link: https://allanime.to/watch/kdZS4uQHs4JzqAh9c/episode-12-sub
+Episode Link: https://allanime.to/watch/h4PMucgQwndzYNNxS/episode-12-sub
  
 # Analytics
 
