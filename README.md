@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ai to Yuuki no Pig Girl Tonde Buurin Episode 19
+Episode Name: Kimi no Koto ga Daidaidaidaidaisuki na 100 nin no Kanojo Episode 12
 
-Episode Link: https://allanime.to/watch/azm2mXAz2ric5kMP8/episode-19-sub
+Episode Link: https://allanime.to/watch/pp9g8Qt7iem4RMjbJ/episode-12-sub
  
 # Analytics
 
