@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Part 2 Episode 12
+Episode Name: Cyborg Kuro chan Episode 66
 
-Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-12-sub
+Episode Link: https://allanime.to/watch/79DKCnfeEoG377brS/episode-66-sub
  
 # Analytics
 
