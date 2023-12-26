@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ai to Yuuki no Pig Girl Tonde Buurin Episode 19
+Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 11
 
-Episode Link: https://allanime.to/watch/azm2mXAz2ric5kMP8/episode-19-sub
+Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-11-sub
  
 # Analytics
 
