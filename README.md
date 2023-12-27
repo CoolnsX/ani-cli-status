@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Haikara san ga Tooru Episode 7
+Episode Name: Saihate no Paladin Tetsusabi no Yama no Ou Episode 12
 
-Episode Link: https://allanime.to/watch/g75onXMcavsHQ8FH8/episode-7-sub
+Episode Link: https://allanime.to/watch/z2qR6B3SFnDeJN3mz/episode-12-sub
  
 # Analytics
 
