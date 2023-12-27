@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Go Go Vehicle Zoo Episode 26
+Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 12 5
 
-Episode Link: https://allanime.to/watch/5GwcWtnH8YiuDaWkg/episode-26-sub
+Episode Link: https://allanime.to/watch/4xD9zpF4dAf8RrAjq/episode-12 5-sub
  
 # Analytics
 
