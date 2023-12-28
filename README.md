@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 12
+Episode Name: Captain Tsubasa Asu ni Mukatte Hashire Episode 1
 
-Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-12-sub
+Episode Link: https://allanime.to/watch/WE89rcMQrtBudrgip/episode-1-sub
  
 # Analytics
 
