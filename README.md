@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Asu ni Mukatte Hashire Episode 1
+Episode Name: Bokura no Ameiro Protocol Episode 12
 
-Episode Link: https://allanime.to/watch/WE89rcMQrtBudrgip/episode-1-sub
+Episode Link: https://allanime.to/watch/7aN3Rmvr2wXuWsYAw/episode-12-sub
  
 # Analytics
 
