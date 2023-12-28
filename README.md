@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: KimiKiss Pure Rouge Love Fighter Episode 1
+Episode Name: The iDOLM STER Million Live Episode 12
 
-Episode Link: https://allanime.to/watch/EpBJDh4SpQRB5nsEu/episode-1-sub
+Episode Link: https://allanime.to/watch/3YsKQZWbYxfGQCC8T/episode-12-sub
  
 # Analytics
 
