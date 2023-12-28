@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ai to Yuuki no Pig Girl Tonde Buurin Episode 19
+Episode Name: Bikkurimen Episode 12
 
-Episode Link: https://allanime.to/watch/azm2mXAz2ric5kMP8/episode-19-sub
+Episode Link: https://allanime.to/watch/9kbdphJ9ayubD6Djh/episode-12-sub
  
 # Analytics
 
