@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dead Mount Death Play Part 2 Episode 12
+Episode Name: Ooyukiumi no Kaina Hoshi no Kenja Episode 1
 
-Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-12-sub
+Episode Link: https://allanime.to/watch/8HYJ4F79tqgayc4A2/episode-1-sub
  
 # Analytics
 
