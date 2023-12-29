@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kamonohashi Ron no Kindan Suiri Episode 13
+Episode Name: Dog Signal Episode 10
 
-Episode Link: https://allanime.to/watch/3ZfCa945a8upqzf6e/episode-13-sub
+Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-10-sub
  
 # Analytics
 
