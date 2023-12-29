@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 11
+Episode Name: Chiikawa Episode 72
 
-Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-11-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-72-sub
  
 # Analytics
 
