@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ochibi san Episode 10
+Episode Name: Hirogaru Sky Precure Episode 46
 
-Episode Link: https://allanime.to/watch/tStBqCxgA2zJjWPx5/episode-10-sub
+Episode Link: https://allanime.to/watch/wya3joHqqvYRLqMBK/episode-46-sub
  
 # Analytics
 
