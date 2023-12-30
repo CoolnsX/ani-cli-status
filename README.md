@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Undead Unluck Episode 13
+Episode Name: Jujutsu Kaisen 2nd Season Episode 23
 
-Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-13-sub
+Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-23-sub
  
 # Analytics
 
