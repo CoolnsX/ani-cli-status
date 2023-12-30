@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahou no Star Magical Emi Episode 38
+Episode Name: Captain Tsubasa Europe Daikessen Episode 1
 
-Episode Link: https://allanime.to/watch/A3BW8grHBm6pMwz4e/episode-38-sub
+Episode Link: https://allanime.to/watch/sfjYv2CRMwsiWHoCp/episode-1-sub
  
 # Analytics
 
