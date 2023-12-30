@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: BURN THE WITCH 0 8 Episode 1
+Episode Name: Undead Unluck Episode 13
 
-Episode Link: https://allanime.to/watch/oWkxcwfeq5d9gnJgp/episode-1-sub
+Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-13-sub
  
 # Analytics
 
