@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hoshikuzu Telepath Episode 12
+Episode Name: Cyborg Kuro chan Episode 66
 
-Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-12-sub
+Episode Link: https://allanime.to/watch/79DKCnfeEoG377brS/episode-66-sub
  
 # Analytics
 
