@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jujutsu Kaisen 2nd Season Episode 23
+Episode Name: Hoshikuzu Telepath Episode 12
 
-Episode Link: https://allanime.to/watch/LYKSutL2PaAjYyXWz/episode-23-sub
+Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-12-sub
  
 # Analytics
 
