@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 72
+Episode Name: Dead Mount Death Play Part 2 Episode 12
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-72-sub
+Episode Link: https://allanime.to/watch/Jcz95FoAgeSJTXDaW/episode-12-sub
  
 # Analytics
 
