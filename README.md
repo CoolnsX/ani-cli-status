@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bikkurimen Episode 12
+Episode Name: Beyblade X Episode 12
 
-Episode Link: https://allanime.to/watch/9kbdphJ9ayubD6Djh/episode-12-sub
+Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-12-sub
  
 # Analytics
 
