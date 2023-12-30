@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Migi to Dali Episode 13
+Episode Name: Chiikawa Episode 72
 
-Episode Link: https://allanime.to/watch/t7RGzNJKPJwkftjZo/episode-13-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-72-sub
  
 # Analytics
 
