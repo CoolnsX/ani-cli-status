@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Pokemon Concierge Episode 4
+Episode Name: Haikara san ga Tooru Episode 8
 
-Episode Link: https://allanime.to/watch/fcHA2D8igs8Ai3x5h/episode-4-sub
+Episode Link: https://allanime.to/watch/g75onXMcavsHQ8FH8/episode-8-sub
  
 # Analytics
 
