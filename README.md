@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hypnosis Mic Division Rap Battle Rhyme Anima Episode 13
+Episode Name: KimiKiss Pure Rouge Love Fighter Episode 1
 
-Episode Link: https://allanime.to/watch/YnnH5QgEaaWE5bmKZ/episode-13-sub
+Episode Link: https://allanime.to/watch/EpBJDh4SpQRB5nsEu/episode-1-sub
  
 # Analytics
 
