@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 72
+Episode Name: Mahou no Star Magical Emi Episode 38
 
-Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-72-sub
+Episode Link: https://allanime.to/watch/A3BW8grHBm6pMwz4e/episode-38-sub
  
 # Analytics
 
