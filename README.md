@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 11
+Episode Name: Dark Gathering Episode 25
 
-Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-11-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-25-sub
  
 # Analytics
 
