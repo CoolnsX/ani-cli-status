@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 90
+Episode Name: Rail Romanesque 2 Episode 3
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-90-sub
+Episode Link: https://allanime.to/watch/HxwaxhfXRDKGzjBs6/episode-3-sub
  
 # Analytics
 
