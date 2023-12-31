@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Undead Unluck Episode 13
+Episode Name: Chiikawa Episode 72
 
-Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-13-sub
+Episode Link: https://allanime.to/watch/dBjYbRzRyWg59E57c/episode-72-sub
  
 # Analytics
 
