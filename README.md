@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hoshikuzu Telepath Episode 12
+Episode Name: 16bit Sensation Another Layer Episode 13
 
-Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-12-sub
+Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-13-sub
  
 # Analytics
 
