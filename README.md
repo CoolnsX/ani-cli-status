@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gudetama Episode 500
+Episode Name: Hoshikuzu Telepath Episode 12
 
-Episode Link: https://allanime.to/watch/YMYdJj2Qx6f6epfQx/episode-500-sub
+Episode Link: https://allanime.to/watch/s54yCQwmusKukyscB/episode-12-sub
  
 # Analytics
 
