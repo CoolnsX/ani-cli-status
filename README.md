@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Haikara san ga Tooru Episode 8
+Episode Name: Beyblade X Episode 12
 
-Episode Link: https://allanime.to/watch/g75onXMcavsHQ8FH8/episode-8-sub
+Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-12-sub
  
 # Analytics
 
