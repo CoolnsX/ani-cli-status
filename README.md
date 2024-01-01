@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 11
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 90
 
-Episode Link: https://allanime.to/watch/uFSyY4QxWAhNTdpjM/episode-11-sub
+Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-90-sub
  
 # Analytics
 
