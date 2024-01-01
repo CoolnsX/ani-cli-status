@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahou no Star Magical Emi Episode 38
+Episode Name: Dog Signal Episode 10
 
-Episode Link: https://allanime.to/watch/A3BW8grHBm6pMwz4e/episode-38-sub
+Episode Link: https://allanime.to/watch/v9DffEbsv3biuT8Fj/episode-10-sub
  
 # Analytics
 
