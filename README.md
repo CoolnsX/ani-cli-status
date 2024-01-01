@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 90
+Episode Name: Mahou no Star Magical Emi Episode 38
 
-Episode Link: https://allanime.to/watch/C6DdMx7nogeqT3uco/episode-90-sub
+Episode Link: https://allanime.to/watch/A3BW8grHBm6pMwz4e/episode-38-sub
  
 # Analytics
 
