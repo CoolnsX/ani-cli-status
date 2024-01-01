@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikikomari Kyuuketsuki no Monmon Episode 12
+Episode Name: Uma Musume Pretty Derby Season 3 Episode 13
 
-Episode Link: https://allanime.to/watch/DYxHFRvakpvrHe8Dr/episode-12-sub
+Episode Link: https://allanime.to/watch/Ba4KnehHnXKXN5cZe/episode-13-sub
  
 # Analytics
 
