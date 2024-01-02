@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 12
+Episode Name: Kawagoe Boys Sing Episode 11
 
-Episode Link: https://allanime.to/watch/YoodqaHGpwQg6bSJH/episode-12-sub
+Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-11-sub
  
 # Analytics
 
