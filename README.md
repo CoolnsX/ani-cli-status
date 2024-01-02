@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kasumin Episode 26
+Episode Name: Tousouchuu Great Mission Episode 37
 
-Episode Link: https://allanime.to/watch/24eb87a6byWdrkqoc/episode-26-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-37-sub
  
 # Analytics
 
