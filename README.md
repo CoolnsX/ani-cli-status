@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kawagoe Boys Sing Episode 11
+Episode Name: Ooyukiumi no Kaina Hoshi no Kenja Episode 1
 
-Episode Link: https://allanime.to/watch/sdmQk5GTz777mm8Zz/episode-11-sub
+Episode Link: https://allanime.to/watch/8HYJ4F79tqgayc4A2/episode-1-sub
  
 # Analytics
 
