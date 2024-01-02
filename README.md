@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ooyukiumi no Kaina Hoshi no Kenja Episode 1
+Episode Name: Tousouchuu Great Mission Episode 37
 
-Episode Link: https://allanime.to/watch/8HYJ4F79tqgayc4A2/episode-1-sub
+Episode Link: https://allanime.to/watch/785CdfGiuAzWJzY6S/episode-37-sub
  
 # Analytics
 
