@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 3 Episode 1
+Episode Name: Tokyo Revengers Tenjiku hen Episode 13
 
-Episode Link: https://allanime.to/watch/stxNT7nPseF7qjKPY/episode-1-sub
+Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-13-sub
  
 # Analytics
 
