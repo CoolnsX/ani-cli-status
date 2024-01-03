@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: BURN THE WITCH 0 8 Episode 1
+Episode Name: Gudetama Episode 760
 
-Episode Link: https://allanime.to/watch/oWkxcwfeq5d9gnJgp/episode-1-sub
+Episode Link: https://allanime.to/watch/YMYdJj2Qx6f6epfQx/episode-760-sub
  
 # Analytics
 
