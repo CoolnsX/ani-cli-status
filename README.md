@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Undead Unluck Episode 13
+Episode Name: Sousou no Frieren ●● no Mahou Episode 6
 
-Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-13-sub
+Episode Link: https://allanime.to/watch/sG52nbcFo3PfLg6PD/episode-6-sub
  
 # Analytics
 
