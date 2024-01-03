@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tokyo Revengers Tenjiku hen Episode 13
+Episode Name: Ninjala Episode 100
 
-Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-13-sub
+Episode Link: https://allanime.to/watch/L32rWRjwz57uxfjbB/episode-100-sub
  
 # Analytics
 
