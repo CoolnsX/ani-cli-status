@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 116
+Episode Name: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 3 Episode 1
 
-Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-116-sub
+Episode Link: https://allanime.to/watch/stxNT7nPseF7qjKPY/episode-1-sub
  
 # Analytics
 
