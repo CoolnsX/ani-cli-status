@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tokyo Revengers Tenjiku hen Episode 13
+Episode Name: Chibi Maruko chan Episode 116
 
-Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-13-sub
+Episode Link: https://allanime.to/watch/uKbkvLQv9usCvyAkQ/episode-116-sub
  
 # Analytics
 
