@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Asu ni Mukatte Hashire Episode 1
+Episode Name: Dark Gathering Episode 25
 
-Episode Link: https://allanime.to/watch/WE89rcMQrtBudrgip/episode-1-sub
+Episode Link: https://allanime.to/watch/LRRHseKX2MKzfk6Ry/episode-25-sub
  
 # Analytics
 
