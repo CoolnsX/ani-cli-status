@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Europe Daikessen Episode 1
+Episode Name: Ai to Yuuki no Pig Girl Tonde Buurin Episode 19
 
-Episode Link: https://allanime.to/watch/sfjYv2CRMwsiWHoCp/episode-1-sub
+Episode Link: https://allanime.to/watch/azm2mXAz2ric5kMP8/episode-19-sub
  
 # Analytics
 
