@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gudetama Episode 760
+Episode Name: Captain Tsubasa Asu ni Mukatte Hashire Episode 1
 
-Episode Link: https://allanime.to/watch/YMYdJj2Qx6f6epfQx/episode-760-sub
+Episode Link: https://allanime.to/watch/WE89rcMQrtBudrgip/episode-1-sub
  
 # Analytics
 
