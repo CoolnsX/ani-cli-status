@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Paradox Live the Animation Episode 12
+Episode Name: Mahou Shoujo ni Akogarete Episode 1
 
-Episode Link: https://allanime.to/watch/yzuWfjqR436gKg2oj/episode-12-sub
+Episode Link: https://allanime.to/watch/4aNbbfC9i3hDuerc3/episode-1-sub
  
 # Analytics
 
