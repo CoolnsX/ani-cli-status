@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gudetama Episode 886
+Episode Name: Beyblade X Episode 12
 
-Episode Link: https://allanime.to/watch/YMYdJj2Qx6f6epfQx/episode-886-sub
+Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
 # Analytics
 
 <img src="./analytics.png">
