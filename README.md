@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu Episode 1
+Episode Name: Gudetama Episode 886
 
-Episode Link: https://allanime.to/bangumi/cncuwM4aTfL6AhZrf
+Episode Link: https://allanime.to/watch/YMYdJj2Qx6f6epfQx/episode-886-sub
 # Analytics
 
 <img src="./analytics.png">
