@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bari Bari Densetsu Episode 2
+Episode Name: Jujutsu Kaisen 2nd Season Episode 23
 
-Episode Link: https://allanime.to/bangumi/CPw8jncCLJtbbXXYr
+Episode Link: https://allanime.to/bangumi/LYKSutL2PaAjYyXWz
 # Analytics
 
 <img src="./analytics.png">
