@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tokyo Revengers Tenjiku hen Episode 13
+Episode Name: Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu Episode 1
 
-Episode Link: https://allanime.to/watch/adpswSgZWFjNkyjaN/episode-13-sub
+Episode Link: https://allanime.to/watch/cncuwM4aTfL6AhZrf/episode-1-sub
  
 # Analytics
 
