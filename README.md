@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kasumin Episode 26
+Episode Name: Zom 100 Zombie ni Naru made ni Shitai 100 no Koto Episode 12
 
-Episode Link: https://allanime.to/bangumi/24eb87a6byWdrkqoc
+Episode Link: https://allanime.to/bangumi/GoKAhRw3sy8vS3NB8
 # Analytics
 
 <img src="./analytics.png">
