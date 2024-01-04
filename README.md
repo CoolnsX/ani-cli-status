@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Undead Unluck Episode 13
+Episode Name: Jaku Chara Tomozaki kun 2nd Stage Episode 1
 
-Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-13-sub
+Episode Link: https://allanime.to/watch/iQmXdisx99L6ByYqk/episode-1-sub
  
 # Analytics
 
