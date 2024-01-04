@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jaku Chara Tomozaki kun 2nd Stage Episode 1
+Episode Name: Sousou no Frieren ●● no Mahou Episode 6
 
-Episode Link: https://allanime.to/watch/iQmXdisx99L6ByYqk/episode-1-sub
+Episode Link: https://allanime.to/watch/sG52nbcFo3PfLg6PD/episode-6-sub
  
 # Analytics
 
