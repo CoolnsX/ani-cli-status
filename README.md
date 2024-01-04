@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 16bit Sensation Another Layer Episode 13
+Episode Name: Bari Bari Densetsu Episode 2
 
-Episode Link: https://allanime.to/bangumi/ZYedCeXgEsPByZ3o7
+Episode Link: https://allanime.to/bangumi/CPw8jncCLJtbbXXYr
 # Analytics
 
 <img src="./analytics.png">
