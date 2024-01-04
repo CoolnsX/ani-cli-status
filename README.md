@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 12
+Episode Name: 16bit Sensation Another Layer Episode 13
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/ZYedCeXgEsPByZ3o7
 # Analytics
 
 <img src="./analytics.png">
