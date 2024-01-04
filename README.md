@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rail Romanesque 2 Episode 3
+Episode Name: Captain Tsubasa Europe Daikessen Episode 1
 
-Episode Link: https://allanime.to/watch/HxwaxhfXRDKGzjBs6/episode-3-sub
+Episode Link: https://allanime.to/watch/sfjYv2CRMwsiWHoCp/episode-1-sub
  
 # Analytics
 
