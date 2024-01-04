@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren ●● no Mahou Episode 6
+Episode Name: Mewkledreamy Mix Episode 35
 
-Episode Link: https://allanime.to/watch/sG52nbcFo3PfLg6PD/episode-6-sub
+Episode Link: https://allanime.to/watch/hiRpBoKJ49XD7inW5/episode-35-sub
  
 # Analytics
 
