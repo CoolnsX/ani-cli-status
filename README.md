@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sokushi Cheat ga Saikyou sugite Isekai no Yatsura ga Marude Aite ni Naranai n desu ga Episode 1
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 11
 
-Episode Link: https://allanime.to/bangumi/pgG55CyYEDacBfXc4
+Episode Link: https://allanime.to/bangumi/uFSyY4QxWAhNTdpjM
 # Analytics
 
 <img src="./analytics.png">
