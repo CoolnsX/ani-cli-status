@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 16bit Sensation Another Layer Episode 13
+Episode Name: Boku no Kokoro no Yabai Yatsu Twi Yaba Episode 1
 
-Episode Link: https://allanime.to/watch/ZYedCeXgEsPByZ3o7/episode-13-sub
+Episode Link: https://allanime.to/watch/uGexW9QmBbzWMEwP5/episode-1-sub
  
 # Analytics
 
