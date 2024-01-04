@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mewkledreamy Mix Episode 35
+Episode Name: Rail Romanesque 2 Episode 3
 
-Episode Link: https://allanime.to/watch/hiRpBoKJ49XD7inW5/episode-35-sub
+Episode Link: https://allanime.to/watch/HxwaxhfXRDKGzjBs6/episode-3-sub
  
 # Analytics
 
