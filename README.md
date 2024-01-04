@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jujutsu Kaisen 2nd Season Episode 23
+Episode Name: Kasumin Episode 26
 
-Episode Link: https://allanime.to/bangumi/LYKSutL2PaAjYyXWz
+Episode Link: https://allanime.to/bangumi/24eb87a6byWdrkqoc
 # Analytics
 
 <img src="./analytics.png">
