@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Kokoro no Yabai Yatsu Twi Yaba Episode 1
+Episode Name: Undead Unluck Episode 13
 
-Episode Link: https://allanime.to/watch/uGexW9QmBbzWMEwP5/episode-1-sub
+Episode Link: https://allanime.to/watch/FGE7YDWZgWFCjQju8/episode-13-sub
  
 # Analytics
 
