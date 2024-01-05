@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dog Signal Episode 10
+Episode Name: Captain Tsubasa Asu ni Mukatte Hashire Episode 1
 
-Episode Link: https://allanime.to/bangumi/v9DffEbsv3biuT8Fj
+Episode Link: https://allanime.to/bangumi/WE89rcMQrtBudrgip
 # Analytics
 
 <img src="./analytics.png">
