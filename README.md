@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tokyo Revengers Tenjiku hen Episode 13
+Episode Name: Captain Tsubasa Europe Daikessen Episode 1
 
-Episode Link: https://allanime.to/bangumi/adpswSgZWFjNkyjaN
+Episode Link: https://allanime.to/bangumi/sfjYv2CRMwsiWHoCp
 # Analytics
 
 <img src="./analytics.png">
