@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Haikara san ga Tooru Episode 8
+Episode Name: Kasumin Episode 26
 
-Episode Link: https://allanime.to/bangumi/g75onXMcavsHQ8FH8
+Episode Link: https://allanime.to/bangumi/24eb87a6byWdrkqoc
 # Analytics
 
 <img src="./analytics.png">
