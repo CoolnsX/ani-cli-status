@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Uma Musume Pretty Derby Season 3 Episode 13
+Episode Name: Sasaki to Pi chan Episode 1
 
-Episode Link: https://allanime.to/bangumi/Ba4KnehHnXKXN5cZe
+Episode Link: https://allanime.to/bangumi/WE7vkbWRYBmkEZZ4c
 # Analytics
 
 <img src="./analytics.png">
