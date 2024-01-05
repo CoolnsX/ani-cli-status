@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ishura Episode 1
+Episode Name: Chibi Maruko chan Episode 116
 
-Episode Link: https://allanime.to/bangumi/7RKs6LwFnpD3KgDoN
+Episode Link: https://allanime.to/bangumi/uKbkvLQv9usCvyAkQ
 # Analytics
 
 <img src="./analytics.png">
