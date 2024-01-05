@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Europe Daikessen Episode 1
+Episode Name: Dog Signal Episode 10
 
-Episode Link: https://allanime.to/bangumi/sfjYv2CRMwsiWHoCp
+Episode Link: https://allanime.to/bangumi/v9DffEbsv3biuT8Fj
 # Analytics
 
 <img src="./analytics.png">
