@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Asu ni Mukatte Hashire Episode 1
+Episode Name: Paradox Live the Animation Episode 12
 
-Episode Link: https://allanime.to/bangumi/WE89rcMQrtBudrgip
+Episode Link: https://allanime.to/bangumi/yzuWfjqR436gKg2oj
 # Analytics
 
 <img src="./analytics.png">
