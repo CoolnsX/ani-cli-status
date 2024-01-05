@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kasumin Episode 26
+Episode Name: Chiikawa Episode 73
 
-Episode Link: https://allanime.to/bangumi/24eb87a6byWdrkqoc
+Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
 # Analytics
 
 <img src="./analytics.png">
