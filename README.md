@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Paradox Live the Animation Episode 12
+Episode Name: BURN THE WITCH 0 8 Episode 1
 
-Episode Link: https://allanime.to/bangumi/yzuWfjqR436gKg2oj
+Episode Link: https://allanime.to/bangumi/oWkxcwfeq5d9gnJgp
 # Analytics
 
 <img src="./analytics.png">
