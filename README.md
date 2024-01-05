@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Zom 100 Zombie ni Naru made ni Shitai 100 no Koto Episode 12
+Episode Name: Chiikawa Episode 73
 
-Episode Link: https://allanime.to/bangumi/GoKAhRw3sy8vS3NB8
+Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
 # Analytics
 
 <img src="./analytics.png">
