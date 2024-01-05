@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sasaki to Pi chan Episode 1
+Episode Name: Captain Tsubasa Europe Daikessen Episode 1
 
-Episode Link: https://allanime.to/bangumi/WE7vkbWRYBmkEZZ4c
+Episode Link: https://allanime.to/bangumi/sfjYv2CRMwsiWHoCp
 # Analytics
 
 <img src="./analytics.png">
