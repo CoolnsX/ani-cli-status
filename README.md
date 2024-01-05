@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mewkledreamy Mix Episode 35
+Episode Name: Uma Musume Pretty Derby Season 3 Episode 13
 
-Episode Link: https://allanime.to/bangumi/hiRpBoKJ49XD7inW5
+Episode Link: https://allanime.to/bangumi/Ba4KnehHnXKXN5cZe
 # Analytics
 
 <img src="./analytics.png">
