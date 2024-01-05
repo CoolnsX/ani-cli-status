@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Europe Daikessen Episode 1
+Episode Name: Haikara san ga Tooru Episode 8
 
-Episode Link: https://allanime.to/bangumi/sfjYv2CRMwsiWHoCp
+Episode Link: https://allanime.to/bangumi/g75onXMcavsHQ8FH8
 # Analytics
 
 <img src="./analytics.png">
