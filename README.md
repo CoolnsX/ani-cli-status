@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1109
+Episode Name: Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu Episode 1
 
-Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
+Episode Link: https://allanime.to/bangumi/cncuwM4aTfL6AhZrf
 # Analytics
 
 <img src="./analytics.png">
