@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hi no Tori Episode 3
+Episode Name: Mahou Shoujo ni Akogarete Episode 1
 
-Episode Link: https://allanime.to/bangumi/nvxQo9pxbxT92TZxT
+Episode Link: https://allanime.to/bangumi/4aNbbfC9i3hDuerc3
 # Analytics
 
 <img src="./analytics.png">
