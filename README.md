@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 3 Episode 1
+Episode Name: Hi no Tori Episode 3
 
-Episode Link: https://allanime.to/bangumi/stxNT7nPseF7qjKPY
+Episode Link: https://allanime.to/bangumi/nvxQo9pxbxT92TZxT
 # Analytics
 
 <img src="./analytics.png">
