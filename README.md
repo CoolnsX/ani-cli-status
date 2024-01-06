@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kasumin Episode 26
+Episode Name: Dungeon Meshi Episode 1
 
-Episode Link: https://allanime.to/bangumi/24eb87a6byWdrkqoc
+Episode Link: https://allanime.to/bangumi/gAcGCcMENjbWhBnR9
 # Analytics
 
 <img src="./analytics.png">
