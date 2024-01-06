@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gudetama Episode 886
+Episode Name: Rail Romanesque 2 Episode 3
 
-Episode Link: https://allanime.to/bangumi/YMYdJj2Qx6f6epfQx
+Episode Link: https://allanime.to/bangumi/HxwaxhfXRDKGzjBs6
 # Analytics
 
 <img src="./analytics.png">
