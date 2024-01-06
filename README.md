@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ishura Episode 1
+Episode Name: Pokemon Concierge Episode 4
 
-Episode Link: https://allanime.to/bangumi/7RKs6LwFnpD3KgDoN
+Episode Link: https://allanime.to/bangumi/fcHA2D8igs8Ai3x5h
 # Analytics
 
 <img src="./analytics.png">
