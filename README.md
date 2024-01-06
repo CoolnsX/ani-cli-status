@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ishura Episode 1
+Episode Name: Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu Episode 1
 
-Episode Link: https://allanime.to/bangumi/7RKs6LwFnpD3KgDoN
+Episode Link: https://allanime.to/bangumi/cncuwM4aTfL6AhZrf
 # Analytics
 
 <img src="./analytics.png">
