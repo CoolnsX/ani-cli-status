@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 3 Episode 1
+Episode Name: Undead Unluck Episode 13
 
-Episode Link: https://allanime.to/bangumi/stxNT7nPseF7qjKPY
+Episode Link: https://allanime.to/bangumi/FGE7YDWZgWFCjQju8
 # Analytics
 
 <img src="./analytics.png">
