@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Pokemon Concierge Episode 4
+Episode Name: Gudetama Episode 886
 
-Episode Link: https://allanime.to/bangumi/fcHA2D8igs8Ai3x5h
+Episode Link: https://allanime.to/bangumi/YMYdJj2Qx6f6epfQx
 # Analytics
 
 <img src="./analytics.png">
