@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bari Bari Densetsu Episode 2
+Episode Name: Hirogaru Sky Precure Episode 47
 
-Episode Link: https://allanime.to/bangumi/CPw8jncCLJtbbXXYr
+Episode Link: https://allanime.to/bangumi/wya3joHqqvYRLqMBK
 # Analytics
 
 <img src="./analytics.png">
