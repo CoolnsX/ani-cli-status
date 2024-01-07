@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Kokoro no Yabai Yatsu Twi Yaba Episode 1
+Episode Name: Odekake Kozame Episode 24
 
-Episode Link: https://allanime.to/bangumi/uGexW9QmBbzWMEwP5
+Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
 # Analytics
 
 <img src="./analytics.png">
