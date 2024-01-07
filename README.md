@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hi no Tori Episode 3
+Episode Name: Mato Seihei no Slave Episode 1
 
-Episode Link: https://allanime.to/bangumi/nvxQo9pxbxT92TZxT
+Episode Link: https://allanime.to/bangumi/vJ44WDkmbGFGN7giL
 # Analytics
 
 <img src="./analytics.png">
