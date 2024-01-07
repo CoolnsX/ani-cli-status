@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ao no Exorcist Shimane Illuminati hen Episode 1
+Episode Name: Sokushi Cheat ga Saikyou sugite Isekai no Yatsura ga Marude Aite ni Naranai n desu ga Episode 1
 
-Episode Link: https://allanime.to/bangumi/kBGvk4bv7Jhdr7YXt
+Episode Link: https://allanime.to/bangumi/pgG55CyYEDacBfXc4
 # Analytics
 
 <img src="./analytics.png">
