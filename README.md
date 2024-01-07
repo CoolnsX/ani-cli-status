@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gudetama Episode 951
+Episode Name: Bari Bari Densetsu Episode 2
 
-Episode Link: https://allanime.to/bangumi/YMYdJj2Qx6f6epfQx
+Episode Link: https://allanime.to/bangumi/CPw8jncCLJtbbXXYr
 # Analytics
 
 <img src="./analytics.png">
