@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu Episode 2
+Episode Name: Kinnikuman Episode 122
 
-Episode Link: https://allanime.to/bangumi/cncuwM4aTfL6AhZrf
+Episode Link: https://allanime.to/bangumi/pNi8AYhvc7Tp5JayR
 # Analytics
 
 <img src="./analytics.png">
