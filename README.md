@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mellow Episode 1
+Episode Name: 1P Episode 1089
 
-Episode Link: https://allanime.to/bangumi/BZW9t4hmRHFcrxiJd
+Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
 # Analytics
 
 <img src="./analytics.png">
