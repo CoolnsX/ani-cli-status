@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiyu Mahou no Machigatta Tsukaikata Episode 1
+Episode Name: Kyuujitsu no Warumono san Episode 1
 
-Episode Link: https://allanime.to/bangumi/E2p5RuqwcpJG3PDMd
+Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
 # Analytics
 
 <img src="./analytics.png">
