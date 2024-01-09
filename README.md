@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dosanko Gal wa Namaramenkoi Episode 1
+Episode Name: Chiikawa Episode 73
 
-Episode Link: https://allanime.to/bangumi/HRspExAjMCuZDqKAq
+Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
 # Analytics
 
 <img src="./analytics.png">
