@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hime sama Episode 1
+Episode Name: Gudetama Episode 951
 
-Episode Link: https://allanime.to/bangumi/gm3x5QXSqi4symxkA
+Episode Link: https://allanime.to/bangumi/YMYdJj2Qx6f6epfQx
 # Analytics
 
 <img src="./analytics.png">
