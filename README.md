@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nozomanu Fushi no Boukensha Episode 1
+Episode Name: Dosanko Gal wa Namaramenkoi Episode 1
 
-Episode Link: https://allanime.to/bangumi/7ukoqggR93e4JgX6W
+Episode Link: https://allanime.to/bangumi/HRspExAjMCuZDqKAq
 # Analytics
 
 <img src="./analytics.png">
