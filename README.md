@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kinnikuman Episode 122
+Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 13
 
-Episode Link: https://allanime.to/bangumi/pNi8AYhvc7Tp5JayR
+Episode Link: https://allanime.to/bangumi/4xD9zpF4dAf8RrAjq
 # Analytics
 
 <img src="./analytics.png">
