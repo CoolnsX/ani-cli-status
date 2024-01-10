@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: High Card Season 2 Episode 1
+Episode Name: Minky Momo in Yume ni Kakeru Hashi Episode 1
 
-Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
+Episode Link: https://allanime.to/bangumi/HnAKQeQMhmsooLutY
 # Analytics
 
 <img src="./analytics.png">
