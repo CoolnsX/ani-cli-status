@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ishura Episode 2
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 12
 
-Episode Link: https://allanime.to/bangumi/7RKs6LwFnpD3KgDoN
+Episode Link: https://allanime.to/bangumi/uFSyY4QxWAhNTdpjM
 # Analytics
 
 <img src="./analytics.png">
