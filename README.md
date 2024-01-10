@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1089
+Episode Name: Minky Momo in Yume ni Kakeru Hashi Episode 1
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/HnAKQeQMhmsooLutY
 # Analytics
 
 <img src="./analytics.png">
