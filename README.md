@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 13
+Episode Name: Gudetama Episode 1013
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/YMYdJj2Qx6f6epfQx
 # Analytics
 
 <img src="./analytics.png">
