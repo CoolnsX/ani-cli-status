@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mellow Episode 1
+Episode Name: Magical Hat Episode 18
 
-Episode Link: https://allanime.to/bangumi/BZW9t4hmRHFcrxiJd
+Episode Link: https://allanime.to/bangumi/PcwGeam6n37zsDya5
 # Analytics
 
 <img src="./analytics.png">
