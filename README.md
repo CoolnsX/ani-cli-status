@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 12
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 14
 
-Episode Link: https://allanime.to/bangumi/uFSyY4QxWAhNTdpjM
+Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
 # Analytics
 
 <img src="./analytics.png">
