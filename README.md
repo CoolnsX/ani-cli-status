@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sengoku Youko Episode 1
+Episode Name: Urusei Yatsura 2022 Season 2 Episode 1
 
-Episode Link: https://allanime.to/bangumi/Yizintj76S5FYTsHQ
+Episode Link: https://allanime.to/bangumi/L4kJqGSfFQsHAbAgy
 # Analytics
 
 <img src="./analytics.png">
