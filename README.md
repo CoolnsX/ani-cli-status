@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sasaki to Pii chan Episode 2
+Episode Name: Undead Unluck Episode 14
 
-Episode Link: https://allanime.to/bangumi/CPuqdHCgchMp88fLj
+Episode Link: https://allanime.to/bangumi/FGE7YDWZgWFCjQju8
 # Analytics
 
 <img src="./analytics.png">
