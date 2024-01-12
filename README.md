@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren ●● no Mahou Episode 7
+Episode Name: 1 Pound no Fukuin Episode 1
 
-Episode Link: https://allanime.to/bangumi/sG52nbcFo3PfLg6PD
+Episode Link: https://allanime.to/bangumi/hJqLvdh8BuHKMvCpd
 # Analytics
 
 <img src="./analytics.png">
