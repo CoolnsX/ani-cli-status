@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Urusei Yatsura 2022 Season 2 Episode 1
+Episode Name: Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu Episode 2
 
-Episode Link: https://allanime.to/bangumi/L4kJqGSfFQsHAbAgy
+Episode Link: https://allanime.to/bangumi/cncuwM4aTfL6AhZrf
 # Analytics
 
 <img src="./analytics.png">
