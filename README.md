@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nozomanu Fushi no Boukensha Episode 2
+Episode Name: Sasaki to Pii chan Episode 2
 
-Episode Link: https://allanime.to/bangumi/7ukoqggR93e4JgX6W
+Episode Link: https://allanime.to/bangumi/CPuqdHCgchMp88fLj
 # Analytics
 
 <img src="./analytics.png">
