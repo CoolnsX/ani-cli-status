@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiyu Mahou no Machigatta Tsukaikata Episode 2
+Episode Name: Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita Episode 1
 
-Episode Link: https://allanime.to/bangumi/E2p5RuqwcpJG3PDMd
+Episode Link: https://allanime.to/bangumi/LxcdsrESihzcoQFCd
 # Analytics
 
 <img src="./analytics.png">
