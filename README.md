@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jaku Chara Tomozaki kun 2nd Stage Episode 2
+Episode Name: Minky Momo in Yume ni Kakeru Hashi Episode 1
 
-Episode Link: https://allanime.to/bangumi/iQmXdisx99L6ByYqk
+Episode Link: https://allanime.to/bangumi/HnAKQeQMhmsooLutY
 # Analytics
 
 <img src="./analytics.png">
