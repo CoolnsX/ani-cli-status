@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Cardfight Vanguard Divinez Episode 13
+Episode Name: Ishura Episode 2
 
-Episode Link: https://allanime.to/bangumi/sCwe5kJptLqHrgTKB
+Episode Link: https://allanime.to/bangumi/7RKs6LwFnpD3KgDoN
 # Analytics
 
 <img src="./analytics.png">
