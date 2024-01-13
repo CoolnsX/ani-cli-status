@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Minky Momo in Yume ni Kakeru Hashi Episode 1
+Episode Name: Dr Slump Arale chan Episode 152
 
-Episode Link: https://allanime.to/bangumi/HnAKQeQMhmsooLutY
+Episode Link: https://allanime.to/bangumi/PGqQKyyef49RWDzsc
 # Analytics
 
 <img src="./analytics.png">
