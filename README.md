@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ishura Episode 2
+Episode Name: 1 Pound no Fukuin Episode 1
 
-Episode Link: https://allanime.to/bangumi/7RKs6LwFnpD3KgDoN
+Episode Link: https://allanime.to/bangumi/hJqLvdh8BuHKMvCpd
 # Analytics
 
 <img src="./analytics.png">
