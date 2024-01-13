@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita Episode 1
+Episode Name: Gudetama Episode 1013
 
-Episode Link: https://allanime.to/bangumi/LxcdsrESihzcoQFCd
+Episode Link: https://allanime.to/bangumi/YMYdJj2Qx6f6epfQx
 # Analytics
 
 <img src="./analytics.png">
