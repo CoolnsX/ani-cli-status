@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 26
+Episode Name: Gudetama Episode 1013
 
-Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
+Episode Link: https://allanime.to/bangumi/YMYdJj2Qx6f6epfQx
 # Analytics
 
 <img src="./analytics.png">
