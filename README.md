@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 74
+Episode Name: Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita Episode 1
 
-Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
+Episode Link: https://allanime.to/bangumi/LxcdsrESihzcoQFCd
 # Analytics
 
 <img src="./analytics.png">
