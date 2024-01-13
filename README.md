@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Akuyaku Reijou Level 99 Watashi wa Ura Boss desu ga Maou de wa Arimasen Episode 1
+Episode Name: Cardfight Vanguard Divinez Episode 13
 
-Episode Link: https://allanime.to/bangumi/nBaYmtzM4Qxd6TSCC
+Episode Link: https://allanime.to/bangumi/sCwe5kJptLqHrgTKB
 # Analytics
 
 <img src="./analytics.png">
