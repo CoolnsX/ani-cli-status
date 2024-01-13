@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 12
+Episode Name: Akuyaku Reijou Level 99 Watashi wa Ura Boss desu ga Maou de wa Arimasen Episode 1
 
-Episode Link: https://allanime.to/bangumi/uFSyY4QxWAhNTdpjM
+Episode Link: https://allanime.to/bangumi/nBaYmtzM4Qxd6TSCC
 # Analytics
 
 <img src="./analytics.png">
