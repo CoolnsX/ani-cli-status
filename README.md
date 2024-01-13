@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1 Pound no Fukuin Episode 1
+Episode Name: 30 sai made Doutei da to Mahou Tsukai ni Nareru Rashii Episode 1
 
-Episode Link: https://allanime.to/bangumi/hJqLvdh8BuHKMvCpd
+Episode Link: https://allanime.to/bangumi/7ntLKRbCzSv5tpfPy
 # Analytics
 
 <img src="./analytics.png">
