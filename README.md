@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gudetama Episode 1013
+Episode Name: Minky Momo in Yume ni Kakeru Hashi Episode 1
 
-Episode Link: https://allanime.to/bangumi/YMYdJj2Qx6f6epfQx
+Episode Link: https://allanime.to/bangumi/HnAKQeQMhmsooLutY
 # Analytics
 
 <img src="./analytics.png">
