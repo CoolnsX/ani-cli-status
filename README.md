@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 48
+Episode Name: Mato Seihei no Slave Episode 2
 
-Episode Link: https://allanime.to/bangumi/wya3joHqqvYRLqMBK
+Episode Link: https://allanime.to/bangumi/vJ44WDkmbGFGN7giL
 # Analytics
 
 <img src="./analytics.png">
