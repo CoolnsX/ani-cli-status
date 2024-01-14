@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1090
+Episode Name: Kusuriya no Hitorigoto Episode 14
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/h4PMucgQwndzYNNxS
 # Analytics
 
 <img src="./analytics.png">
