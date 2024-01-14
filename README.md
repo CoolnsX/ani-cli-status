@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 74
+Episode Name: Mato Seihei no Slave Episode 2
 
-Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
+Episode Link: https://allanime.to/bangumi/vJ44WDkmbGFGN7giL
 # Analytics
 
 <img src="./analytics.png">
