@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 15
+Episode Name: 1P Episode 1090
 
-Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
+Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
 # Analytics
 
 <img src="./analytics.png">
