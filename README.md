@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ragna Crimson Episode 13
+Episode Name: Ochibi san Episode 12
 
-Episode Link: https://allanime.to/bangumi/xmfsBA3GDvMTyNrza
+Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
 # Analytics
 
 <img src="./analytics.png">
