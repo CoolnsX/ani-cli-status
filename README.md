@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Oroka na Tenshi wa Akuma to Odoru Episode 2
+Episode Name: Haai Step Jun Episode 17
 
-Episode Link: https://allanime.to/bangumi/APuv5fsuAR6XzJNDG
+Episode Link: https://allanime.to/bangumi/5dC9GDoPPJ5agJg2C
 # Analytics
 
 <img src="./analytics.png">
