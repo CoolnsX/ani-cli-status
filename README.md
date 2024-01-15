@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Idol Tenshi Youkoso Youko Episode 8
+Episode Name: Kawagoe Boys Sing Episode 12
 
-Episode Link: https://allanime.to/bangumi/dsCaZtuePjaXACfB4
+Episode Link: https://allanime.to/bangumi/sdmQk5GTz777mm8Zz
 # Analytics
 
 <img src="./analytics.png">
