@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saikyou Tank no Meikyuu Kouryaku Tairyoku 9999 no Rare Skill mochi Tank Yuusha Party wo Tsuihou sareru Episode 2
+Episode Name: Loop 7 kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru Episode 2
 
-Episode Link: https://allanime.to/bangumi/4yBS3evHatpsxyDoA
+Episode Link: https://allanime.to/bangumi/FMYz8RG6M5HHxaXBB
 # Analytics
 
 <img src="./analytics.png">
