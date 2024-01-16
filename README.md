@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ochibi san Episode 12
+Episode Name: Meiji Gekken 1874 Episode 1
 
-Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
+Episode Link: https://allanime.to/bangumi/rMXmQE8JB9KvjBQAF
 # Analytics
 
 <img src="./analytics.png">
