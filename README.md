@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Minami no Niji no Lucy Episode 16
+Episode Name: Ochibi san Episode 12
 
-Episode Link: https://allanime.to/bangumi/X7PffJcuAthGCcLkd
+Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
 # Analytics
 
 <img src="./analytics.png">
