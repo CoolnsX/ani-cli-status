@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Synduality Noir Part 2 Episode 2
+Episode Name: Dr Slump Arale chan Episode 152
 
-Episode Link: https://allanime.to/bangumi/JRWYoQkZMtv6L7GoH
+Episode Link: https://allanime.to/bangumi/PGqQKyyef49RWDzsc
 # Analytics
 
 <img src="./analytics.png">
