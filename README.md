@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ao no Exorcist Shimane Illuminati hen Episode 2
+Episode Name: Synduality Noir Part 2 Episode 2
 
-Episode Link: https://allanime.to/bangumi/kBGvk4bv7Jhdr7YXt
+Episode Link: https://allanime.to/bangumi/JRWYoQkZMtv6L7GoH
 # Analytics
 
 <img src="./analytics.png">
