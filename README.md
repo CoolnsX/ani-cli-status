@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Himesama Episode 2
+Episode Name: Synduality Noir Part 2 Episode 2
 
-Episode Link: https://allanime.to/bangumi/gm3x5QXSqi4symxkA
+Episode Link: https://allanime.to/bangumi/JRWYoQkZMtv6L7GoH
 # Analytics
 
 <img src="./analytics.png">
