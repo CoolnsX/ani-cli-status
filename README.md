@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shangri La Frontier Kusoge Hunter Kamige ni Idoman to su Episode 14 5
+Episode Name: Haai Step Jun Episode 17
 
-Episode Link: https://allanime.to/bangumi/Q4Aj2B9wj6hvbF3H5
+Episode Link: https://allanime.to/bangumi/5dC9GDoPPJ5agJg2C
 # Analytics
 
 <img src="./analytics.png">
