@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Haai Step Jun Episode 17
+Episode Name: Tousouchuu Great Mission Episode 39
 
-Episode Link: https://allanime.to/bangumi/5dC9GDoPPJ5agJg2C
+Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
 # Analytics
 
 <img src="./analytics.png">
