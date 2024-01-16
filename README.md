@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: High Card Season 2 Episode 2
+Episode Name: Minami no Niji no Lucy Episode 16
 
-Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
+Episode Link: https://allanime.to/bangumi/X7PffJcuAthGCcLkd
 # Analytics
 
 <img src="./analytics.png">
