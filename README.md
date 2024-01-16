@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ragna Crimson Episode 13
+Episode Name: Yami Shibai 12 Episode 1
 
-Episode Link: https://allanime.to/bangumi/xmfsBA3GDvMTyNrza
+Episode Link: https://allanime.to/bangumi/5aT8RXJZPd5fZ58Cc
 # Analytics
 
 <img src="./analytics.png">
