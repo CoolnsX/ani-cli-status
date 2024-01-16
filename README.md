@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu Episode 3
+Episode Name: Morita san wa Mukuchi Episode 1
 
-Episode Link: https://allanime.to/bangumi/cncuwM4aTfL6AhZrf
+Episode Link: https://allanime.to/bangumi/Bpw2sJP8NBasMvyDR
 # Analytics
 
 <img src="./analytics.png">
