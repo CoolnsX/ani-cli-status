@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Metallic Rouge Episode 2
+Episode Name: Himesama Episode 2
 
-Episode Link: https://allanime.to/bangumi/B7za4gxKoX29zhoJj
+Episode Link: https://allanime.to/bangumi/gm3x5QXSqi4symxkA
 # Analytics
 
 <img src="./analytics.png">
