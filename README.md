@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Alice to Therese no Maboroshi Koujou Episode 1
+Episode Name: Mewkledreamy Mix Episode 37
 
-Episode Link: https://allanime.to/bangumi/WKSQE8gKSiqFsF9XA
+Episode Link: https://allanime.to/bangumi/hiRpBoKJ49XD7inW5
 # Analytics
 
 <img src="./analytics.png">
