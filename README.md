@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ochibi san Episode 12
+Episode Name: Mewkledreamy Mix Episode 37
 
-Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
+Episode Link: https://allanime.to/bangumi/hiRpBoKJ49XD7inW5
 # Analytics
 
 <img src="./analytics.png">
