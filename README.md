@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Alice to Therese no Maboroshi Koujou Episode 1
+Episode Name: Hikari no Ou Season 2 Episode 1
 
-Episode Link: https://allanime.to/bangumi/WKSQE8gKSiqFsF9XA
+Episode Link: https://allanime.to/bangumi/RwoPzfWufXLr28srm
 # Analytics
 
 <img src="./analytics.png">
