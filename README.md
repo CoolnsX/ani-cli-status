@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikari no Ou Season 2 Episode 1
+Episode Name: Ore dake Level Up na Ken Episode 2
 
-Episode Link: https://allanime.to/bangumi/RwoPzfWufXLr28srm
+Episode Link: https://allanime.to/bangumi/DdTHXmTjwHji2aApQ
 # Analytics
 
 <img src="./analytics.png">
