@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 39
+Episode Name: Morita san wa Mukuchi Episode 1
 
-Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
+Episode Link: https://allanime.to/bangumi/Bpw2sJP8NBasMvyDR
 # Analytics
 
 <img src="./analytics.png">
