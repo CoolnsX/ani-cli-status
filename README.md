@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ore dake Level Up na Ken Episode 2
+Episode Name: Ochibi san Episode 12
 
-Episode Link: https://allanime.to/bangumi/DdTHXmTjwHji2aApQ
+Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
 # Analytics
 
 <img src="./analytics.png">
