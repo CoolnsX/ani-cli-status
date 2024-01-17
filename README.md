@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 27
+Episode Name: Alice to Therese no Maboroshi Koujou Episode 1
 
-Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
+Episode Link: https://allanime.to/bangumi/WKSQE8gKSiqFsF9XA
 # Analytics
 
 <img src="./analytics.png">
