@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikari no Ou Season 2 Episode 1
+Episode Name: Jaku Chara Tomozaki kun 2nd Stage Episode 3
 
-Episode Link: https://allanime.to/bangumi/RwoPzfWufXLr28srm
+Episode Link: https://allanime.to/bangumi/iQmXdisx99L6ByYqk
 # Analytics
 
 <img src="./analytics.png">
