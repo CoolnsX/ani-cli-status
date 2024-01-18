@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: High Card Season 2 Episode 2
+Episode Name: Shangri La Frontier Kusoge Hunter Kamige ni Idoman to su Episode 14 5
 
-Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
+Episode Link: https://allanime.to/bangumi/Q4Aj2B9wj6hvbF3H5
 # Analytics
 
 <img src="./analytics.png">
