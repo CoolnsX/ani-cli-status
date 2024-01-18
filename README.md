@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shangri La Frontier Kusoge Hunter Kamige ni Idoman to su Episode 14 5
+Episode Name: Minami no Niji no Lucy Episode 16
 
-Episode Link: https://allanime.to/bangumi/Q4Aj2B9wj6hvbF3H5
+Episode Link: https://allanime.to/bangumi/X7PffJcuAthGCcLkd
 # Analytics
 
 <img src="./analytics.png">
