@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 30 sai made Doutei dato Mahoutsukai ni Nareru Rashii Episode 2
+Episode Name: Beyblade X Episode 14
 
-Episode Link: https://allanime.to/bangumi/7ntLKRbCzSv5tpfPy
+Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
 # Analytics
 
 <img src="./analytics.png">
