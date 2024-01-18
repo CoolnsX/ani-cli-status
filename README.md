@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahou Shoujo ni Akogarete Episode 3
+Episode Name: Dosanko Gal wa Namara Menkoi Episode 2
 
-Episode Link: https://allanime.to/bangumi/4aNbbfC9i3hDuerc3
+Episode Link: https://allanime.to/bangumi/HRspExAjMCuZDqKAq
 # Analytics
 
 <img src="./analytics.png">
