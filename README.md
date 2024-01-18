@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kyuujitsu no Warumono san Episode 2
+Episode Name: Idol Land PriPara Episode 5
 
-Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
+Episode Link: https://allanime.to/bangumi/vMPXhG8mfKNtcK8dy
 # Analytics
 
 <img src="./analytics.png">
