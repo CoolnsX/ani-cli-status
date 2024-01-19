@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jaku Chara Tomozaki kun 2nd Stage Episode 3
+Episode Name: Gekai Elise Episode 2
 
-Episode Link: https://allanime.to/bangumi/iQmXdisx99L6ByYqk
+Episode Link: https://allanime.to/bangumi/mGaHcntidkmZPgzty
 # Analytics
 
 <img src="./analytics.png">
