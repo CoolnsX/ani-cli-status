@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ishura Episode 3
+Episode Name: Jaku Chara Tomozaki kun 2nd Stage Episode 3
 
-Episode Link: https://allanime.to/bangumi/7RKs6LwFnpD3KgDoN
+Episode Link: https://allanime.to/bangumi/iQmXdisx99L6ByYqk
 # Analytics
 
 <img src="./analytics.png">
