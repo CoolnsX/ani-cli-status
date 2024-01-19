@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 75
+Episode Name: Dungeon Meshi Episode 3
 
-Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
+Episode Link: https://allanime.to/bangumi/gAcGCcMENjbWhBnR9
 # Analytics
 
 <img src="./analytics.png">
