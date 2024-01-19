@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Oishinbo Episode 45
+Episode Name: Gekkan Mousou Kagaku Episode 2
 
-Episode Link: https://allanime.to/bangumi/x9hvM6xxnXBhhhJCn
+Episode Link: https://allanime.to/bangumi/7bPMnZXa8RwBAKk8m
 # Analytics
 
 <img src="./analytics.png">
