@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sokushi Cheat ga Saikyou sugite Isekai no Yatsura ga Marude Aite ni Naranai n desu ga Episode 3
+Episode Name: Momochi san Chi no Ayakashi Ouji Episode 3
 
-Episode Link: https://allanime.to/bangumi/pgG55CyYEDacBfXc4
+Episode Link: https://allanime.to/bangumi/HP56kbgq9d96kYRaL
 # Analytics
 
 <img src="./analytics.png">
