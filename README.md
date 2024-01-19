@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kawagoe Boys Sing Episode 12
+Episode Name: Sengoku Youko Episode 2
 
-Episode Link: https://allanime.to/bangumi/sdmQk5GTz777mm8Zz
+Episode Link: https://allanime.to/bangumi/Yizintj76S5FYTsHQ
 # Analytics
 
 <img src="./analytics.png">
