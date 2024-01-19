@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mewkledreamy Mix Episode 37
+Episode Name: Urusei Yatsura 2022 Season 2 Episode 2
 
-Episode Link: https://allanime.to/bangumi/hiRpBoKJ49XD7inW5
+Episode Link: https://allanime.to/bangumi/L4kJqGSfFQsHAbAgy
 # Analytics
 
 <img src="./analytics.png">
