@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shaman King Flowers Episode 2
+Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 15
 
-Episode Link: https://allanime.to/bangumi/ntG98PMbjxM7DJd6t
+Episode Link: https://allanime.to/bangumi/4xD9zpF4dAf8RrAjq
 # Analytics
 
 <img src="./analytics.png">
