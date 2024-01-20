@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mato Seihei no Slave Episode 3
+Episode Name: Nozomanu Fushi no Boukensha Episode 3
 
-Episode Link: https://allanime.to/bangumi/vJ44WDkmbGFGN7giL
+Episode Link: https://allanime.to/bangumi/7ukoqggR93e4JgX6W
 # Analytics
 
 <img src="./analytics.png">
