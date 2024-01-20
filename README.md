@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 75
+Episode Name: Metallic Rouge Episode 2
 
-Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
+Episode Link: https://allanime.to/bangumi/B7za4gxKoX29zhoJj
 # Analytics
 
 <img src="./analytics.png">
