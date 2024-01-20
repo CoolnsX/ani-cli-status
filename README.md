@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sasaki to Pii chan Episode 3
+Episode Name: Boku no Kokoro no Yabai Yatsu Season 2 Episode 3
 
-Episode Link: https://allanime.to/bangumi/CPuqdHCgchMp88fLj
+Episode Link: https://allanime.to/bangumi/gQ2khnXZe8dNsQH7n
 # Analytics
 
 <img src="./analytics.png">
