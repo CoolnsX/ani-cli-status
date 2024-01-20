@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Metallic Rouge Episode 2
+Episode Name: Sokushi Cheat ga Saikyou sugite Isekai no Yatsura ga Marude Aite ni Naranai n desu ga Episode 3
 
-Episode Link: https://allanime.to/bangumi/B7za4gxKoX29zhoJj
+Episode Link: https://allanime.to/bangumi/pgG55CyYEDacBfXc4
 # Analytics
 
 <img src="./analytics.png">
