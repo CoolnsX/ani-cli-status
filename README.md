@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 28
+Episode Name: Undead Unluck Episode 15
 
-Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
+Episode Link: https://allanime.to/bangumi/FGE7YDWZgWFCjQju8
 # Analytics
 
 <img src="./analytics.png">
