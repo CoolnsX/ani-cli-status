@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahou no Yousei Persia Episode 48
+Episode Name: Mato Seihei no Slave Episode 3
 
-Episode Link: https://allanime.to/bangumi/Det5tfPf4KxfqtWgj
+Episode Link: https://allanime.to/bangumi/vJ44WDkmbGFGN7giL
 # Analytics
 
 <img src="./analytics.png">
