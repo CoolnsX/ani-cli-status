@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sasaki to Pii chan Episode 3
+Episode Name: Metallic Rouge Episode 2
 
-Episode Link: https://allanime.to/bangumi/CPuqdHCgchMp88fLj
+Episode Link: https://allanime.to/bangumi/B7za4gxKoX29zhoJj
 # Analytics
 
 <img src="./analytics.png">
