@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Oishinbo Episode 45
+Episode Name: Beyblade X Episode 14
 
-Episode Link: https://allanime.to/bangumi/x9hvM6xxnXBhhhJCn
+Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
 # Analytics
 
 <img src="./analytics.png">
