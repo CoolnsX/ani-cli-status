@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bucchigiri Episode 2
+Episode Name: Yubisaki to Renren Episode 3
 
-Episode Link: https://allanime.to/bangumi/RBkZfhsHXcjRBeJhD
+Episode Link: https://allanime.to/bangumi/o8YCK7AqhafEYK4Xy
 # Analytics
 
 <img src="./analytics.png">
