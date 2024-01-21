@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan 1995 Episode 1277
+Episode Name: Mato Seihei no Slave Episode 3
 
-Episode Link: https://allanime.to/bangumi/SuD2BZMM2kjmuqX74
+Episode Link: https://allanime.to/bangumi/vJ44WDkmbGFGN7giL
 # Analytics
 
 <img src="./analytics.png">
