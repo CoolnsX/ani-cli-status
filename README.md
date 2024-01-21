@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahou no Yousei Persia Episode 48
+Episode Name: Hirogaru Sky Precure Episode 49
 
-Episode Link: https://allanime.to/bangumi/Det5tfPf4KxfqtWgj
+Episode Link: https://allanime.to/bangumi/wya3joHqqvYRLqMBK
 # Analytics
 
 <img src="./analytics.png">
