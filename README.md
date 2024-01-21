@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu Episode 4
+Episode Name: Nozomanu Fushi no Boukensha Episode 3
 
-Episode Link: https://allanime.to/bangumi/cncuwM4aTfL6AhZrf
+Episode Link: https://allanime.to/bangumi/7ukoqggR93e4JgX6W
 # Analytics
 
 <img src="./analytics.png">
