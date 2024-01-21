@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Kokoro no Yabai Yatsu Season 2 Episode 3
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 16
 
-Episode Link: https://allanime.to/bangumi/gQ2khnXZe8dNsQH7n
+Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
 # Analytics
 
 <img src="./analytics.png">
