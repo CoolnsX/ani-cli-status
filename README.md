@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikari no Ou Episode 12
+Episode Name: Ochibi san Episode 13
 
-Episode Link: https://allanime.to/bangumi/rjx39fbf9qNciPL6H
+Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
 # Analytics
 
 <img src="./analytics.png">
