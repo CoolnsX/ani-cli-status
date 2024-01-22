@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1091
+Episode Name: Chibi Maruko chan Episode 117
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/uKbkvLQv9usCvyAkQ
 # Analytics
 
 <img src="./analytics.png">
