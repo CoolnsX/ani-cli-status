@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nozomanu Fushi no Boukensha Episode 3
+Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 15
 
-Episode Link: https://allanime.to/bangumi/7ukoqggR93e4JgX6W
+Episode Link: https://allanime.to/bangumi/4xD9zpF4dAf8RrAjq
 # Analytics
 
 <img src="./analytics.png">
