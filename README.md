@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 15
+Episode Name: Snack Basue Episode 2
 
-Episode Link: https://allanime.to/bangumi/4xD9zpF4dAf8RrAjq
+Episode Link: https://allanime.to/bangumi/nACCHP44xeLbSd5Nx
 # Analytics
 
 <img src="./analytics.png">
