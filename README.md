@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shangri La Frontier Kusoge Hunter Kamige ni Idoman to su Episode 15
+Episode Name: Majo to Yajuu Episode 2
 
-Episode Link: https://allanime.to/bangumi/Q4Aj2B9wj6hvbF3H5
+Episode Link: https://allanime.to/bangumi/2v4KDrTo5SDv5dGYB
 # Analytics
 
 <img src="./analytics.png">
