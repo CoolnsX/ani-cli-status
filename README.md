@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dosanko Gal wa Namara Menkoi Episode 3
+Episode Name: Ganbare Genki Episode 6
 
-Episode Link: https://allanime.to/bangumi/HRspExAjMCuZDqKAq
+Episode Link: https://allanime.to/bangumi/BYdHyfqDGXxWSDgAj
 # Analytics
 
 <img src="./analytics.png">
