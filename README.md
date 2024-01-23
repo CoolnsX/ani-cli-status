@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ganbare Genki Episode 6
+Episode Name: Akuyaku Reijou Level 99 Watashi wa Ura Boss desu ga Maou dewa Arimasen Episode 3
 
-Episode Link: https://allanime.to/bangumi/BYdHyfqDGXxWSDgAj
+Episode Link: https://allanime.to/bangumi/nBaYmtzM4Qxd6TSCC
 # Analytics
 
 <img src="./analytics.png">
