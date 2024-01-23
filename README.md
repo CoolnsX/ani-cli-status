@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: High Card Season 2 Episode 3
+Episode Name: Chibi Maruko chan 1995 Episode 1278
 
-Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
+Episode Link: https://allanime.to/bangumi/SuD2BZMM2kjmuqX74
 # Analytics
 
 <img src="./analytics.png">
