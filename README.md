@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 49
+Episode Name: Mahou Shoujo ni Akogarete Episode 4
 
-Episode Link: https://allanime.to/bangumi/wya3joHqqvYRLqMBK
+Episode Link: https://allanime.to/bangumi/4aNbbfC9i3hDuerc3
 # Analytics
 
 <img src="./analytics.png">
