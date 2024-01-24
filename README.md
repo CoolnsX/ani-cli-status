@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ganbare Genki Episode 6
+Episode Name: Kingdom Season 5 Episode 2
 
-Episode Link: https://allanime.to/bangumi/BYdHyfqDGXxWSDgAj
+Episode Link: https://allanime.to/bangumi/gZ77jGXtgPahTZgvc
 # Analytics
 
 <img src="./analytics.png">
