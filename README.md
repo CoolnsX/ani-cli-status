@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node Henkyou de Slow Life suru Koto ni Shimashita 2nd Episode 3
+Episode Name: Hirogaru Sky Precure Episode 49
 
-Episode Link: https://allanime.to/bangumi/ZmChPEkvpsKhoCaRA
+Episode Link: https://allanime.to/bangumi/wya3joHqqvYRLqMBK
 # Analytics
 
 <img src="./analytics.png">
