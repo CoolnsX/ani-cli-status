@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kusuriya no Hitorigoto Episode 15
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 16
 
-Episode Link: https://allanime.to/bangumi/h4PMucgQwndzYNNxS
+Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
 # Analytics
 
 <img src="./analytics.png">
