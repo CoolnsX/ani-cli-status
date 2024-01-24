@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 40
+Episode Name: Sengoku Youko Episode 3
 
-Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
+Episode Link: https://allanime.to/bangumi/Yizintj76S5FYTsHQ
 # Analytics
 
 <img src="./analytics.png">
