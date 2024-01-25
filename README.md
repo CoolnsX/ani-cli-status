@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 117
+Episode Name: Kyuujitsu no Warumono san Episode 3
 
-Episode Link: https://allanime.to/bangumi/uKbkvLQv9usCvyAkQ
+Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
 # Analytics
 
 <img src="./analytics.png">
