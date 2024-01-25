@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kinnikuman II Sei 2nd Generations Episode 1
+Episode Name: Chibi Maruko chan 1995 Episode 1278
 
-Episode Link: https://allanime.to/bangumi/6dCWPb9bfPFfrvfQJ
+Episode Link: https://allanime.to/bangumi/SuD2BZMM2kjmuqX74
 # Analytics
 
 <img src="./analytics.png">
