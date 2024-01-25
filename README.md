@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Fight Da Pyuta Episode 6
+Episode Name: Kinnikuman II Sei Muscle Ninjin Soudatsu sen Choujin Daisensou Episode 1
 
-Episode Link: https://allanime.to/bangumi/323MysWjiWKRZ2XsB
+Episode Link: https://allanime.to/bangumi/tP4fH4yAxKLvh7K6p
 # Analytics
 
 <img src="./analytics.png">
