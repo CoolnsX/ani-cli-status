@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jaku Chara Tomozaki kun 2nd Stage Episode 4
+Episode Name: Ochibi san Episode 13
 
-Episode Link: https://allanime.to/bangumi/iQmXdisx99L6ByYqk
+Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
 # Analytics
 
 <img src="./analytics.png">
