@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 15
+Episode Name: Kinnikuman II Sei 2nd Generations Episode 1
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/6dCWPb9bfPFfrvfQJ
 # Analytics
 
 <img src="./analytics.png">
