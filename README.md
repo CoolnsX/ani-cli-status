@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kinnikuman II Sei Muscle Ninjin Soudatsu sen Choujin Daisensou Episode 1
+Episode Name: Gekai Elise Episode 3
 
-Episode Link: https://allanime.to/bangumi/tP4fH4yAxKLvh7K6p
+Episode Link: https://allanime.to/bangumi/mGaHcntidkmZPgzty
 # Analytics
 
 <img src="./analytics.png">
