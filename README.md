@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 117
+Episode Name: Ishura Episode 4
 
-Episode Link: https://allanime.to/bangumi/uKbkvLQv9usCvyAkQ
+Episode Link: https://allanime.to/bangumi/7RKs6LwFnpD3KgDoN
 # Analytics
 
 <img src="./analytics.png">
