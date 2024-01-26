@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 30 sai made Doutei dato Mahoutsukai ni Nareru Rashii Episode 3
+Episode Name: Dosanko Gal wa Namara Menkoi Episode 3
 
-Episode Link: https://allanime.to/bangumi/7ntLKRbCzSv5tpfPy
+Episode Link: https://allanime.to/bangumi/HRspExAjMCuZDqKAq
 # Analytics
 
 <img src="./analytics.png">
