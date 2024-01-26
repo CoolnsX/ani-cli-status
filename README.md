@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sasaki to Pii chan Episode 4
+Episode Name: Sousou no Frieren ●● no Mahou Episode 8
 
-Episode Link: https://allanime.to/bangumi/CPuqdHCgchMp88fLj
+Episode Link: https://allanime.to/bangumi/sG52nbcFo3PfLg6PD
 # Analytics
 
 <img src="./analytics.png">
