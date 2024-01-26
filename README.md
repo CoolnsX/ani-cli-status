@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren ●● no Mahou Episode 8
+Episode Name: Akuyaku Reijou Level 99 Watashi wa Ura Boss desu ga Maou dewa Arimasen Episode 3
 
-Episode Link: https://allanime.to/bangumi/sG52nbcFo3PfLg6PD
+Episode Link: https://allanime.to/bangumi/nBaYmtzM4Qxd6TSCC
 # Analytics
 
 <img src="./analytics.png">
