@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ganbare Genki Episode 6
+Episode Name: Ishura Episode 4
 
-Episode Link: https://allanime.to/bangumi/BYdHyfqDGXxWSDgAj
+Episode Link: https://allanime.to/bangumi/7RKs6LwFnpD3KgDoN
 # Analytics
 
 <img src="./analytics.png">
