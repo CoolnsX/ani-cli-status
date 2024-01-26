@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Oroka na Tenshi wa Akuma to Odoru Episode 3
+Episode Name: Tsuki ga Michibiku Isekai Douchuu Season 2 Episode 3
 
-Episode Link: https://allanime.to/bangumi/APuv5fsuAR6XzJNDG
+Episode Link: https://allanime.to/bangumi/wAMnpBBwaE3fJ8jwH
 # Analytics
 
 <img src="./analytics.png">
