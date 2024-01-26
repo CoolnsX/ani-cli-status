@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kyuujitsu no Warumono san Episode 3
+Episode Name: Kinnikuman II Sei Muscle Ninjin Soudatsu sen Choujin Daisensou Episode 1
 
-Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
+Episode Link: https://allanime.to/bangumi/tP4fH4yAxKLvh7K6p
 # Analytics
 
 <img src="./analytics.png">
