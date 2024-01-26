@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dosanko Gal wa Namara Menkoi Episode 3
+Episode Name: Urusei Yatsura 2022 Season 2 Episode 3
 
-Episode Link: https://allanime.to/bangumi/HRspExAjMCuZDqKAq
+Episode Link: https://allanime.to/bangumi/L4kJqGSfFQsHAbAgy
 # Analytics
 
 <img src="./analytics.png">
