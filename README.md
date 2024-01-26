@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dungeon Meshi Episode 4
+Episode Name: Ishura Episode 4
 
-Episode Link: https://allanime.to/bangumi/gAcGCcMENjbWhBnR9
+Episode Link: https://allanime.to/bangumi/7RKs6LwFnpD3KgDoN
 # Analytics
 
 <img src="./analytics.png">
