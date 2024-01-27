@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chou Futsuu Ken Chiba Densetsu Episode 3
+Episode Name: Sousou no Frieren ●● no Mahou Episode 8
 
-Episode Link: https://allanime.to/bangumi/HRL5XyakzpGWf4qZ3
+Episode Link: https://allanime.to/bangumi/sG52nbcFo3PfLg6PD
 # Analytics
 
 <img src="./analytics.png">
