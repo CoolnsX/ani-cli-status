@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gekkan Mousou Kagaku Episode 3
+Episode Name: Chou Futsuu Ken Chiba Densetsu Episode 3
 
-Episode Link: https://allanime.to/bangumi/7bPMnZXa8RwBAKk8m
+Episode Link: https://allanime.to/bangumi/HRL5XyakzpGWf4qZ3
 # Analytics
 
 <img src="./analytics.png">
