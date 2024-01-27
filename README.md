@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kinnikuman II Sei 2nd Generations Episode 1
+Episode Name: Gekkan Mousou Kagaku Episode 3
 
-Episode Link: https://allanime.to/bangumi/6dCWPb9bfPFfrvfQJ
+Episode Link: https://allanime.to/bangumi/7bPMnZXa8RwBAKk8m
 # Analytics
 
 <img src="./analytics.png">
