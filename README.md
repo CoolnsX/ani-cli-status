@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sengoku Youko Episode 3
+Episode Name: Munto Episode 1
 
-Episode Link: https://allanime.to/bangumi/Yizintj76S5FYTsHQ
+Episode Link: https://allanime.to/bangumi/fMbg4urXcsjHS5zLw
 # Analytics
 
 <img src="./analytics.png">
