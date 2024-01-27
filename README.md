@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren ●● no Mahou Episode 8
+Episode Name: Undead Unluck Episode 16
 
-Episode Link: https://allanime.to/bangumi/sG52nbcFo3PfLg6PD
+Episode Link: https://allanime.to/bangumi/FGE7YDWZgWFCjQju8
 # Analytics
 
 <img src="./analytics.png">
