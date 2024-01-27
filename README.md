@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 15
+Episode Name: Sasaki to Pii chan Episode 4
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/CPuqdHCgchMp88fLj
 # Analytics
 
 <img src="./analytics.png">
