@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 93
+Episode Name: Yuuki Bakuhatsu Bang Bravern Episode 3
 
-Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
+Episode Link: https://allanime.to/bangumi/vaYzfEyGx9srsqxEB
 # Analytics
 
 <img src="./analytics.png">
