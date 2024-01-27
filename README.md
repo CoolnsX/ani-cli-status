@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yuuki Bakuhatsu Bang Bravern Episode 3
+Episode Name: Beyblade X Episode 15
 
-Episode Link: https://allanime.to/bangumi/vaYzfEyGx9srsqxEB
+Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
 # Analytics
 
 <img src="./analytics.png">
