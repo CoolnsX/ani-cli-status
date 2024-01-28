@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 16
+Episode Name: Chiyu Mahou no Machigatta Tsukaikata Episode 4
 
-Episode Link: https://allanime.to/bangumi/4xD9zpF4dAf8RrAjq
+Episode Link: https://allanime.to/bangumi/E2p5RuqwcpJG3PDMd
 # Analytics
 
 <img src="./analytics.png">
