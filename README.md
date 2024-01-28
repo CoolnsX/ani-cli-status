@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Snack Basue Episode 3
+Episode Name: Ninjala Episode 101
 
-Episode Link: https://allanime.to/bangumi/nACCHP44xeLbSd5Nx
+Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
 # Analytics
 
 <img src="./analytics.png">
