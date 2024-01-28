@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Undead Unluck Episode 16
+Episode Name: Sousou no Frieren Episode 20
 
-Episode Link: https://allanime.to/bangumi/FGE7YDWZgWFCjQju8
+Episode Link: https://allanime.to/bangumi/ReHMC7TQnch3C6z8j
 # Analytics
 
 <img src="./analytics.png">
