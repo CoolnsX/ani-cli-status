@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Fate kaleid liner Prisma☆Illya Prisma☆Phantasm Episode 1
+Episode Name: Undead Unluck Episode 16
 
-Episode Link: https://allanime.to/bangumi/heLGooQzqdw9JGkS3
+Episode Link: https://allanime.to/bangumi/FGE7YDWZgWFCjQju8
 # Analytics
 
 <img src="./analytics.png">
