@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 16
+Episode Name: Sousou no Frieren Episode 20
 
-Episode Link: https://allanime.to/bangumi/4xD9zpF4dAf8RrAjq
+Episode Link: https://allanime.to/bangumi/ReHMC7TQnch3C6z8j
 # Analytics
 
 <img src="./analytics.png">
