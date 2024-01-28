@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren Episode 20
+Episode Name: Attacker You Episode 49
 
-Episode Link: https://allanime.to/bangumi/ReHMC7TQnch3C6z8j
+Episode Link: https://allanime.to/bangumi/jEgr3unzEo2xch3n9
 # Analytics
 
 <img src="./analytics.png">
