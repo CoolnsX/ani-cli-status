@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Urusei Yatsura 2022 Season 2 Episode 3
+Episode Name: Sasaki to Pii chan Episode 4
 
-Episode Link: https://allanime.to/bangumi/L4kJqGSfFQsHAbAgy
+Episode Link: https://allanime.to/bangumi/CPuqdHCgchMp88fLj
 # Analytics
 
 <img src="./analytics.png">
