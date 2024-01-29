@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kekkon Yubiwa Monogatari Episode 4
+Episode Name: Ore dake Level Up na Ken Episode 4
 
-Episode Link: https://allanime.to/bangumi/jQ646wLb7hzTrnCmt
+Episode Link: https://allanime.to/bangumi/DdTHXmTjwHji2aApQ
 # Analytics
 
 <img src="./analytics.png">
