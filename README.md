@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kekkon Yubiwa Monogatari Episode 4
+Episode Name: Getter Robo Go Episode 24
 
-Episode Link: https://allanime.to/bangumi/jQ646wLb7hzTrnCmt
+Episode Link: https://allanime.to/bangumi/LL3bLCEHKd7gPWYjE
 # Analytics
 
 <img src="./analytics.png">
