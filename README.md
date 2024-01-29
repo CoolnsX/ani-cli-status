@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saikyou Tank no Meikyuu Kouryaku Tairyoku 9999 no Rare Skill mochi Tank Yuusha Party wo Tsuihou sareru Episode 4
+Episode Name: Yami Shibai 12 Episode 3
 
-Episode Link: https://allanime.to/bangumi/4yBS3evHatpsxyDoA
+Episode Link: https://allanime.to/bangumi/5aT8RXJZPd5fZ58Cc
 # Analytics
 
 <img src="./analytics.png">
