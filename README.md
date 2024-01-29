@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1092
+Episode Name: Hirogaru Sky Precure Episode 50
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/wya3joHqqvYRLqMBK
 # Analytics
 
 <img src="./analytics.png">
