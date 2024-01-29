@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikari no Ou Season 2 Episode 3
+Episode Name: Shangri La Frontier Kusoge Hunter Kamige ni Idoman to su Episode 16
 
-Episode Link: https://allanime.to/bangumi/RwoPzfWufXLr28srm
+Episode Link: https://allanime.to/bangumi/Q4Aj2B9wj6hvbF3H5
 # Analytics
 
 <img src="./analytics.png">
