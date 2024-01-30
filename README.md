@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ao no Exorcist Shimane Illuminati hen Episode 4
+Episode Name: Hirogaru Sky Precure Episode 50
 
-Episode Link: https://allanime.to/bangumi/kBGvk4bv7Jhdr7YXt
+Episode Link: https://allanime.to/bangumi/wya3joHqqvYRLqMBK
 # Analytics
 
 <img src="./analytics.png">
