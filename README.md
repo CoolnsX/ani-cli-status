@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Meiji Gekken 1874 Episode 3
+Episode Name: Kyuujitsu no Warumono san Episode 4
 
-Episode Link: https://allanime.to/bangumi/rMXmQE8JB9KvjBQAF
+Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
 # Analytics
 
 <img src="./analytics.png">
