@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Attacker You Episode 49
+Episode Name: Oroka na Tenshi wa Akuma to Odoru Episode 4
 
-Episode Link: https://allanime.to/bangumi/jEgr3unzEo2xch3n9
+Episode Link: https://allanime.to/bangumi/APuv5fsuAR6XzJNDG
 # Analytics
 
 <img src="./analytics.png">
