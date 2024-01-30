@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hirogaru Sky Precure Episode 50
+Episode Name: Chibi Maruko chan Episode 118
 
-Episode Link: https://allanime.to/bangumi/wya3joHqqvYRLqMBK
+Episode Link: https://allanime.to/bangumi/uKbkvLQv9usCvyAkQ
 # Analytics
 
 <img src="./analytics.png">
