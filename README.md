@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kekkon Yubiwa Monogatari Episode 4
+Episode Name: Dog Signal Episode 13
 
-Episode Link: https://allanime.to/bangumi/jQ646wLb7hzTrnCmt
+Episode Link: https://allanime.to/bangumi/v9DffEbsv3biuT8Fj
 # Analytics
 
 <img src="./analytics.png">
