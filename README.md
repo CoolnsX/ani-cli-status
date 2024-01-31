@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kingdom Season 5 Episode 3
+Episode Name: Ragna Crimson Episode 15
 
-Episode Link: https://allanime.to/bangumi/gZ77jGXtgPahTZgvc
+Episode Link: https://allanime.to/bangumi/xmfsBA3GDvMTyNrza
 # Analytics
 
 <img src="./analytics.png">
