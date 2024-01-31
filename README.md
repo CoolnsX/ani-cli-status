@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Kokoro no Yabai Yatsu Season 2 Episode 4
+Episode Name: Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu Episode 5
 
-Episode Link: https://allanime.to/bangumi/gQ2khnXZe8dNsQH7n
+Episode Link: https://allanime.to/bangumi/cncuwM4aTfL6AhZrf
 # Analytics
 
 <img src="./analytics.png">
