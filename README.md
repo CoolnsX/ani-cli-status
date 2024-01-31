@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kusuriya no Hitorigoto Episode 16
+Episode Name: Kingdom Season 5 Episode 3
 
-Episode Link: https://allanime.to/bangumi/h4PMucgQwndzYNNxS
+Episode Link: https://allanime.to/bangumi/gZ77jGXtgPahTZgvc
 # Analytics
 
 <img src="./analytics.png">
