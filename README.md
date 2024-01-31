@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu Episode 5
+Episode Name: Synduality Noir Part 2 Episode 4
 
-Episode Link: https://allanime.to/bangumi/cncuwM4aTfL6AhZrf
+Episode Link: https://allanime.to/bangumi/JRWYoQkZMtv6L7GoH
 # Analytics
 
 <img src="./analytics.png">
