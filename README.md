@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Synduality Noir Part 2 Episode 4
+Episode Name: Hirogaru Sky Precure Episode 50
 
-Episode Link: https://allanime.to/bangumi/JRWYoQkZMtv6L7GoH
+Episode Link: https://allanime.to/bangumi/wya3joHqqvYRLqMBK
 # Analytics
 
 <img src="./analytics.png">
