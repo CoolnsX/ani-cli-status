@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Episode 118
+Episode Name: Hikari no Ou Episode 13
 
-Episode Link: https://allanime.to/bangumi/uKbkvLQv9usCvyAkQ
+Episode Link: https://allanime.to/bangumi/rjx39fbf9qNciPL6H
 # Analytics
 
 <img src="./analytics.png">
