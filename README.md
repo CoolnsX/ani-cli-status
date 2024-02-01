@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikari no Ou Season 2 Episode 3
+Episode Name: Gekai Elise Episode 4
 
-Episode Link: https://allanime.to/bangumi/RwoPzfWufXLr28srm
+Episode Link: https://allanime.to/bangumi/mGaHcntidkmZPgzty
 # Analytics
 
 <img src="./analytics.png">
