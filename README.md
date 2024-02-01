@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 94
+Episode Name: Jaku Chara Tomozaki kun 2nd Stage Episode 5
 
-Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
+Episode Link: https://allanime.to/bangumi/iQmXdisx99L6ByYqk
 # Analytics
 
 <img src="./analytics.png">
