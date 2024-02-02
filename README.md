@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chouriki Robo Galatt Episode 16
+Episode Name: Chibi Maruko chan Episode 118
 
-Episode Link: https://allanime.to/bangumi/x9rEdF4tRnmbQhMR3
+Episode Link: https://allanime.to/bangumi/uKbkvLQv9usCvyAkQ
 # Analytics
 
 <img src="./analytics.png">
