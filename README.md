@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shaman King Flowers Episode 3
+Episode Name: Himesama Episode 4
 
-Episode Link: https://allanime.to/bangumi/ntG98PMbjxM7DJd6t
+Episode Link: https://allanime.to/bangumi/gm3x5QXSqi4symxkA
 # Analytics
 
 <img src="./analytics.png">
