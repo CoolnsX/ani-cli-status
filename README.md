@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 41
+Episode Name: Sokushi Cheat ga Saikyou sugite Isekai no Yatsura ga Marude Aite ni Naranai n desu ga Episode 5
 
-Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
+Episode Link: https://allanime.to/bangumi/pgG55CyYEDacBfXc4
 # Analytics
 
 <img src="./analytics.png">
