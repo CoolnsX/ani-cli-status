@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 12 Episode 3
+Episode Name: Gekkan Mousou Kagaku Episode 4
 
-Episode Link: https://allanime.to/bangumi/5aT8RXJZPd5fZ58Cc
+Episode Link: https://allanime.to/bangumi/7bPMnZXa8RwBAKk8m
 # Analytics
 
 <img src="./analytics.png">
