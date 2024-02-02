@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 16
+Episode Name: Pon no Michi Episode 5
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/6cs2C347Cn66LZw9p
 # Analytics
 
 <img src="./analytics.png">
