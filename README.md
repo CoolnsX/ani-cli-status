@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Himesama Episode 4
+Episode Name: Dog Signal Episode 13
 
-Episode Link: https://allanime.to/bangumi/gm3x5QXSqi4symxkA
+Episode Link: https://allanime.to/bangumi/v9DffEbsv3biuT8Fj
 # Analytics
 
 <img src="./analytics.png">
