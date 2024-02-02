@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Majo to Yajuu Episode 4
+Episode Name: Chiikawa Episode 77
 
-Episode Link: https://allanime.to/bangumi/2v4KDrTo5SDv5dGYB
+Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
 # Analytics
 
 <img src="./analytics.png">
