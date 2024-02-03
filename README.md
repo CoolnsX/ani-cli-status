@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yubisaki to Renren Episode 5
+Episode Name: Battle Spirits Double Drive Episode 51
 
-Episode Link: https://allanime.to/bangumi/o8YCK7AqhafEYK4Xy
+Episode Link: https://allanime.to/bangumi/7LhJ8K2JZcnH7oDxu
 # Analytics
 
 <img src="./analytics.png">
