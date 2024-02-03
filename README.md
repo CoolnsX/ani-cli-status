@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sasaki to Pii chan Episode 5
+Episode Name: Chouriki Robo Galatt Episode 16
 
-Episode Link: https://allanime.to/bangumi/CPuqdHCgchMp88fLj
+Episode Link: https://allanime.to/bangumi/x9rEdF4tRnmbQhMR3
 # Analytics
 
 <img src="./analytics.png">
