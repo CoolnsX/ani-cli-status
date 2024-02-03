@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gekai Elise Episode 4
+Episode Name: Jewelpet Episode 31
 
-Episode Link: https://allanime.to/bangumi/mGaHcntidkmZPgzty
+Episode Link: https://allanime.to/bangumi/KTP7GNmpkcSeL92zs
 # Analytics
 
 <img src="./analytics.png">
