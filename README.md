@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ao no Exorcist Shimane Illuminati hen Episode 5
+Episode Name: Nozomanu Fushi no Boukensha Episode 5
 
-Episode Link: https://allanime.to/bangumi/kBGvk4bv7Jhdr7YXt
+Episode Link: https://allanime.to/bangumi/7ukoqggR93e4JgX6W
 # Analytics
 
 <img src="./analytics.png">
