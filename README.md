@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Battle Spirits Double Drive Episode 51
+Episode Name: Bucchigiri Episode 4
 
-Episode Link: https://allanime.to/bangumi/7LhJ8K2JZcnH7oDxu
+Episode Link: https://allanime.to/bangumi/zejasyeXCCabLetyw
 # Analytics
 
 <img src="./analytics.png">
