@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Meitou Episode 4
+Episode Name: Bucchigiri Episode 4
 
-Episode Link: https://allanime.to/bangumi/B6q5vKt4i2Hx6YZzf
+Episode Link: https://allanime.to/bangumi/zejasyeXCCabLetyw
 # Analytics
 
 <img src="./analytics.png">
