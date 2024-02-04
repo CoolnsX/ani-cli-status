@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bucchigiri Episode 4
+Episode Name: Detective Conan TV Episode 1113
 
-Episode Link: https://allanime.to/bangumi/zejasyeXCCabLetyw
+Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
 # Analytics
 
 <img src="./analytics.png">
