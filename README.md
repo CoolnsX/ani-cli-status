@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1113
+Episode Name: Sousou no Frieren Episode 21
 
-Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
+Episode Link: https://allanime.to/bangumi/ReHMC7TQnch3C6z8j
 # Analytics
 
 <img src="./analytics.png">
