@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Momochi san Chi no Ayakashi Ouji Episode 5
+Episode Name: Detective Conan TV Episode 1113
 
-Episode Link: https://allanime.to/bangumi/HP56kbgq9d96kYRaL
+Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
 # Analytics
 
 <img src="./analytics.png">
