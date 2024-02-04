@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kusuriya no Hitorigoto Episode 17
+Episode Name: Bucchigiri Episode 4
 
-Episode Link: https://allanime.to/bangumi/h4PMucgQwndzYNNxS
+Episode Link: https://allanime.to/bangumi/zejasyeXCCabLetyw
 # Analytics
 
 <img src="./analytics.png">
