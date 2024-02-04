@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren Episode 21
+Episode Name: Saikyou Tank no Meikyuu Kouryaku Tairyoku 9999 no Rare Skill mochi Tank Yuusha Party wo Tsuihou sareru Episode 5
 
-Episode Link: https://allanime.to/bangumi/ReHMC7TQnch3C6z8j
+Episode Link: https://allanime.to/bangumi/4yBS3evHatpsxyDoA
 # Analytics
 
 <img src="./analytics.png">
