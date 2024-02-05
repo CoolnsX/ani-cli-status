@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kingdom Season 5 Episode 4
+Episode Name: Shangri La Frontier Kusoge Hunter Kamige ni Idoman to su Episode 17
 
-Episode Link: https://allanime.to/bangumi/gZ77jGXtgPahTZgvc
+Episode Link: https://allanime.to/bangumi/Q4Aj2B9wj6hvbF3H5
 # Analytics
 
 <img src="./analytics.png">
