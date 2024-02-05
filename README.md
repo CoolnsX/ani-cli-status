@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ochibi san Episode 15
+Episode Name: Yubisaki to Renren Episode 5
 
-Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
+Episode Link: https://allanime.to/bangumi/o8YCK7AqhafEYK4Xy
 # Analytics
 
 <img src="./analytics.png">
