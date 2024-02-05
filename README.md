@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren Episode 21
+Episode Name: Ochibi san Episode 15
 
-Episode Link: https://allanime.to/bangumi/ReHMC7TQnch3C6z8j
+Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
 # Analytics
 
 <img src="./analytics.png">
