@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 18
+Episode Name: Detective Conan TV Episode 1113
 
-Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
+Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
 # Analytics
 
 <img src="./analytics.png">
