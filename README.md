@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Pururun Shizuku chan Aha Episode 34
+Episode Name: Buta no Liver wa Kanetsu Shiro Episode 12
 
-Episode Link: https://allanime.to/bangumi/ygyYy7jXgkHtLZFTH
+Episode Link: https://allanime.to/bangumi/KopH8vaGDb7qpKJgM
 # Analytics
 
 <img src="./analytics.png">
