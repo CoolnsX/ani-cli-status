@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kyuujitsu no Warumono san Episode 5
+Episode Name: Hikari no Ou Season 2 Episode 4
 
-Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
+Episode Link: https://allanime.to/bangumi/RwoPzfWufXLr28srm
 # Analytics
 
 <img src="./analytics.png">
