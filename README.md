@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shin Koihime†Musou Gunyuu Minami no Shima de Bakansu wo Suru no Koto Ato Porori mo Aru yo Episode 1
+Episode Name: Kyuujitsu no Warumono san Episode 5
 
-Episode Link: https://allanime.to/bangumi/tremxh2A5T2P7feLG
+Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
 # Analytics
 
 <img src="./analytics.png">
