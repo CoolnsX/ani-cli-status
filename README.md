@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: High Card Season 2 Episode 5
+Episode Name: Pururun Shizuku chan Aha Episode 36
 
-Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
+Episode Link: https://allanime.to/bangumi/ygyYy7jXgkHtLZFTH
 # Analytics
 
 <img src="./analytics.png">
