@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ao no Exorcist Shimane Illuminati hen Episode 5
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 18
 
-Episode Link: https://allanime.to/bangumi/kBGvk4bv7Jhdr7YXt
+Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
 # Analytics
 
 <img src="./analytics.png">
