@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chou Futsuu Ken Chiba Densetsu Episode 5
+Episode Name: Pururun Shizuku chan Aha Episode 36
 
-Episode Link: https://allanime.to/bangumi/HRL5XyakzpGWf4qZ3
+Episode Link: https://allanime.to/bangumi/ygyYy7jXgkHtLZFTH
 # Analytics
 
 <img src="./analytics.png">
