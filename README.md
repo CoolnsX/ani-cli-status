@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 153
+Episode Name: Buta no Liver wa Kanetsu Shiro Episode 12
 
-Episode Link: https://allanime.to/bangumi/PGqQKyyef49RWDzsc
+Episode Link: https://allanime.to/bangumi/KopH8vaGDb7qpKJgM
 # Analytics
 
 <img src="./analytics.png">
