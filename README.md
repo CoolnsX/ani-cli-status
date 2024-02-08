@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikari no Ou Episode 14
+Episode Name: Buta no Liver wa Kanetsu Shiro Episode 12
 
-Episode Link: https://allanime.to/bangumi/rjx39fbf9qNciPL6H
+Episode Link: https://allanime.to/bangumi/KopH8vaGDb7qpKJgM
 # Analytics
 
 <img src="./analytics.png">
