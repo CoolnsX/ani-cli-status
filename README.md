@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sokushi Cheat ga Saikyou sugite Isekai no Yatsura ga Marude Aite ni Naranai n desu ga Episode 6
+Episode Name: Sengoku Youko Episode 5
 
-Episode Link: https://allanime.to/bangumi/pgG55CyYEDacBfXc4
+Episode Link: https://allanime.to/bangumi/Yizintj76S5FYTsHQ
 # Analytics
 
 <img src="./analytics.png">
