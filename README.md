@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jaku Chara Tomozaki kun 2nd Stage Episode 6
+Episode Name: Urusei Yatsura 2022 Season 2 Episode 5
 
-Episode Link: https://allanime.to/bangumi/iQmXdisx99L6ByYqk
+Episode Link: https://allanime.to/bangumi/L4kJqGSfFQsHAbAgy
 # Analytics
 
 <img src="./analytics.png">
