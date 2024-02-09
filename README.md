@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 3 Episode 6
+Episode Name: Sousou no Frieren ●● no Mahou Episode 9
 
-Episode Link: https://allanime.to/bangumi/stxNT7nPseF7qjKPY
+Episode Link: https://allanime.to/bangumi/sG52nbcFo3PfLg6PD
 # Analytics
 
 <img src="./analytics.png">
