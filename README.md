@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tsuki ga Michibiku Isekai Douchuu Season 2 Episode 5
+Episode Name: Chouriki Robo Galatt Episode 17
 
-Episode Link: https://allanime.to/bangumi/wAMnpBBwaE3fJ8jwH
+Episode Link: https://allanime.to/bangumi/x9rEdF4tRnmbQhMR3
 # Analytics
 
 <img src="./analytics.png">
