@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dosanko Gal wa Namara Menkoi Episode 5
+Episode Name: Beyblade X Episode 17
 
-Episode Link: https://allanime.to/bangumi/HRspExAjMCuZDqKAq
+Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
 # Analytics
 
 <img src="./analytics.png">
