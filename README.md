@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chou Futsuu Ken Chiba Densetsu Episode 5
+Episode Name: Dosanko Gal wa Namara Menkoi Episode 5
 
-Episode Link: https://allanime.to/bangumi/HRL5XyakzpGWf4qZ3
+Episode Link: https://allanime.to/bangumi/HRspExAjMCuZDqKAq
 # Analytics
 
 <img src="./analytics.png">
