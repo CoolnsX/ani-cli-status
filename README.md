@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahou Shoujo ni Akogarete Episode 6
+Episode Name: Sokushi Cheat ga Saikyou sugite Isekai no Yatsura ga Marude Aite ni Naranai n desu ga Episode 6
 
-Episode Link: https://allanime.to/bangumi/4aNbbfC9i3hDuerc3
+Episode Link: https://allanime.to/bangumi/pgG55CyYEDacBfXc4
 # Analytics
 
 <img src="./analytics.png">
