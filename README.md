@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dog Signal Episode 14
+Episode Name: Shin Koihime†Musou Live Revolution Episode 1
 
-Episode Link: https://allanime.to/bangumi/v9DffEbsv3biuT8Fj
+Episode Link: https://allanime.to/bangumi/oNHNmYv5LDctSPSGp
 # Analytics
 
 <img src="./analytics.png">
