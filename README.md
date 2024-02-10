@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Magical Hat Episode 23
+Episode Name: Kin no Kuni Mizu no Kuni Episode 1
 
-Episode Link: https://allanime.to/bangumi/PcwGeam6n37zsDya5
+Episode Link: https://allanime.to/bangumi/MKM9HzDMmS6W99xBy
 # Analytics
 
 <img src="./analytics.png">
