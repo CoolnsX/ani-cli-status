@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chocosanji Episode 12
+Episode Name: Sousou no Frieren Episode 22
 
-Episode Link: https://allanime.to/bangumi/aggpLtL9tc3RdtM2C
+Episode Link: https://allanime.to/bangumi/ReHMC7TQnch3C6z8j
 # Analytics
 
 <img src="./analytics.png">
