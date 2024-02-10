@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gekai Elise Episode 5
+Episode Name: Magical Hat Episode 23
 
-Episode Link: https://allanime.to/bangumi/mGaHcntidkmZPgzty
+Episode Link: https://allanime.to/bangumi/PcwGeam6n37zsDya5
 # Analytics
 
 <img src="./analytics.png">
