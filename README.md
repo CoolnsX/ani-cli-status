@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita Episode 5
+Episode Name: Detective Conan TV Episode 1114
 
-Episode Link: https://allanime.to/bangumi/LxcdsrESihzcoQFCd
+Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
 # Analytics
 
 <img src="./analytics.png">
