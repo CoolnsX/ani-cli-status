@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Pururun Shizuku chan Aha Episode 37
+Episode Name: Metallic Rouge Episode 5
 
-Episode Link: https://allanime.to/bangumi/ygyYy7jXgkHtLZFTH
+Episode Link: https://allanime.to/bangumi/B7za4gxKoX29zhoJj
 # Analytics
 
 <img src="./analytics.png">
