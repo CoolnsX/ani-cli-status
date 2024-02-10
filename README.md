@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kin no Kuni Mizu no Kuni Episode 1
+Episode Name: Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita Episode 5
 
-Episode Link: https://allanime.to/bangumi/MKM9HzDMmS6W99xBy
+Episode Link: https://allanime.to/bangumi/LxcdsrESihzcoQFCd
 # Analytics
 
 <img src="./analytics.png">
