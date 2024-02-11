@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shangri La Frontier Kusoge Hunter Kamige ni Idoman to su Episode 18
+Episode Name: Kingdom Season 5 Episode 5
 
-Episode Link: https://allanime.to/bangumi/Q4Aj2B9wj6hvbF3H5
+Episode Link: https://allanime.to/bangumi/gZ77jGXtgPahTZgvc
 # Analytics
 
 <img src="./analytics.png">
