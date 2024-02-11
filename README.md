@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yubisaki to Renren Episode 6
+Episode Name: Kekkon Yubiwa Monogatari Episode 6
 
-Episode Link: https://allanime.to/bangumi/o8YCK7AqhafEYK4Xy
+Episode Link: https://allanime.to/bangumi/jQ646wLb7hzTrnCmt
 # Analytics
 
 <img src="./analytics.png">
