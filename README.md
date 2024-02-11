@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chocosanji Episode 12
+Episode Name: Pon no Michi Episode 6
 
-Episode Link: https://allanime.to/bangumi/aggpLtL9tc3RdtM2C
+Episode Link: https://allanime.to/bangumi/6cs2C347Cn66LZw9p
 # Analytics
 
 <img src="./analytics.png">
