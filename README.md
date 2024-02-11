@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1114
+Episode Name: Chocosanji Episode 12
 
-Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
+Episode Link: https://allanime.to/bangumi/aggpLtL9tc3RdtM2C
 # Analytics
 
 <img src="./analytics.png">
