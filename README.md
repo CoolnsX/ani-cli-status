@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 17
+Episode Name: Kekkon Yubiwa Monogatari Episode 6
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/jQ646wLb7hzTrnCmt
 # Analytics
 
 <img src="./analytics.png">
