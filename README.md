@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Meitou Episode 5
+Episode Name: Kingdom Season 5 Episode 5
 
-Episode Link: https://allanime.to/bangumi/saN6ACR3xXKKEzpGZ
+Episode Link: https://allanime.to/bangumi/gZ77jGXtgPahTZgvc
 # Analytics
 
 <img src="./analytics.png">
