@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 17 5
+Episode Name: Himesama Episode 6
 
-Episode Link: https://allanime.to/bangumi/4xD9zpF4dAf8RrAjq
+Episode Link: https://allanime.to/bangumi/gm3x5QXSqi4symxkA
 # Analytics
 
 <img src="./analytics.png">
