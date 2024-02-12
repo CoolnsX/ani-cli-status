@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikari no Ou Season 2 Episode 5
+Episode Name: Ochibi san Episode 16
 
-Episode Link: https://allanime.to/bangumi/RwoPzfWufXLr28srm
+Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
 # Analytics
 
 <img src="./analytics.png">
