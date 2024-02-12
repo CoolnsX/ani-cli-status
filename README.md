@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saikyou Tank no Meikyuu Kouryaku Tairyoku 9999 no Rare Skill mochi Tank Yuusha Party wo Tsuihou sareru Episode 6
+Episode Name: Kyuujitsu no Warumono san Episode 6
 
-Episode Link: https://allanime.to/bangumi/4yBS3evHatpsxyDoA
+Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
 # Analytics
 
 <img src="./analytics.png">
