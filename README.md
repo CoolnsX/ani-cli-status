@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ochibi san Episode 16
+Episode Name: Kyuujitsu no Warumono san Episode 6
 
-Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
+Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
 # Analytics
 
 <img src="./analytics.png">
