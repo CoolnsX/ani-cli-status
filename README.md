@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Kokoro no Yabai Yatsu Season 2 Episode 6
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 96
 
-Episode Link: https://allanime.to/bangumi/gQ2khnXZe8dNsQH7n
+Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
 # Analytics
 
 <img src="./analytics.png">
