@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ragna Crimson Episode 17
+Episode Name: Shaman King Flowers Episode 5
 
-Episode Link: https://allanime.to/bangumi/xmfsBA3GDvMTyNrza
+Episode Link: https://allanime.to/bangumi/ntG98PMbjxM7DJd6t
 # Analytics
 
 <img src="./analytics.png">
