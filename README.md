@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Oroka na Tenshi wa Akuma to Odoru Episode 6
+Episode Name: Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu Episode 7
 
-Episode Link: https://allanime.to/bangumi/APuv5fsuAR6XzJNDG
+Episode Link: https://allanime.to/bangumi/cncuwM4aTfL6AhZrf
 # Analytics
 
 <img src="./analytics.png">
