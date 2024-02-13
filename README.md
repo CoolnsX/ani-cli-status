@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Himesama Episode 6
+Episode Name: Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node Henkyou de Slow Life suru Koto ni Shimashita 2nd Episode 6
 
-Episode Link: https://allanime.to/bangumi/gm3x5QXSqi4symxkA
+Episode Link: https://allanime.to/bangumi/ZmChPEkvpsKhoCaRA
 # Analytics
 
 <img src="./analytics.png">
