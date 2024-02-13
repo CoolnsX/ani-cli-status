@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kusuriya no Hitorigoto Episode 18
+Episode Name: Undead Unluck Episode 18
 
-Episode Link: https://allanime.to/bangumi/h4PMucgQwndzYNNxS
+Episode Link: https://allanime.to/bangumi/FGE7YDWZgWFCjQju8
 # Analytics
 
 <img src="./analytics.png">
