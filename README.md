@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bucchigiri Episode 5
+Episode Name: Wonderful Precure Episode 2
 
-Episode Link: https://allanime.to/bangumi/zejasyeXCCabLetyw
+Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
 # Analytics
 
 <img src="./analytics.png">
