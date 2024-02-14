@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ore dake Level Up na Ken Episode 6
+Episode Name: Kyuujitsu no Warumono san Episode 6
 
-Episode Link: https://allanime.to/bangumi/DdTHXmTjwHji2aApQ
+Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
 # Analytics
 
 <img src="./analytics.png">
