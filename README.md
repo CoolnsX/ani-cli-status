@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu Episode 7
+Episode Name: High Card Season 2 Episode 6
 
-Episode Link: https://allanime.to/bangumi/cncuwM4aTfL6AhZrf
+Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
 # Analytics
 
 <img src="./analytics.png">
