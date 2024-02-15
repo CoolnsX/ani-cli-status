@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: High Card Season 2 Episode 6
+Episode Name: Sengoku Youko Episode 6
 
-Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
+Episode Link: https://allanime.to/bangumi/Yizintj76S5FYTsHQ
 # Analytics
 
 <img src="./analytics.png">
