@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ganbare Genki Episode 7
+Episode Name: Odekake Kozame Episode 35
 
-Episode Link: https://allanime.to/bangumi/BYdHyfqDGXxWSDgAj
+Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
 # Analytics
 
 <img src="./analytics.png">
