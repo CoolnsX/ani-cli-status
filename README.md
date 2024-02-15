@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 19
+Episode Name: Mahou Shoujo ni Akogarete Episode 7
 
-Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
+Episode Link: https://allanime.to/bangumi/4aNbbfC9i3hDuerc3
 # Analytics
 
 <img src="./analytics.png">
