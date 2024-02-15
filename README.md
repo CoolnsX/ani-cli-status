@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 96
+Episode Name: High Card Season 2 Episode 6
 
-Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
+Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
 # Analytics
 
 <img src="./analytics.png">
