@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wagamama☆Fairy Mirumo de Pon Episode 46
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 19
 
-Episode Link: https://allanime.to/bangumi/uAsMYAfJqmMi2mCuK
+Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
 # Analytics
 
 <img src="./analytics.png">
