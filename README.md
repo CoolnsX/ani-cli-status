@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kingdom Season 5 Episode 5
+Episode Name: Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu Episode 7
 
-Episode Link: https://allanime.to/bangumi/gZ77jGXtgPahTZgvc
+Episode Link: https://allanime.to/bangumi/cncuwM4aTfL6AhZrf
 # Analytics
 
 <img src="./analytics.png">
