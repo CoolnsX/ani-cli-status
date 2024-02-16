@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Pururun Shizuku chan Aha Episode 41
+Episode Name: Majo to Yajuu Episode 6
 
-Episode Link: https://allanime.to/bangumi/ygyYy7jXgkHtLZFTH
+Episode Link: https://allanime.to/bangumi/2v4KDrTo5SDv5dGYB
 # Analytics
 
 <img src="./analytics.png">
