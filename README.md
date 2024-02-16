@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Majo to Yajuu Episode 6
+Episode Name: Synduality Noir Part 2 Episode 6
 
-Episode Link: https://allanime.to/bangumi/2v4KDrTo5SDv5dGYB
+Episode Link: https://allanime.to/bangumi/JRWYoQkZMtv6L7GoH
 # Analytics
 
 <img src="./analytics.png">
