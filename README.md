@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ishura Episode 7
+Episode Name: Dog Signal Episode 15
 
-Episode Link: https://allanime.to/bangumi/7RKs6LwFnpD3KgDoN
+Episode Link: https://allanime.to/bangumi/v9DffEbsv3biuT8Fj
 # Analytics
 
 <img src="./analytics.png">
