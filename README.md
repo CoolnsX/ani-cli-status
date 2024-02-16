@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yuuki Bakuhatsu Bang Bravern Episode 6
+Episode Name: Sasaki to Pii chan Episode 7
 
-Episode Link: https://allanime.to/bangumi/vaYzfEyGx9srsqxEB
+Episode Link: https://allanime.to/bangumi/CPuqdHCgchMp88fLj
 # Analytics
 
 <img src="./analytics.png">
