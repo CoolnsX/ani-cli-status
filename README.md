@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sengoku Youko Episode 6
+Episode Name: Jaku Chara Tomozaki kun 2nd Stage Episode 7
 
-Episode Link: https://allanime.to/bangumi/Yizintj76S5FYTsHQ
+Episode Link: https://allanime.to/bangumi/iQmXdisx99L6ByYqk
 # Analytics
 
 <img src="./analytics.png">
