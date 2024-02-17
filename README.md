@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nozomanu Fushi no Boukensha Episode 7
+Episode Name: Sengoku Youko Episode 6
 
-Episode Link: https://allanime.to/bangumi/7ukoqggR93e4JgX6W
+Episode Link: https://allanime.to/bangumi/Yizintj76S5FYTsHQ
 # Analytics
 
 <img src="./analytics.png">
