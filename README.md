@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gekkan Mousou Kagaku Episode 6
+Episode Name: Chiyu Mahou no Machigatta Tsukaikata Episode 7
 
-Episode Link: https://allanime.to/bangumi/7bPMnZXa8RwBAKk8m
+Episode Link: https://allanime.to/bangumi/E2p5RuqwcpJG3PDMd
 # Analytics
 
 <img src="./analytics.png">
