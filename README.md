@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 17
+Episode Name: Chiyu Mahou no Machigatta Tsukaikata Episode 7
 
-Episode Link: https://allanime.to/bangumi/uFSyY4QxWAhNTdpjM
+Episode Link: https://allanime.to/bangumi/E2p5RuqwcpJG3PDMd
 # Analytics
 
 <img src="./analytics.png">
