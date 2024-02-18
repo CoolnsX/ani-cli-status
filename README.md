@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiyu Mahou no Machigatta Tsukaikata Episode 7
+Episode Name: Odekake Kozame Episode 36
 
-Episode Link: https://allanime.to/bangumi/E2p5RuqwcpJG3PDMd
+Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
 # Analytics
 
 <img src="./analytics.png">
