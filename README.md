@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Urusei Yatsura 2022 Season 2 Episode 6
+Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 18
 
-Episode Link: https://allanime.to/bangumi/L4kJqGSfFQsHAbAgy
+Episode Link: https://allanime.to/bangumi/4xD9zpF4dAf8RrAjq
 # Analytics
 
 <img src="./analytics.png">
