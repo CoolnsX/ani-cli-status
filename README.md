@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 18
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 17
 
-Episode Link: https://allanime.to/bangumi/4xD9zpF4dAf8RrAjq
+Episode Link: https://allanime.to/bangumi/uFSyY4QxWAhNTdpjM
 # Analytics
 
 <img src="./analytics.png">
