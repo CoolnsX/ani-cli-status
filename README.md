@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yubisaki to Renren Episode 7
+Episode Name: 1P Episode 1094
 
-Episode Link: https://allanime.to/bangumi/o8YCK7AqhafEYK4Xy
+Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
 # Analytics
 
 <img src="./analytics.png">
