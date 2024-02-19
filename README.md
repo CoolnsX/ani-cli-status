@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tottemo Luckyman Episode 2
+Episode Name: Odekake Kozame Episode 36
 
-Episode Link: https://allanime.to/bangumi/sNHfjKX3LfsAXQMz9
+Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
 # Analytics
 
 <img src="./analytics.png">
