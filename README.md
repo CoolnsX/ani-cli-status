@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan 1995 Episode 1282
+Episode Name: Kinnikuman Episode 123
 
-Episode Link: https://allanime.to/bangumi/SuD2BZMM2kjmuqX74
+Episode Link: https://allanime.to/bangumi/pNi8AYhvc7Tp5JayR
 # Analytics
 
 <img src="./analytics.png">
