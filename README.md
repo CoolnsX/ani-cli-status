@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 20
+Episode Name: Saikyou Tank no Meikyuu Kouryaku Tairyoku 9999 no Rare Skill mochi Tank Yuusha Party wo Tsuihou sareru Episode 7
 
-Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
+Episode Link: https://allanime.to/bangumi/4yBS3evHatpsxyDoA
 # Analytics
 
 <img src="./analytics.png">
