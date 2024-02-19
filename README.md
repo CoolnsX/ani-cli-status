@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ragna Crimson Episode 18
+Episode Name: Tottemo Luckyman Episode 2
 
-Episode Link: https://allanime.to/bangumi/xmfsBA3GDvMTyNrza
+Episode Link: https://allanime.to/bangumi/sNHfjKX3LfsAXQMz9
 # Analytics
 
 <img src="./analytics.png">
