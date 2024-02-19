@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikari no Ou Episode 16
+Episode Name: Tottemo Luckyman Episode 2
 
-Episode Link: https://allanime.to/bangumi/rjx39fbf9qNciPL6H
+Episode Link: https://allanime.to/bangumi/sNHfjKX3LfsAXQMz9
 # Analytics
 
 <img src="./analytics.png">
