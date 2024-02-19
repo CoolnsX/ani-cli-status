@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tottemo Luckyman Episode 2
+Episode Name: Kekkon Yubiwa Monogatari Episode 7
 
-Episode Link: https://allanime.to/bangumi/sNHfjKX3LfsAXQMz9
+Episode Link: https://allanime.to/bangumi/jQ646wLb7hzTrnCmt
 # Analytics
 
 <img src="./analytics.png">
