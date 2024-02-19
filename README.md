@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Meitou Episode 6
+Episode Name: Ao no Exorcist Shimane Illuminati hen Episode 7
 
-Episode Link: https://allanime.to/bangumi/saN6ACR3xXKKEzpGZ
+Episode Link: https://allanime.to/bangumi/kBGvk4bv7Jhdr7YXt
 # Analytics
 
 <img src="./analytics.png">
