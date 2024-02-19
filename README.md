@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kekkon Yubiwa Monogatari Episode 7
+Episode Name: Ochibi san Episode 17
 
-Episode Link: https://allanime.to/bangumi/jQ646wLb7hzTrnCmt
+Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
 # Analytics
 
 <img src="./analytics.png">
