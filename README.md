@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wonderful Precure Episode 3
+Episode Name: Hikari no Ou Episode 16
 
-Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
+Episode Link: https://allanime.to/bangumi/rjx39fbf9qNciPL6H
 # Analytics
 
 <img src="./analytics.png">
