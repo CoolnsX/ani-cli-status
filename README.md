@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ochibi san Episode 17
+Episode Name: Tsuki ga Michibiku Isekai Douchuu Season 2 Episode 7
 
-Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
+Episode Link: https://allanime.to/bangumi/wAMnpBBwaE3fJ8jwH
 # Analytics
 
 <img src="./analytics.png">
