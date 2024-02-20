@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dog Signal Episode 16
+Episode Name: Dosanko Gal wa Namara Menkoi Episode 7
 
-Episode Link: https://allanime.to/bangumi/v9DffEbsv3biuT8Fj
+Episode Link: https://allanime.to/bangumi/HRspExAjMCuZDqKAq
 # Analytics
 
 <img src="./analytics.png">
