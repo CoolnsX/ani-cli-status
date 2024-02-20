@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ore dake Level Up na Ken Episode 7
+Episode Name: Meiji Gekken 1874 Episode 6
 
-Episode Link: https://allanime.to/bangumi/DdTHXmTjwHji2aApQ
+Episode Link: https://allanime.to/bangumi/rMXmQE8JB9KvjBQAF
 # Analytics
 
 <img src="./analytics.png">
