@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ao no Exorcist Shimane Illuminati hen Episode 7
+Episode Name: Kiss Dum R Meguriahi Episode 1
 
-Episode Link: https://allanime.to/bangumi/kBGvk4bv7Jhdr7YXt
+Episode Link: https://allanime.to/bangumi/k78ysYQpM3ScFyHQ6
 # Analytics
 
 <img src="./analytics.png">
