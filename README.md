@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Getter Robo Go Episode 26
+Episode Name: Ninja Kamui Episode 2
 
-Episode Link: https://allanime.to/bangumi/LL3bLCEHKd7gPWYjE
+Episode Link: https://allanime.to/bangumi/d4jETNjQEAhJCtarN
 # Analytics
 
 <img src="./analytics.png">
