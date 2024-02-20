@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kinnikuman Episode 123
+Episode Name: Bucchigiri Episode 6
 
-Episode Link: https://allanime.to/bangumi/pNi8AYhvc7Tp5JayR
+Episode Link: https://allanime.to/bangumi/zejasyeXCCabLetyw
 # Analytics
 
 <img src="./analytics.png">
