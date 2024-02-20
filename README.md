@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Meiji Gekken 1874 Episode 6
+Episode Name: Hikari no Ou Episode 16
 
-Episode Link: https://allanime.to/bangumi/rMXmQE8JB9KvjBQAF
+Episode Link: https://allanime.to/bangumi/rjx39fbf9qNciPL6H
 # Analytics
 
 <img src="./analytics.png">
