@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Amrita no Kyouen Episode 1
+Episode Name: Meiji Gekken 1874 Episode 6
 
-Episode Link: https://allanime.to/bangumi/x3H8ZJvR78u7FgCr3
+Episode Link: https://allanime.to/bangumi/rMXmQE8JB9KvjBQAF
 # Analytics
 
 <img src="./analytics.png">
