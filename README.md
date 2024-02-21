@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu Episode 8
+Episode Name: Yoroiden Samurai Troopers Message Episode 5
 
-Episode Link: https://allanime.to/bangumi/cncuwM4aTfL6AhZrf
+Episode Link: https://allanime.to/bangumi/pYWpq3kkYNAj9N3Js
 # Analytics
 
 <img src="./analytics.png">
