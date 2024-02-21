@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Duel Masters Win Episode 5
+Episode Name: Amrita no Kyouen Episode 1
 
-Episode Link: https://allanime.to/bangumi/LsgRasLm5P5FRd5Ks
+Episode Link: https://allanime.to/bangumi/x3H8ZJvR78u7FgCr3
 # Analytics
 
 <img src="./analytics.png">
