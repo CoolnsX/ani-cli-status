@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kyuujitsu no Warumono san Episode 7
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 18
 
-Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
+Episode Link: https://allanime.to/bangumi/uFSyY4QxWAhNTdpjM
 # Analytics
 
 <img src="./analytics.png">
