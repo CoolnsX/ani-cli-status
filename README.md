@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahou Shoujo ni Akogarete Episode 8
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 18
 
-Episode Link: https://allanime.to/bangumi/4aNbbfC9i3hDuerc3
+Episode Link: https://allanime.to/bangumi/uFSyY4QxWAhNTdpjM
 # Analytics
 
 <img src="./analytics.png">
