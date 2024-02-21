@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Meiji Gekken 1874 Episode 6
+Episode Name: Chibi Maruko chan 1995 Episode 1282
 
-Episode Link: https://allanime.to/bangumi/rMXmQE8JB9KvjBQAF
+Episode Link: https://allanime.to/bangumi/SuD2BZMM2kjmuqX74
 # Analytics
 
 <img src="./analytics.png">
