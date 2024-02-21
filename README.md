@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kiss Dum R Meguriahi Episode 1
+Episode Name: Tsuki ga Michibiku Isekai Douchuu Season 2 Episode 7
 
-Episode Link: https://allanime.to/bangumi/k78ysYQpM3ScFyHQ6
+Episode Link: https://allanime.to/bangumi/wAMnpBBwaE3fJ8jwH
 # Analytics
 
 <img src="./analytics.png">
