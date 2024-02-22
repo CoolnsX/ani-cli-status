@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yoroiden Samurai Troopers Message Episode 5
+Episode Name: Sengoku Youko Episode 7
 
-Episode Link: https://allanime.to/bangumi/pYWpq3kkYNAj9N3Js
+Episode Link: https://allanime.to/bangumi/Yizintj76S5FYTsHQ
 # Analytics
 
 <img src="./analytics.png">
