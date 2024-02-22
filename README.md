@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tsuki ga Michibiku Isekai Douchuu Season 2 Episode 7
+Episode Name: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 3 Episode 8
 
-Episode Link: https://allanime.to/bangumi/wAMnpBBwaE3fJ8jwH
+Episode Link: https://allanime.to/bangumi/stxNT7nPseF7qjKPY
 # Analytics
 
 <img src="./analytics.png">
