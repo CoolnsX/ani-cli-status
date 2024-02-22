@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 3 Episode 8
+Episode Name: Yoroiden Samurai Troopers Message Episode 5
 
-Episode Link: https://allanime.to/bangumi/stxNT7nPseF7qjKPY
+Episode Link: https://allanime.to/bangumi/pYWpq3kkYNAj9N3Js
 # Analytics
 
 <img src="./analytics.png">
