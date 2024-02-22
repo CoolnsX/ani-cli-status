@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yoroiden Samurai Troopers Message Episode 5
+Episode Name: Atashin chi Episode 293
 
-Episode Link: https://allanime.to/bangumi/pYWpq3kkYNAj9N3Js
+Episode Link: https://allanime.to/bangumi/6bFbQnsqL5rpgonfm
 # Analytics
 
 <img src="./analytics.png">
