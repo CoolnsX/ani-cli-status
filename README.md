@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 18
+Episode Name: Himesama Episode 7
 
-Episode Link: https://allanime.to/bangumi/uFSyY4QxWAhNTdpjM
+Episode Link: https://allanime.to/bangumi/gm3x5QXSqi4symxkA
 # Analytics
 
 <img src="./analytics.png">
