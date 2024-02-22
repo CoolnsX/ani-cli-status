@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 3 Episode 8
+Episode Name: Yami Shibai 12 Episode 6
 
-Episode Link: https://allanime.to/bangumi/stxNT7nPseF7qjKPY
+Episode Link: https://allanime.to/bangumi/5aT8RXJZPd5fZ58Cc
 # Analytics
 
 <img src="./analytics.png">
