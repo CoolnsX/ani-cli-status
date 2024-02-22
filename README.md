@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 97
+Episode Name: Yoroiden Samurai Troopers Message Episode 5
 
-Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
+Episode Link: https://allanime.to/bangumi/pYWpq3kkYNAj9N3Js
 # Analytics
 
 <img src="./analytics.png">
