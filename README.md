@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yuuki Bakuhatsu Bang Bravern Episode 7
+Episode Name: Metallic Rouge Episode 7
 
-Episode Link: https://allanime.to/bangumi/vaYzfEyGx9srsqxEB
+Episode Link: https://allanime.to/bangumi/B7za4gxKoX29zhoJj
 # Analytics
 
 <img src="./analytics.png">
