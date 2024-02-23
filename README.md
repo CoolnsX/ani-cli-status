@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gekkan Mousou Kagaku Episode 7
+Episode Name: Dog Signal Episode 16
 
-Episode Link: https://allanime.to/bangumi/7bPMnZXa8RwBAKk8m
+Episode Link: https://allanime.to/bangumi/v9DffEbsv3biuT8Fj
 # Analytics
 
 <img src="./analytics.png">
