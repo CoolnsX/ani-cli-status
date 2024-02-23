@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gekai Elise Episode 7
+Episode Name: Kinnikuman Episode 123
 
-Episode Link: https://allanime.to/bangumi/mGaHcntidkmZPgzty
+Episode Link: https://allanime.to/bangumi/pNi8AYhvc7Tp5JayR
 # Analytics
 
 <img src="./analytics.png">
