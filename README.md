@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 105
+Episode Name: Mahou Shoujo ni Akogarete Episode 8
 
-Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
+Episode Link: https://allanime.to/bangumi/4aNbbfC9i3hDuerc3
 # Analytics
 
 <img src="./analytics.png">
