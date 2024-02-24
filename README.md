@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 30 sai made Doutei dato Mahoutsukai ni Nareru Rashii Episode 7
+Episode Name: Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita Episode 7
 
-Episode Link: https://allanime.to/bangumi/7ntLKRbCzSv5tpfPy
+Episode Link: https://allanime.to/bangumi/LxcdsrESihzcoQFCd
 # Analytics
 
 <img src="./analytics.png">
