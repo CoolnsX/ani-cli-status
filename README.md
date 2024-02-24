@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Pon no Michi Episode 8
+Episode Name: Attacker You Episode 50
 
-Episode Link: https://allanime.to/bangumi/6cs2C347Cn66LZw9p
+Episode Link: https://allanime.to/bangumi/jEgr3unzEo2xch3n9
 # Analytics
 
 <img src="./analytics.png">
