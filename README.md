@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Snack Basue Episode 7
+Episode Name: Amrita no Kyouen Episode 1
 
-Episode Link: https://allanime.to/bangumi/nACCHP44xeLbSd5Nx
+Episode Link: https://allanime.to/bangumi/x3H8ZJvR78u7FgCr3
 # Analytics
 
 <img src="./analytics.png">
