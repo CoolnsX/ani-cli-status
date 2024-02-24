@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita Episode 7
+Episode Name: Boku no Kokoro no Yabai Yatsu Season 2 Episode 8
 
-Episode Link: https://allanime.to/bangumi/LxcdsrESihzcoQFCd
+Episode Link: https://allanime.to/bangumi/gQ2khnXZe8dNsQH7n
 # Analytics
 
 <img src="./analytics.png">
