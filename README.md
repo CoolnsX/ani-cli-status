@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Attacker You Episode 50
+Episode Name: Great Pretender Razbliuto Episode 1
 
-Episode Link: https://allanime.to/bangumi/jEgr3unzEo2xch3n9
+Episode Link: https://allanime.to/bangumi/zdWqbFezQuRcqdmJd
 # Analytics
 
 <img src="./analytics.png">
