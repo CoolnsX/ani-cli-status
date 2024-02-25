@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bucchigiri Episode 6 5
+Episode Name: Urusei Yatsura 2022 Season 2 Episode 7
 
-Episode Link: https://allanime.to/bangumi/zejasyeXCCabLetyw
+Episode Link: https://allanime.to/bangumi/L4kJqGSfFQsHAbAgy
 # Analytics
 
 <img src="./analytics.png">
