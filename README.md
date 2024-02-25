@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Snack Basue Episode 7
+Episode Name: I Cinnamoroll Animation Episode 20
 
-Episode Link: https://allanime.to/bangumi/nACCHP44xeLbSd5Nx
+Episode Link: https://allanime.to/bangumi/6EfRM3du3WQCZ36de
 # Analytics
 
 <img src="./analytics.png">
