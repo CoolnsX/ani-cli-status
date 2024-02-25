@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren Episode 24
+Episode Name: Momochi san Chi no Ayakashi Ouji Episode 8
 
-Episode Link: https://allanime.to/bangumi/ReHMC7TQnch3C6z8j
+Episode Link: https://allanime.to/bangumi/HP56kbgq9d96kYRaL
 # Analytics
 
 <img src="./analytics.png">
