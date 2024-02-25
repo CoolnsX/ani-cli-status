@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiyu Mahou no Machigatta Tsukaikata Episode 8
+Episode Name: Great Pretender Razbliuto Episode 1
 
-Episode Link: https://allanime.to/bangumi/E2p5RuqwcpJG3PDMd
+Episode Link: https://allanime.to/bangumi/zdWqbFezQuRcqdmJd
 # Analytics
 
 <img src="./analytics.png">
