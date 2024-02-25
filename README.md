@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 98
+Episode Name: Magical★Taruruuto kun Episode 45
 
-Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
+Episode Link: https://allanime.to/bangumi/yTszgTsufjJcz6AZc
 # Analytics
 
 <img src="./analytics.png">
