@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Magical★Taruruuto kun Episode 45
+Episode Name: Bucchigiri Episode 6 5
 
-Episode Link: https://allanime.to/bangumi/yTszgTsufjJcz6AZc
+Episode Link: https://allanime.to/bangumi/zejasyeXCCabLetyw
 # Analytics
 
 <img src="./analytics.png">
