@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bucchigiri Episode 6 5
+Episode Name: Oroka na Tenshi wa Akuma to Odoru Episode 8
 
-Episode Link: https://allanime.to/bangumi/zejasyeXCCabLetyw
+Episode Link: https://allanime.to/bangumi/APuv5fsuAR6XzJNDG
 # Analytics
 
 <img src="./analytics.png">
