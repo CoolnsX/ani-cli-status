@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 12 Episode 7
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 21
 
-Episode Link: https://allanime.to/bangumi/5aT8RXJZPd5fZ58Cc
+Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
 # Analytics
 
 <img src="./analytics.png">
