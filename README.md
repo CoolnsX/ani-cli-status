@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Oroka na Tenshi wa Akuma to Odoru Episode 8
+Episode Name: Ao no Exorcist Shimane Illuminati hen Episode 8
 
-Episode Link: https://allanime.to/bangumi/APuv5fsuAR6XzJNDG
+Episode Link: https://allanime.to/bangumi/kBGvk4bv7Jhdr7YXt
 # Analytics
 
 <img src="./analytics.png">
