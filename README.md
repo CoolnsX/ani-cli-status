@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiyu Mahou no Machigatta Tsukaikata Episode 8
+Episode Name: Ninja Kamui Episode 3
 
-Episode Link: https://allanime.to/bangumi/E2p5RuqwcpJG3PDMd
+Episode Link: https://allanime.to/bangumi/d4jETNjQEAhJCtarN
 # Analytics
 
 <img src="./analytics.png">
