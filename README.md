@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Kokoro no Yabai Yatsu Season 2 Episode 8
+Episode Name: Kyuujitsu no Warumono san Episode 8
 
-Episode Link: https://allanime.to/bangumi/gQ2khnXZe8dNsQH7n
+Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
 # Analytics
 
 <img src="./analytics.png">
