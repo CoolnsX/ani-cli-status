@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Momochi san Chi no Ayakashi Ouji Episode 8
+Episode Name: Chiyu Mahou no Machigatta Tsukaikata Episode 8
 
-Episode Link: https://allanime.to/bangumi/HP56kbgq9d96kYRaL
+Episode Link: https://allanime.to/bangumi/E2p5RuqwcpJG3PDMd
 # Analytics
 
 <img src="./analytics.png">
