@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kingdom Season 5 Episode 7
+Episode Name: Yubisaki to Renren Episode 8
 
-Episode Link: https://allanime.to/bangumi/gZ77jGXtgPahTZgvc
+Episode Link: https://allanime.to/bangumi/o8YCK7AqhafEYK4Xy
 # Analytics
 
 <img src="./analytics.png">
