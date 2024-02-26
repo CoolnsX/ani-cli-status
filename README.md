@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Snack Basue Episode 7
+Episode Name: Kingdom Season 5 Episode 7
 
-Episode Link: https://allanime.to/bangumi/nACCHP44xeLbSd5Nx
+Episode Link: https://allanime.to/bangumi/gZ77jGXtgPahTZgvc
 # Analytics
 
 <img src="./analytics.png">
