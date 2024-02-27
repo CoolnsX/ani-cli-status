@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Magical★Taruruuto kun Episode 45
+Episode Name: Ninja Kamui Episode 3
 
-Episode Link: https://allanime.to/bangumi/yTszgTsufjJcz6AZc
+Episode Link: https://allanime.to/bangumi/d4jETNjQEAhJCtarN
 # Analytics
 
 <img src="./analytics.png">
