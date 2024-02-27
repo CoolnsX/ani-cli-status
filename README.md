@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Kokoro no Yabai Yatsu Season 2 Episode 8
+Episode Name: Shaman King Flowers Episode 7
 
-Episode Link: https://allanime.to/bangumi/gQ2khnXZe8dNsQH7n
+Episode Link: https://allanime.to/bangumi/ntG98PMbjxM7DJd6t
 # Analytics
 
 <img src="./analytics.png">
