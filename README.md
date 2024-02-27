@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 45
+Episode Name: Dr Slump Arale chan Episode 154
 
-Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
+Episode Link: https://allanime.to/bangumi/PGqQKyyef49RWDzsc
 # Analytics
 
 <img src="./analytics.png">
