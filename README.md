@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 38
+Episode Name: Kyuujitsu no Warumono san Episode 8
 
-Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
+Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
 # Analytics
 
 <img src="./analytics.png">
