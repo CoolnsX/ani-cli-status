@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 154
+Episode Name: Mashle Shinkakusha Kouho Senbatsu Shiken hen Episode 7
 
-Episode Link: https://allanime.to/bangumi/PGqQKyyef49RWDzsc
+Episode Link: https://allanime.to/bangumi/pHvWXYLR3i26pTchn
 # Analytics
 
 <img src="./analytics.png">
