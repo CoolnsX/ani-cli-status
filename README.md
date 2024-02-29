@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 30 sai made Doutei dato Mahoutsukai ni Nareru Rashii Episode 8
+Episode Name: Oroka na Tenshi wa Akuma to Odoru Episode 8
 
-Episode Link: https://allanime.to/bangumi/7ntLKRbCzSv5tpfPy
+Episode Link: https://allanime.to/bangumi/APuv5fsuAR6XzJNDG
 # Analytics
 
 <img src="./analytics.png">
