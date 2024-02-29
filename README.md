@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: I Cinnamoroll Animation Episode 20
+Episode Name: 30 sai made Doutei dato Mahoutsukai ni Nareru Rashii Episode 8
 
-Episode Link: https://allanime.to/bangumi/6EfRM3du3WQCZ36de
+Episode Link: https://allanime.to/bangumi/7ntLKRbCzSv5tpfPy
 # Analytics
 
 <img src="./analytics.png">
