@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Synduality Noir Part 2 Episode 8
+Episode Name: Sabaku no Kaizoku Captain Kuppa Episode 2
 
-Episode Link: https://allanime.to/bangumi/JRWYoQkZMtv6L7GoH
+Episode Link: https://allanime.to/bangumi/4ohEwgWqberPY3vdF
 # Analytics
 
 <img src="./analytics.png">
