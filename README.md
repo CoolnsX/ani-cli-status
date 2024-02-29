@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Synduality Noir Part 2 Episode 8
+Episode Name: I Cinnamoroll Animation Episode 20
 
-Episode Link: https://allanime.to/bangumi/JRWYoQkZMtv6L7GoH
+Episode Link: https://allanime.to/bangumi/6EfRM3du3WQCZ36de
 # Analytics
 
 <img src="./analytics.png">
