@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikari no Ou Episode 17
+Episode Name: Shangri La Frontier Kusoge Hunter Kamige ni Idoman to su Episode 20
 
-Episode Link: https://allanime.to/bangumi/rjx39fbf9qNciPL6H
+Episode Link: https://allanime.to/bangumi/Q4Aj2B9wj6hvbF3H5
 # Analytics
 
 <img src="./analytics.png">
