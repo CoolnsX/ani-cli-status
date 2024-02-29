@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 45
+Episode Name: Synduality Noir Part 2 Episode 8
 
-Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
+Episode Link: https://allanime.to/bangumi/JRWYoQkZMtv6L7GoH
 # Analytics
 
 <img src="./analytics.png">
