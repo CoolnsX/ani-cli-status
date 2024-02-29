@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: I Cinnamoroll Animation Episode 20
+Episode Name: Kyuujitsu no Warumono san Episode 8
 
-Episode Link: https://allanime.to/bangumi/6EfRM3du3WQCZ36de
+Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
 # Analytics
 
 <img src="./analytics.png">
