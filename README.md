@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninja Kamui Episode 3
+Episode Name: Ochibi san Episode 18
 
-Episode Link: https://allanime.to/bangumi/d4jETNjQEAhJCtarN
+Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
 # Analytics
 
 <img src="./analytics.png">
