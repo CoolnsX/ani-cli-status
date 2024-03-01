@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chou Futsuu Ken Chiba Densetsu Episode 7
+Episode Name: Majo to Yajuu Episode 7
 
-Episode Link: https://allanime.to/bangumi/HRL5XyakzpGWf4qZ3
+Episode Link: https://allanime.to/bangumi/2v4KDrTo5SDv5dGYB
 # Analytics
 
 <img src="./analytics.png">
