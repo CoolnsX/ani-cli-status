@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dosanko Gal wa Namara Menkoi Episode 8
+Episode Name: Ochibi san Episode 18
 
-Episode Link: https://allanime.to/bangumi/HRspExAjMCuZDqKAq
+Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
 # Analytics
 
 <img src="./analytics.png">
