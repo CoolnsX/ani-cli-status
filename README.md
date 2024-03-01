@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sabaku no Kaizoku Captain Kuppa Episode 2
+Episode Name: Yuuki Bakuhatsu Bang Bravern Episode 8
 
-Episode Link: https://allanime.to/bangumi/4ohEwgWqberPY3vdF
+Episode Link: https://allanime.to/bangumi/vaYzfEyGx9srsqxEB
 # Analytics
 
 <img src="./analytics.png">
