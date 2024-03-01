@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 12 Episode 7
+Episode Name: Hikari no Ou Episode 17
 
-Episode Link: https://allanime.to/bangumi/5aT8RXJZPd5fZ58Cc
+Episode Link: https://allanime.to/bangumi/rjx39fbf9qNciPL6H
 # Analytics
 
 <img src="./analytics.png">
