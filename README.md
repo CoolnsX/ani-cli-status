@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 20
+Episode Name: Momochi san Chi no Ayakashi Ouji Episode 9
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/HP56kbgq9d96kYRaL
 # Analytics
 
 <img src="./analytics.png">
