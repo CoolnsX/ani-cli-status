@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Momochi san Chi no Ayakashi Ouji Episode 9
+Episode Name: Sasaki to Pii chan Episode 9
 
-Episode Link: https://allanime.to/bangumi/HP56kbgq9d96kYRaL
+Episode Link: https://allanime.to/bangumi/CPuqdHCgchMp88fLj
 # Analytics
 
 <img src="./analytics.png">
