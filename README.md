@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shaman King Flowers Episode 7
+Episode Name: Metallic Rouge Episode 8
 
-Episode Link: https://allanime.to/bangumi/ntG98PMbjxM7DJd6t
+Episode Link: https://allanime.to/bangumi/B7za4gxKoX29zhoJj
 # Analytics
 
 <img src="./analytics.png">
