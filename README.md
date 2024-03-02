@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sabaku no Kaizoku Captain Kuppa Episode 2
+Episode Name: Fight Da Pyuta Episode 7
 
-Episode Link: https://allanime.to/bangumi/4ohEwgWqberPY3vdF
+Episode Link: https://allanime.to/bangumi/323MysWjiWKRZ2XsB
 # Analytics
 
 <img src="./analytics.png">
