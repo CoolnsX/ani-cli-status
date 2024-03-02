@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Pon no Michi Episode 9
+Episode Name: Gekkan Mousou Kagaku Episode 8
 
-Episode Link: https://allanime.to/bangumi/6cs2C347Cn66LZw9p
+Episode Link: https://allanime.to/bangumi/7bPMnZXa8RwBAKk8m
 # Analytics
 
 <img src="./analytics.png">
