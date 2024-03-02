@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Momochi san Chi no Ayakashi Ouji Episode 9
+Episode Name: Gekkan Mousou Kagaku Episode 8
 
-Episode Link: https://allanime.to/bangumi/HP56kbgq9d96kYRaL
+Episode Link: https://allanime.to/bangumi/7bPMnZXa8RwBAKk8m
 # Analytics
 
 <img src="./analytics.png">
