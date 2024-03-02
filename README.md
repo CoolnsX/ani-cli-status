@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahou Shoujo ni Akogarete Episode 9
+Episode Name: Chiikawa Episode 81
 
-Episode Link: https://allanime.to/bangumi/4aNbbfC9i3hDuerc3
+Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
 # Analytics
 
 <img src="./analytics.png">
