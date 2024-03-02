@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kusuriya no Hitorigoto Episode 21
+Episode Name: Majo to Yajuu Episode 7
 
-Episode Link: https://allanime.to/bangumi/h4PMucgQwndzYNNxS
+Episode Link: https://allanime.to/bangumi/2v4KDrTo5SDv5dGYB
 # Analytics
 
 <img src="./analytics.png">
