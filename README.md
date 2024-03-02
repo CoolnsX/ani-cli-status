@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Majo to Yajuu Episode 7
+Episode Name: Nozomanu Fushi no Boukensha Episode 9
 
-Episode Link: https://allanime.to/bangumi/2v4KDrTo5SDv5dGYB
+Episode Link: https://allanime.to/bangumi/7ukoqggR93e4JgX6W
 # Analytics
 
 <img src="./analytics.png">
