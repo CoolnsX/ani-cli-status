@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Metallic Rouge Episode 8
+Episode Name: Pon no Michi Episode 9
 
-Episode Link: https://allanime.to/bangumi/B7za4gxKoX29zhoJj
+Episode Link: https://allanime.to/bangumi/6cs2C347Cn66LZw9p
 # Analytics
 
 <img src="./analytics.png">
