@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ao no Exorcist Shimane Illuminati hen Episode 9
+Episode Name: Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node Henkyou de Slow Life suru Koto ni Shimashita 2nd Episode 9
 
-Episode Link: https://allanime.to/bangumi/kBGvk4bv7Jhdr7YXt
+Episode Link: https://allanime.to/bangumi/ZmChPEkvpsKhoCaRA
 # Analytics
 
 <img src="./analytics.png">
