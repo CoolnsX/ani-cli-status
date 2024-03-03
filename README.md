@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gekkan Mousou Kagaku Episode 8
+Episode Name: 1P Episode 1096
 
-Episode Link: https://allanime.to/bangumi/7bPMnZXa8RwBAKk8m
+Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
 # Analytics
 
 <img src="./analytics.png">
