@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Fight Da Pyuta Episode 7
+Episode Name: Gekkan Mousou Kagaku Episode 8
 
-Episode Link: https://allanime.to/bangumi/323MysWjiWKRZ2XsB
+Episode Link: https://allanime.to/bangumi/7bPMnZXa8RwBAKk8m
 # Analytics
 
 <img src="./analytics.png">
