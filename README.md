@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mato Seihei no Slave Episode 9
+Episode Name: Pururun Shizuku chan Aha Episode 42
 
-Episode Link: https://allanime.to/bangumi/vJ44WDkmbGFGN7giL
+Episode Link: https://allanime.to/bangumi/ygyYy7jXgkHtLZFTH
 # Analytics
 
 <img src="./analytics.png">
