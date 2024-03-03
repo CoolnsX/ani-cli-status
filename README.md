@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ore dake Level Up na Ken Episode 8
+Episode Name: Fight Da Pyuta Episode 7
 
-Episode Link: https://allanime.to/bangumi/DdTHXmTjwHji2aApQ
+Episode Link: https://allanime.to/bangumi/323MysWjiWKRZ2XsB
 # Analytics
 
 <img src="./analytics.png">
