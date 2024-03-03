@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahou no Princess Minky Momo Episode 46
+Episode Name: Ore dake Level Up na Ken Episode 8
 
-Episode Link: https://allanime.to/bangumi/fnrwmpKY7HCLy97Zx
+Episode Link: https://allanime.to/bangumi/DdTHXmTjwHji2aApQ
 # Analytics
 
 <img src="./analytics.png">
