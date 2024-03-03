@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mashle Shinkakusha Kouho Senbatsu Shiken hen Episode 8
+Episode Name: Megumi no Daigo Kyuukoku no Orange Episode 20
 
-Episode Link: https://allanime.to/bangumi/pHvWXYLR3i26pTchn
+Episode Link: https://allanime.to/bangumi/4xD9zpF4dAf8RrAjq
 # Analytics
 
 <img src="./analytics.png">
