@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren ●● no Mahou Episode 10
+Episode Name: Kekkon Yubiwa Monogatari Episode 9
 
-Episode Link: https://allanime.to/bangumi/sG52nbcFo3PfLg6PD
+Episode Link: https://allanime.to/bangumi/jQ646wLb7hzTrnCmt
 # Analytics
 
 <img src="./analytics.png">
