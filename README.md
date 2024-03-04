@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Undead Unluck Episode 21
+Episode Name: Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita Episode 8
 
-Episode Link: https://allanime.to/bangumi/FGE7YDWZgWFCjQju8
+Episode Link: https://allanime.to/bangumi/LxcdsrESihzcoQFCd
 # Analytics
 
 <img src="./analytics.png">
