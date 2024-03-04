@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kyuujitsu no Warumono san Episode 9
+Episode Name: Detective Conan TV Episode 1115
 
-Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
+Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
 # Analytics
 
 <img src="./analytics.png">
