@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yubisaki to Renren Episode 9
+Episode Name: Tousouchuu Great Mission Episode 46
 
-Episode Link: https://allanime.to/bangumi/o8YCK7AqhafEYK4Xy
+Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
 # Analytics
 
 <img src="./analytics.png">
