@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1115
+Episode Name: Ochibi san Episode 19
 
-Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
+Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
 # Analytics
 
 <img src="./analytics.png">
