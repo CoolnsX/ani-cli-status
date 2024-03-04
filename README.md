@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kingdom Season 5 Episode 8
+Episode Name: Pururun Shizuku chan Aha Episode 43
 
-Episode Link: https://allanime.to/bangumi/gZ77jGXtgPahTZgvc
+Episode Link: https://allanime.to/bangumi/ygyYy7jXgkHtLZFTH
 # Analytics
 
 <img src="./analytics.png">
