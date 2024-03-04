@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1096
+Episode Name: Kyuujitsu no Warumono san Episode 9
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
 # Analytics
 
 <img src="./analytics.png">
