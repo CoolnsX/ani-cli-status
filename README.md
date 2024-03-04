@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 46
+Episode Name: Kingdom Season 5 Episode 8
 
-Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
+Episode Link: https://allanime.to/bangumi/gZ77jGXtgPahTZgvc
 # Analytics
 
 <img src="./analytics.png">
