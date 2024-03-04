@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1115
+Episode Name: Dosanko Gal wa Namara Menkoi Episode 9
 
-Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
+Episode Link: https://allanime.to/bangumi/HRspExAjMCuZDqKAq
 # Analytics
 
 <img src="./analytics.png">
