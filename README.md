@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: High Card Season 2 Episode 9
+Episode Name: Kusuriya no Hitorigoto Episode 21
 
-Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
+Episode Link: https://allanime.to/bangumi/h4PMucgQwndzYNNxS
 # Analytics
 
 <img src="./analytics.png">
