@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 46
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 20
 
-Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
+Episode Link: https://allanime.to/bangumi/uFSyY4QxWAhNTdpjM
 # Analytics
 
 <img src="./analytics.png">
