@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node Henkyou de Slow Life suru Koto ni Shimashita 2nd Episode 9
+Episode Name: 1P Episode 1096
 
-Episode Link: https://allanime.to/bangumi/ZmChPEkvpsKhoCaRA
+Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
 # Analytics
 
 <img src="./analytics.png">
