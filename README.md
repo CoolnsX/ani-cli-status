@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Himesama Episode 9
+Episode Name: Tousouchuu Great Mission Episode 46
 
-Episode Link: https://allanime.to/bangumi/gm3x5QXSqi4symxkA
+Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
 # Analytics
 
 <img src="./analytics.png">
