@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikari no Ou Episode 18
+Episode Name: Jaku Chara Tomozaki kun 2nd Stage Episode 10
 
-Episode Link: https://allanime.to/bangumi/rjx39fbf9qNciPL6H
+Episode Link: https://allanime.to/bangumi/iQmXdisx99L6ByYqk
 # Analytics
 
 <img src="./analytics.png">
