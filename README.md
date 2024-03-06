@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan 1995 Episode 1284
+Episode Name: Mashle Shinkakusha Kouho Senbatsu Shiken hen Episode 8
 
-Episode Link: https://allanime.to/bangumi/SuD2BZMM2kjmuqX74
+Episode Link: https://allanime.to/bangumi/pHvWXYLR3i26pTchn
 # Analytics
 
 <img src="./analytics.png">
