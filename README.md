@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Time Bokan Series Gyakuten Ippatsuman Episode 25
+Episode Name: Kyuujitsu no Warumono san Episode 9
 
-Episode Link: https://allanime.to/bangumi/Ffz7aEAMe98zkXAqT
+Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
 # Analytics
 
 <img src="./analytics.png">
