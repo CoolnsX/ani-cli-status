@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ore dake Level Up na Ken Episode 8
+Episode Name: Time Bokan Series Gyakuten Ippatsuman Episode 25
 
-Episode Link: https://allanime.to/bangumi/DdTHXmTjwHji2aApQ
+Episode Link: https://allanime.to/bangumi/Ffz7aEAMe98zkXAqT
 # Analytics
 
 <img src="./analytics.png">
