@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Loop 7 kaime no Akuyaku Reijou wa Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru Episode 9
+Episode Name: Paul no Miracle Daisakusen Episode 40
 
-Episode Link: https://allanime.to/bangumi/FMYz8RG6M5HHxaXBB
+Episode Link: https://allanime.to/bangumi/ENyTLFK8ci6HqDqxD
 # Analytics
 
 <img src="./analytics.png">
