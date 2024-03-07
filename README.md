@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sengoku Youko Episode 9
+Episode Name: Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node Henkyou de Slow Life suru Koto ni Shimashita 2nd Episode 9
 
-Episode Link: https://allanime.to/bangumi/Yizintj76S5FYTsHQ
+Episode Link: https://allanime.to/bangumi/ZmChPEkvpsKhoCaRA
 # Analytics
 
 <img src="./analytics.png">
