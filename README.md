@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: High Card Season 2 Episode 9
+Episode Name: Shaman King Flowers Episode 8
 
-Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
+Episode Link: https://allanime.to/bangumi/ntG98PMbjxM7DJd6t
 # Analytics
 
 <img src="./analytics.png">
