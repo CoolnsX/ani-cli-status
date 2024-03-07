@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Majo to Yajuu Episode 8
+Episode Name: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 3 Episode 10
 
-Episode Link: https://allanime.to/bangumi/2v4KDrTo5SDv5dGYB
+Episode Link: https://allanime.to/bangumi/stxNT7nPseF7qjKPY
 # Analytics
 
 <img src="./analytics.png">
