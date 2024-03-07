@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikari no Ou Season 2 Episode 8
+Episode Name: Sengoku Youko Episode 9
 
-Episode Link: https://allanime.to/bangumi/RwoPzfWufXLr28srm
+Episode Link: https://allanime.to/bangumi/Yizintj76S5FYTsHQ
 # Analytics
 
 <img src="./analytics.png">
