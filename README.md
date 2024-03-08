@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Synduality Noir Part 2 Episode 9
+Episode Name: Tousouchuu Great Mission Episode 46
 
-Episode Link: https://allanime.to/bangumi/JRWYoQkZMtv6L7GoH
+Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
 # Analytics
 
 <img src="./analytics.png">
