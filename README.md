@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 21
+Episode Name: Kinnikuman Episode 124
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/pNi8AYhvc7Tp5JayR
 # Analytics
 
 <img src="./analytics.png">
