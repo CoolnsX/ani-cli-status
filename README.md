@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Idol Land PriPara Episode 6
+Episode Name: Beyblade X Episode 21
 
-Episode Link: https://allanime.to/bangumi/vMPXhG8mfKNtcK8dy
+Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
 # Analytics
 
 <img src="./analytics.png">
