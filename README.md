@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita Episode 9
+Episode Name: Urusei Yatsura 2022 Season 2 Episode 9
 
-Episode Link: https://allanime.to/bangumi/LxcdsrESihzcoQFCd
+Episode Link: https://allanime.to/bangumi/L4kJqGSfFQsHAbAgy
 # Analytics
 
 <img src="./analytics.png">
