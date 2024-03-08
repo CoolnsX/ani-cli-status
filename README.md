@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kinnikuman Episode 124
+Episode Name: Momochi san Chi no Ayakashi Ouji Episode 10
 
-Episode Link: https://allanime.to/bangumi/pNi8AYhvc7Tp5JayR
+Episode Link: https://allanime.to/bangumi/HP56kbgq9d96kYRaL
 # Analytics
 
 <img src="./analytics.png">
