@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Girls Panzer Saishuushou Part 4 Episode 1
+Episode Name: Majo to Yajuu Episode 8
 
-Episode Link: https://allanime.to/bangumi/Ha94bZcr9pSWW2dAi
+Episode Link: https://allanime.to/bangumi/2v4KDrTo5SDv5dGYB
 # Analytics
 
 <img src="./analytics.png">
