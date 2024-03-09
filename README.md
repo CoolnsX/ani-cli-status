@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Oroka na Tenshi wa Akuma to Odoru Episode 9
+Episode Name: Akuyaku Reijou Level 99 Watashi wa Ura Boss desu ga Maou dewa Arimasen Episode 9
 
-Episode Link: https://allanime.to/bangumi/APuv5fsuAR6XzJNDG
+Episode Link: https://allanime.to/bangumi/nBaYmtzM4Qxd6TSCC
 # Analytics
 
 <img src="./analytics.png">
