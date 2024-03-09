@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 21
+Episode Name: Snack Basue Episode 9
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/nACCHP44xeLbSd5Nx
 # Analytics
 
 <img src="./analytics.png">
