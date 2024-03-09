@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita Episode 9
+Episode Name: Yuuki Bakuhatsu Bang Bravern Episode 9
 
-Episode Link: https://allanime.to/bangumi/LxcdsrESihzcoQFCd
+Episode Link: https://allanime.to/bangumi/vaYzfEyGx9srsqxEB
 # Analytics
 
 <img src="./analytics.png">
