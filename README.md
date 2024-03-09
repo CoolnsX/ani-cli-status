@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yuuki Bakuhatsu Bang Bravern Episode 9
+Episode Name: Yubisaki to Renren Episode 10
 
-Episode Link: https://allanime.to/bangumi/vaYzfEyGx9srsqxEB
+Episode Link: https://allanime.to/bangumi/o8YCK7AqhafEYK4Xy
 # Analytics
 
 <img src="./analytics.png">
