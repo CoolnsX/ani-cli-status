@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wonderful Precure Episode 6
+Episode Name: Ore dake Level Up na Ken Episode 9
 
-Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
+Episode Link: https://allanime.to/bangumi/DdTHXmTjwHji2aApQ
 # Analytics
 
 <img src="./analytics.png">
