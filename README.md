@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wonderful Precure Episode 6
+Episode Name: Haikara san ga Tooru Episode 11
 
-Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
+Episode Link: https://allanime.to/bangumi/g75onXMcavsHQ8FH8
 # Analytics
 
 <img src="./analytics.png">
