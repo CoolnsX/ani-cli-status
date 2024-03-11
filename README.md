@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shaman King Flowers Episode 9
+Episode Name: Pururun Shizuku chan Aha Episode 44
 
-Episode Link: https://allanime.to/bangumi/ntG98PMbjxM7DJd6t
+Episode Link: https://allanime.to/bangumi/ygyYy7jXgkHtLZFTH
 # Analytics
 
 <img src="./analytics.png">
