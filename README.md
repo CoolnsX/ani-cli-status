@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Haikara san ga Tooru Episode 11
+Episode Name: Shaman King Flowers Episode 9
 
-Episode Link: https://allanime.to/bangumi/g75onXMcavsHQ8FH8
+Episode Link: https://allanime.to/bangumi/ntG98PMbjxM7DJd6t
 # Analytics
 
 <img src="./analytics.png">
