@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jewelpet Episode 52
+Episode Name: Bikkuriman 2000 Episode 1
 
-Episode Link: https://allanime.to/bangumi/KTP7GNmpkcSeL92zs
+Episode Link: https://allanime.to/bangumi/2xoh9MWWJToMRZtFz
 # Analytics
 
 <img src="./analytics.png">
