@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bikkuriman 2000 Episode 1
+Episode Name: High Card Season 2 Episode 10
 
-Episode Link: https://allanime.to/bangumi/2xoh9MWWJToMRZtFz
+Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
 # Analytics
 
 <img src="./analytics.png">
