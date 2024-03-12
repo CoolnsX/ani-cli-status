@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bucchigiri Episode 8
+Episode Name: Perman 1983 Episode 150
 
-Episode Link: https://allanime.to/bangumi/zejasyeXCCabLetyw
+Episode Link: https://allanime.to/bangumi/Jke3SKvdRvyBj6dzR
 # Analytics
 
 <img src="./analytics.png">
