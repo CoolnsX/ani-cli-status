@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninja Kamui Episode 5
+Episode Name: Kusuriya no Hitorigoto Episode 22
 
-Episode Link: https://allanime.to/bangumi/d4jETNjQEAhJCtarN
+Episode Link: https://allanime.to/bangumi/h4PMucgQwndzYNNxS
 # Analytics
 
 <img src="./analytics.png">
