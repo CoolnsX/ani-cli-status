@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Perman 1983 Episode 150
+Episode Name: Sousou no Frieren ●● no Mahou Episode 11
 
-Episode Link: https://allanime.to/bangumi/Jke3SKvdRvyBj6dzR
+Episode Link: https://allanime.to/bangumi/sG52nbcFo3PfLg6PD
 # Analytics
 
 <img src="./analytics.png">
