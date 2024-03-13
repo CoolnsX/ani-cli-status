@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: High Card Season 2 Episode 10
+Episode Name: Dosanko Gal wa Namara Menkoi Episode 10
 
-Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
+Episode Link: https://allanime.to/bangumi/HRspExAjMCuZDqKAq
 # Analytics
 
 <img src="./analytics.png">
