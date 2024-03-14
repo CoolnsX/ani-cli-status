@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sokushi Cheat ga Saikyou sugite Isekai no Yatsura ga Marude Aite ni Naranai n desu ga Episode 11
+Episode Name: 30 sai made Doutei dato Mahoutsukai ni Nareru Rashii Episode 10
 
-Episode Link: https://allanime.to/bangumi/pgG55CyYEDacBfXc4
+Episode Link: https://allanime.to/bangumi/7ntLKRbCzSv5tpfPy
 # Analytics
 
 <img src="./analytics.png">
