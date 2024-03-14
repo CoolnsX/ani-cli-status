@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Atashin chi Episode 320
+Episode Name: Haai Step Jun Episode 18
 
-Episode Link: https://allanime.to/bangumi/6bFbQnsqL5rpgonfm
+Episode Link: https://allanime.to/bangumi/5dC9GDoPPJ5agJg2C
 # Analytics
 
 <img src="./analytics.png">
