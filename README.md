@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gekai Elise Episode 10
+Episode Name: Dog Signal Episode 19
 
-Episode Link: https://allanime.to/bangumi/mGaHcntidkmZPgzty
+Episode Link: https://allanime.to/bangumi/v9DffEbsv3biuT8Fj
 # Analytics
 
 <img src="./analytics.png">
