@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahou Shoujo ni Akogarete Episode 11
+Episode Name: Haai Step Jun Episode 18
 
-Episode Link: https://allanime.to/bangumi/4aNbbfC9i3hDuerc3
+Episode Link: https://allanime.to/bangumi/5dC9GDoPPJ5agJg2C
 # Analytics
 
 <img src="./analytics.png">
