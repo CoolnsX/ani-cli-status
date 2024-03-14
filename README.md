@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dog Signal Episode 19
+Episode Name: Minami no Niji no Lucy Episode 17
 
-Episode Link: https://allanime.to/bangumi/v9DffEbsv3biuT8Fj
+Episode Link: https://allanime.to/bangumi/X7PffJcuAthGCcLkd
 # Analytics
 
 <img src="./analytics.png">
