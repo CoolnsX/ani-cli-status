@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Minami no Niji no Lucy Episode 17
+Episode Name: Mato Seihei no Slave Episode 11
 
-Episode Link: https://allanime.to/bangumi/X7PffJcuAthGCcLkd
+Episode Link: https://allanime.to/bangumi/vJ44WDkmbGFGN7giL
 # Analytics
 
 <img src="./analytics.png">
