@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Get Ride AMDriver Episode 14
+Episode Name: Akuyaku Reijou Level 99 Watashi wa Ura Boss desu ga Maou dewa Arimasen Episode 10
 
-Episode Link: https://allanime.to/bangumi/cdAPifbqMNNqAow4A
+Episode Link: https://allanime.to/bangumi/nBaYmtzM4Qxd6TSCC
 # Analytics
 
 <img src="./analytics.png">
