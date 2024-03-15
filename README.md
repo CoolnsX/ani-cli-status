@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gekitou Crush Gear Turbo Episode 27
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 21
 
-Episode Link: https://allanime.to/bangumi/FiBjL7gXyazPCf22M
+Episode Link: https://allanime.to/bangumi/uFSyY4QxWAhNTdpjM
 # Analytics
 
 <img src="./analytics.png">
