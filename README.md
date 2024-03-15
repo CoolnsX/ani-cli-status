@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ishura Episode 11
+Episode Name: Ninjala Episode 108
 
-Episode Link: https://allanime.to/bangumi/7RKs6LwFnpD3KgDoN
+Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
 # Analytics
 
 <img src="./analytics.png">
