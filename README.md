@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gekitou Crush Gear Turbo Episode 27
+Episode Name: Get Ride AMDriver Episode 14
 
-Episode Link: https://allanime.to/bangumi/FiBjL7gXyazPCf22M
+Episode Link: https://allanime.to/bangumi/cdAPifbqMNNqAow4A
 # Analytics
 
 <img src="./analytics.png">
