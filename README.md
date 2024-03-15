@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: High Card Season 2 Episode 10
+Episode Name: Gekitou Crush Gear Turbo Episode 27
 
-Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
+Episode Link: https://allanime.to/bangumi/FiBjL7gXyazPCf22M
 # Analytics
 
 <img src="./analytics.png">
