@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dungeon Meshi Episode 11
+Episode Name: Metallic Rouge Episode 10
 
-Episode Link: https://allanime.to/bangumi/gAcGCcMENjbWhBnR9
+Episode Link: https://allanime.to/bangumi/B7za4gxKoX29zhoJj
 # Analytics
 
 <img src="./analytics.png">
