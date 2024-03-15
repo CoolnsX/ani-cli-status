@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Get Ride AMDriver Episode 14
+Episode Name: Minami no Niji no Lucy Episode 17
 
-Episode Link: https://allanime.to/bangumi/cdAPifbqMNNqAow4A
+Episode Link: https://allanime.to/bangumi/X7PffJcuAthGCcLkd
 # Analytics
 
 <img src="./analytics.png">
