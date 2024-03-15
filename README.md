@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 108
+Episode Name: High Card Season 2 Episode 10
 
-Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
+Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
 # Analytics
 
 <img src="./analytics.png">
