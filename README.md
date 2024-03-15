@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kyousou Giga Episode 1
+Episode Name: Sousou no Frieren Episode 27
 
-Episode Link: https://allanime.to/bangumi/W7WEF89jW5BZewvx6
+Episode Link: https://allanime.to/bangumi/ReHMC7TQnch3C6z8j
 # Analytics
 
 <img src="./analytics.png">
