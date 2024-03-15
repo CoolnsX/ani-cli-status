@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Pururun Shizuku chan Aha Episode 48
+Episode Name: Kyousou Giga Episode 1
 
-Episode Link: https://allanime.to/bangumi/ygyYy7jXgkHtLZFTH
+Episode Link: https://allanime.to/bangumi/W7WEF89jW5BZewvx6
 # Analytics
 
 <img src="./analytics.png">
