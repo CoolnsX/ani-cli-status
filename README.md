@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Minami no Niji no Lucy Episode 17
+Episode Name: Bikkuriman 2000 Episode 1
 
-Episode Link: https://allanime.to/bangumi/X7PffJcuAthGCcLkd
+Episode Link: https://allanime.to/bangumi/2xoh9MWWJToMRZtFz
 # Analytics
 
 <img src="./analytics.png">
