@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Atashin chi Episode 320
+Episode Name: Gekitou Crush Gear Turbo Episode 27
 
-Episode Link: https://allanime.to/bangumi/6bFbQnsqL5rpgonfm
+Episode Link: https://allanime.to/bangumi/FiBjL7gXyazPCf22M
 # Analytics
 
 <img src="./analytics.png">
