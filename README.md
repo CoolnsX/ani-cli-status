@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 108
+Episode Name: Kyousou Giga Episode 1
 
-Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
+Episode Link: https://allanime.to/bangumi/W7WEF89jW5BZewvx6
 # Analytics
 
 <img src="./analytics.png">
