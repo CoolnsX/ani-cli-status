@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nozomanu Fushi no Boukensha Episode 11
+Episode Name: Urusei Yatsura 2022 Season 2 Episode 10
 
-Episode Link: https://allanime.to/bangumi/7ukoqggR93e4JgX6W
+Episode Link: https://allanime.to/bangumi/L4kJqGSfFQsHAbAgy
 # Analytics
 
 <img src="./analytics.png">
