@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 83
+Episode Name: Ragna Crimson Episode 22
 
-Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
+Episode Link: https://allanime.to/bangumi/xmfsBA3GDvMTyNrza
 # Analytics
 
 <img src="./analytics.png">
