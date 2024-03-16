@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sousou no Frieren Episode 27
+Episode Name: Oroka na Tenshi wa Akuma to Odoru Episode 10
 
-Episode Link: https://allanime.to/bangumi/ReHMC7TQnch3C6z8j
+Episode Link: https://allanime.to/bangumi/APuv5fsuAR6XzJNDG
 # Analytics
 
 <img src="./analytics.png">
