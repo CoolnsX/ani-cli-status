@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kyousou Giga Episode 1
+Episode Name: Atashin chi Episode 320
 
-Episode Link: https://allanime.to/bangumi/W7WEF89jW5BZewvx6
+Episode Link: https://allanime.to/bangumi/6bFbQnsqL5rpgonfm
 # Analytics
 
 <img src="./analytics.png">
