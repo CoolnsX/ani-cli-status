@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gekitou Crush Gear Turbo Episode 27
+Episode Name: The♥Kabocha Wine Nita no Aijou Monogatari Episode 1
 
-Episode Link: https://allanime.to/bangumi/FiBjL7gXyazPCf22M
+Episode Link: https://allanime.to/bangumi/YgB9L7te7zYaEiwrC
 # Analytics
 
 <img src="./analytics.png">
