@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dungeon Meshi Episode 11
+Episode Name: Gekitou Crush Gear Turbo Episode 27
 
-Episode Link: https://allanime.to/bangumi/gAcGCcMENjbWhBnR9
+Episode Link: https://allanime.to/bangumi/FiBjL7gXyazPCf22M
 # Analytics
 
 <img src="./analytics.png">
