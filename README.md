@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 108
+Episode Name: Boku no Kokoro no Yabai Yatsu Season 2 Episode 11
 
-Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
+Episode Link: https://allanime.to/bangumi/gQ2khnXZe8dNsQH7n
 # Analytics
 
 <img src="./analytics.png">
