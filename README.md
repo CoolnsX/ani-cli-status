@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The♥Kabocha Wine Nita no Aijou Monogatari Episode 1
+Episode Name: Snack Basue Episode 10
 
-Episode Link: https://allanime.to/bangumi/YgB9L7te7zYaEiwrC
+Episode Link: https://allanime.to/bangumi/nACCHP44xeLbSd5Nx
 # Analytics
 
 <img src="./analytics.png">
