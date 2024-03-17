@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita Episode 10
+Episode Name: Ninjala Episode 108
 
-Episode Link: https://allanime.to/bangumi/LxcdsrESihzcoQFCd
+Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
 # Analytics
 
 <img src="./analytics.png">
