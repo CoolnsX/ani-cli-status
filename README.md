@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Pon no Michi Episode 11
+Episode Name: Chiyu Mahou no Machigatta Tsukaikata Episode 11
 
-Episode Link: https://allanime.to/bangumi/6cs2C347Cn66LZw9p
+Episode Link: https://allanime.to/bangumi/E2p5RuqwcpJG3PDMd
 # Analytics
 
 <img src="./analytics.png">
