@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hikari no Ou Episode 20
+Episode Name: Himesama Episode 11
 
-Episode Link: https://allanime.to/bangumi/rjx39fbf9qNciPL6H
+Episode Link: https://allanime.to/bangumi/gm3x5QXSqi4symxkA
 # Analytics
 
 <img src="./analytics.png">
