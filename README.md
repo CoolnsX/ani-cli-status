@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Pururun Shizuku chan Aha Episode 50
+Episode Name: Perman 1983 Episode 295
 
-Episode Link: https://allanime.to/bangumi/ygyYy7jXgkHtLZFTH
+Episode Link: https://allanime.to/bangumi/Jke3SKvdRvyBj6dzR
 # Analytics
 
 <img src="./analytics.png">
