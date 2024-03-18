@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Momochi san Chi no Ayakashi Ouji Episode 11
+Episode Name: Nozomanu Fushi no Boukensha Episode 11
 
-Episode Link: https://allanime.to/bangumi/HP56kbgq9d96kYRaL
+Episode Link: https://allanime.to/bangumi/7ukoqggR93e4JgX6W
 # Analytics
 
 <img src="./analytics.png">
