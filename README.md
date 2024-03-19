@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ragna Crimson Episode 22
+Episode Name: Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node Henkyou de Slow Life suru Koto ni Shimashita 2nd Episode 11
 
-Episode Link: https://allanime.to/bangumi/xmfsBA3GDvMTyNrza
+Episode Link: https://allanime.to/bangumi/ZmChPEkvpsKhoCaRA
 # Analytics
 
 <img src="./analytics.png">
