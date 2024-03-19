@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tsuki ga Michibiku Isekai Douchuu Season 2 Episode 11
+Episode Name: Kekkon Yubiwa Monogatari Episode 11
 
-Episode Link: https://allanime.to/bangumi/wAMnpBBwaE3fJ8jwH
+Episode Link: https://allanime.to/bangumi/jQ646wLb7hzTrnCmt
 # Analytics
 
 <img src="./analytics.png">
