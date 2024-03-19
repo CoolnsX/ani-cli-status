@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Magical Hat Episode 28
+Episode Name: Kyuujitsu no Warumono san Episode 11
 
-Episode Link: https://allanime.to/bangumi/PcwGeam6n37zsDya5
+Episode Link: https://allanime.to/bangumi/yqo9T8EPZg7Qtqwei
 # Analytics
 
 <img src="./analytics.png">
