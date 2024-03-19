@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Meiji Gekken 1874 Episode 10
+Episode Name: Yami Shibai 12 Episode 10
 
-Episode Link: https://allanime.to/bangumi/rMXmQE8JB9KvjBQAF
+Episode Link: https://allanime.to/bangumi/5aT8RXJZPd5fZ58Cc
 # Analytics
 
 <img src="./analytics.png">
