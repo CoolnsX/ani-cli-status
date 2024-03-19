@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mashle Shinkakusha Kouho Senbatsu Shiken hen Episode 10
+Episode Name: Meiji Gekken 1874 Episode 10
 
-Episode Link: https://allanime.to/bangumi/pHvWXYLR3i26pTchn
+Episode Link: https://allanime.to/bangumi/rMXmQE8JB9KvjBQAF
 # Analytics
 
 <img src="./analytics.png">
