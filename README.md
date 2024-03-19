@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Meiji Gekken 1874 Episode 10
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 101
 
-Episode Link: https://allanime.to/bangumi/rMXmQE8JB9KvjBQAF
+Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
 # Analytics
 
 <img src="./analytics.png">
