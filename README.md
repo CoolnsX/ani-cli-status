@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Kokoro no Yabai Yatsu Season 2 Episode 11
+Episode Name: Meiji Gekken 1874 Episode 10
 
-Episode Link: https://allanime.to/bangumi/gQ2khnXZe8dNsQH7n
+Episode Link: https://allanime.to/bangumi/rMXmQE8JB9KvjBQAF
 # Analytics
 
 <img src="./analytics.png">
