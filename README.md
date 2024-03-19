@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kekkon Yubiwa Monogatari Episode 11
+Episode Name: Magical Hat Episode 28
 
-Episode Link: https://allanime.to/bangumi/jQ646wLb7hzTrnCmt
+Episode Link: https://allanime.to/bangumi/PcwGeam6n37zsDya5
 # Analytics
 
 <img src="./analytics.png">
