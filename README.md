@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saikyou Tank no Meikyuu Kouryaku Tairyoku 9999 no Rare Skill mochi Tank Yuusha Party wo Tsuihou sareru Episode 11
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 101
 
-Episode Link: https://allanime.to/bangumi/4yBS3evHatpsxyDoA
+Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
 # Analytics
 
 <img src="./analytics.png">
