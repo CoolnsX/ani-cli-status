@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mashle Shinkakusha Kouho Senbatsu Shiken hen Episode 10
+Episode Name: Oroka na Tenshi wa Akuma to Odoru Episode 11
 
-Episode Link: https://allanime.to/bangumi/pHvWXYLR3i26pTchn
+Episode Link: https://allanime.to/bangumi/APuv5fsuAR6XzJNDG
 # Analytics
 
 <img src="./analytics.png">
