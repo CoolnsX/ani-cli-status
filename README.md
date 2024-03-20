@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Magical Hat Episode 28
+Episode Name: Dog Signal Episode 20
 
-Episode Link: https://allanime.to/bangumi/PcwGeam6n37zsDya5
+Episode Link: https://allanime.to/bangumi/v9DffEbsv3biuT8Fj
 # Analytics
 
 <img src="./analytics.png">
