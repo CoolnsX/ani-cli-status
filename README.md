@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ochibi san Episode 21
+Episode Name: Mashle Shinkakusha Kouho Senbatsu Shiken hen Episode 10
 
-Episode Link: https://allanime.to/bangumi/tStBqCxgA2zJjWPx5
+Episode Link: https://allanime.to/bangumi/pHvWXYLR3i26pTchn
 # Analytics
 
 <img src="./analytics.png">
