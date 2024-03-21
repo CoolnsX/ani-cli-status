@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shaman King Flowers Episode 10
+Episode Name: Ohayou Spank Episode 14
 
-Episode Link: https://allanime.to/bangumi/ntG98PMbjxM7DJd6t
+Episode Link: https://allanime.to/bangumi/362y7tCsFLzB7tfSd
 # Analytics
 
 <img src="./analytics.png">
