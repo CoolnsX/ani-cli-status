@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Himesama Episode 11
+Episode Name: Kousoku Denjin Albegus Episode 3
 
-Episode Link: https://allanime.to/bangumi/gm3x5QXSqi4symxkA
+Episode Link: https://allanime.to/bangumi/iDedeiJnFevJdKo9S
 # Analytics
 
 <img src="./analytics.png">
