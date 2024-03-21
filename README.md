@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kousoku Denjin Albegus Episode 3
+Episode Name: Sand Land The Series Episode 7
 
-Episode Link: https://allanime.to/bangumi/iDedeiJnFevJdKo9S
+Episode Link: https://allanime.to/bangumi/DTAyAjmAzY3cMb8k4
 # Analytics
 
 <img src="./analytics.png">
