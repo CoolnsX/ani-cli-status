@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 23
+Episode Name: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 3 Episode 12
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/stxNT7nPseF7qjKPY
 # Analytics
 
 <img src="./analytics.png">
