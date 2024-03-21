@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 3 Episode 12
+Episode Name: Tousouchuu Great Mission Episode 47
 
-Episode Link: https://allanime.to/bangumi/stxNT7nPseF7qjKPY
+Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
 # Analytics
 
 <img src="./analytics.png">
