@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 24
+Episode Name: Beyblade X Episode 23
 
-Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
+Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
 # Analytics
 
 <img src="./analytics.png">
