@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gekai Elise Episode 11
+Episode Name: Gekkan Mousou Kagaku Episode 11
 
-Episode Link: https://allanime.to/bangumi/mGaHcntidkmZPgzty
+Episode Link: https://allanime.to/bangumi/7bPMnZXa8RwBAKk8m
 # Analytics
 
 <img src="./analytics.png">
