@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Metallic Rouge Episode 11
+Episode Name: Odekake Kozame Episode 45
 
-Episode Link: https://allanime.to/bangumi/B7za4gxKoX29zhoJj
+Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
 # Analytics
 
 <img src="./analytics.png">
