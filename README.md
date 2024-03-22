@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mato Seihei no Slave Episode 12
+Episode Name: Sousou no Frieren Episode 28
 
-Episode Link: https://allanime.to/bangumi/vJ44WDkmbGFGN7giL
+Episode Link: https://allanime.to/bangumi/ReHMC7TQnch3C6z8j
 # Analytics
 
 <img src="./analytics.png">
