@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 47
+Episode Name: Ninja Hattori kun Episode 9
 
-Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
+Episode Link: https://allanime.to/bangumi/3by7hrwDuPQeokEGj
 # Analytics
 
 <img src="./analytics.png">
