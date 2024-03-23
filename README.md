@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ohayou Spank Episode 14
+Episode Name: 30 sai made Doutei dato Mahoutsukai ni Nareru Rashii Episode 11
 
-Episode Link: https://allanime.to/bangumi/362y7tCsFLzB7tfSd
+Episode Link: https://allanime.to/bangumi/7ntLKRbCzSv5tpfPy
 # Analytics
 
 <img src="./analytics.png">
