@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sasaki to Pii chan Episode 12
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 22
 
-Episode Link: https://allanime.to/bangumi/CPuqdHCgchMp88fLj
+Episode Link: https://allanime.to/bangumi/uFSyY4QxWAhNTdpjM
 # Analytics
 
 <img src="./analytics.png">
