@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 84
+Episode Name: Odekake Kozame Episode 46
 
-Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
+Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
 # Analytics
 
 <img src="./analytics.png">
