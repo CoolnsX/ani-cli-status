@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mato Seihei no Slave Episode 12
+Episode Name: Sasaki to Pii chan Episode 12
 
-Episode Link: https://allanime.to/bangumi/vJ44WDkmbGFGN7giL
+Episode Link: https://allanime.to/bangumi/CPuqdHCgchMp88fLj
 # Analytics
 
 <img src="./analytics.png">
