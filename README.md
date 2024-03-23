@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dog Signal Episode 20
+Episode Name: Ohayou Spank Episode 14
 
-Episode Link: https://allanime.to/bangumi/v9DffEbsv3biuT8Fj
+Episode Link: https://allanime.to/bangumi/362y7tCsFLzB7tfSd
 # Analytics
 
 <img src="./analytics.png">
