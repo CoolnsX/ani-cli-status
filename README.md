@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Oishinbo Episode 47
+Episode Name: Odekake Kozame Episode 46
 
-Episode Link: https://allanime.to/bangumi/x9hvM6xxnXBhhhJCn
+Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
 # Analytics
 
 <img src="./analytics.png">
