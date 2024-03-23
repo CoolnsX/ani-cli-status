@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gekkan Mousou Kagaku Episode 11
+Episode Name: Mahou Shoujo ni Akogarete Episode 12
 
-Episode Link: https://allanime.to/bangumi/7bPMnZXa8RwBAKk8m
+Episode Link: https://allanime.to/bangumi/4aNbbfC9i3hDuerc3
 # Analytics
 
 <img src="./analytics.png">
