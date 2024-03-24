@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ore dake Level Up na Ken Episode 11
+Episode Name: Kusuriya no Hitorigoto Episode 24
 
-Episode Link: https://allanime.to/bangumi/DdTHXmTjwHji2aApQ
+Episode Link: https://allanime.to/bangumi/h4PMucgQwndzYNNxS
 # Analytics
 
 <img src="./analytics.png">
