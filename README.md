@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kyomu Senshi Miroku Episode 6
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 25
 
-Episode Link: https://allanime.to/bangumi/noKFiXjAD9DiXCeb7
+Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
 # Analytics
 
 <img src="./analytics.png">
