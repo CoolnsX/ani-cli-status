@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kingdom Season 5 Episode 11
+Episode Name: Kyomu Senshi Miroku Episode 6
 
-Episode Link: https://allanime.to/bangumi/gZ77jGXtgPahTZgvc
+Episode Link: https://allanime.to/bangumi/noKFiXjAD9DiXCeb7
 # Analytics
 
 <img src="./analytics.png">
