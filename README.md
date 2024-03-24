@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kusuriya no Hitorigoto Episode 24
+Episode Name: Detective Conan TV Episode 1118
 
-Episode Link: https://allanime.to/bangumi/h4PMucgQwndzYNNxS
+Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
 # Analytics
 
 <img src="./analytics.png">
