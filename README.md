@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Lady Georgie Episode 45
+Episode Name: Urusei Yatsura 2022 Season 2 Episode 11
 
-Episode Link: https://allanime.to/bangumi/yYZF3ybbJvms9yBnj
+Episode Link: https://allanime.to/bangumi/L4kJqGSfFQsHAbAgy
 # Analytics
 
 <img src="./analytics.png">
