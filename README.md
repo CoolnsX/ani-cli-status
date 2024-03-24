@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yuuki Bakuhatsu Bang Bravern Episode 11
+Episode Name: Ao no Exorcist Shimane Illuminati hen Episode 12
 
-Episode Link: https://allanime.to/bangumi/vaYzfEyGx9srsqxEB
+Episode Link: https://allanime.to/bangumi/kBGvk4bv7Jhdr7YXt
 # Analytics
 
 <img src="./analytics.png">
