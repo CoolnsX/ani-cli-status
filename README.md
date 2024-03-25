@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 12 Episode 11
+Episode Name: Momochi san Chi no Ayakashi Ouji Episode 12
 
-Episode Link: https://allanime.to/bangumi/5aT8RXJZPd5fZ58Cc
+Episode Link: https://allanime.to/bangumi/HP56kbgq9d96kYRaL
 # Analytics
 
 <img src="./analytics.png">
