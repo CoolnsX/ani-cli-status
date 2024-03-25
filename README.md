@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Pon no Michi Episode 12
+Episode Name: Dosanko Gal wa Namara Menkoi Episode 12
 
-Episode Link: https://allanime.to/bangumi/6cs2C347Cn66LZw9p
+Episode Link: https://allanime.to/bangumi/HRspExAjMCuZDqKAq
 # Analytics
 
 <img src="./analytics.png">
