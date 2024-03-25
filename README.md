@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ao no Exorcist Shimane Illuminati hen Episode 12
+Episode Name: Wonderful Precure Episode 8
 
-Episode Link: https://allanime.to/bangumi/kBGvk4bv7Jhdr7YXt
+Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
 # Analytics
 
 <img src="./analytics.png">
