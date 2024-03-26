@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kekkon Yubiwa Monogatari Episode 12
+Episode Name: Saikyou Tank no Meikyuu Kouryaku Tairyoku 9999 no Rare Skill mochi Tank Yuusha Party wo Tsuihou sareru Episode 12
 
-Episode Link: https://allanime.to/bangumi/jQ646wLb7hzTrnCmt
+Episode Link: https://allanime.to/bangumi/4yBS3evHatpsxyDoA
 # Analytics
 
 <img src="./analytics.png">
