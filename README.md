@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Akuyaku Reijou Level 99 Watashi wa Ura Boss desu ga Maou dewa Arimasen Episode 12
+Episode Name: Kyomu Senshi Miroku Episode 6
 
-Episode Link: https://allanime.to/bangumi/nBaYmtzM4Qxd6TSCC
+Episode Link: https://allanime.to/bangumi/noKFiXjAD9DiXCeb7
 # Analytics
 
 <img src="./analytics.png">
