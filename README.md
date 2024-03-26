@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninja Kamui Episode 7
+Episode Name: Oishinbo Episode 47
 
-Episode Link: https://allanime.to/bangumi/d4jETNjQEAhJCtarN
+Episode Link: https://allanime.to/bangumi/x9hvM6xxnXBhhhJCn
 # Analytics
 
 <img src="./analytics.png">
