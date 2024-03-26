@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yubisaki to Renren Episode 12
+Episode Name: Ragna Crimson Episode 23
 
-Episode Link: https://allanime.to/bangumi/o8YCK7AqhafEYK4Xy
+Episode Link: https://allanime.to/bangumi/xmfsBA3GDvMTyNrza
 # Analytics
 
 <img src="./analytics.png">
