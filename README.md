@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kyomu Senshi Miroku Episode 6
+Episode Name: Getter Robo Go Episode 27
 
-Episode Link: https://allanime.to/bangumi/noKFiXjAD9DiXCeb7
+Episode Link: https://allanime.to/bangumi/LL3bLCEHKd7gPWYjE
 # Analytics
 
 <img src="./analytics.png">
