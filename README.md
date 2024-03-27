@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 156
+Episode Name: Shin Shounan Bakusouzoku Arakure Knight Episode 2
 
-Episode Link: https://allanime.to/bangumi/PGqQKyyef49RWDzsc
+Episode Link: https://allanime.to/bangumi/CPYt8FbMA8tCMQ4F4
 # Analytics
 
 <img src="./analytics.png">
