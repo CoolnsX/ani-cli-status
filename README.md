@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Araiguma Rascal Episode 48
+Episode Name: 1P Episode 1098
 
-Episode Link: https://allanime.to/bangumi/2BfL69oW9fbiRJwgC
+Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
 # Analytics
 
 <img src="./analytics.png">
