@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nanako SOS Episode 5
+Episode Name: Ao no Exorcist Shimane Illuminati hen Episode 12
 
-Episode Link: https://allanime.to/bangumi/9zdxxs7NkEtHksfY8
+Episode Link: https://allanime.to/bangumi/kBGvk4bv7Jhdr7YXt
 # Analytics
 
 <img src="./analytics.png">
