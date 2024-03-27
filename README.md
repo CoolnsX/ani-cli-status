@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: High Card Season 2 Episode 12
+Episode Name: Magnerobo Ga Keen Episode 27
 
-Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
+Episode Link: https://allanime.to/bangumi/jp5gqRGgCABWdDBrP
 # Analytics
 
 <img src="./analytics.png">
