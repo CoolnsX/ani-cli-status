@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 47
+Episode Name: Oroka na Tenshi wa Akuma to Odoru Episode 12
 
-Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
+Episode Link: https://allanime.to/bangumi/APuv5fsuAR6XzJNDG
 # Analytics
 
 <img src="./analytics.png">
