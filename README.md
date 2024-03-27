@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1098
+Episode Name: Nanako SOS Episode 5
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/9zdxxs7NkEtHksfY8
 # Analytics
 
 <img src="./analytics.png">
