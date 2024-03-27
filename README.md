@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Akuyaku Reijou Level 99 Watashi wa Ura Boss desu ga Maou dewa Arimasen Episode 12
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 25
 
-Episode Link: https://allanime.to/bangumi/nBaYmtzM4Qxd6TSCC
+Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
 # Analytics
 
 <img src="./analytics.png">
