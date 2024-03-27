@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kyomu Senshi Miroku Episode 6
+Episode Name: High Card Season 2 Episode 12
 
-Episode Link: https://allanime.to/bangumi/noKFiXjAD9DiXCeb7
+Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
 # Analytics
 
 <img src="./analytics.png">
