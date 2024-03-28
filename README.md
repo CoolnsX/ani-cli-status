@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 48
+Episode Name: Magnerobo Ga Keen Episode 27
 
-Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
+Episode Link: https://allanime.to/bangumi/jp5gqRGgCABWdDBrP
 # Analytics
 
 <img src="./analytics.png">
