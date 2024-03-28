@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wonderful Precure Episode 8
+Episode Name: Sand Land The Series Episode 8
 
-Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
+Episode Link: https://allanime.to/bangumi/DTAyAjmAzY3cMb8k4
 # Analytics
 
 <img src="./analytics.png">
