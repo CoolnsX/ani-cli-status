@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jaku Chara Tomozaki kun 2nd Stage Episode 13
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 102
 
-Episode Link: https://allanime.to/bangumi/iQmXdisx99L6ByYqk
+Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
 # Analytics
 
 <img src="./analytics.png">
