@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Stitch Perfect Memory Episode 2
+Episode Name: Hajimete no Futarikkiri Ryokou Episode 1
 
-Episode Link: https://allanime.to/bangumi/87RJdiuP3F8gX6Jkg
+Episode Link: https://allanime.to/bangumi/xgNMgaFwdGx6tsuX9
 # Analytics
 
 <img src="./analytics.png">
