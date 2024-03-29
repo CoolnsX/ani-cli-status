@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Synduality Noir Part 2 Episode 12
+Episode Name: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e Season 3 Episode 13
 
-Episode Link: https://allanime.to/bangumi/JRWYoQkZMtv6L7GoH
+Episode Link: https://allanime.to/bangumi/stxNT7nPseF7qjKPY
 # Analytics
 
 <img src="./analytics.png">
