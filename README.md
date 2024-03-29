@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sand Land The Series Episode 8
+Episode Name: Synduality Noir Part 2 Episode 12
 
-Episode Link: https://allanime.to/bangumi/DTAyAjmAzY3cMb8k4
+Episode Link: https://allanime.to/bangumi/JRWYoQkZMtv6L7GoH
 # Analytics
 
 <img src="./analytics.png">
