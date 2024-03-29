@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nanako SOS Episode 5
+Episode Name: Sousou no Frieren ●● no Mahou Episode 12
 
-Episode Link: https://allanime.to/bangumi/9zdxxs7NkEtHksfY8
+Episode Link: https://allanime.to/bangumi/sG52nbcFo3PfLg6PD
 # Analytics
 
 <img src="./analytics.png">
