@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 30 sai made Doutei dato Mahoutsukai ni Nareru Rashii Episode 12
+Episode Name: Tsuki ga Michibiku Isekai Douchuu Season 2 Episode 12
 
-Episode Link: https://allanime.to/bangumi/7ntLKRbCzSv5tpfPy
+Episode Link: https://allanime.to/bangumi/wAMnpBBwaE3fJ8jwH
 # Analytics
 
 <img src="./analytics.png">
