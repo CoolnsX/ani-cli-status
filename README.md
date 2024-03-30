@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hajimete no Futarikkiri Ryokou Episode 1
+Episode Name: Yume Senshi Wingman Episode 22
 
-Episode Link: https://allanime.to/bangumi/xgNMgaFwdGx6tsuX9
+Episode Link: https://allanime.to/bangumi/TWxcCKZGb5uGyn69h
 # Analytics
 
 <img src="./analytics.png">
