@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gekai Elise Episode 12
+Episode Name: Stitch Perfect Memory Episode 2
 
-Episode Link: https://allanime.to/bangumi/mGaHcntidkmZPgzty
+Episode Link: https://allanime.to/bangumi/87RJdiuP3F8gX6Jkg
 # Analytics
 
 <img src="./analytics.png">
