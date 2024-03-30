@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Akuyaku Reijou Level 99 Watashi wa Ura Boss desu ga Maou dewa Arimasen Episode 12
+Episode Name: High Card Season 2 Episode 12
 
-Episode Link: https://allanime.to/bangumi/nBaYmtzM4Qxd6TSCC
+Episode Link: https://allanime.to/bangumi/hy4azJ2cQ8iGskoyj
 # Analytics
 
 <img src="./analytics.png">
