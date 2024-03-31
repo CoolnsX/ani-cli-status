@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kingdom Season 5 Episode 13
+Episode Name: Kono Subarashii Sekai ni Shukufuku wo 3 Episode 1
 
-Episode Link: https://allanime.to/bangumi/gZ77jGXtgPahTZgvc
+Episode Link: https://allanime.to/bangumi/7cTdxtzvohmd79Bt4
 # Analytics
 
 <img src="./analytics.png">
