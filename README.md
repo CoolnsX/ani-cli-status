@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Metallic Rouge Episode 12
+Episode Name: Gekai Elise Episode 12
 
-Episode Link: https://allanime.to/bangumi/B7za4gxKoX29zhoJj
+Episode Link: https://allanime.to/bangumi/mGaHcntidkmZPgzty
 # Analytics
 
 <img src="./analytics.png">
