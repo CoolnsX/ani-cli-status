@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 23
+Episode Name: Mashle Shinkakusha Kouho Senbatsu Shiken hen Episode 12
 
-Episode Link: https://allanime.to/bangumi/uFSyY4QxWAhNTdpjM
+Episode Link: https://allanime.to/bangumi/pHvWXYLR3i26pTchn
 # Analytics
 
 <img src="./analytics.png">
