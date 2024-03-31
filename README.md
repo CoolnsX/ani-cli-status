@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dungeon Meshi Episode 13
+Episode Name: Kingdom Season 5 Episode 13
 
-Episode Link: https://allanime.to/bangumi/gAcGCcMENjbWhBnR9
+Episode Link: https://allanime.to/bangumi/gZ77jGXtgPahTZgvc
 # Analytics
 
 <img src="./analytics.png">
