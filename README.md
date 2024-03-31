@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1099
+Episode Name: Kono Subarashii Sekai ni Shukufuku wo 3 Episode 1
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/7cTdxtzvohmd79Bt4
 # Analytics
 
 <img src="./analytics.png">
