@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Snack Basue Episode 12
+Episode Name: Gekai Elise Episode 12
 
-Episode Link: https://allanime.to/bangumi/nACCHP44xeLbSd5Nx
+Episode Link: https://allanime.to/bangumi/mGaHcntidkmZPgzty
 # Analytics
 
 <img src="./analytics.png">
