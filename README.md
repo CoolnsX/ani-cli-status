@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sengoku Youko Yonaoshi Kyoudai hen Episode 12
+Episode Name: Snack Basue Episode 12
 
-Episode Link: https://allanime.to/bangumi/Yizintj76S5FYTsHQ
+Episode Link: https://allanime.to/bangumi/nACCHP44xeLbSd5Nx
 # Analytics
 
 <img src="./analytics.png">
