@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Metallic Rouge Episode 12
+Episode Name: Yume Senshi Wingman Episode 22
 
-Episode Link: https://allanime.to/bangumi/B7za4gxKoX29zhoJj
+Episode Link: https://allanime.to/bangumi/TWxcCKZGb5uGyn69h
 # Analytics
 
 <img src="./analytics.png">
