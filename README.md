@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Stitch Perfect Memory Episode 2
+Episode Name: Odekake Kozame Episode 48
 
-Episode Link: https://allanime.to/bangumi/87RJdiuP3F8gX6Jkg
+Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
 # Analytics
 
 <img src="./analytics.png">
