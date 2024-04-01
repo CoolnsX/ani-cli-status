@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kami wa Game ni Ueteiru Episode 1
+Episode Name: Jaku Chara Tomozaki kun 2nd Stage Episode 13
 
-Episode Link: https://allanime.to/bangumi/TdCW2HQ5mPLFKAjJE
+Episode Link: https://allanime.to/bangumi/iQmXdisx99L6ByYqk
 # Analytics
 
 <img src="./analytics.png">
