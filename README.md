@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shaman King Flowers Episode 11
+Episode Name: Tensei shitara Slime Datta Ken Season 3 Episode 0
 
-Episode Link: https://allanime.to/bangumi/ntG98PMbjxM7DJd6t
+Episode Link: https://allanime.to/bangumi/KB5XDvwPdtLFEkoQZ
 # Analytics
 
 <img src="./analytics.png">
