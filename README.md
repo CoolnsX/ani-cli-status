@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kono Subarashii Sekai ni Shukufuku wo 3 Episode 1
+Episode Name: Boku no Kokoro no Yabai Yatsu Season 2 Episode 13
 
-Episode Link: https://allanime.to/bangumi/7cTdxtzvohmd79Bt4
+Episode Link: https://allanime.to/bangumi/gQ2khnXZe8dNsQH7n
 # Analytics
 
 <img src="./analytics.png">
