@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kinnikuman Episode 125
+Episode Name: Yami Shibai 12 Episode 12
 
-Episode Link: https://allanime.to/bangumi/pNi8AYhvc7Tp5JayR
+Episode Link: https://allanime.to/bangumi/5aT8RXJZPd5fZ58Cc
 # Analytics
 
 <img src="./analytics.png">
