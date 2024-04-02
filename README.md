@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tsuki ga Michibiku Isekai Douchuu Season 2 Episode 13
+Episode Name: Kinnikuman Episode 125
 
-Episode Link: https://allanime.to/bangumi/wAMnpBBwaE3fJ8jwH
+Episode Link: https://allanime.to/bangumi/pNi8AYhvc7Tp5JayR
 # Analytics
 
 <img src="./analytics.png">
