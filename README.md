@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 110
+Episode Name: Hibike Euphonium 3 Episode 1
 
-Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
+Episode Link: https://allanime.to/bangumi/oso3xi8Knpv5BKqem
 # Analytics
 
 <img src="./analytics.png">
