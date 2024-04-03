@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 24
+Episode Name: Yuuki Bakuhatsu Bang Bravern Episode 12
 
-Episode Link: https://allanime.to/bangumi/uFSyY4QxWAhNTdpjM
+Episode Link: https://allanime.to/bangumi/vaYzfEyGx9srsqxEB
 # Analytics
 
 <img src="./analytics.png">
