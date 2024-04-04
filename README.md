@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Snack Basue Episode 12
+Episode Name: Yume Senshi Wingman Episode 22
 
-Episode Link: https://allanime.to/bangumi/nACCHP44xeLbSd5Nx
+Episode Link: https://allanime.to/bangumi/TWxcCKZGb5uGyn69h
 # Analytics
 
 <img src="./analytics.png">
