@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Unnamed Memory Episode 1
+Episode Name: Tensei shitara Slime Datta Ken Season 3 Episode 0
 
-Episode Link: https://allanime.to/bangumi/TXkaJ8nzG8xKMgqcZ
+Episode Link: https://allanime.to/bangumi/KB5XDvwPdtLFEkoQZ
 # Analytics
 
 <img src="./analytics.png">
