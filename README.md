@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 26
+Episode Name: Hibike Euphonium 3 Episode 1
 
-Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
+Episode Link: https://allanime.to/bangumi/oso3xi8Knpv5BKqem
 # Analytics
 
 <img src="./analytics.png">
