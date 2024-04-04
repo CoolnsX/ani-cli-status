@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yume Senshi Wingman Episode 22
+Episode Name: Kinnikuman Episode 125
 
-Episode Link: https://allanime.to/bangumi/TWxcCKZGb5uGyn69h
+Episode Link: https://allanime.to/bangumi/pNi8AYhvc7Tp5JayR
 # Analytics
 
 <img src="./analytics.png">
