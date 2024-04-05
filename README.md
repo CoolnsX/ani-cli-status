@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mashle Shinkakusha Kouho Senbatsu Shiken hen Episode 12
+Episode Name: Kingdom Season 5 Episode 13
 
-Episode Link: https://allanime.to/bangumi/pHvWXYLR3i26pTchn
+Episode Link: https://allanime.to/bangumi/gZ77jGXtgPahTZgvc
 # Analytics
 
 <img src="./analytics.png">
