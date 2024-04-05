@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 49
+Episode Name: Majo to Yajuu Episode 12
 
-Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
+Episode Link: https://allanime.to/bangumi/2v4KDrTo5SDv5dGYB
 # Analytics
 
 <img src="./analytics.png">
