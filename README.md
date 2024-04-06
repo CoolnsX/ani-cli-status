@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shuumatsu Train Doko e Iku Episode 1
+Episode Name: Saint Seiya Knights of the Zodiac Battle Sanctuary Part 2 Episode 2
 
-Episode Link: https://allanime.to/bangumi/gQNFQMggjDNXrpn4X
+Episode Link: https://allanime.to/bangumi/yoCFRFf323vcajdGT
 # Analytics
 
 <img src="./analytics.png">
