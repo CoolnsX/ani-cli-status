@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saint Seiya Knights of the Zodiac Battle Sanctuary Part 2 Episode 2
+Episode Name: Henjin no Salad Bowl Episode 1
 
-Episode Link: https://allanime.to/bangumi/yoCFRFf323vcajdGT
+Episode Link: https://allanime.to/bangumi/gYNWJBu4rvSrmSfiB
 # Analytics
 
 <img src="./analytics.png">
