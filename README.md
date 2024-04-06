@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nijiyon Animation 2 Episode 1
+Episode Name: The Fable Episode 1
 
-Episode Link: https://allanime.to/bangumi/vHRnxWT83vEhRzcAG
+Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
 # Analytics
 
 <img src="./analytics.png">
