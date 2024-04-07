@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ooi Tonbo Episode 1
+Episode Name: Nanatsu no Taizai Mokushiroku no Yonkishi Episode 24
 
-Episode Link: https://allanime.to/bangumi/wQDfeDns76ojAPdzs
+Episode Link: https://allanime.to/bangumi/uFSyY4QxWAhNTdpjM
 # Analytics
 
 <img src="./analytics.png">
