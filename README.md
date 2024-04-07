@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bartender Kami no Glass Episode 1
+Episode Name: Nijiyon Animation 2 Episode 1
 
-Episode Link: https://allanime.to/bangumi/Db36DyQefFrfyaFFe
+Episode Link: https://allanime.to/bangumi/vHRnxWT83vEhRzcAG
 # Analytics
 
 <img src="./analytics.png">
