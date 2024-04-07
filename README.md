@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yozakura san Chi no Daisakusen Episode 1
+Episode Name: Jii san Baa san Wakagaeru Episode 1
 
-Episode Link: https://allanime.to/bangumi/QdcDzpRCfcjqHCNNg
+Episode Link: https://allanime.to/bangumi/N9bBNkdxLui4BYg2g
 # Analytics
 
 <img src="./analytics.png">
