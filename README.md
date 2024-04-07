@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1119
+Episode Name: Bartender Kami no Glass Episode 1
 
-Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
+Episode Link: https://allanime.to/bangumi/Db36DyQefFrfyaFFe
 # Analytics
 
 <img src="./analytics.png">
