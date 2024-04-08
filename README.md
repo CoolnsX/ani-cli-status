@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Majo to Yajuu Episode 12
+Episode Name: Girls Band Cry Episode 1
 
-Episode Link: https://allanime.to/bangumi/2v4KDrTo5SDv5dGYB
+Episode Link: https://allanime.to/bangumi/8Suk8xq3YmvDq2s5C
 # Analytics
 
 <img src="./analytics.png">
