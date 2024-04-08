@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yoru no Kurage wa Oyogenai Episode 1
+Episode Name: Tensei shitara Slime Datta Ken Season 3 Episode 1
 
-Episode Link: https://allanime.to/bangumi/fTg6c7nL3tv8oi2L5
+Episode Link: https://allanime.to/bangumi/KB5XDvwPdtLFEkoQZ
 # Analytics
 
 <img src="./analytics.png">
