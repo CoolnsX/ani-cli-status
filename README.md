@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 111
+Episode Name: Odekake Kozame Episode 50
 
-Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
+Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
 # Analytics
 
 <img src="./analytics.png">
