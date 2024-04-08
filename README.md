@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Highspeed Etoile Episode 1
+Episode Name: Ninjala Episode 111
 
-Episode Link: https://allanime.to/bangumi/GoSNgenDWLm2B8C3H
+Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
 # Analytics
 
 <img src="./analytics.png">
