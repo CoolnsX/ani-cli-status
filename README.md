@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensei shitara Slime Datta Ken Season 3 Episode 1
+Episode Name: Ooi Tonbo Episode 1
 
-Episode Link: https://allanime.to/bangumi/KB5XDvwPdtLFEkoQZ
+Episode Link: https://allanime.to/bangumi/wQDfeDns76ojAPdzs
 # Analytics
 
 <img src="./analytics.png">
