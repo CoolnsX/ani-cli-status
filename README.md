@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shaman King Flowers Episode 13
+Episode Name: The Fable Episode 1
 
-Episode Link: https://allanime.to/bangumi/ntG98PMbjxM7DJd6t
+Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
 # Analytics
 
 <img src="./analytics.png">
