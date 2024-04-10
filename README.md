@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 27
+Episode Name: SF Saiyuuki Starzinger Episode 72
 
-Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
+Episode Link: https://allanime.to/bangumi/fJaqd6FELTs9cG4Ee
 # Analytics
 
 <img src="./analytics.png">
