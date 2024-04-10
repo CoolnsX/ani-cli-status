@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tadaima Okaeri Episode 1
+Episode Name: SF Saiyuuki Starzinger Episode 72
 
-Episode Link: https://allanime.to/bangumi/hhaewxSaxsm9RH3mZ
+Episode Link: https://allanime.to/bangumi/fJaqd6FELTs9cG4Ee
 # Analytics
 
 <img src="./analytics.png">
