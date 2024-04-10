@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Blue Archive the Animation Episode 1
+Episode Name: Tadaima Okaeri Episode 1
 
-Episode Link: https://allanime.to/bangumi/cqKnAmw7yEz7kmCCJ
+Episode Link: https://allanime.to/bangumi/hhaewxSaxsm9RH3mZ
 # Analytics
 
 <img src="./analytics.png">
