@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: SF Saiyuuki Starzinger Episode 72
+Episode Name: Tousouchuu Great Mission Episode 50
 
-Episode Link: https://allanime.to/bangumi/fJaqd6FELTs9cG4Ee
+Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
 # Analytics
 
 <img src="./analytics.png">
