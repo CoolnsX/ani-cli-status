@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Girls Band Cry Episode 1
+Episode Name: Himitsu no AiPri Episode 1
 
-Episode Link: https://allanime.to/bangumi/8Suk8xq3YmvDq2s5C
+Episode Link: https://allanime.to/bangumi/TAY6dqJNwKKSECHaB
 # Analytics
 
 <img src="./analytics.png">
