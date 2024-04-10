@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tadaima Okaeri Episode 1
+Episode Name: Saint Seiya Knights of the Zodiac Battle Sanctuary Part 2 Episode 3
 
-Episode Link: https://allanime.to/bangumi/hhaewxSaxsm9RH3mZ
+Episode Link: https://allanime.to/bangumi/yoCFRFf323vcajdGT
 # Analytics
 
 <img src="./analytics.png">
