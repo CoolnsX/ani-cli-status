@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: SF Saiyuuki Starzinger Episode 72
+Episode Name: Saint Seiya Knights of the Zodiac Battle Sanctuary Part 2 Episode 3
 
-Episode Link: https://allanime.to/bangumi/fJaqd6FELTs9cG4Ee
+Episode Link: https://allanime.to/bangumi/yoCFRFf323vcajdGT
 # Analytics
 
 <img src="./analytics.png">
