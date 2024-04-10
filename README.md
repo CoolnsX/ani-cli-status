@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 50
+Episode Name: Kami wa Game ni Ueteiru Episode 2
 
-Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
+Episode Link: https://allanime.to/bangumi/TdCW2HQ5mPLFKAjJE
 # Analytics
 
 <img src="./analytics.png">
