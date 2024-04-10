@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rinkai Episode 1
+Episode Name: Seiyuu Radio no Uraomote Episode 1
 
-Episode Link: https://allanime.to/bangumi/bx4iqprCv2p5vPB2B
+Episode Link: https://allanime.to/bangumi/ZCGjix8b6gCRyBLgE
 # Analytics
 
 <img src="./analytics.png">
