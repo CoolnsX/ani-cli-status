@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shin Atashin chi Episode 32
+Episode Name: Vampire Dormitory Episode 1
 
-Episode Link: https://allanime.to/bangumi/osmtayLbYKGCmBcXd
+Episode Link: https://allanime.to/bangumi/fjdqCDdf46Jte8g6T
 # Analytics
 
 <img src="./analytics.png">
