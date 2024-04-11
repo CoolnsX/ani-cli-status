@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saint Seiya Knights of the Zodiac Battle Sanctuary Part 2 Episode 3
+Episode Name: Tonari no Youkai san Episode 1
 
-Episode Link: https://allanime.to/bangumi/yoCFRFf323vcajdGT
+Episode Link: https://allanime.to/bangumi/2gBL63MLdirCpfeuH
 # Analytics
 
 <img src="./analytics.png">
