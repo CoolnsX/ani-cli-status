@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saint Seiya Knights of the Zodiac Battle Sanctuary Part 2 Episode 3
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 27
 
-Episode Link: https://allanime.to/bangumi/yoCFRFf323vcajdGT
+Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
 # Analytics
 
 <img src="./analytics.png">
