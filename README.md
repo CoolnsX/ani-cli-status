@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rinkai Episode 1
+Episode Name: Oomuro ke Dear Sisters Episode 1
 
-Episode Link: https://allanime.to/bangumi/bx4iqprCv2p5vPB2B
+Episode Link: https://allanime.to/bangumi/juAK8yhryY6egZEvu
 # Analytics
 
 <img src="./analytics.png">
