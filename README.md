@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shin Atashin chi Episode 32
+Episode Name: Ninja Kamui Episode 9
 
-Episode Link: https://allanime.to/bangumi/osmtayLbYKGCmBcXd
+Episode Link: https://allanime.to/bangumi/d4jETNjQEAhJCtarN
 # Analytics
 
 <img src="./analytics.png">
