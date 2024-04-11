@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Oomuro ke Dear Sisters Episode 1
+Episode Name: Boukyaku Battery TV Episode 1
 
-Episode Link: https://allanime.to/bangumi/juAK8yhryY6egZEvu
+Episode Link: https://allanime.to/bangumi/8uWZHXsgmcubcy5PT
 # Analytics
 
 <img src="./analytics.png">
