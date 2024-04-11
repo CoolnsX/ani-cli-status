@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinigami Bocchan to Kuro Maid Season 3 Episode 1
+Episode Name: Sand Land The Series Episode 10
 
-Episode Link: https://allanime.to/bangumi/F5xANhW2nsxdBrMco
+Episode Link: https://allanime.to/bangumi/DTAyAjmAzY3cMb8k4
 # Analytics
 
 <img src="./analytics.png">
