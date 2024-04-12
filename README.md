@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Part 2 Episode 1
+Episode Name: Shaman King Flowers Episode 13
 
-Episode Link: https://allanime.to/bangumi/QusmPJR29sg3G35CB
+Episode Link: https://allanime.to/bangumi/ntG98PMbjxM7DJd6t
 # Analytics
 
 <img src="./analytics.png">
