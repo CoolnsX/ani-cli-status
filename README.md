@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 26
+Episode Name: Kaii to Otome to Kamikakushi Episode 1
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/L7rZxfCnWLeTTsSfv
 # Analytics
 
 <img src="./analytics.png">
