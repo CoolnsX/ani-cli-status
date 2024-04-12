@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahouka Koukou no Rettousei Season 3 Episode 2
+Episode Name: Hananoi kun to Koi no Yamai Episode 2
 
-Episode Link: https://allanime.to/bangumi/Q7h4rxYmdHDADCTfY
+Episode Link: https://allanime.to/bangumi/8oAjW4gZHubZcDAY9
 # Analytics
 
 <img src="./analytics.png">
