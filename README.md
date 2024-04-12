@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shaman King Flowers Episode 13
+Episode Name: Yami Shibai 12 Episode 13
 
-Episode Link: https://allanime.to/bangumi/ntG98PMbjxM7DJd6t
+Episode Link: https://allanime.to/bangumi/5aT8RXJZPd5fZ58Cc
 # Analytics
 
 <img src="./analytics.png">
