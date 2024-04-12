@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life Episode 1
+Episode Name: Oomuro ke Dear Sisters Episode 1
 
-Episode Link: https://allanime.to/bangumi/KD7t3Z6oMczdrepNM
+Episode Link: https://allanime.to/bangumi/juAK8yhryY6egZEvu
 # Analytics
 
 <img src="./analytics.png">
