@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boukyaku Battery TV Episode 1
+Episode Name: Kuramerukagari Episode 1
 
-Episode Link: https://allanime.to/bangumi/8uWZHXsgmcubcy5PT
+Episode Link: https://allanime.to/bangumi/4XcCnDiX9KJtSnbY5
 # Analytics
 
 <img src="./analytics.png">
