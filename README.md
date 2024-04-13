@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Himitsu no AiPri Episode 1
+Episode Name: Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shison tachi no Gakkou e Kayou 2nd Season Part 2 Episode 1
 
-Episode Link: https://allanime.to/bangumi/TAY6dqJNwKKSECHaB
+Episode Link: https://allanime.to/bangumi/pNPGCMYN5yA4yQH5J
 # Analytics
 
 <img src="./analytics.png">
