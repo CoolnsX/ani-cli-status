@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yuru Camp△ Season 3 Episode 2
+Episode Name: Ooi Tonbo Episode 2
 
-Episode Link: https://allanime.to/bangumi/7ouDzKgHyXznDj3By
+Episode Link: https://allanime.to/bangumi/wQDfeDns76ojAPdzs
 # Analytics
 
 <img src="./analytics.png">
