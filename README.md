@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boukyaku Battery TV Episode 1
+Episode Name: Ookami to Koushinryou Merchant Meets the Wise Wolf Episode 2
 
-Episode Link: https://allanime.to/bangumi/8uWZHXsgmcubcy5PT
+Episode Link: https://allanime.to/bangumi/yCkrq8Mdgs6t983iL
 # Analytics
 
 <img src="./analytics.png">
