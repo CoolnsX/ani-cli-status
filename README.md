@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Date A Live V Episode 1
+Episode Name: Yuru Camp△ Season 3 Episode 2
 
-Episode Link: https://allanime.to/bangumi/LST2wJqmywAhZKLvm
+Episode Link: https://allanime.to/bangumi/7ouDzKgHyXznDj3By
 # Analytics
 
 <img src="./analytics.png">
