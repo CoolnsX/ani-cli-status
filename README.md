@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bartender Kami no Glass Episode 2
+Episode Name: Shadowverse Flame Arc hen Episode 1
 
-Episode Link: https://allanime.to/bangumi/Db36DyQefFrfyaFFe
+Episode Link: https://allanime.to/bangumi/RXf5Lv3Y643ovwztk
 # Analytics
 
 <img src="./analytics.png">
