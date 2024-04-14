@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wind Breaker Episode 2
+Episode Name: Ninjala Episode 112
 
-Episode Link: https://allanime.to/bangumi/Jv25h5eoCnZDMSoL3
+Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
 # Analytics
 
 <img src="./analytics.png">
