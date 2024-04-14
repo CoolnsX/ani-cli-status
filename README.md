@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 112
+Episode Name: Sentai Daishikkaku Episode 2
 
-Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
+Episode Link: https://allanime.to/bangumi/diBoKGs7oLZTY9ShL
 # Analytics
 
 <img src="./analytics.png">
