@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kaijuu 8 gou Episode 1
+Episode Name: Highspeed Etoile Episode 2
 
-Episode Link: https://allanime.to/bangumi/vj5neAm4FfqobQzuA
+Episode Link: https://allanime.to/bangumi/GoSNgenDWLm2B8C3H
 # Analytics
 
 <img src="./analytics.png">
