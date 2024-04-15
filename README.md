@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sentai Daishikkaku Episode 2
+Episode Name: Kurayukaba Episode 1
 
-Episode Link: https://allanime.to/bangumi/diBoKGs7oLZTY9ShL
+Episode Link: https://allanime.to/bangumi/4gwkF2dtYGc6SH6KG
 # Analytics
 
 <img src="./analytics.png">
