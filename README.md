@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Henjin no Salad Bowl Episode 2
+Episode Name: Kuramerukagari Episode 1
 
-Episode Link: https://allanime.to/bangumi/gYNWJBu4rvSrmSfiB
+Episode Link: https://allanime.to/bangumi/4XcCnDiX9KJtSnbY5
 # Analytics
 
 <img src="./analytics.png">
