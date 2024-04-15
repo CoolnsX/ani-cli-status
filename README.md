@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kurayukaba Episode 1
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Part 2 Episode 2
 
-Episode Link: https://allanime.to/bangumi/4gwkF2dtYGc6SH6KG
+Episode Link: https://allanime.to/bangumi/QusmPJR29sg3G35CB
 # Analytics
 
 <img src="./analytics.png">
