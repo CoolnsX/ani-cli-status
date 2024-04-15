@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Re Monster Episode 3
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Part 2 Episode 2
 
-Episode Link: https://allanime.to/bangumi/BHtzBbDXNuhBjypaJ
+Episode Link: https://allanime.to/bangumi/QusmPJR29sg3G35CB
 # Analytics
 
 <img src="./analytics.png">
