@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kaijuu 8 gou Episode 1
+Episode Name: Sasayaku You ni Koi wo Utau Episode 1
 
-Episode Link: https://allanime.to/bangumi/vj5neAm4FfqobQzuA
+Episode Link: https://allanime.to/bangumi/aRT8Sa4QjNZcvGbBA
 # Analytics
 
 <img src="./analytics.png">
