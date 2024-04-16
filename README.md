@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tadaima Okaeri Episode 2
+Episode Name: Tonari no Youkai san Episode 2
 
-Episode Link: https://allanime.to/bangumi/hhaewxSaxsm9RH3mZ
+Episode Link: https://allanime.to/bangumi/2gBL63MLdirCpfeuH
 # Analytics
 
 <img src="./analytics.png">
