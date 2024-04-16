@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Vampire Dormitory Episode 2
+Episode Name: Rinkai Episode 2
 
-Episode Link: https://allanime.to/bangumi/fjdqCDdf46Jte8g6T
+Episode Link: https://allanime.to/bangumi/bx4iqprCv2p5vPB2B
 # Analytics
 
 <img src="./analytics.png">
