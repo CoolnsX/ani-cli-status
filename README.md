@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ooi Tonbo Episode 2
+Episode Name: Tensei Kizoku Kantei Skill de Nariagaru Episode 2
 
-Episode Link: https://allanime.to/bangumi/wQDfeDns76ojAPdzs
+Episode Link: https://allanime.to/bangumi/ncNQiQiTh4Zwk4rAv
 # Analytics
 
 <img src="./analytics.png">
