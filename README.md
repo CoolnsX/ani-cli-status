@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahouka Koukou no Rettousei Season 3 Episode 2
+Episode Name: Sasayaku You ni Koi wo Utau Episode 1
 
-Episode Link: https://allanime.to/bangumi/Q7h4rxYmdHDADCTfY
+Episode Link: https://allanime.to/bangumi/aRT8Sa4QjNZcvGbBA
 # Analytics
 
 <img src="./analytics.png">
