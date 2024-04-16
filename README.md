@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninja Kamui Episode 10
+Episode Name: Kaijuu 8 gou Episode 1
 
-Episode Link: https://allanime.to/bangumi/d4jETNjQEAhJCtarN
+Episode Link: https://allanime.to/bangumi/vj5neAm4FfqobQzuA
 # Analytics
 
 <img src="./analytics.png">
