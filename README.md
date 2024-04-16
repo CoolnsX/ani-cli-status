@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kaijuu 8 gou Episode 1
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 28
 
-Episode Link: https://allanime.to/bangumi/vj5neAm4FfqobQzuA
+Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
 # Analytics
 
 <img src="./analytics.png">
