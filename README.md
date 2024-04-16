@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Touken Ranbu Kai Kyoden Moyuru Honnouji Episode 3
+Episode Name: Tadaima Okaeri Episode 2
 
-Episode Link: https://allanime.to/bangumi/aWBbqk9msGX3eYCXG
+Episode Link: https://allanime.to/bangumi/hhaewxSaxsm9RH3mZ
 # Analytics
 
 <img src="./analytics.png">
