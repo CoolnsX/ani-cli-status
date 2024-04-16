@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shin Atashin chi Episode 38
+Episode Name: Ooi Tonbo Episode 2
 
-Episode Link: https://allanime.to/bangumi/osmtayLbYKGCmBcXd
+Episode Link: https://allanime.to/bangumi/wQDfeDns76ojAPdzs
 # Analytics
 
 <img src="./analytics.png">
