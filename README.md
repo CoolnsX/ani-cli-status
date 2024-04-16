@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wonderful Precure Episode 11
+Episode Name: Yoru no Kurage wa Oyogenai Episode 2
 
-Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
+Episode Link: https://allanime.to/bangumi/fTg6c7nL3tv8oi2L5
 # Analytics
 
 <img src="./analytics.png">
