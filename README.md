@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Karasu wa Aruji wo Erabanai Episode 2
+Episode Name: Minami no Niji no Lucy Episode 50
 
-Episode Link: https://allanime.to/bangumi/54QXLa5bTNaaPjsfg
+Episode Link: https://allanime.to/bangumi/X7PffJcuAthGCcLkd
 # Analytics
 
 <img src="./analytics.png">
