@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yoru no Kurage wa Oyogenai Episode 2
+Episode Name: Touken Ranbu Kai Kyoden Moyuru Honnouji Episode 3
 
-Episode Link: https://allanime.to/bangumi/fTg6c7nL3tv8oi2L5
+Episode Link: https://allanime.to/bangumi/aWBbqk9msGX3eYCXG
 # Analytics
 
 <img src="./analytics.png">
