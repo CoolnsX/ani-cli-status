@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shuumatsu Train Doko e Iku Episode 3
+Episode Name: Sentai Daishikkaku Episode 2
 
-Episode Link: https://allanime.to/bangumi/gQNFQMggjDNXrpn4X
+Episode Link: https://allanime.to/bangumi/diBoKGs7oLZTY9ShL
 # Analytics
 
 <img src="./analytics.png">
