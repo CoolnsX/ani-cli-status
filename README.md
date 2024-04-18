@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boukyaku Battery TV Episode 2
+Episode Name: Jiisan Baasan Wakagaeru Episode 2
 
-Episode Link: https://allanime.to/bangumi/8uWZHXsgmcubcy5PT
+Episode Link: https://allanime.to/bangumi/uroYYvHm9Z7aL5PHp
 # Analytics
 
 <img src="./analytics.png">
