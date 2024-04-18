@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wind Breaker Episode 3
+Episode Name: Shin Atashin chi Episode 38
 
-Episode Link: https://allanime.to/bangumi/Jv25h5eoCnZDMSoL3
+Episode Link: https://allanime.to/bangumi/osmtayLbYKGCmBcXd
 # Analytics
 
 <img src="./analytics.png">
