@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Touken Ranbu Kai Kyoden Moyuru Honnouji Episode 3
+Episode Name: Beyblade X Episode 27
 
-Episode Link: https://allanime.to/bangumi/aWBbqk9msGX3eYCXG
+Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
 # Analytics
 
 <img src="./analytics.png">
