@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 27
+Episode Name: Boukyaku Battery TV Episode 2
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/8uWZHXsgmcubcy5PT
 # Analytics
 
 <img src="./analytics.png">
