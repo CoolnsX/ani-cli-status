@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Idol Land PriPara Episode 7
+Episode Name: Kami wa Game ni Ueteiru Episode 3
 
-Episode Link: https://allanime.to/bangumi/vMPXhG8mfKNtcK8dy
+Episode Link: https://allanime.to/bangumi/TdCW2HQ5mPLFKAjJE
 # Analytics
 
 <img src="./analytics.png">
