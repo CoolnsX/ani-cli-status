@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Unnamed Memory Episode 2
+Episode Name: Grimm Kumikyoku Episode 6
 
-Episode Link: https://allanime.to/bangumi/TXkaJ8nzG8xKMgqcZ
+Episode Link: https://allanime.to/bangumi/7mozwoe4A4kkKLMEt
 # Analytics
 
 <img src="./analytics.png">
