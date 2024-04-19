@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nijiyon Animation 2 Episode 3
+Episode Name: Touken Ranbu Kai Kyoden Moyuru Honnouji Episode 3
 
-Episode Link: https://allanime.to/bangumi/vHRnxWT83vEhRzcAG
+Episode Link: https://allanime.to/bangumi/aWBbqk9msGX3eYCXG
 # Analytics
 
 <img src="./analytics.png">
