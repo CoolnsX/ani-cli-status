@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 27
+Episode Name: Minami no Niji no Lucy Episode 50
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/X7PffJcuAthGCcLkd
 # Analytics
 
 <img src="./analytics.png">
