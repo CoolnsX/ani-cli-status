@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 53
+Episode Name: Unnamed Memory Episode 2
 
-Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
+Episode Link: https://allanime.to/bangumi/TXkaJ8nzG8xKMgqcZ
 # Analytics
 
 <img src="./analytics.png">
