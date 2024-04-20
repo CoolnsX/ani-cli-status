@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wind Breaker Episode 3
+Episode Name: Seiyuu Radio no Uraomote Episode 2
 
-Episode Link: https://allanime.to/bangumi/Jv25h5eoCnZDMSoL3
+Episode Link: https://allanime.to/bangumi/ZCGjix8b6gCRyBLgE
 # Analytics
 
 <img src="./analytics.png">
