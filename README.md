@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Date A Live V Episode 2
+Episode Name: Idol Land PriPara Episode 7
 
-Episode Link: https://allanime.to/bangumi/LST2wJqmywAhZKLvm
+Episode Link: https://allanime.to/bangumi/vMPXhG8mfKNtcK8dy
 # Analytics
 
 <img src="./analytics.png">
