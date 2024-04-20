@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sand Land The Series Episode 11
+Episode Name: Wind Breaker Episode 3
 
-Episode Link: https://allanime.to/bangumi/DTAyAjmAzY3cMb8k4
+Episode Link: https://allanime.to/bangumi/Jv25h5eoCnZDMSoL3
 # Analytics
 
 <img src="./analytics.png">
