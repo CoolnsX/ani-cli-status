@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kenka Dokugaku Episode 2
+Episode Name: Girls Band Cry Episode 3
 
-Episode Link: https://allanime.to/bangumi/zMSJqj9smuvAJJP2d
+Episode Link: https://allanime.to/bangumi/8Suk8xq3YmvDq2s5C
 # Analytics
 
 <img src="./analytics.png">
