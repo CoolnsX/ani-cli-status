@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tonari no Youkai san Episode 3
+Episode Name: Ooi Tonbo Episode 3
 
-Episode Link: https://allanime.to/bangumi/2gBL63MLdirCpfeuH
+Episode Link: https://allanime.to/bangumi/wQDfeDns76ojAPdzs
 # Analytics
 
 <img src="./analytics.png">
