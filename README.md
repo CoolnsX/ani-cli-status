@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahouka Koukou no Rettousei Season 3 Episode 3
+Episode Name: Bartender Kami no Glass Episode 3
 
-Episode Link: https://allanime.to/bangumi/Q7h4rxYmdHDADCTfY
+Episode Link: https://allanime.to/bangumi/Db36DyQefFrfyaFFe
 # Analytics
 
 <img src="./analytics.png">
