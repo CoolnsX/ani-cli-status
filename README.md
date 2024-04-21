@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Magical★Taruruuto kun Episode 50
+Episode Name: The iDOLM STER Shiny Colors Episode 3
 
-Episode Link: https://allanime.to/bangumi/yTszgTsufjJcz6AZc
+Episode Link: https://allanime.to/bangumi/rwroGT45PMJiWkeYY
 # Analytics
 
 <img src="./analytics.png">
