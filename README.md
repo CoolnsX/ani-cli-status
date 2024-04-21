@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Arc hen Episode 2
+Episode Name: Tonari no Youkai san Episode 3
 
-Episode Link: https://allanime.to/bangumi/RXf5Lv3Y643ovwztk
+Episode Link: https://allanime.to/bangumi/2gBL63MLdirCpfeuH
 # Analytics
 
 <img src="./analytics.png">
