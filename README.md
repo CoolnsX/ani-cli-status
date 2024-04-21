@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hibike Euphonium 3 Episode 3
+Episode Name: Wind Breaker Episode 3
 
-Episode Link: https://allanime.to/bangumi/oso3xi8Knpv5BKqem
+Episode Link: https://allanime.to/bangumi/Jv25h5eoCnZDMSoL3
 # Analytics
 
 <img src="./analytics.png">
