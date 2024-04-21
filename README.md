@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bartender Kami no Glass Episode 3
+Episode Name: Magical★Taruruuto kun Episode 50
 
-Episode Link: https://allanime.to/bangumi/Db36DyQefFrfyaFFe
+Episode Link: https://allanime.to/bangumi/yTszgTsufjJcz6AZc
 # Analytics
 
 <img src="./analytics.png">
