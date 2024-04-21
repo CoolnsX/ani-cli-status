@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Girls Band Cry Episode 3
+Episode Name: Shadowverse Flame Arc hen Episode 2
 
-Episode Link: https://allanime.to/bangumi/8Suk8xq3YmvDq2s5C
+Episode Link: https://allanime.to/bangumi/RXf5Lv3Y643ovwztk
 # Analytics
 
 <img src="./analytics.png">
