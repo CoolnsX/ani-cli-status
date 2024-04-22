@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kaijuu 8 gou Episode 2
+Episode Name: Shadowverse Flame Arc hen Episode 2
 
-Episode Link: https://allanime.to/bangumi/vj5neAm4FfqobQzuA
+Episode Link: https://allanime.to/bangumi/RXf5Lv3Y643ovwztk
 # Analytics
 
 <img src="./analytics.png">
