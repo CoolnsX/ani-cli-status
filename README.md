@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sasayaku You ni Koi wo Utau Episode 2
+Episode Name: Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life Episode 3
 
-Episode Link: https://allanime.to/bangumi/aRT8Sa4QjNZcvGbBA
+Episode Link: https://allanime.to/bangumi/9ztGdmAXbsZAjgT8T
 # Analytics
 
 <img src="./analytics.png">
