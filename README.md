@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tsuki ga Michibiku Isekai Douchuu Season 2 Episode 16
+Episode Name: The iDOLM STER Shiny Colors Episode 3
 
-Episode Link: https://allanime.to/bangumi/wAMnpBBwaE3fJ8jwH
+Episode Link: https://allanime.to/bangumi/rwroGT45PMJiWkeYY
 # Analytics
 
 <img src="./analytics.png">
