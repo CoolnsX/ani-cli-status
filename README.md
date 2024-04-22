@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wind Breaker Episode 3
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Part 2 Episode 3
 
-Episode Link: https://allanime.to/bangumi/Jv25h5eoCnZDMSoL3
+Episode Link: https://allanime.to/bangumi/QusmPJR29sg3G35CB
 # Analytics
 
 <img src="./analytics.png">
