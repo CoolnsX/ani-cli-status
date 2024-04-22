@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensei shitara Slime Datta Ken Season 3 Episode 3
+Episode Name: Highspeed Etoile Episode 3
 
-Episode Link: https://allanime.to/bangumi/KB5XDvwPdtLFEkoQZ
+Episode Link: https://allanime.to/bangumi/GoSNgenDWLm2B8C3H
 # Analytics
 
 <img src="./analytics.png">
