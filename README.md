@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 105
+Episode Name: Paripi Koumei Road to Summer Sonia Episode 1
 
-Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
+Episode Link: https://allanime.to/bangumi/bzjj53EoZXhqXQ37K
 # Analytics
 
 <img src="./analytics.png">
