@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sasayaku You ni Koi wo Utau Episode 2
+Episode Name: The Fable Episode 3
 
-Episode Link: https://allanime.to/bangumi/aRT8Sa4QjNZcvGbBA
+Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
 # Analytics
 
 <img src="./analytics.png">
