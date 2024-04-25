@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dungeon Meshi Episode 17
+Episode Name: Touken Ranbu Kai Kyoden Moyuru Honnouji Episode 4
 
-Episode Link: https://allanime.to/bangumi/gAcGCcMENjbWhBnR9
+Episode Link: https://allanime.to/bangumi/aWBbqk9msGX3eYCXG
 # Analytics
 
 <img src="./analytics.png">
