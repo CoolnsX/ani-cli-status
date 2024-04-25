@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ookami to Koushinryou Merchant Meets the Wise Wolf Episode 4
+Episode Name: Yozakura san Chi no Daisakusen Episode 3
 
-Episode Link: https://allanime.to/bangumi/yCkrq8Mdgs6t983iL
+Episode Link: https://allanime.to/bangumi/QdcDzpRCfcjqHCNNg
 # Analytics
 
 <img src="./analytics.png">
