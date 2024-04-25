@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1101
+Episode Name: Mahou no Princess Minky Momo Episode 63
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/fnrwmpKY7HCLy97Zx
 # Analytics
 
 <img src="./analytics.png">
