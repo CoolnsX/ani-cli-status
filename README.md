@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Paripi Koumei Road to Summer Sonia Episode 1
+Episode Name: Shinigami Bocchan to Kuro Maid Season 3 Episode 3
 
-Episode Link: https://allanime.to/bangumi/bzjj53EoZXhqXQ37K
+Episode Link: https://allanime.to/bangumi/F5xANhW2nsxdBrMco
 # Analytics
 
 <img src="./analytics.png">
