@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kono Subarashii Sekai ni Shukufuku wo 3 Episode 3
+Episode Name: Paripi Koumei Road to Summer Sonia Episode 1
 
-Episode Link: https://allanime.to/bangumi/7cTdxtzvohmd79Bt4
+Episode Link: https://allanime.to/bangumi/bzjj53EoZXhqXQ37K
 # Analytics
 
 <img src="./analytics.png">
