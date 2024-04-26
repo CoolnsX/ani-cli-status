@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Re Monster Episode 4
+Episode Name: Kaii to Otome to Kamikakushi Episode 3
 
-Episode Link: https://allanime.to/bangumi/BHtzBbDXNuhBjypaJ
+Episode Link: https://allanime.to/bangumi/L7rZxfCnWLeTTsSfv
 # Analytics
 
 <img src="./analytics.png">
