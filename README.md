@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kaii to Otome to Kamikakushi Episode 3
+Episode Name: Jiisan Baasan Wakagaeru Episode 3
 
-Episode Link: https://allanime.to/bangumi/L7rZxfCnWLeTTsSfv
+Episode Link: https://allanime.to/bangumi/uroYYvHm9Z7aL5PHp
 # Analytics
 
 <img src="./analytics.png">
