@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hananoi kun to Koi no Yamai Episode 4
+Episode Name: Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga Dou Medereba Ii Episode 5
 
-Episode Link: https://allanime.to/bangumi/8oAjW4gZHubZcDAY9
+Episode Link: https://allanime.to/bangumi/SnAA5xQmny6aXeFHo
 # Analytics
 
 <img src="./analytics.png">
