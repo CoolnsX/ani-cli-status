@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yuru Camp△ Season 3 Episode 4
+Episode Name: Dungeon Meshi Episode 17
 
-Episode Link: https://allanime.to/bangumi/7ouDzKgHyXznDj3By
+Episode Link: https://allanime.to/bangumi/gAcGCcMENjbWhBnR9
 # Analytics
 
 <img src="./analytics.png">
