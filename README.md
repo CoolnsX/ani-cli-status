@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dungeon Meshi Episode 17
+Episode Name: Deltora Quest Episode 61
 
-Episode Link: https://allanime.to/bangumi/gAcGCcMENjbWhBnR9
+Episode Link: https://allanime.to/bangumi/Tyk37LmyE4NJAhwWd
 # Analytics
 
 <img src="./analytics.png">
