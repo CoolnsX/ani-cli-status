@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga Dou Medereba Ii Episode 5
+Episode Name: Kaii to Otome to Kamikakushi Episode 3
 
-Episode Link: https://allanime.to/bangumi/SnAA5xQmny6aXeFHo
+Episode Link: https://allanime.to/bangumi/L7rZxfCnWLeTTsSfv
 # Analytics
 
 <img src="./analytics.png">
