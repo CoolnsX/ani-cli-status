@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 114
+Episode Name: Hananoi kun to Koi no Yamai Episode 4
 
-Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
+Episode Link: https://allanime.to/bangumi/8oAjW4gZHubZcDAY9
 # Analytics
 
 <img src="./analytics.png">
