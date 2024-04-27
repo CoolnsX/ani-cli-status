@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bartender Kami no Glass Episode 4
+Episode Name: Seiyuu Radio no Uraomote Episode 3
 
-Episode Link: https://allanime.to/bangumi/Db36DyQefFrfyaFFe
+Episode Link: https://allanime.to/bangumi/ZCGjix8b6gCRyBLgE
 # Analytics
 
 <img src="./analytics.png">
