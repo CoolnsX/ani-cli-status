@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 89
+Episode Name: Mahouka Koukou no Rettousei Season 3 Episode 4
 
-Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
+Episode Link: https://allanime.to/bangumi/Q7h4rxYmdHDADCTfY
 # Analytics
 
 <img src="./analytics.png">
