@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Deltora Quest Episode 65
+Episode Name: Yoru no Kurage wa Oyogenai Episode 4
 
-Episode Link: https://allanime.to/bangumi/Tyk37LmyE4NJAhwWd
+Episode Link: https://allanime.to/bangumi/fTg6c7nL3tv8oi2L5
 # Analytics
 
 <img src="./analytics.png">
