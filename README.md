@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nijiyon Animation 2 Episode 4
+Episode Name: Deltora Quest Episode 65
 
-Episode Link: https://allanime.to/bangumi/vHRnxWT83vEhRzcAG
+Episode Link: https://allanime.to/bangumi/Tyk37LmyE4NJAhwWd
 # Analytics
 
 <img src="./analytics.png">
