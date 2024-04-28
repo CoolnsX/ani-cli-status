@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The New Gate Episode 3
+Episode Name: Nijiyon Animation 2 Episode 4
 
-Episode Link: https://allanime.to/bangumi/w39mxyQm5xxSaMQc9
+Episode Link: https://allanime.to/bangumi/vHRnxWT83vEhRzcAG
 # Analytics
 
 <img src="./analytics.png">
