@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Deltora Quest Episode 65
+Episode Name: Beyblade X Episode 28
 
-Episode Link: https://allanime.to/bangumi/Tyk37LmyE4NJAhwWd
+Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
 # Analytics
 
 <img src="./analytics.png">
