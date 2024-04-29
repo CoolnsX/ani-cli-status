@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninja Kamui Episode 12
+Episode Name: The New Gate Episode 3
 
-Episode Link: https://allanime.to/bangumi/d4jETNjQEAhJCtarN
+Episode Link: https://allanime.to/bangumi/w39mxyQm5xxSaMQc9
 # Analytics
 
 <img src="./analytics.png">
