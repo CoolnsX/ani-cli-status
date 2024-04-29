@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinigami Bocchan to Kuro Maid Season 3 Episode 4
+Episode Name: Wonderful Precure Episode 13
 
-Episode Link: https://allanime.to/bangumi/F5xANhW2nsxdBrMco
+Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
 # Analytics
 
 <img src="./analytics.png">
