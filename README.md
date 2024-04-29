@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sentai Daishikkaku Episode 4
+Episode Name: Highspeed Etoile Episode 4
 
-Episode Link: https://allanime.to/bangumi/diBoKGs7oLZTY9ShL
+Episode Link: https://allanime.to/bangumi/GoSNgenDWLm2B8C3H
 # Analytics
 
 <img src="./analytics.png">
