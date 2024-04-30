@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Vampire Dormitory Episode 4
+Episode Name: Shadowverse Flame Episode 78
 
-Episode Link: https://allanime.to/bangumi/fjdqCDdf46Jte8g6T
+Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
 # Analytics
 
 <img src="./analytics.png">
