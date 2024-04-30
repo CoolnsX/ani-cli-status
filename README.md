@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Meitou Episode 12
+Episode Name: Boukyaku Battery TV Episode 4
 
-Episode Link: https://allanime.to/bangumi/saN6ACR3xXKKEzpGZ
+Episode Link: https://allanime.to/bangumi/8uWZHXsgmcubcy5PT
 # Analytics
 
 <img src="./analytics.png">
