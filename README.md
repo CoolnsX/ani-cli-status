@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Blue Archive the Animation Episode 4
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Part 2 Episode 4
 
-Episode Link: https://allanime.to/bangumi/cqKnAmw7yEz7kmCCJ
+Episode Link: https://allanime.to/bangumi/QusmPJR29sg3G35CB
 # Analytics
 
 <img src="./analytics.png">
