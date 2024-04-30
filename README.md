@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Touken Ranbu Kai Kyoden Moyuru Honnouji Episode 5
+Episode Name: The Fable Episode 4
 
-Episode Link: https://allanime.to/bangumi/aWBbqk9msGX3eYCXG
+Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
 # Analytics
 
 <img src="./analytics.png">
