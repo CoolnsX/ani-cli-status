@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Meitou Episode 12
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 30
 
-Episode Link: https://allanime.to/bangumi/saN6ACR3xXKKEzpGZ
+Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
 # Analytics
 
 <img src="./analytics.png">
