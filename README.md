@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Vampire Dormitory Episode 4
+Episode Name: Chibi Maruko chan 1995 Episode 1286
 
-Episode Link: https://allanime.to/bangumi/fjdqCDdf46Jte8g6T
+Episode Link: https://allanime.to/bangumi/SuD2BZMM2kjmuqX74
 # Analytics
 
 <img src="./analytics.png">
