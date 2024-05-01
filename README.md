@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinkalion Change the World Episode 4
+Episode Name: Vampire Dormitory Episode 4
 
-Episode Link: https://allanime.to/bangumi/MsQMzfMtztc93Eiui
+Episode Link: https://allanime.to/bangumi/fjdqCDdf46Jte8g6T
 # Analytics
 
 <img src="./analytics.png">
