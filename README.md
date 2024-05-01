@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kami wa Game ni Ueteiru Episode 5
+Episode Name: Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life Episode 4
 
-Episode Link: https://allanime.to/bangumi/TdCW2HQ5mPLFKAjJE
+Episode Link: https://allanime.to/bangumi/9ztGdmAXbsZAjgT8T
 # Analytics
 
 <img src="./analytics.png">
