@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 158
+Episode Name: Kami wa Game ni Ueteiru Episode 5
 
-Episode Link: https://allanime.to/bangumi/PGqQKyyef49RWDzsc
+Episode Link: https://allanime.to/bangumi/TdCW2HQ5mPLFKAjJE
 # Analytics
 
 <img src="./analytics.png">
