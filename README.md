@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Re Monster Episode 5
+Episode Name: Tensei Kizoku Kantei Skill de Nariagaru Episode 4
 
-Episode Link: https://allanime.to/bangumi/BHtzBbDXNuhBjypaJ
+Episode Link: https://allanime.to/bangumi/ncNQiQiTh4Zwk4rAv
 # Analytics
 
 <img src="./analytics.png">
