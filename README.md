@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tadaima Okaeri Episode 4
+Episode Name: Wonderful Precure Episode 13
 
-Episode Link: https://allanime.to/bangumi/hhaewxSaxsm9RH3mZ
+Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
 # Analytics
 
 <img src="./analytics.png">
