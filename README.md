@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku Kantei Skill de Nariagaru Episode 4
+Episode Name: Dr Slump Arale chan Episode 158
 
-Episode Link: https://allanime.to/bangumi/ncNQiQiTh4Zwk4rAv
+Episode Link: https://allanime.to/bangumi/PGqQKyyef49RWDzsc
 # Analytics
 
 <img src="./analytics.png">
