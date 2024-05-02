@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Part 2 Episode 4
+Episode Name: Kaii to Otome to Kamikakushi Episode 4
 
-Episode Link: https://allanime.to/bangumi/QusmPJR29sg3G35CB
+Episode Link: https://allanime.to/bangumi/L7rZxfCnWLeTTsSfv
 # Analytics
 
 <img src="./analytics.png">
