@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dungeon Meshi Episode 18
+Episode Name: Re Monster Episode 5
 
-Episode Link: https://allanime.to/bangumi/gAcGCcMENjbWhBnR9
+Episode Link: https://allanime.to/bangumi/BHtzBbDXNuhBjypaJ
 # Analytics
 
 <img src="./analytics.png">
