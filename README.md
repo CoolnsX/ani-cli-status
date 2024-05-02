@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 158
+Episode Name: Chibi Maruko chan 1995 Episode 1286
 
-Episode Link: https://allanime.to/bangumi/PGqQKyyef49RWDzsc
+Episode Link: https://allanime.to/bangumi/SuD2BZMM2kjmuqX74
 # Analytics
 
 <img src="./analytics.png">
