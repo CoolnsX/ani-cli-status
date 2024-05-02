@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinkalion Change the World Episode 4
+Episode Name: Tonari no Youkai san Episode 4
 
-Episode Link: https://allanime.to/bangumi/MsQMzfMtztc93Eiui
+Episode Link: https://allanime.to/bangumi/2gBL63MLdirCpfeuH
 # Analytics
 
 <img src="./analytics.png">
