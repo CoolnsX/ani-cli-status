@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Blue Archive the Animation Episode 4
+Episode Name: Ookami to Koushinryou Merchant Meets the Wise Wolf Episode 5
 
-Episode Link: https://allanime.to/bangumi/cqKnAmw7yEz7kmCCJ
+Episode Link: https://allanime.to/bangumi/yCkrq8Mdgs6t983iL
 # Analytics
 
 <img src="./analytics.png">
