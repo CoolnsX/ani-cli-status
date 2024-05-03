@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga Dou Medereba Ii Episode 6
+Episode Name: Kono Subarashii Sekai ni Shukufuku wo 3 Episode 4
 
-Episode Link: https://allanime.to/bangumi/SnAA5xQmny6aXeFHo
+Episode Link: https://allanime.to/bangumi/7cTdxtzvohmd79Bt4
 # Analytics
 
 <img src="./analytics.png">
