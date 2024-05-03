@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 106
+Episode Name: Jiisan Baasan Wakagaeru Episode 4
 
-Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
+Episode Link: https://allanime.to/bangumi/uroYYvHm9Z7aL5PHp
 # Analytics
 
 <img src="./analytics.png">
