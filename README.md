@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Eternity Memories Episode 1
+Episode Name: Hananoi kun to Koi no Yamai Episode 5
 
-Episode Link: https://allanime.to/bangumi/Ttf8ZXsiywyucFAxC
+Episode Link: https://allanime.to/bangumi/8oAjW4gZHubZcDAY9
 # Analytics
 
 <img src="./analytics.png">
