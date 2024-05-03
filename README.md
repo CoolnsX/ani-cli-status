@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sand Land The Series Episode 13
+Episode Name: Kenka Dokugaku Episode 4
 
-Episode Link: https://allanime.to/bangumi/DTAyAjmAzY3cMb8k4
+Episode Link: https://allanime.to/bangumi/zMSJqj9smuvAJJP2d
 # Analytics
 
 <img src="./analytics.png">
