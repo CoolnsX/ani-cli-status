@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jiisan Baasan Wakagaeru Episode 4
+Episode Name: Chiikawa Episode 90
 
-Episode Link: https://allanime.to/bangumi/uroYYvHm9Z7aL5PHp
+Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
 # Analytics
 
 <img src="./analytics.png">
