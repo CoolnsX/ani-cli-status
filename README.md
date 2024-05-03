@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wind Breaker Episode 5
+Episode Name: Ookami to Koushinryou Merchant Meets the Wise Wolf Episode 5
 
-Episode Link: https://allanime.to/bangumi/Jv25h5eoCnZDMSoL3
+Episode Link: https://allanime.to/bangumi/yCkrq8Mdgs6t983iL
 # Analytics
 
 <img src="./analytics.png">
