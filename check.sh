@@ -58,7 +58,8 @@ provider_run() {
 
 #intializing
 printf "" >results
-rm -f images/*
+rm -f images/*.jpg
+[ -d "images" ] || mkdir "images"
 domain="allanime.day"
 base_url="https://api.$domain"
 lol="https://allanime.to"
