@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bartender Kami no Glass Episode 5
+Episode Name: Dungeon Meshi Episode 18
 
-Episode Link: https://allanime.to/bangumi/Db36DyQefFrfyaFFe
+Episode Link: https://allanime.to/bangumi/gAcGCcMENjbWhBnR9
 # Analytics
 
 <img src="./analytics.png">
