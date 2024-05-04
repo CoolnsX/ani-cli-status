@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Astro Note Episode 5
+Episode Name: Re Monster Episode 5
 
-Episode Link: https://allanime.to/bangumi/QvmdS433kzi6gy8EQ
+Episode Link: https://allanime.to/bangumi/BHtzBbDXNuhBjypaJ
 # Analytics
 
 <img src="./analytics.png">
