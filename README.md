@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 115
+Episode Name: Rinkai Episode 4
 
-Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
+Episode Link: https://allanime.to/bangumi/bx4iqprCv2p5vPB2B
 # Analytics
 
 <img src="./analytics.png">
