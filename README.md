@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Eternity Memories Episode 1
+Episode Name: Bartender Kami no Glass Episode 5
 
-Episode Link: https://allanime.to/bangumi/Ttf8ZXsiywyucFAxC
+Episode Link: https://allanime.to/bangumi/Db36DyQefFrfyaFFe
 # Analytics
 
 <img src="./analytics.png">
