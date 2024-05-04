@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wind Breaker Episode 5
+Episode Name: Henjin no Salad Bowl Episode 5
 
-Episode Link: https://allanime.to/bangumi/Jv25h5eoCnZDMSoL3
+Episode Link: https://allanime.to/bangumi/gYNWJBu4rvSrmSfiB
 # Analytics
 
 <img src="./analytics.png">
