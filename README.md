@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The New Gate Episode 4
+Episode Name: Wind Breaker Episode 5
 
-Episode Link: https://allanime.to/bangumi/w39mxyQm5xxSaMQc9
+Episode Link: https://allanime.to/bangumi/Jv25h5eoCnZDMSoL3
 # Analytics
 
 <img src="./analytics.png">
