@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninja Kamui Episode 13
+Episode Name: Beyblade X Episode 29
 
-Episode Link: https://allanime.to/bangumi/d4jETNjQEAhJCtarN
+Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
 # Analytics
 
 <img src="./analytics.png">
