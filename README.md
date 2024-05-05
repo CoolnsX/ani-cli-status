@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wonderful Precure Episode 14
+Episode Name: Yuru Camp△ Season 3 Episode 5
 
-Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
+Episode Link: https://allanime.to/bangumi/7ouDzKgHyXznDj3By
 # Analytics
 
 <img src="./analytics.png">
