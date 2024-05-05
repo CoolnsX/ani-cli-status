@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan 1995 Episode 1287
+Episode Name: Kaijuu 8 gou Episode 4
 
-Episode Link: https://allanime.to/bangumi/SuD2BZMM2kjmuqX74
+Episode Link: https://allanime.to/bangumi/vj5neAm4FfqobQzuA
 # Analytics
 
 <img src="./analytics.png">
