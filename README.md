@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahouka Koukou no Rettousei Season 3 Episode 5
+Episode Name: Odekake Kozame Episode 58
 
-Episode Link: https://allanime.to/bangumi/Q7h4rxYmdHDADCTfY
+Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
 # Analytics
 
 <img src="./analytics.png">
