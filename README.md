@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kuroshitsuji Kishuku Gakkou hen Episode 4
+Episode Name: Eternity Memories Episode 1
 
-Episode Link: https://allanime.to/bangumi/DBvFajd8gff2if8ab
+Episode Link: https://allanime.to/bangumi/Ttf8ZXsiywyucFAxC
 # Analytics
 
 <img src="./analytics.png">
