@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nijiyon Animation 2 Episode 5
+Episode Name: Mahouka Koukou no Rettousei Season 3 Episode 5
 
-Episode Link: https://allanime.to/bangumi/vHRnxWT83vEhRzcAG
+Episode Link: https://allanime.to/bangumi/Q7h4rxYmdHDADCTfY
 # Analytics
 
 <img src="./analytics.png">
