@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chouriki Robo Galatt Episode 19
+Episode Name: Nijiyon Animation 2 Episode 5
 
-Episode Link: https://allanime.to/bangumi/x9rEdF4tRnmbQhMR3
+Episode Link: https://allanime.to/bangumi/vHRnxWT83vEhRzcAG
 # Analytics
 
 <img src="./analytics.png">
