@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shuumatsu Train Doko e Iku Episode 6
+Episode Name: Yozakura san Chi no Daisakusen Episode 5
 
-Episode Link: https://allanime.to/bangumi/gQNFQMggjDNXrpn4X
+Episode Link: https://allanime.to/bangumi/QdcDzpRCfcjqHCNNg
 # Analytics
 
 <img src="./analytics.png">
