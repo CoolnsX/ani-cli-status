@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chouriki Robo Galatt Episode 19
+Episode Name: Tadaima Okaeri Episode 5
 
-Episode Link: https://allanime.to/bangumi/x9rEdF4tRnmbQhMR3
+Episode Link: https://allanime.to/bangumi/hhaewxSaxsm9RH3mZ
 # Analytics
 
 <img src="./analytics.png">
