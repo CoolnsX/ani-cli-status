@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Haai Step Jun Episode 19
+Episode Name: Beyblade X Episode 29
 
-Episode Link: https://allanime.to/bangumi/5dC9GDoPPJ5agJg2C
+Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
 # Analytics
 
 <img src="./analytics.png">
