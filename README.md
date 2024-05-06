@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tonari no Youkai san Episode 5
+Episode Name: Chouriki Robo Galatt Episode 19
 
-Episode Link: https://allanime.to/bangumi/2gBL63MLdirCpfeuH
+Episode Link: https://allanime.to/bangumi/x9rEdF4tRnmbQhMR3
 # Analytics
 
 <img src="./analytics.png">
