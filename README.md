@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saint Seiya Knights of the Zodiac Battle Sanctuary Part 2 Episode 7
+Episode Name: Jiisan Baasan Wakagaeru Episode 5
 
-Episode Link: https://allanime.to/bangumi/yoCFRFf323vcajdGT
+Episode Link: https://allanime.to/bangumi/uroYYvHm9Z7aL5PHp
 # Analytics
 
 <img src="./analytics.png">
