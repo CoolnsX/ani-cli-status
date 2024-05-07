@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chouriki Robo Galatt Episode 19
+Episode Name: Sasayaku You ni Koi wo Utau Episode 4
 
-Episode Link: https://allanime.to/bangumi/x9rEdF4tRnmbQhMR3
+Episode Link: https://allanime.to/bangumi/aRT8Sa4QjNZcvGbBA
 # Analytics
 
 <img src="./analytics.png">
