@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Haai Step Jun Episode 19
+Episode Name: Shuumatsu Train Doko e Iku Episode 6
 
-Episode Link: https://allanime.to/bangumi/5dC9GDoPPJ5agJg2C
+Episode Link: https://allanime.to/bangumi/gQNFQMggjDNXrpn4X
 # Analytics
 
 <img src="./analytics.png">
