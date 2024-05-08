@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 59
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Part 2 Episode 5
 
-Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
+Episode Link: https://allanime.to/bangumi/QusmPJR29sg3G35CB
 # Analytics
 
 <img src="./analytics.png">
