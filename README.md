@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tadaima Okaeri Episode 5
+Episode Name: Karasu wa Aruji wo Erabanai Episode 5
 
-Episode Link: https://allanime.to/bangumi/hhaewxSaxsm9RH3mZ
+Episode Link: https://allanime.to/bangumi/54QXLa5bTNaaPjsfg
 # Analytics
 
 <img src="./analytics.png">
