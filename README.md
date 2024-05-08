@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kinnikuman Episode 128
+Episode Name: Shinkalion Change the World Episode 5
 
-Episode Link: https://allanime.to/bangumi/pNi8AYhvc7Tp5JayR
+Episode Link: https://allanime.to/bangumi/MsQMzfMtztc93Eiui
 # Analytics
 
 <img src="./analytics.png">
