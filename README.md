@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kami wa Game ni Ueteiru Episode 6
+Episode Name: The Fable Episode 5
 
-Episode Link: https://allanime.to/bangumi/TdCW2HQ5mPLFKAjJE
+Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
 # Analytics
 
 <img src="./analytics.png">
