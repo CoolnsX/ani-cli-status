@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wonderful Precure Episode 14
+Episode Name: Kenka Dokugaku Episode 5
 
-Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
+Episode Link: https://allanime.to/bangumi/zMSJqj9smuvAJJP2d
 # Analytics
 
 <img src="./analytics.png">
