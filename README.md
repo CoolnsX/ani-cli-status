@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sasayaku You ni Koi wo Utau Episode 4
+Episode Name: Tensei Kizoku Kantei Skill de Nariagaru Episode 5
 
-Episode Link: https://allanime.to/bangumi/aRT8Sa4QjNZcvGbBA
+Episode Link: https://allanime.to/bangumi/ncNQiQiTh4Zwk4rAv
 # Analytics
 
 <img src="./analytics.png">
