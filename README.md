@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Touken Ranbu Kai Kyoden Moyuru Honnouji Episode 6
+Episode Name: Blue Archive the Animation Episode 5
 
-Episode Link: https://allanime.to/bangumi/aWBbqk9msGX3eYCXG
+Episode Link: https://allanime.to/bangumi/cqKnAmw7yEz7kmCCJ
 # Analytics
 
 <img src="./analytics.png">
