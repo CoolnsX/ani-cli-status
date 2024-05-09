@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rinkai Episode 5
+Episode Name: Date A Live V Episode 5
 
-Episode Link: https://allanime.to/bangumi/bx4iqprCv2p5vPB2B
+Episode Link: https://allanime.to/bangumi/LST2wJqmywAhZKLvm
 # Analytics
 
 <img src="./analytics.png">
