@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku Kantei Skill de Nariagaru Episode 5
+Episode Name: Bartender Kami no Glass Episode 6
 
-Episode Link: https://allanime.to/bangumi/ncNQiQiTh4Zwk4rAv
+Episode Link: https://allanime.to/bangumi/Db36DyQefFrfyaFFe
 # Analytics
 
 <img src="./analytics.png">
