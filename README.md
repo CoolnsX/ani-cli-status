@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bartender Kami no Glass Episode 6
+Episode Name: Re Monster Episode 6
 
-Episode Link: https://allanime.to/bangumi/Db36DyQefFrfyaFFe
+Episode Link: https://allanime.to/bangumi/BHtzBbDXNuhBjypaJ
 # Analytics
 
 <img src="./analytics.png">
