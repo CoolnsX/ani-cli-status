@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jiisan Baasan Wakagaeru Episode 5
+Episode Name: Vampire Dormitory Episode 5
 
-Episode Link: https://allanime.to/bangumi/uroYYvHm9Z7aL5PHp
+Episode Link: https://allanime.to/bangumi/fjdqCDdf46Jte8g6T
 # Analytics
 
 <img src="./analytics.png">
