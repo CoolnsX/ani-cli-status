@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shuumatsu Train Doko e Iku Episode 6
+Episode Name: Seiyuu Radio no Uraomote Episode 5
 
-Episode Link: https://allanime.to/bangumi/gQNFQMggjDNXrpn4X
+Episode Link: https://allanime.to/bangumi/ZCGjix8b6gCRyBLgE
 # Analytics
 
 <img src="./analytics.png">
