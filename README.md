@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yuru Camp△ Season 3 Episode 6
+Episode Name: Wind Breaker Episode 6
 
-Episode Link: https://allanime.to/bangumi/7ouDzKgHyXznDj3By
+Episode Link: https://allanime.to/bangumi/Jv25h5eoCnZDMSoL3
 # Analytics
 
 <img src="./analytics.png">
