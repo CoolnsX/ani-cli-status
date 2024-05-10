@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shuumatsu Train Doko e Iku Episode 6
+Episode Name: Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga Dou Medereba Ii Episode 7
 
-Episode Link: https://allanime.to/bangumi/gQNFQMggjDNXrpn4X
+Episode Link: https://allanime.to/bangumi/SnAA5xQmny6aXeFHo
 # Analytics
 
 <img src="./analytics.png">
