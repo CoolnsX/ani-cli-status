@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kenka Dokugaku Episode 5
+Episode Name: Hananoi kun to Koi no Yamai Episode 6
 
-Episode Link: https://allanime.to/bangumi/zMSJqj9smuvAJJP2d
+Episode Link: https://allanime.to/bangumi/8oAjW4gZHubZcDAY9
 # Analytics
 
 <img src="./analytics.png">
