@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 116
+Episode Name: Kami wa Game ni Ueteiru Episode 6
 
-Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
+Episode Link: https://allanime.to/bangumi/TdCW2HQ5mPLFKAjJE
 # Analytics
 
 <img src="./analytics.png">
