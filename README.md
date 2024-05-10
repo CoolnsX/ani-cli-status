@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ookami to Koushinryou Merchant Meets the Wise Wolf Episode 6
+Episode Name: Shuumatsu Train Doko e Iku Episode 6
 
-Episode Link: https://allanime.to/bangumi/yCkrq8Mdgs6t983iL
+Episode Link: https://allanime.to/bangumi/gQNFQMggjDNXrpn4X
 # Analytics
 
 <img src="./analytics.png">
