@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 107
+Episode Name: Highspeed Etoile Episode 6
 
-Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
+Episode Link: https://allanime.to/bangumi/GoSNgenDWLm2B8C3H
 # Analytics
 
 <img src="./analytics.png">
