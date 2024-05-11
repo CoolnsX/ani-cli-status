@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Karasu wa Aruji wo Erabanai Episode 6
+Episode Name: Odekake Kozame Episode 60
 
-Episode Link: https://allanime.to/bangumi/54QXLa5bTNaaPjsfg
+Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
 # Analytics
 
 <img src="./analytics.png">
