@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Odekake Kozame Episode 60
+Episode Name: Himitsu no AiPri Episode 5
 
-Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
+Episode Link: https://allanime.to/bangumi/TAY6dqJNwKKSECHaB
 # Analytics
 
 <img src="./analytics.png">
