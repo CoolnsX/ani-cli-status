@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hananoi kun to Koi no Yamai Episode 6
+Episode Name: Chiikawa Episode 91
 
-Episode Link: https://allanime.to/bangumi/8oAjW4gZHubZcDAY9
+Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
 # Analytics
 
 <img src="./analytics.png">
