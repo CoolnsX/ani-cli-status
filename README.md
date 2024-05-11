@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ooi Tonbo Episode 6
+Episode Name: Kinnikuman Episode 128
 
-Episode Link: https://allanime.to/bangumi/wQDfeDns76ojAPdzs
+Episode Link: https://allanime.to/bangumi/pNi8AYhvc7Tp5JayR
 # Analytics
 
 <img src="./analytics.png">
