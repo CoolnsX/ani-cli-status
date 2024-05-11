@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The iDOLM STER Shiny Colors Episode 6
+Episode Name: Odekake Kozame Episode 60
 
-Episode Link: https://allanime.to/bangumi/rwroGT45PMJiWkeYY
+Episode Link: https://allanime.to/bangumi/7WXdt3r7WYtrMJ7Cx
 # Analytics
 
 <img src="./analytics.png">
