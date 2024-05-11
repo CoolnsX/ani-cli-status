@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 116
+Episode Name: Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga Dou Medereba Ii Episode 7
 
-Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
+Episode Link: https://allanime.to/bangumi/SnAA5xQmny6aXeFHo
 # Analytics
 
 <img src="./analytics.png">
