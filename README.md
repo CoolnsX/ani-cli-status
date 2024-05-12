@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Date A Live V Episode 5
+Episode Name: Kenka Dokugaku Episode 5
 
-Episode Link: https://allanime.to/bangumi/LST2wJqmywAhZKLvm
+Episode Link: https://allanime.to/bangumi/zMSJqj9smuvAJJP2d
 # Analytics
 
 <img src="./analytics.png">
