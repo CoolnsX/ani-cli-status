@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Vampire Dormitory Episode 6
+Episode Name: Kimetsu no Yaiba Hashira Geiko hen Episode 1
 
-Episode Link: https://allanime.to/bangumi/fjdqCDdf46Jte8g6T
+Episode Link: https://allanime.to/bangumi/ubGJNAmJmdKSjNBSX
 # Analytics
 
 <img src="./analytics.png">
