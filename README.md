@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yoru no Kurage wa Oyogenai Episode 6
+Episode Name: Shadowverse Flame Episode 80
 
-Episode Link: https://allanime.to/bangumi/fTg6c7nL3tv8oi2L5
+Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
 # Analytics
 
 <img src="./analytics.png">
