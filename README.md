@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1123
+Episode Name: Date A Live V Episode 5
 
-Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
+Episode Link: https://allanime.to/bangumi/LST2wJqmywAhZKLvm
 # Analytics
 
 <img src="./analytics.png">
