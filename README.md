@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sentai Daishikkaku Episode 5
+Episode Name: Shinkalion Change the World Episode 6
 
-Episode Link: https://allanime.to/bangumi/diBoKGs7oLZTY9ShL
+Episode Link: https://allanime.to/bangumi/MsQMzfMtztc93Eiui
 # Analytics
 
 <img src="./analytics.png">
