@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sasayaku You ni Koi wo Utau Episode 5
+Episode Name: Karasu wa Aruji wo Erabanai Episode 6
 
-Episode Link: https://allanime.to/bangumi/aRT8Sa4QjNZcvGbBA
+Episode Link: https://allanime.to/bangumi/54QXLa5bTNaaPjsfg
 # Analytics
 
 <img src="./analytics.png">
