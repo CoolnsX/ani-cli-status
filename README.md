@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 30
+Episode Name: Kaijuu 8 gou Episode 5
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/vj5neAm4FfqobQzuA
 # Analytics
 
 <img src="./analytics.png">
