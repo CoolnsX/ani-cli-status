@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tadaima Okaeri Episode 6
+Episode Name: Re Monster Episode 7
 
-Episode Link: https://allanime.to/bangumi/hhaewxSaxsm9RH3mZ
+Episode Link: https://allanime.to/bangumi/BHtzBbDXNuhBjypaJ
 # Analytics
 
 <img src="./analytics.png">
