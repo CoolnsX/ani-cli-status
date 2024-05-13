@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yozakura san Chi no Daisakusen Episode 6
+Episode Name: Shinigami Bocchan to Kuro Maid Season 3 Episode 6
 
-Episode Link: https://allanime.to/bangumi/QdcDzpRCfcjqHCNNg
+Episode Link: https://allanime.to/bangumi/F5xANhW2nsxdBrMco
 # Analytics
 
 <img src="./analytics.png">
