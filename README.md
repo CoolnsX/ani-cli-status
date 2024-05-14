@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tonari no Youkai san Episode 6
+Episode Name: Blue Archive the Animation Episode 6
 
-Episode Link: https://allanime.to/bangumi/2gBL63MLdirCpfeuH
+Episode Link: https://allanime.to/bangumi/cqKnAmw7yEz7kmCCJ
 # Analytics
 
 <img src="./analytics.png">
