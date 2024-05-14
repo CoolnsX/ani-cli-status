@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tonari no Youkai san Episode 6
+Episode Name: 1P Episode 1104
 
-Episode Link: https://allanime.to/bangumi/2gBL63MLdirCpfeuH
+Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
 # Analytics
 
 <img src="./analytics.png">
