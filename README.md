@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The iDOLM STER Shiny Colors Episode 6
+Episode Name: Yozakura san Chi no Daisakusen Episode 6
 
-Episode Link: https://allanime.to/bangumi/rwroGT45PMJiWkeYY
+Episode Link: https://allanime.to/bangumi/QdcDzpRCfcjqHCNNg
 # Analytics
 
 <img src="./analytics.png">
