@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life Episode 6
+Episode Name: Touken Ranbu Kai Kyoden Moyuru Honnouji Episode 7
 
-Episode Link: https://allanime.to/bangumi/9ztGdmAXbsZAjgT8T
+Episode Link: https://allanime.to/bangumi/aWBbqk9msGX3eYCXG
 # Analytics
 
 <img src="./analytics.png">
