@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kimetsu no Yaiba Hashira Geiko hen Episode 1
+Episode Name: Kuroshitsuji Kishuku Gakkou hen Episode 5
 
-Episode Link: https://allanime.to/bangumi/ubGJNAmJmdKSjNBSX
+Episode Link: https://allanime.to/bangumi/DBvFajd8gff2if8ab
 # Analytics
 
 <img src="./analytics.png">
