@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Virtua Fighter Episode 35
+Episode Name: 1P Episode 1104
 
-Episode Link: https://allanime.to/bangumi/8S2yCFFkNiwEr2HQY
+Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
 # Analytics
 
 <img src="./analytics.png">
