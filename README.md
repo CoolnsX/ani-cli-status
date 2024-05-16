@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Karasu wa Aruji wo Erabanai Episode 6
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Part 2 Episode 6
 
-Episode Link: https://allanime.to/bangumi/54QXLa5bTNaaPjsfg
+Episode Link: https://allanime.to/bangumi/QusmPJR29sg3G35CB
 # Analytics
 
 <img src="./analytics.png">
