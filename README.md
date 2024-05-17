@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Virtua Fighter Episode 35
+Episode Name: Hananoi kun to Koi no Yamai Episode 7
 
-Episode Link: https://allanime.to/bangumi/8S2yCFFkNiwEr2HQY
+Episode Link: https://allanime.to/bangumi/8oAjW4gZHubZcDAY9
 # Analytics
 
 <img src="./analytics.png">
