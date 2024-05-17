@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinkalion Change the World Episode 6
+Episode Name: Boukyaku Battery TV Episode 6
 
-Episode Link: https://allanime.to/bangumi/MsQMzfMtztc93Eiui
+Episode Link: https://allanime.to/bangumi/8uWZHXsgmcubcy5PT
 # Analytics
 
 <img src="./analytics.png">
