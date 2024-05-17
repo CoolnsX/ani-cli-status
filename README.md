@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boukyaku Battery TV Episode 6
+Episode Name: Rinkai Episode 6
 
-Episode Link: https://allanime.to/bangumi/8uWZHXsgmcubcy5PT
+Episode Link: https://allanime.to/bangumi/bx4iqprCv2p5vPB2B
 # Analytics
 
 <img src="./analytics.png">
