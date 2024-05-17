@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 31
+Episode Name: Bartender Kami no Glass Episode 7
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/Db36DyQefFrfyaFFe
 # Analytics
 
 <img src="./analytics.png">
