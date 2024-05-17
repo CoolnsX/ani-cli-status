@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 31
+Episode Name: Virtua Fighter Episode 35
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/8S2yCFFkNiwEr2HQY
 # Analytics
 
 <img src="./analytics.png">
