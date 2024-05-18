@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Godzilla no Gyakushuu Episode 13
+Episode Name: Mahouka Koukou no Rettousei Season 3 Episode 7
 
-Episode Link: https://allanime.to/bangumi/Boak9pkWsFkNNtfa9
+Episode Link: https://allanime.to/bangumi/Q7h4rxYmdHDADCTfY
 # Analytics
 
 <img src="./analytics.png">
