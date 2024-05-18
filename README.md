@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Godzilla no Gyakushuu Episode 13
+Episode Name: Henjin no Salad Bowl Episode 7
 
-Episode Link: https://allanime.to/bangumi/Boak9pkWsFkNNtfa9
+Episode Link: https://allanime.to/bangumi/gYNWJBu4rvSrmSfiB
 # Analytics
 
 <img src="./analytics.png">
