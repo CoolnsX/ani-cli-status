@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Himitsu no AiPri Episode 6
+Episode Name: Beyblade X Episode 31
 
-Episode Link: https://allanime.to/bangumi/TAY6dqJNwKKSECHaB
+Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
 # Analytics
 
 <img src="./analytics.png">
