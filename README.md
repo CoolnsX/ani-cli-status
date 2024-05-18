@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Girls Band Cry Episode 7
+Episode Name: Seiyuu Radio no Uraomote Episode 6
 
-Episode Link: https://allanime.to/bangumi/8Suk8xq3YmvDq2s5C
+Episode Link: https://allanime.to/bangumi/ZCGjix8b6gCRyBLgE
 # Analytics
 
 <img src="./analytics.png">
