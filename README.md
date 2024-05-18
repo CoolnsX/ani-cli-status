@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kenka Dokugaku Episode 6
+Episode Name: Chibi Godzilla no Gyakushuu Episode 13
 
-Episode Link: https://allanime.to/bangumi/zMSJqj9smuvAJJP2d
+Episode Link: https://allanime.to/bangumi/Boak9pkWsFkNNtfa9
 # Analytics
 
 <img src="./analytics.png">
