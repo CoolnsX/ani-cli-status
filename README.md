@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan 1995 Episode 1289
+Episode Name: Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shison tachi no Gakkou e Kayou 2nd Season Part 2 Episode 6
 
-Episode Link: https://allanime.to/bangumi/SuD2BZMM2kjmuqX74
+Episode Link: https://allanime.to/bangumi/pNPGCMYN5yA4yQH5J
 # Analytics
 
 <img src="./analytics.png">
