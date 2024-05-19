@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 117
+Episode Name: Honoo no Labyrinth Episode 2
 
-Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
+Episode Link: https://allanime.to/bangumi/u9yBMuKx4Nk982bYb
 # Analytics
 
 <img src="./analytics.png">
