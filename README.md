@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kuroshitsuji Kishuku Gakkou hen Episode 6
+Episode Name: Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shison tachi no Gakkou e Kayou 2nd Season Part 2 Episode 6
 
-Episode Link: https://allanime.to/bangumi/DBvFajd8gff2if8ab
+Episode Link: https://allanime.to/bangumi/pNPGCMYN5yA4yQH5J
 # Analytics
 
 <img src="./analytics.png">
