@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Detective Conan TV Episode 1124
+Episode Name: Honoo no Labyrinth Episode 2
 
-Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
+Episode Link: https://allanime.to/bangumi/u9yBMuKx4Nk982bYb
 # Analytics
 
 <img src="./analytics.png">
