@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Honoo no Labyrinth Episode 2
+Episode Name: Tensei shitara Slime Datta Ken Season 3 Episode 7
 
-Episode Link: https://allanime.to/bangumi/u9yBMuKx4Nk982bYb
+Episode Link: https://allanime.to/bangumi/KB5XDvwPdtLFEkoQZ
 # Analytics
 
 <img src="./analytics.png">
