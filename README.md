@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Henjin no Salad Bowl Episode 7
+Episode Name: Hibike Euphonium 3 Episode 7
 
-Episode Link: https://allanime.to/bangumi/gYNWJBu4rvSrmSfiB
+Episode Link: https://allanime.to/bangumi/oso3xi8Knpv5BKqem
 # Analytics
 
 <img src="./analytics.png">
