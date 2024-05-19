@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kaijuu 8 gou Episode 6
+Episode Name: 1P Episode 1105
 
-Episode Link: https://allanime.to/bangumi/vj5neAm4FfqobQzuA
+Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
 # Analytics
 
 <img src="./analytics.png">
