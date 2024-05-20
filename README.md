@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yoru no Kurage wa Oyogenai Episode 7
+Episode Name: Honoo no Labyrinth Episode 2
 
-Episode Link: https://allanime.to/bangumi/fTg6c7nL3tv8oi2L5
+Episode Link: https://allanime.to/bangumi/u9yBMuKx4Nk982bYb
 # Analytics
 
 <img src="./analytics.png">
