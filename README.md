@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hibike Euphonium 3 Episode 7
+Episode Name: Tonari no Youkai san Episode 7
 
-Episode Link: https://allanime.to/bangumi/oso3xi8Knpv5BKqem
+Episode Link: https://allanime.to/bangumi/2gBL63MLdirCpfeuH
 # Analytics
 
 <img src="./analytics.png">
