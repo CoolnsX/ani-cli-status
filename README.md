@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nijiyon Animation 2 Episode 7
+Episode Name: Girls Band Cry Episode 7
 
-Episode Link: https://allanime.to/bangumi/vHRnxWT83vEhRzcAG
+Episode Link: https://allanime.to/bangumi/8Suk8xq3YmvDq2s5C
 # Analytics
 
 <img src="./analytics.png">
