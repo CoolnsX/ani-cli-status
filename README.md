@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Honoo no Labyrinth Episode 2
+Episode Name: Sasayaku You ni Koi wo Utau Episode 6
 
-Episode Link: https://allanime.to/bangumi/u9yBMuKx4Nk982bYb
+Episode Link: https://allanime.to/bangumi/aRT8Sa4QjNZcvGbBA
 # Analytics
 
 <img src="./analytics.png">
