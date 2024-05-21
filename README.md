@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kimetsu no Yaiba Hashira Geiko hen Episode 2
+Episode Name: Ohayou Spank Episode 16
 
-Episode Link: https://allanime.to/bangumi/ubGJNAmJmdKSjNBSX
+Episode Link: https://allanime.to/bangumi/362y7tCsFLzB7tfSd
 # Analytics
 
 <img src="./analytics.png">
