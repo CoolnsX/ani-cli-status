@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tadaima Okaeri Episode 7
+Episode Name: Highspeed Etoile Episode 7
 
-Episode Link: https://allanime.to/bangumi/hhaewxSaxsm9RH3mZ
+Episode Link: https://allanime.to/bangumi/GoSNgenDWLm2B8C3H
 # Analytics
 
 <img src="./analytics.png">
