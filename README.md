@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Arc hen Episode 6
+Episode Name: Ohayou Spank Episode 16
 
-Episode Link: https://allanime.to/bangumi/RXf5Lv3Y643ovwztk
+Episode Link: https://allanime.to/bangumi/362y7tCsFLzB7tfSd
 # Analytics
 
 <img src="./analytics.png">
