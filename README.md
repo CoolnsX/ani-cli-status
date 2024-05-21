@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tonari no Youkai san Episode 7
+Episode Name: Kimetsu no Yaiba Hashira Geiko hen Episode 2
 
-Episode Link: https://allanime.to/bangumi/2gBL63MLdirCpfeuH
+Episode Link: https://allanime.to/bangumi/ubGJNAmJmdKSjNBSX
 # Analytics
 
 <img src="./analytics.png">
