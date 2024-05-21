@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yozakura san Chi no Daisakusen Episode 7
+Episode Name: Unnamed Memory Episode 7
 
-Episode Link: https://allanime.to/bangumi/QdcDzpRCfcjqHCNNg
+Episode Link: https://allanime.to/bangumi/TXkaJ8nzG8xKMgqcZ
 # Analytics
 
 <img src="./analytics.png">
