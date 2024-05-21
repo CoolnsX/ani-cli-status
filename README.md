@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Unnamed Memory Episode 7
+Episode Name: Yoru no Kurage wa Oyogenai Episode 7
 
-Episode Link: https://allanime.to/bangumi/TXkaJ8nzG8xKMgqcZ
+Episode Link: https://allanime.to/bangumi/fTg6c7nL3tv8oi2L5
 # Analytics
 
 <img src="./analytics.png">
