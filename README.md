@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ohayou Spank Episode 16
+Episode Name: Unnamed Memory Episode 7
 
-Episode Link: https://allanime.to/bangumi/362y7tCsFLzB7tfSd
+Episode Link: https://allanime.to/bangumi/TXkaJ8nzG8xKMgqcZ
 # Analytics
 
 <img src="./analytics.png">
