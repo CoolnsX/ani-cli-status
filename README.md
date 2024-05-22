@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ray The Animation Episode 13
+Episode Name: Rinkai Episode 7
 
-Episode Link: https://allanime.to/bangumi/by38os7tEBfZktw9v
+Episode Link: https://allanime.to/bangumi/bx4iqprCv2p5vPB2B
 # Analytics
 
 <img src="./analytics.png">
