@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ray The Animation Episode 13
+Episode Name: 1P Episode 1105
 
-Episode Link: https://allanime.to/bangumi/by38os7tEBfZktw9v
+Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
 # Analytics
 
 <img src="./analytics.png">
