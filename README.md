@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Unnamed Memory Episode 7
+Episode Name: Kuroshitsuji Kishuku Gakkou hen Episode 6
 
-Episode Link: https://allanime.to/bangumi/TXkaJ8nzG8xKMgqcZ
+Episode Link: https://allanime.to/bangumi/DBvFajd8gff2if8ab
 # Analytics
 
 <img src="./analytics.png">
