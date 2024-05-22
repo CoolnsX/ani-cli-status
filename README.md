@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Pokemon Episode 172
+Episode Name: Shinigami Bocchan to Kuro Maid Season 3 Episode 7
 
-Episode Link: https://allanime.to/bangumi/FEJga4E9XrhCWvhnX
+Episode Link: https://allanime.to/bangumi/F5xANhW2nsxdBrMco
 # Analytics
 
 <img src="./analytics.png">
