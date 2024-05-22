@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Touken Ranbu Kai Kyoden Moyuru Honnouji Episode 8
+Episode Name: Kuroshitsuji Kishuku Gakkou hen Episode 6
 
-Episode Link: https://allanime.to/bangumi/aWBbqk9msGX3eYCXG
+Episode Link: https://allanime.to/bangumi/DBvFajd8gff2if8ab
 # Analytics
 
 <img src="./analytics.png">
