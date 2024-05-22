@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Re Monster Episode 8
+Episode Name: Sentai Daishikkaku Episode 6
 
-Episode Link: https://allanime.to/bangumi/BHtzBbDXNuhBjypaJ
+Episode Link: https://allanime.to/bangumi/diBoKGs7oLZTY9ShL
 # Analytics
 
 <img src="./analytics.png">
