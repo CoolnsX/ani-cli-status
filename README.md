@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kuroshitsuji Kishuku Gakkou hen Episode 6
+Episode Name: Shuumatsu Train Doko e Iku Episode 8
 
-Episode Link: https://allanime.to/bangumi/DBvFajd8gff2if8ab
+Episode Link: https://allanime.to/bangumi/gQNFQMggjDNXrpn4X
 # Analytics
 
 <img src="./analytics.png">
