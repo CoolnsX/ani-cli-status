@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seiyuu Radio no Uraomote Episode 7
+Episode Name: Re Monster Episode 8
 
-Episode Link: https://allanime.to/bangumi/ZCGjix8b6gCRyBLgE
+Episode Link: https://allanime.to/bangumi/BHtzBbDXNuhBjypaJ
 # Analytics
 
 <img src="./analytics.png">
