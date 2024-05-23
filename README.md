@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ohayou Spank Episode 16
+Episode Name: Sasayaku You ni Koi wo Utau Episode 6
 
-Episode Link: https://allanime.to/bangumi/362y7tCsFLzB7tfSd
+Episode Link: https://allanime.to/bangumi/aRT8Sa4QjNZcvGbBA
 # Analytics
 
 <img src="./analytics.png">
