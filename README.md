@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku Kantei Skill de Nariagaru Episode 7
+Episode Name: Kono Subarashii Sekai ni Shukufuku wo 3 Episode 7
 
-Episode Link: https://allanime.to/bangumi/ncNQiQiTh4Zwk4rAv
+Episode Link: https://allanime.to/bangumi/7cTdxtzvohmd79Bt4
 # Analytics
 
 <img src="./analytics.png">
