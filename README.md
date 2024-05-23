@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Araiguma Rascal Episode 50
+Episode Name: Kami wa Game ni Ueteiru Episode 8
 
-Episode Link: https://allanime.to/bangumi/2BfL69oW9fbiRJwgC
+Episode Link: https://allanime.to/bangumi/TdCW2HQ5mPLFKAjJE
 # Analytics
 
 <img src="./analytics.png">
