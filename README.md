@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jiisan Baasan Wakagaeru Episode 7
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 109
 
-Episode Link: https://allanime.to/bangumi/uroYYvHm9Z7aL5PHp
+Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
 # Analytics
 
 <img src="./analytics.png">
