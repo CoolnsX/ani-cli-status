@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Re Monster Episode 8
+Episode Name: Boukyaku Battery TV Episode 7
 
-Episode Link: https://allanime.to/bangumi/BHtzBbDXNuhBjypaJ
+Episode Link: https://allanime.to/bangumi/8uWZHXsgmcubcy5PT
 # Analytics
 
 <img src="./analytics.png">
