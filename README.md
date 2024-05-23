@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kono Subarashii Sekai ni Shukufuku wo 3 Episode 7
+Episode Name: Seiyuu Radio no Uraomote Episode 7
 
-Episode Link: https://allanime.to/bangumi/7cTdxtzvohmd79Bt4
+Episode Link: https://allanime.to/bangumi/ZCGjix8b6gCRyBLgE
 # Analytics
 
 <img src="./analytics.png">
