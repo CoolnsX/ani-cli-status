@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kenka Dokugaku Episode 7
+Episode Name: Vampire Dormitory Episode 7
 
-Episode Link: https://allanime.to/bangumi/zMSJqj9smuvAJJP2d
+Episode Link: https://allanime.to/bangumi/fjdqCDdf46Jte8g6T
 # Analytics
 
 <img src="./analytics.png">
