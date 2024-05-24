@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Pokemon Episode 226
+Episode Name: Suki demo Kirai na Amanojaku Episode 1
 
-Episode Link: https://allanime.to/bangumi/FEJga4E9XrhCWvhnX
+Episode Link: https://allanime.to/bangumi/77SmZnmyYC28QQJ39
 # Analytics
 
 <img src="./analytics.png">
