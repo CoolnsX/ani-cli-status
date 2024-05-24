@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 109
+Episode Name: Araiguma Rascal Episode 50
 
-Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
+Episode Link: https://allanime.to/bangumi/2BfL69oW9fbiRJwgC
 # Analytics
 
 <img src="./analytics.png">
