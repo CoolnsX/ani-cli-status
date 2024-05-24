@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kaii to Otome to Kamikakushi Episode 7
+Episode Name: Pokemon Advanced Generation Episode 3
 
-Episode Link: https://allanime.to/bangumi/L7rZxfCnWLeTTsSfv
+Episode Link: https://allanime.to/bangumi/vbEYrjuwdvLSEF3tJ
 # Analytics
 
 <img src="./analytics.png">
