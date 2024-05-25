@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Highspeed Etoile Episode 8
+Episode Name: Bear Bear Bear Kuma Punch Daiundoukai hen Episode 3
 
-Episode Link: https://allanime.to/bangumi/GoSNgenDWLm2B8C3H
+Episode Link: https://allanime.to/bangumi/9p85oMyCJSjfDkWkn
 # Analytics
 
 <img src="./analytics.png">
