@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dungeon Meshi Episode 21
+Episode Name: Pokemon Advanced Generation Episode 3
 
-Episode Link: https://allanime.to/bangumi/gAcGCcMENjbWhBnR9
+Episode Link: https://allanime.to/bangumi/vbEYrjuwdvLSEF3tJ
 # Analytics
 
 <img src="./analytics.png">
