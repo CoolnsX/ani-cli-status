@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wind Breaker Episode 8
+Episode Name: Mahouka Koukou no Rettousei Season 3 Episode 8
 
-Episode Link: https://allanime.to/bangumi/Jv25h5eoCnZDMSoL3
+Episode Link: https://allanime.to/bangumi/Q7h4rxYmdHDADCTfY
 # Analytics
 
 <img src="./analytics.png">
