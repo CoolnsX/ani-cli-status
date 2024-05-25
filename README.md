@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bartender Kami no Glass Episode 8
+Episode Name: Shadowverse Flame Episode 82
 
-Episode Link: https://allanime.to/bangumi/Db36DyQefFrfyaFFe
+Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
 # Analytics
 
 <img src="./analytics.png">
