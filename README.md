@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 82
+Episode Name: Highspeed Etoile Episode 8
 
-Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
+Episode Link: https://allanime.to/bangumi/GoSNgenDWLm2B8C3H
 # Analytics
 
 <img src="./analytics.png">
