@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hananoi kun to Koi no Yamai Episode 8
+Episode Name: Wind Breaker Episode 8
 
-Episode Link: https://allanime.to/bangumi/8oAjW4gZHubZcDAY9
+Episode Link: https://allanime.to/bangumi/Jv25h5eoCnZDMSoL3
 # Analytics
 
 <img src="./analytics.png">
