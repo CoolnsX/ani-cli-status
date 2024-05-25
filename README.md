@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mahouka Koukou no Rettousei Season 3 Episode 8
+Episode Name: Astro Note Episode 8
 
-Episode Link: https://allanime.to/bangumi/Q7h4rxYmdHDADCTfY
+Episode Link: https://allanime.to/bangumi/QvmdS433kzi6gy8EQ
 # Analytics
 
 <img src="./analytics.png">
