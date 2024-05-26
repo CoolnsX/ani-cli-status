@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nijiyon Animation 2 Episode 8
+Episode Name: Yozakura san Chi no Daisakusen Episode 8
 
-Episode Link: https://allanime.to/bangumi/vHRnxWT83vEhRzcAG
+Episode Link: https://allanime.to/bangumi/QdcDzpRCfcjqHCNNg
 # Analytics
 
 <img src="./analytics.png">
