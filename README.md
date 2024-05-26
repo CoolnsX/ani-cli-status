@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yoru no Kurage wa Oyogenai Episode 8
+Episode Name: Attacker You Episode 51
 
-Episode Link: https://allanime.to/bangumi/fTg6c7nL3tv8oi2L5
+Episode Link: https://allanime.to/bangumi/jEgr3unzEo2xch3n9
 # Analytics
 
 <img src="./analytics.png">
