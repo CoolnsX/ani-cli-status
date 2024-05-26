@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dungeon Meshi Episode 21
+Episode Name: Henjin no Salad Bowl Episode 8
 
-Episode Link: https://allanime.to/bangumi/gAcGCcMENjbWhBnR9
+Episode Link: https://allanime.to/bangumi/gYNWJBu4rvSrmSfiB
 # Analytics
 
 <img src="./analytics.png">
