@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Hero Academia 7th Season Episode 4
+Episode Name: Nijiyon Animation 2 Episode 8
 
-Episode Link: https://allanime.to/bangumi/cskJzx6rseAgcGcAe
+Episode Link: https://allanime.to/bangumi/vHRnxWT83vEhRzcAG
 # Analytics
 
 <img src="./analytics.png">
