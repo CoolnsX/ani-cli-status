@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bear Bear Bear Kuma Punch Episode 5
+Episode Name: Pokemon Episode 276
 
-Episode Link: https://allanime.to/bangumi/umgfAdqWMwP8YNwPP
+Episode Link: https://allanime.to/bangumi/FEJga4E9XrhCWvhnX
 # Analytics
 
 <img src="./analytics.png">
