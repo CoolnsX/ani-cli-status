@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Girls Band Cry Episode 8
+Episode Name: Boku no Hero Academia 7th Season Episode 4
 
-Episode Link: https://allanime.to/bangumi/8Suk8xq3YmvDq2s5C
+Episode Link: https://allanime.to/bangumi/cskJzx6rseAgcGcAe
 # Analytics
 
 <img src="./analytics.png">
