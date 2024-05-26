@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Arc hen Episode 7
+Episode Name: Bear Bear Bear Kuma Punch Episode 5
 
-Episode Link: https://allanime.to/bangumi/RXf5Lv3Y643ovwztk
+Episode Link: https://allanime.to/bangumi/umgfAdqWMwP8YNwPP
 # Analytics
 
 <img src="./analytics.png">
