@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Attacker You Episode 51
+Episode Name: Dr Slump Arale chan Episode 159
 
-Episode Link: https://allanime.to/bangumi/jEgr3unzEo2xch3n9
+Episode Link: https://allanime.to/bangumi/PGqQKyyef49RWDzsc
 # Analytics
 
 <img src="./analytics.png">
