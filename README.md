@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The Fable Episode 8
+Episode Name: Boku no Hero Academia 7th Season Episode 4
 
-Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
+Episode Link: https://allanime.to/bangumi/cskJzx6rseAgcGcAe
 # Analytics
 
 <img src="./analytics.png">
