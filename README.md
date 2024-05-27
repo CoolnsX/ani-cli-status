@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The iDOLM STER Shiny Colors Episode 8
+Episode Name: Tsuki ga Michibiku Isekai Douchuu Season 2 Episode 21
 
-Episode Link: https://allanime.to/bangumi/rwroGT45PMJiWkeYY
+Episode Link: https://allanime.to/bangumi/wAMnpBBwaE3fJ8jwH
 # Analytics
 
 <img src="./analytics.png">
