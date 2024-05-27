@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wonderful Precure Episode 17
+Episode Name: Tensei shitara Slime Datta Ken Season 3 Episode 8
 
-Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
+Episode Link: https://allanime.to/bangumi/KB5XDvwPdtLFEkoQZ
 # Analytics
 
 <img src="./analytics.png">
