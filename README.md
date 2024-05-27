@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Pokemon Episode 276
+Episode Name: Ooi Tonbo Episode 8
 
-Episode Link: https://allanime.to/bangumi/FEJga4E9XrhCWvhnX
+Episode Link: https://allanime.to/bangumi/wQDfeDns76ojAPdzs
 # Analytics
 
 <img src="./analytics.png">
