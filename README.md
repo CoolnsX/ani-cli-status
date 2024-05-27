@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hibike Euphonium 3 Episode 8
+Episode Name: Shinigami Bocchan to Kuro Maid Season 3 Episode 8
 
-Episode Link: https://allanime.to/bangumi/oso3xi8Knpv5BKqem
+Episode Link: https://allanime.to/bangumi/F5xANhW2nsxdBrMco
 # Analytics
 
 <img src="./analytics.png">
