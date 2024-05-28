@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The New Gate Episode 7
+Episode Name: Ookami to Koushinryou Merchant Meets the Wise Wolf Episode 9
 
-Episode Link: https://allanime.to/bangumi/w39mxyQm5xxSaMQc9
+Episode Link: https://allanime.to/bangumi/yCkrq8Mdgs6t983iL
 # Analytics
 
 <img src="./analytics.png">
