@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Fatal Fury The Motion Picture Episode 1
+Episode Name: Tadaima Okaeri Episode 8
 
-Episode Link: https://allanime.to/bangumi/dnyamHyFWPDL2ta9v
+Episode Link: https://allanime.to/bangumi/hhaewxSaxsm9RH3mZ
 # Analytics
 
 <img src="./analytics.png">
