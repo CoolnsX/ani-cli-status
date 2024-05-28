@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Fatal Fury 2 The New Battle Episode 1
+Episode Name: Kami wa Game ni Ueteiru Episode 9
 
-Episode Link: https://allanime.to/bangumi/SY3rDPD3ikTh5TLZo
+Episode Link: https://allanime.to/bangumi/TdCW2HQ5mPLFKAjJE
 # Analytics
 
 <img src="./analytics.png">
