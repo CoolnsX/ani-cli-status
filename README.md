@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kuroshitsuji Kishuku Gakkou hen Episode 7
+Episode Name: Re Monster Episode 9
 
-Episode Link: https://allanime.to/bangumi/DBvFajd8gff2if8ab
+Episode Link: https://allanime.to/bangumi/BHtzBbDXNuhBjypaJ
 # Analytics
 
 <img src="./analytics.png">
