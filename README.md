@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sasayaku You ni Koi wo Utau Episode 7
+Episode Name: Boku no Hero Academia 7th Season Episode 4
 
-Episode Link: https://allanime.to/bangumi/aRT8Sa4QjNZcvGbBA
+Episode Link: https://allanime.to/bangumi/cskJzx6rseAgcGcAe
 # Analytics
 
 <img src="./analytics.png">
