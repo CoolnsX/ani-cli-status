@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Re Monster Episode 9
+Episode Name: Fatal Fury The Motion Picture Episode 1
 
-Episode Link: https://allanime.to/bangumi/BHtzBbDXNuhBjypaJ
+Episode Link: https://allanime.to/bangumi/dnyamHyFWPDL2ta9v
 # Analytics
 
 <img src="./analytics.png">
