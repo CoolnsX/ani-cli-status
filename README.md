@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rinkai Episode 8
+Episode Name: Sasayaku You ni Koi wo Utau Episode 7
 
-Episode Link: https://allanime.to/bangumi/bx4iqprCv2p5vPB2B
+Episode Link: https://allanime.to/bangumi/aRT8Sa4QjNZcvGbBA
 # Analytics
 
 <img src="./analytics.png">
