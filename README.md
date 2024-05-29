@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ani x Para Anata no Hero wa Dare desu ka Episode 17
+Episode Name: Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita Episode 10
 
-Episode Link: https://allanime.to/bangumi/REcWzzrnoxykuPjF7
+Episode Link: https://allanime.to/bangumi/suRedmDwrZtMw73vP
 # Analytics
 
 <img src="./analytics.png">
