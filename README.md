@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinkalion Change the World Episode 8
+Episode Name: Himitsu no AiPri Episode 8
 
-Episode Link: https://allanime.to/bangumi/MsQMzfMtztc93Eiui
+Episode Link: https://allanime.to/bangumi/TAY6dqJNwKKSECHaB
 # Analytics
 
 <img src="./analytics.png">
