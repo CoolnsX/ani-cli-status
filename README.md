@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kami wa Game ni Ueteiru Episode 9
+Episode Name: Tonari no Youkai san Episode 8
 
-Episode Link: https://allanime.to/bangumi/TdCW2HQ5mPLFKAjJE
+Episode Link: https://allanime.to/bangumi/2gBL63MLdirCpfeuH
 # Analytics
 
 <img src="./analytics.png">
