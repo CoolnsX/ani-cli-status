@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Unnamed Memory Episode 8
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Part 2 Episode 7
 
-Episode Link: https://allanime.to/bangumi/TXkaJ8nzG8xKMgqcZ
+Episode Link: https://allanime.to/bangumi/QusmPJR29sg3G35CB
 # Analytics
 
 <img src="./analytics.png">
