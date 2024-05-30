@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Himitsu no AiPri Episode 8
+Episode Name: Rinkai Episode 8
 
-Episode Link: https://allanime.to/bangumi/TAY6dqJNwKKSECHaB
+Episode Link: https://allanime.to/bangumi/bx4iqprCv2p5vPB2B
 # Analytics
 
 <img src="./analytics.png">
