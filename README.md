@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tadaima Okaeri Episode 8
+Episode Name: Fatal Fury 2 The New Battle Episode 1
 
-Episode Link: https://allanime.to/bangumi/hhaewxSaxsm9RH3mZ
+Episode Link: https://allanime.to/bangumi/SY3rDPD3ikTh5TLZo
 # Analytics
 
 <img src="./analytics.png">
