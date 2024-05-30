@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga Dou Medereba Ii Episode 10
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Part 2 Episode 7
 
-Episode Link: https://allanime.to/bangumi/SnAA5xQmny6aXeFHo
+Episode Link: https://allanime.to/bangumi/QusmPJR29sg3G35CB
 # Analytics
 
 <img src="./analytics.png">
