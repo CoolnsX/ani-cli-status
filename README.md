@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seiyuu Radio no Uraomote Episode 8
+Episode Name: Kimetsu no Yaiba Hashira Geiko hen Episode 3
 
-Episode Link: https://allanime.to/bangumi/ZCGjix8b6gCRyBLgE
+Episode Link: https://allanime.to/bangumi/ubGJNAmJmdKSjNBSX
 # Analytics
 
 <img src="./analytics.png">
