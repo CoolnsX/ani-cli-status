@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kimetsu no Yaiba Hashira Geiko hen Episode 3
+Episode Name: Ani x Para Anata no Hero wa Dare desu ka Episode 17
 
-Episode Link: https://allanime.to/bangumi/ubGJNAmJmdKSjNBSX
+Episode Link: https://allanime.to/bangumi/REcWzzrnoxykuPjF7
 # Analytics
 
 <img src="./analytics.png">
