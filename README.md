@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensei shitara Slime Datta Ken Season 3 Episode 9
+Episode Name: Ninjala Episode 119
 
-Episode Link: https://allanime.to/bangumi/KB5XDvwPdtLFEkoQZ
+Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
 # Analytics
 
 <img src="./analytics.png">
