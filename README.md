@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rinkai Episode 8
+Episode Name: Yuru Camp△ Season 3 Episode 9
 
-Episode Link: https://allanime.to/bangumi/bx4iqprCv2p5vPB2B
+Episode Link: https://allanime.to/bangumi/7ouDzKgHyXznDj3By
 # Analytics
 
 <img src="./analytics.png">
