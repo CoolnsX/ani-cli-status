@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Unnamed Memory Episode 8
+Episode Name: Kenka Dokugaku Episode 8
 
-Episode Link: https://allanime.to/bangumi/TXkaJ8nzG8xKMgqcZ
+Episode Link: https://allanime.to/bangumi/zMSJqj9smuvAJJP2d
 # Analytics
 
 <img src="./analytics.png">
