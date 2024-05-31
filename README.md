@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kimetsu no Yaiba Hashira Geiko hen Episode 3
+Episode Name: Saint Seiya Knights of the Zodiac Battle Sanctuary Part 2 Episode 10
 
-Episode Link: https://allanime.to/bangumi/ubGJNAmJmdKSjNBSX
+Episode Link: https://allanime.to/bangumi/yoCFRFf323vcajdGT
 # Analytics
 
 <img src="./analytics.png">
