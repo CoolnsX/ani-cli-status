@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita Episode 10
+Episode Name: Tensei shitara Slime Datta Ken Season 3 Episode 9
 
-Episode Link: https://allanime.to/bangumi/suRedmDwrZtMw73vP
+Episode Link: https://allanime.to/bangumi/KB5XDvwPdtLFEkoQZ
 # Analytics
 
 <img src="./analytics.png">
