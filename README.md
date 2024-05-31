@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Fatal Fury Legend of the Hungry Wolf Episode 1
+Episode Name: Wind Breaker Episode 9
 
-Episode Link: https://allanime.to/bangumi/DzwbxStZgvuTF9LSW
+Episode Link: https://allanime.to/bangumi/Jv25h5eoCnZDMSoL3
 # Analytics
 
 <img src="./analytics.png">
