@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ani x Para Anata no Hero wa Dare desu ka Episode 17
+Episode Name: Kenka Dokugaku Episode 8
 
-Episode Link: https://allanime.to/bangumi/REcWzzrnoxykuPjF7
+Episode Link: https://allanime.to/bangumi/zMSJqj9smuvAJJP2d
 # Analytics
 
 <img src="./analytics.png">
