@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Henjin no Salad Bowl Episode 9
+Episode Name: The iDOLM STER Shiny Colors Episode 9
 
-Episode Link: https://allanime.to/bangumi/gYNWJBu4rvSrmSfiB
+Episode Link: https://allanime.to/bangumi/rwroGT45PMJiWkeYY
 # Analytics
 
 <img src="./analytics.png">
