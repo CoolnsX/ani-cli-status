@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Hero Academia 7th Season Episode 5
+Episode Name: Detective Conan TV Episode 1125
 
-Episode Link: https://allanime.to/bangumi/cskJzx6rseAgcGcAe
+Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
 # Analytics
 
 <img src="./analytics.png">
