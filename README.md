@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Maou Gakuin no Futekigousha Shijou Saikyou no Maou no Shiso Tensei shite Shison tachi no Gakkou e Kayou 2nd Season Part 2 Episode 7
+Episode Name: Fatal Fury The Motion Picture Episode 1
 
-Episode Link: https://allanime.to/bangumi/pNPGCMYN5yA4yQH5J
+Episode Link: https://allanime.to/bangumi/dnyamHyFWPDL2ta9v
 # Analytics
 
 <img src="./analytics.png">
