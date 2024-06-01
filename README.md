@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Fatal Fury Legend of the Hungry Wolf Episode 1
+Episode Name: Girls Band Cry Episode 9
 
-Episode Link: https://allanime.to/bangumi/DzwbxStZgvuTF9LSW
+Episode Link: https://allanime.to/bangumi/8Suk8xq3YmvDq2s5C
 # Analytics
 
 <img src="./analytics.png">
