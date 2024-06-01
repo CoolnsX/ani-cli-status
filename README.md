@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Fatal Fury The Motion Picture Episode 1
+Episode Name: Rinkai Episode 8
 
-Episode Link: https://allanime.to/bangumi/dnyamHyFWPDL2ta9v
+Episode Link: https://allanime.to/bangumi/bx4iqprCv2p5vPB2B
 # Analytics
 
 <img src="./analytics.png">
