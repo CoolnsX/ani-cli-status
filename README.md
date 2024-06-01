@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinkalion Change the World Episode 8
+Episode Name: Fatal Fury Legend of the Hungry Wolf Episode 1
 
-Episode Link: https://allanime.to/bangumi/MsQMzfMtztc93Eiui
+Episode Link: https://allanime.to/bangumi/DzwbxStZgvuTF9LSW
 # Analytics
 
 <img src="./analytics.png">
