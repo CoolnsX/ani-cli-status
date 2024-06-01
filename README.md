@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The iDOLM STER Shiny Colors Episode 9
+Episode Name: Kaii to Otome to Kamikakushi Episode 8
 
-Episode Link: https://allanime.to/bangumi/rwroGT45PMJiWkeYY
+Episode Link: https://allanime.to/bangumi/L7rZxfCnWLeTTsSfv
 # Analytics
 
 <img src="./analytics.png">
