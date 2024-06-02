@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nijiyon Animation 2 Episode 9
+Episode Name: Shadowverse Flame Arc hen Episode 8
 
-Episode Link: https://allanime.to/bangumi/vHRnxWT83vEhRzcAG
+Episode Link: https://allanime.to/bangumi/RXf5Lv3Y643ovwztk
 # Analytics
 
 <img src="./analytics.png">
