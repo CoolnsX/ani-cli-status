@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kaii to Otome to Kamikakushi Episode 8
+Episode Name: Astro Note Episode 9
 
-Episode Link: https://allanime.to/bangumi/L7rZxfCnWLeTTsSfv
+Episode Link: https://allanime.to/bangumi/QvmdS433kzi6gy8EQ
 # Analytics
 
 <img src="./analytics.png">
