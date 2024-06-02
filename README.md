@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Highspeed Etoile Episode 9
+Episode Name: Hananoi kun to Koi no Yamai Episode 9
 
-Episode Link: https://allanime.to/bangumi/GoSNgenDWLm2B8C3H
+Episode Link: https://allanime.to/bangumi/8oAjW4gZHubZcDAY9
 # Analytics
 
 <img src="./analytics.png">
