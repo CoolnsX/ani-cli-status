@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sabaku no Kaizoku Captain Kuppa Episode 3
+Episode Name: Dungeon Meshi Episode 22
 
-Episode Link: https://allanime.to/bangumi/4ohEwgWqberPY3vdF
+Episode Link: https://allanime.to/bangumi/gAcGCcMENjbWhBnR9
 # Analytics
 
 <img src="./analytics.png">
