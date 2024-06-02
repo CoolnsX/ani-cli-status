@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Digimon Adventure 02 The Beginning Episode 1
+Episode Name: Kaijuu 8 gou Episode 8
 
-Episode Link: https://allanime.to/bangumi/HdS5gtXuScQcpopXc
+Episode Link: https://allanime.to/bangumi/vj5neAm4FfqobQzuA
 # Analytics
 
 <img src="./analytics.png">
