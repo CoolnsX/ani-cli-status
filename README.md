@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Highspeed Etoile Episode 9
+Episode Name: Sabaku no Kaizoku Captain Kuppa Episode 3
 
-Episode Link: https://allanime.to/bangumi/GoSNgenDWLm2B8C3H
+Episode Link: https://allanime.to/bangumi/4ohEwgWqberPY3vdF
 # Analytics
 
 <img src="./analytics.png">
