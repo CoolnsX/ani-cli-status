@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The iDOLM STER Shiny Colors Episode 9
+Episode Name: Digimon Adventure 02 The Beginning Episode 1
 
-Episode Link: https://allanime.to/bangumi/rwroGT45PMJiWkeYY
+Episode Link: https://allanime.to/bangumi/HdS5gtXuScQcpopXc
 # Analytics
 
 <img src="./analytics.png">
