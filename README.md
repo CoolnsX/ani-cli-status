@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 83
+Episode Name: Kimetsu no Yaiba Hashira Geiko hen Episode 4
 
-Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
+Episode Link: https://allanime.to/bangumi/ubGJNAmJmdKSjNBSX
 # Analytics
 
 <img src="./analytics.png">
