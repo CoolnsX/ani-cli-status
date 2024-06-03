@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hibike Euphonium 3 Episode 9
+Episode Name: Mushoku Tensei II Isekai Ittara Honki Dasu Part 2 Episode 8
 
-Episode Link: https://allanime.to/bangumi/oso3xi8Knpv5BKqem
+Episode Link: https://allanime.to/bangumi/QusmPJR29sg3G35CB
 # Analytics
 
 <img src="./analytics.png">
