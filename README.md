@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 33
+Episode Name: Boku no Hero Academia 7th Season Episode 5
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/cskJzx6rseAgcGcAe
 # Analytics
 
 <img src="./analytics.png">
