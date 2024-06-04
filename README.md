@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensei Kizoku Kantei Skill de Nariagaru Episode 9
+Episode Name: Wonderful Precure Episode 18
 
-Episode Link: https://allanime.to/bangumi/ncNQiQiTh4Zwk4rAv
+Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
 # Analytics
 
 <img src="./analytics.png">
