@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tsuki ga Michibiku Isekai Douchuu Season 2 Episode 22
+Episode Name: Shuumatsu Train Doko e Iku Episode 10
 
-Episode Link: https://allanime.to/bangumi/wAMnpBBwaE3fJ8jwH
+Episode Link: https://allanime.to/bangumi/gQNFQMggjDNXrpn4X
 # Analytics
 
 <img src="./analytics.png">
