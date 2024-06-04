@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The New Gate Episode 8
+Episode Name: Boukyaku Battery TV Episode 8
 
-Episode Link: https://allanime.to/bangumi/w39mxyQm5xxSaMQc9
+Episode Link: https://allanime.to/bangumi/8uWZHXsgmcubcy5PT
 # Analytics
 
 <img src="./analytics.png">
