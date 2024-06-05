@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yozakura san Chi no Daisakusen Episode 9
+Episode Name: Bartender Kami no Glass Episode 10
 
-Episode Link: https://allanime.to/bangumi/QdcDzpRCfcjqHCNNg
+Episode Link: https://allanime.to/bangumi/Db36DyQefFrfyaFFe
 # Analytics
 
 <img src="./analytics.png">
