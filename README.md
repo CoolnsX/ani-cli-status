@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life Episode 9
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 111
 
-Episode Link: https://allanime.to/bangumi/9ztGdmAXbsZAjgT8T
+Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
 # Analytics
 
 <img src="./analytics.png">
