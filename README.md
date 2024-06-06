@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rinkai Episode 9
+Episode Name: Sentai Daishikkaku Episode 8
 
-Episode Link: https://allanime.to/bangumi/bx4iqprCv2p5vPB2B
+Episode Link: https://allanime.to/bangumi/diBoKGs7oLZTY9ShL
 # Analytics
 
 <img src="./analytics.png">
