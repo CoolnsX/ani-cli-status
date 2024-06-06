@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kagaku Ninja tai Gatchaman Movie Episode 1
+Episode Name: Kimetsu no Yaiba Hashira Geiko hen Episode 4
 
-Episode Link: https://allanime.to/bangumi/WTfxrhMzwBn77auiY
+Episode Link: https://allanime.to/bangumi/ubGJNAmJmdKSjNBSX
 # Analytics
 
 <img src="./analytics.png">
