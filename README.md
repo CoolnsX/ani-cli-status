@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Blue Archive the Animation Episode 9
+Episode Name: Himitsu no AiPri Episode 9
 
-Episode Link: https://allanime.to/bangumi/cqKnAmw7yEz7kmCCJ
+Episode Link: https://allanime.to/bangumi/TAY6dqJNwKKSECHaB
 # Analytics
 
 <img src="./analytics.png">
