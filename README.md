@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Urusei Yatsura 2022 Season 2 Episode 21
+Episode Name: Kimetsu no Yaiba Hashira Geiko hen Episode 4
 
-Episode Link: https://allanime.to/bangumi/L4kJqGSfFQsHAbAgy
+Episode Link: https://allanime.to/bangumi/ubGJNAmJmdKSjNBSX
 # Analytics
 
 <img src="./analytics.png">
