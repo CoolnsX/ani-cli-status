@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Unnamed Memory Episode 9
+Episode Name: Kagaku Ninja tai Gatchaman Movie Episode 1
 
-Episode Link: https://allanime.to/bangumi/TXkaJ8nzG8xKMgqcZ
+Episode Link: https://allanime.to/bangumi/WTfxrhMzwBn77auiY
 # Analytics
 
 <img src="./analytics.png">
