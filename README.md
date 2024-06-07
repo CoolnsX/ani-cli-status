@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kaii to Otome to Kamikakushi Episode 9
+Episode Name: Dead Dead Demons Dededede Destruction Episode 2
 
-Episode Link: https://allanime.to/bangumi/L7rZxfCnWLeTTsSfv
+Episode Link: https://allanime.to/bangumi/2z6h3kbiB4xSafQcj
 # Analytics
 
 <img src="./analytics.png">
