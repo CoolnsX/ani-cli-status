@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kagaku Ninja tai Gatchaman Movie Episode 1
+Episode Name: Beyblade X Episode 34
 
-Episode Link: https://allanime.to/bangumi/WTfxrhMzwBn77auiY
+Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
 # Analytics
 
 <img src="./analytics.png">
