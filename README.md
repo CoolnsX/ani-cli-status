@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 34
+Episode Name: Meitantei Conan vs Wooo Episode 2
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/6PvcFGzSaNarKQXDY
 # Analytics
 
 <img src="./analytics.png">
