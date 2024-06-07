@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seiyuu Radio no Uraomote Episode 9
+Episode Name: Dead Dead Demons Dededede Destruction Episode 2
 
-Episode Link: https://allanime.to/bangumi/ZCGjix8b6gCRyBLgE
+Episode Link: https://allanime.to/bangumi/2z6h3kbiB4xSafQcj
 # Analytics
 
 <img src="./analytics.png">
