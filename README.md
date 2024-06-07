@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Haai Step Jun Episode 20
+Episode Name: Chiikawa Episode 95
 
-Episode Link: https://allanime.to/bangumi/5dC9GDoPPJ5agJg2C
+Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
 # Analytics
 
 <img src="./analytics.png">
