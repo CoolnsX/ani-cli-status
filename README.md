@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dead Dead Demons Dededede Destruction Episode 2
+Episode Name: Boukyaku Battery TV Episode 8
 
-Episode Link: https://allanime.to/bangumi/2z6h3kbiB4xSafQcj
+Episode Link: https://allanime.to/bangumi/8uWZHXsgmcubcy5PT
 # Analytics
 
 <img src="./analytics.png">
