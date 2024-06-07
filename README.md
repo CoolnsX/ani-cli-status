@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dungeon Meshi Episode 23
+Episode Name: Hyakushou Kizoku Episode 14
 
-Episode Link: https://allanime.to/bangumi/gAcGCcMENjbWhBnR9
+Episode Link: https://allanime.to/bangumi/y9EHCDcAPCYSktPoY
 # Analytics
 
 <img src="./analytics.png">
