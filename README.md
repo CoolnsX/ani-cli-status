@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kenka Dokugaku Episode 9
+Episode Name: Dungeon Meshi Episode 23
 
-Episode Link: https://allanime.to/bangumi/zMSJqj9smuvAJJP2d
+Episode Link: https://allanime.to/bangumi/gAcGCcMENjbWhBnR9
 # Analytics
 
 <img src="./analytics.png">
