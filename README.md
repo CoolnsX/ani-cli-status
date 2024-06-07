@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hyakushou Kizoku Episode 14
+Episode Name: Unnamed Memory Episode 9
 
-Episode Link: https://allanime.to/bangumi/y9EHCDcAPCYSktPoY
+Episode Link: https://allanime.to/bangumi/TXkaJ8nzG8xKMgqcZ
 # Analytics
 
 <img src="./analytics.png">
