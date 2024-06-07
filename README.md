@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Henjin no Salad Bowl Episode 10
+Episode Name: Yuru Camp△ Season 3 Episode 10
 
-Episode Link: https://allanime.to/bangumi/gYNWJBu4rvSrmSfiB
+Episode Link: https://allanime.to/bangumi/7ouDzKgHyXznDj3By
 # Analytics
 
 <img src="./analytics.png">
