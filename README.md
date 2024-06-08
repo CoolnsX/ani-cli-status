@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Urusei Yatsura 2022 Season 2 Episode 21
+Episode Name: Seiyuu Radio no Uraomote Episode 9
 
-Episode Link: https://allanime.to/bangumi/L4kJqGSfFQsHAbAgy
+Episode Link: https://allanime.to/bangumi/ZCGjix8b6gCRyBLgE
 # Analytics
 
 <img src="./analytics.png">
