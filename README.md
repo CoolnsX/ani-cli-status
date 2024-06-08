@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kono Subarashii Sekai ni Shukufuku wo 3 Episode 9
+Episode Name: Rinkai Episode 9
 
-Episode Link: https://allanime.to/bangumi/7cTdxtzvohmd79Bt4
+Episode Link: https://allanime.to/bangumi/bx4iqprCv2p5vPB2B
 # Analytics
 
 <img src="./analytics.png">
