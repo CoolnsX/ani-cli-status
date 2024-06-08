@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boukyaku Battery TV Episode 8
+Episode Name: Kenka Dokugaku Episode 9
 
-Episode Link: https://allanime.to/bangumi/8uWZHXsgmcubcy5PT
+Episode Link: https://allanime.to/bangumi/zMSJqj9smuvAJJP2d
 # Analytics
 
 <img src="./analytics.png">
