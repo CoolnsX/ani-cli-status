@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Unnamed Memory Episode 9
+Episode Name: Kono Subarashii Sekai ni Shukufuku wo 3 Episode 9
 
-Episode Link: https://allanime.to/bangumi/TXkaJ8nzG8xKMgqcZ
+Episode Link: https://allanime.to/bangumi/7cTdxtzvohmd79Bt4
 # Analytics
 
 <img src="./analytics.png">
