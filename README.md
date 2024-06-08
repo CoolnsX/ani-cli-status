@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hananoi kun to Koi no Yamai Episode 10
+Episode Name: Yoru no Kurage wa Oyogenai Episode 10
 
-Episode Link: https://allanime.to/bangumi/8oAjW4gZHubZcDAY9
+Episode Link: https://allanime.to/bangumi/fTg6c7nL3tv8oi2L5
 # Analytics
 
 <img src="./analytics.png">
