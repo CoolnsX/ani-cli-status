@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ooi Tonbo Episode 10
+Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 36
 
-Episode Link: https://allanime.to/bangumi/wQDfeDns76ojAPdzs
+Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
 # Analytics
 
 <img src="./analytics.png">
