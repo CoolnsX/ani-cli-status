@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kaii to Otome to Kamikakushi Episode 9
+Episode Name: Chiikawa Episode 95
 
-Episode Link: https://allanime.to/bangumi/L7rZxfCnWLeTTsSfv
+Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
 # Analytics
 
 <img src="./analytics.png">
