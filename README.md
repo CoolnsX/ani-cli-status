@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Captain Tsubasa Season 2 Junior Youth hen Episode 36
+Episode Name: Blue Archive the Animation Episode 10
 
-Episode Link: https://allanime.to/bangumi/67yY9SupCnNf7AWet
+Episode Link: https://allanime.to/bangumi/cqKnAmw7yEz7kmCCJ
 # Analytics
 
 <img src="./analytics.png">
