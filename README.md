@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Highspeed Etoile Episode 10
+Episode Name: 1P Episode 1108
 
-Episode Link: https://allanime.to/bangumi/GoSNgenDWLm2B8C3H
+Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
 # Analytics
 
 <img src="./analytics.png">
