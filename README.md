@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mai HiME Kuro no Mai Saigo no Bansan Episode 1
+Episode Name: Nijiyon Animation 2 Episode 10
 
-Episode Link: https://allanime.to/bangumi/e44pgLRwXsKJAgbaY
+Episode Link: https://allanime.to/bangumi/vHRnxWT83vEhRzcAG
 # Analytics
 
 <img src="./analytics.png">
