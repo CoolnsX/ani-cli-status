@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Jiisan Baasan Wakagaeru Episode 10
+Episode Name: Mai HiME Kuro no Mai Saigo no Bansan Episode 1
 
-Episode Link: https://allanime.to/bangumi/uroYYvHm9Z7aL5PHp
+Episode Link: https://allanime.to/bangumi/e44pgLRwXsKJAgbaY
 # Analytics
 
 <img src="./analytics.png">
