@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seiyuu Radio no Uraomote Episode 10
+Episode Name: Soukyuu no Fafner Dead Aggressor Behind the Line Episode 1
 
-Episode Link: https://allanime.to/bangumi/ZCGjix8b6gCRyBLgE
+Episode Link: https://allanime.to/bangumi/oM85sdbhenoCqvrTu
 # Analytics
 
 <img src="./analytics.png">
