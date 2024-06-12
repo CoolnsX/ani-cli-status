@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yozakura san Chi no Daisakusen Episode 10
+Episode Name: Seiyuu Radio no Uraomote Episode 10
 
-Episode Link: https://allanime.to/bangumi/QdcDzpRCfcjqHCNNg
+Episode Link: https://allanime.to/bangumi/ZCGjix8b6gCRyBLgE
 # Analytics
 
 <img src="./analytics.png">
