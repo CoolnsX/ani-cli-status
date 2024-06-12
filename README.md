@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life Episode 10
+Episode Name: Shuumatsu Train Doko e Iku Episode 11
 
-Episode Link: https://allanime.to/bangumi/9ztGdmAXbsZAjgT8T
+Episode Link: https://allanime.to/bangumi/gQNFQMggjDNXrpn4X
 # Analytics
 
 <img src="./analytics.png">
