@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Vampire Dormitory Episode 10
+Episode Name: Boukyaku Battery TV Episode 9
 
-Episode Link: https://allanime.to/bangumi/fjdqCDdf46Jte8g6T
+Episode Link: https://allanime.to/bangumi/8uWZHXsgmcubcy5PT
 # Analytics
 
 <img src="./analytics.png">
