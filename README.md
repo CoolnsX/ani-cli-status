@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boukyaku Battery TV Episode 9
+Episode Name: Unnamed Memory Episode 10
 
-Episode Link: https://allanime.to/bangumi/8uWZHXsgmcubcy5PT
+Episode Link: https://allanime.to/bangumi/TXkaJ8nzG8xKMgqcZ
 # Analytics
 
 <img src="./analytics.png">
