@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Soukyuu no Fafner Dead Aggressor Behind the Line Episode 1
+Episode Name: Yaneura no Rudger Episode 1
 
-Episode Link: https://allanime.to/bangumi/oM85sdbhenoCqvrTu
+Episode Link: https://allanime.to/bangumi/RSTpBvGxrfvufMXrh
 # Analytics
 
 <img src="./analytics.png">
