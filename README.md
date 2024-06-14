@@ -17,7 +17,6 @@ Episode Link: https://allanime.to/bangumi/L4kJqGSfFQsHAbAgy
 
 | Provider         | Resolution | Status                                             |
 |------------------|------------|----------------------------------------------------|
-| Wixmp            | Multi      | <img src="./images/wixmp.jpg" alt="wixmp" width="250" height="50">        |
 | Dropbox          | Single     | <img src="./images/dropbox.jpg" alt="Dropbox" width="250" height="50">      |
 | SharePoint       | Single     | <img src="./images/sharepoint.jpg" alt="SharePoint" width="250" height="50"> |
 | WeTransfer       | Single     | <img src="./images/wetransfer.jpg" alt="WeTransfer" width="250" height="50"> |
