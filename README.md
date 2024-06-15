@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Girls Band Cry Episode 11
+Episode Name: The iDOLM STER Shiny Colors Episode 11
 
-Episode Link: https://allanime.to/bangumi/8Suk8xq3YmvDq2s5C
+Episode Link: https://allanime.to/bangumi/rwroGT45PMJiWkeYY
 # Analytics
 
 <img src="./analytics.png">
