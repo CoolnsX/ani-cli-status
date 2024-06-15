@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Oishinbo Episode 50
+Episode Name: Mahouka Koukou no Rettousei Season 3 Episode 11
 
-Episode Link: https://allanime.to/bangumi/x9hvM6xxnXBhhhJCn
+Episode Link: https://allanime.to/bangumi/Q7h4rxYmdHDADCTfY
 # Analytics
 
 <img src="./analytics.png">
