@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 85
+Episode Name: Urusei Yatsura 2022 Season 2 Episode 22
 
-Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
+Episode Link: https://allanime.to/bangumi/L4kJqGSfFQsHAbAgy
 # Analytics
 
 <img src="./analytics.png">
