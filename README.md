@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Highspeed Etoile Episode 11
+Episode Name: Yoru no Kurage wa Oyogenai Episode 11
 
-Episode Link: https://allanime.to/bangumi/GoSNgenDWLm2B8C3H
+Episode Link: https://allanime.to/bangumi/fTg6c7nL3tv8oi2L5
 # Analytics
 
 <img src="./analytics.png">
