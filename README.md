@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The New Gate Episode 10
+Episode Name: Mahouka Koukou no Rettousei Season 3 Episode 11
 
-Episode Link: https://allanime.to/bangumi/w39mxyQm5xxSaMQc9
+Episode Link: https://allanime.to/bangumi/Q7h4rxYmdHDADCTfY
 # Analytics
 
 <img src="./analytics.png">
