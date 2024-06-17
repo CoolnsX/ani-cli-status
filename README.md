@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Araiguma Rascal Episode 51
+Episode Name: The iDOLM STER Shiny Colors Episode 11
 
-Episode Link: https://allanime.to/bangumi/2BfL69oW9fbiRJwgC
+Episode Link: https://allanime.to/bangumi/rwroGT45PMJiWkeYY
 # Analytics
 
 <img src="./analytics.png">
