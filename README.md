@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 85
+Episode Name: Tsuki ga Michibiku Isekai Douchuu Season 2 Episode 24
 
-Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
+Episode Link: https://allanime.to/bangumi/wAMnpBBwaE3fJ8jwH
 # Analytics
 
 <img src="./analytics.png">
