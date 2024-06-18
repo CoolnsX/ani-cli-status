@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yozakura san Chi no Daisakusen Episode 11
+Episode Name: The New Gate Episode 10
 
-Episode Link: https://allanime.to/bangumi/QdcDzpRCfcjqHCNNg
+Episode Link: https://allanime.to/bangumi/w39mxyQm5xxSaMQc9
 # Analytics
 
 <img src="./analytics.png">
