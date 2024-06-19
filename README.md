@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 160
+Episode Name: Shinigami Bocchan to Kuro Maid Season 3 Episode 11
 
-Episode Link: https://allanime.to/bangumi/PGqQKyyef49RWDzsc
+Episode Link: https://allanime.to/bangumi/F5xANhW2nsxdBrMco
 # Analytics
 
 <img src="./analytics.png">
