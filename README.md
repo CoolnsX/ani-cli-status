@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinigami Bocchan to Kuro Maid Season 3 Episode 11
+Episode Name: Rinkai Episode 11
 
-Episode Link: https://allanime.to/bangumi/F5xANhW2nsxdBrMco
+Episode Link: https://allanime.to/bangumi/bx4iqprCv2p5vPB2B
 # Analytics
 
 <img src="./analytics.png">
