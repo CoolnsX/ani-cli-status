@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sentai Daishikkaku Episode 10
+Episode Name: Time Bokan Series Gyakuten Ippatsuman Episode 30
 
-Episode Link: https://allanime.to/bangumi/diBoKGs7oLZTY9ShL
+Episode Link: https://allanime.to/bangumi/Ffz7aEAMe98zkXAqT
 # Analytics
 
 <img src="./analytics.png">
