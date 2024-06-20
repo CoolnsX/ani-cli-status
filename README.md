@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Umeboshi Denka Uchuu no Hate kara Panparopan Episode 1
+Episode Name: Blue Archive the Animation Episode 11
 
-Episode Link: https://allanime.to/bangumi/s8JbbNwQuxQtrpSW6
+Episode Link: https://allanime.to/bangumi/cqKnAmw7yEz7kmCCJ
 # Analytics
 
 <img src="./analytics.png">
