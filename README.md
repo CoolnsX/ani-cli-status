@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The iDOLM STER Shiny Colors Episode 12
+Episode Name: Ninjala Episode 122
 
-Episode Link: https://allanime.to/bangumi/rwroGT45PMJiWkeYY
+Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
 # Analytics
 
 <img src="./analytics.png">
