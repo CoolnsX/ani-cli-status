@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensei shitara Slime Datta Ken Season 3 Episode 12
+Episode Name: Boku no Hero Academia 7th Season Episode 8
 
-Episode Link: https://allanime.to/bangumi/KB5XDvwPdtLFEkoQZ
+Episode Link: https://allanime.to/bangumi/cskJzx6rseAgcGcAe
 # Analytics
 
 <img src="./analytics.png">
