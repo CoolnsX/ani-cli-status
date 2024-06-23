@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 122
+Episode Name: Karasu wa Aruji wo Erabanai Episode 12
 
-Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
+Episode Link: https://allanime.to/bangumi/54QXLa5bTNaaPjsfg
 # Analytics
 
 <img src="./analytics.png">
