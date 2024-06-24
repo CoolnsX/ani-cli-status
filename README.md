@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Astro Note Episode 12
+Episode Name: Sentai Daishikkaku Episode 11
 
-Episode Link: https://allanime.to/bangumi/QvmdS433kzi6gy8EQ
+Episode Link: https://allanime.to/bangumi/diBoKGs7oLZTY9ShL
 # Analytics
 
 <img src="./analytics.png">
