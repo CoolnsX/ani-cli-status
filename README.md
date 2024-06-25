@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Karasu wa Aruji wo Erabanai Episode 12
+Episode Name: Sentai Daishikkaku Episode 11
 
-Episode Link: https://allanime.to/bangumi/54QXLa5bTNaaPjsfg
+Episode Link: https://allanime.to/bangumi/diBoKGs7oLZTY9ShL
 # Analytics
 
 <img src="./analytics.png">
