@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sentai Daishikkaku Episode 11
+Episode Name: Kuroshitsuji Kishuku Gakkou hen Episode 11
 
-Episode Link: https://allanime.to/bangumi/diBoKGs7oLZTY9ShL
+Episode Link: https://allanime.to/bangumi/DBvFajd8gff2if8ab
 # Analytics
 
 <img src="./analytics.png">
