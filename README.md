@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 36
+Episode Name: Shuumatsu Train Doko e Iku Episode 12
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/gQNFQMggjDNXrpn4X
 # Analytics
 
 <img src="./analytics.png">
