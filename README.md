@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kimitachi wa Dou Ikiru ka Episode 1
+Episode Name: Shinigami Bocchan to Kuro Maid Season 3 Episode 12
 
-Episode Link: https://allanime.to/bangumi/tZ8PQgGMzyGC8Laso
+Episode Link: https://allanime.to/bangumi/F5xANhW2nsxdBrMco
 # Analytics
 
 <img src="./analytics.png">
