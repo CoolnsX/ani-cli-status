@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Sentai Daishikkaku Episode 11
+Episode Name: Kimitachi wa Dou Ikiru ka Episode 1
 
-Episode Link: https://allanime.to/bangumi/diBoKGs7oLZTY9ShL
+Episode Link: https://allanime.to/bangumi/tZ8PQgGMzyGC8Laso
 # Analytics
 
 <img src="./analytics.png">
