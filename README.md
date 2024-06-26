@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The Fable Episode 12
+Episode Name: Tonari no Youkai san Episode 12
 
-Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
+Episode Link: https://allanime.to/bangumi/2gBL63MLdirCpfeuH
 # Analytics
 
 <img src="./analytics.png">
