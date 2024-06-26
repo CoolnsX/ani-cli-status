@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinigami Bocchan to Kuro Maid Season 3 Episode 12
+Episode Name: Kenka Dokugaku Episode 12
 
-Episode Link: https://allanime.to/bangumi/F5xANhW2nsxdBrMco
+Episode Link: https://allanime.to/bangumi/zMSJqj9smuvAJJP2d
 # Analytics
 
 <img src="./analytics.png">
