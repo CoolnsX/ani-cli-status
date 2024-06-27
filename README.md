@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hibike Euphonium 3 Episode 12
+Episode Name: Shinkalion Change the World Episode 12
 
-Episode Link: https://allanime.to/bangumi/oso3xi8Knpv5BKqem
+Episode Link: https://allanime.to/bangumi/MsQMzfMtztc93Eiui
 # Analytics
 
 <img src="./analytics.png">
