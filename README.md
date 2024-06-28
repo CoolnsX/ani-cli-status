@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kami wa Game ni Ueteiru Episode 13
+Episode Name: Tensei Kizoku Kantei Skill de Nariagaru Episode 12
 
-Episode Link: https://allanime.to/bangumi/TdCW2HQ5mPLFKAjJE
+Episode Link: https://allanime.to/bangumi/ncNQiQiTh4Zwk4rAv
 # Analytics
 
 <img src="./analytics.png">
