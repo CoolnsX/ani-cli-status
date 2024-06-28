@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Magical★Taruruuto kun Episode 59
+Episode Name: Chibi Maruko chan Episode 128
 
-Episode Link: https://allanime.to/bangumi/yTszgTsufjJcz6AZc
+Episode Link: https://allanime.to/bangumi/uKbkvLQv9usCvyAkQ
 # Analytics
 
 <img src="./analytics.png">
