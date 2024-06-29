@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shuumatsu Train Doko e Iku Episode 12
+Episode Name: Girls Band Cry Episode 13
 
-Episode Link: https://allanime.to/bangumi/gQNFQMggjDNXrpn4X
+Episode Link: https://allanime.to/bangumi/8Suk8xq3YmvDq2s5C
 # Analytics
 
 <img src="./analytics.png">
