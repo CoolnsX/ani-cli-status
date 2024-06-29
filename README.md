@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nyaaaanvy Episode 5
+Episode Name: Shuumatsu Train Doko e Iku Episode 12
 
-Episode Link: https://allanime.to/bangumi/A3YuyeYdar4cPvix2
+Episode Link: https://allanime.to/bangumi/gQNFQMggjDNXrpn4X
 # Analytics
 
 <img src="./analytics.png">
