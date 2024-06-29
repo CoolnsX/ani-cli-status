@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinkalion Change the World Episode 12
+Episode Name: Nyaaaanvy Episode 5
 
-Episode Link: https://allanime.to/bangumi/MsQMzfMtztc93Eiui
+Episode Link: https://allanime.to/bangumi/A3YuyeYdar4cPvix2
 # Analytics
 
 <img src="./analytics.png">
