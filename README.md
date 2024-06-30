@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Code Geass Dakkan no Rozé Episode 2
+Episode Name: Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life Episode 12
 
-Episode Link: https://allanime.to/bangumi/GrbSzn2HjpdmeuNaN
+Episode Link: https://allanime.to/bangumi/9ztGdmAXbsZAjgT8T
 # Analytics
 
 <img src="./analytics.png">
