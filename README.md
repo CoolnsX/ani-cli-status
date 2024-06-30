@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life Episode 12
+Episode Name: Mahouka Koukou no Rettousei Season 3 Episode 13
 
-Episode Link: https://allanime.to/bangumi/9ztGdmAXbsZAjgT8T
+Episode Link: https://allanime.to/bangumi/Q7h4rxYmdHDADCTfY
 # Analytics
 
 <img src="./analytics.png">
