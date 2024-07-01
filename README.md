@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Magical★Taruruuto kun Episode 59
+Episode Name: Rail Romanesque 2 Episode 4
 
-Episode Link: https://allanime.to/bangumi/yTszgTsufjJcz6AZc
+Episode Link: https://allanime.to/bangumi/HxwaxhfXRDKGzjBs6
 # Analytics
 
 <img src="./analytics.png">
