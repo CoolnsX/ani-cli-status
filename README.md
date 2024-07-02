@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ookami to Koushinryou Merchant Meets the Wise Wolf Episode 14
+Episode Name: 1P Episode 1110
 
-Episode Link: https://allanime.to/bangumi/yCkrq8Mdgs6t983iL
+Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
 # Analytics
 
 <img src="./analytics.png">
