@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Attacker You Episode 52
+Episode Name: Kimetsu no Yaiba Hashira Geiko hen Episode 8
 
-Episode Link: https://allanime.to/bangumi/jEgr3unzEo2xch3n9
+Episode Link: https://allanime.to/bangumi/ubGJNAmJmdKSjNBSX
 # Analytics
 
 <img src="./analytics.png">
