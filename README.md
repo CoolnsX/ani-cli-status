@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Touch Sebangou no Nai Ace Episode 1
+Episode Name: Tasuuketsu Episode 1
 
-Episode Link: https://allanime.to/bangumi/Pu2NRGQNWJFKchseW
+Episode Link: https://allanime.to/bangumi/zjHarwaPRswKAsR8M
 # Analytics
 
 <img src="./analytics.png">
