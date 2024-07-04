@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tokidoki Bosotto Russia go de Dereru Tonari no Alya san Episode 1
+Episode Name: Sasayaku You ni Koi wo Utau Episode 10
 
-Episode Link: https://allanime.to/bangumi/iv4jDGx4DbuzXyM6J
+Episode Link: https://allanime.to/bangumi/aRT8Sa4QjNZcvGbBA
 # Analytics
 
 <img src="./analytics.png">
