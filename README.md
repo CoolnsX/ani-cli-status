@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Isekai Suicide Squad Episode 4
+Episode Name: Tokidoki Bosotto Russia go de Dereru Tonari no Alya san Episode 1
 
-Episode Link: https://allanime.to/bangumi/rSv4f43vPEEaE7bGE
+Episode Link: https://allanime.to/bangumi/iv4jDGx4DbuzXyM6J
 # Analytics
 
 <img src="./analytics.png">
