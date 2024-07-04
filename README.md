@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tasuuketsu Episode 1
+Episode Name: Dr Slump Arale chan Episode 161
 
-Episode Link: https://allanime.to/bangumi/zjHarwaPRswKAsR8M
+Episode Link: https://allanime.to/bangumi/PGqQKyyef49RWDzsc
 # Analytics
 
 <img src="./analytics.png">
