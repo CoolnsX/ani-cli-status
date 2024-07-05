@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1110
+Episode Name: Shy Season 2 Episode 1
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/ggpPkwsAN5wC6qQRv
 # Analytics
 
 <img src="./analytics.png">
