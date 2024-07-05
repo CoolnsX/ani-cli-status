@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shy Season 2 Episode 1
+Episode Name: Shinkalion Change the World Episode 13
 
-Episode Link: https://allanime.to/bangumi/ggpPkwsAN5wC6qQRv
+Episode Link: https://allanime.to/bangumi/MsQMzfMtztc93Eiui
 # Analytics
 
 <img src="./analytics.png">
