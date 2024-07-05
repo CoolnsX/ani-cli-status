@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinkalion Change the World Episode 13
+Episode Name: Touch Sebangou no Nai Ace Episode 1
 
-Episode Link: https://allanime.to/bangumi/MsQMzfMtztc93Eiui
+Episode Link: https://allanime.to/bangumi/Pu2NRGQNWJFKchseW
 # Analytics
 
 <img src="./analytics.png">
