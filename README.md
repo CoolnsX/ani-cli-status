@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai Episode 1
+Episode Name: Hazurewaku no Episode 1
 
-Episode Link: https://allanime.to/bangumi/XQxFWACgTTP7mWmzQ
+Episode Link: https://allanime.to/bangumi/s6NHpcHusoPXMsMKh
 # Analytics
 
 <img src="./analytics.png">
