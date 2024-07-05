@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Touch Sebangou no Nai Ace Episode 1
+Episode Name: Kimetsu no Yaiba Hashira Geiko hen Episode 8
 
-Episode Link: https://allanime.to/bangumi/Pu2NRGQNWJFKchseW
+Episode Link: https://allanime.to/bangumi/ubGJNAmJmdKSjNBSX
 # Analytics
 
 <img src="./analytics.png">
