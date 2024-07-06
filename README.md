@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dungeon no Naka no Hito Episode 1
+Episode Name: Nyaaaanvy Episode 6
 
-Episode Link: https://allanime.to/bangumi/D68gKz5f7GofRuXWf
+Episode Link: https://allanime.to/bangumi/A3YuyeYdar4cPvix2
 # Analytics
 
 <img src="./analytics.png">
