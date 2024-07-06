@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hazurewaku no Episode 1
+Episode Name: Isekai Suicide Squad Episode 4
 
-Episode Link: https://allanime.to/bangumi/s6NHpcHusoPXMsMKh
+Episode Link: https://allanime.to/bangumi/rSv4f43vPEEaE7bGE
 # Analytics
 
 <img src="./analytics.png">
