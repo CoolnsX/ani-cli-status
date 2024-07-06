@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Megami no Café Terrace Season 2 Episode 1
+Episode Name: 2 5 jigen no Ririsa Episode 1
 
-Episode Link: https://allanime.to/bangumi/Kbb5Ayha2xXWyvBWF
+Episode Link: https://allanime.to/bangumi/cyYRa6ii6jG5GGXZd
 # Analytics
 
 <img src="./analytics.png">
