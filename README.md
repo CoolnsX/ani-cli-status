@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1111
+Episode Name: Mob kara Hajimaru Tansaku Eiyuutan Episode 2
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/ATiT5RkzK8nB97zJi
 # Analytics
 
 <img src="./analytics.png">
