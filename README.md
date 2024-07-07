@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 2 5 jigen no Ririsa Episode 1
+Episode Name: Shoushimin Series Episode 1
 
-Episode Link: https://allanime.to/bangumi/cyYRa6ii6jG5GGXZd
+Episode Link: https://allanime.to/bangumi/XxTCm6axpDvYFauzC
 # Analytics
 
 <img src="./analytics.png">
