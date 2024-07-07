@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mob kara Hajimaru Tansaku Eiyuutan Episode 2
+Episode Name: Boku no Tsuma wa Kanjou ga Nai Episode 2
 
-Episode Link: https://allanime.to/bangumi/ATiT5RkzK8nB97zJi
+Episode Link: https://allanime.to/bangumi/6ReQ4XCHNkmZyLw2n
 # Analytics
 
 <img src="./analytics.png">
