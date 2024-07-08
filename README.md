@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1111
+Episode Name: Madougushi Dahliya wa Utsumukanai Episode 1
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/ti6qjYajBCabuKDwm
 # Analytics
 
 <img src="./analytics.png">
