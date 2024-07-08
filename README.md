@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan 1995 Episode 1296
+Episode Name: 1P Episode 1111
 
-Episode Link: https://allanime.to/bangumi/SuD2BZMM2kjmuqX74
+Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
 # Analytics
 
 <img src="./analytics.png">
