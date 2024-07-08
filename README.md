@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 87
+Episode Name: Yozakura san Chi no Daisakusen Episode 14
 
-Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
+Episode Link: https://allanime.to/bangumi/QdcDzpRCfcjqHCNNg
 # Analytics
 
 <img src="./analytics.png">
