@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dungeon no Naka no Hito Episode 1
+Episode Name: Shikanoko Nokonoko Koshitantan Episode 1
 
-Episode Link: https://allanime.to/bangumi/D68gKz5f7GofRuXWf
+Episode Link: https://allanime.to/bangumi/sav3h2CXtpHtP2c5x
 # Analytics
 
 <img src="./analytics.png">
