@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tousouchuu Great Mission Episode 63
+Episode Name: Boku no Tsuma wa Kanjou ga Nai Episode 2
 
-Episode Link: https://allanime.to/bangumi/785CdfGiuAzWJzY6S
+Episode Link: https://allanime.to/bangumi/6ReQ4XCHNkmZyLw2n
 # Analytics
 
 <img src="./analytics.png">
