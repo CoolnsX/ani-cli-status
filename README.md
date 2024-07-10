@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1111
+Episode Name: NieR Automata Ver1 1a Part 2 Episode 1
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/5a3z6Y3TyZaiAPozA
 # Analytics
 
 <img src="./analytics.png">
