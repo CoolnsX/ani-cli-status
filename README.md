@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Monogatari Series Off Monster Season Episode 1
+Episode Name: Tsue to Tsurugi no Wistoria Episode 1
 
-Episode Link: https://allanime.to/bangumi/KskTkSCsQHiGkYgAZ
+Episode Link: https://allanime.to/bangumi/RZ8kKEvdYnFBZAQvj
 # Analytics
 
 <img src="./analytics.png">
