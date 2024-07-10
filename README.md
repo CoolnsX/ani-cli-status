@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Maougun Saikyou no Majutsushi wa Ningen datta Episode 3
+Episode Name: Monogatari Series Off Monster Season Episode 1
 
-Episode Link: https://allanime.to/bangumi/orNA54BecxDNf2NbY
+Episode Link: https://allanime.to/bangumi/KskTkSCsQHiGkYgAZ
 # Analytics
 
 <img src="./analytics.png">
