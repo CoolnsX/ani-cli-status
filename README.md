@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: NieR Automata Ver1 1a Part 2 Episode 1
+Episode Name: Shadowverse Flame Arc hen Episode 12
 
-Episode Link: https://allanime.to/bangumi/5a3z6Y3TyZaiAPozA
+Episode Link: https://allanime.to/bangumi/RXf5Lv3Y643ovwztk
 # Analytics
 
 <img src="./analytics.png">
