@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tsue to Tsurugi no Wistoria Episode 1
+Episode Name: Shoushimin Series Episode 1
 
-Episode Link: https://allanime.to/bangumi/RZ8kKEvdYnFBZAQvj
+Episode Link: https://allanime.to/bangumi/XxTCm6axpDvYFauzC
 # Analytics
 
 <img src="./analytics.png">
