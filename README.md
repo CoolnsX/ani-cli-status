@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Elf san wa Yaserarenai Episode 1
+Episode Name: Kinnikuman Kanpeki Choujin Shiso hen Episode 0
 
-Episode Link: https://allanime.to/bangumi/QpieRGp28ocWT2jWf
+Episode Link: https://allanime.to/bangumi/dWQiffjS7ahZssKNa
 # Analytics
 
 <img src="./analytics.png">
