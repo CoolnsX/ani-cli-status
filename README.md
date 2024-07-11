@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name:  Episode 2
+Episode Name: Elf san wa Yaserarenai Episode 1
 
-Episode Link: https://allanime.to/bangumi/pxoBGA54cmpk56MLA
+Episode Link: https://allanime.to/bangumi/QpieRGp28ocWT2jWf
 # Analytics
 
 <img src="./analytics.png">
