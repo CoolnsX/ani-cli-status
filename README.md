@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kinnikuman Kanpeki Choujin Shiso hen Episode 0
+Episode Name: Na Nare Hana Nare Episode 1
 
-Episode Link: https://allanime.to/bangumi/dWQiffjS7ahZssKNa
+Episode Link: https://allanime.to/bangumi/cCCroE6RoAQ98cbPy
 # Analytics
 
 <img src="./analytics.png">
