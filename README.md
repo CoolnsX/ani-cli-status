@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Maougun Saikyou no Majutsushi wa Ningen datta Episode 3
+Episode Name: Tasuuketsu Episode 2
 
-Episode Link: https://allanime.to/bangumi/orNA54BecxDNf2NbY
+Episode Link: https://allanime.to/bangumi/zjHarwaPRswKAsR8M
 # Analytics
 
 <img src="./analytics.png">
