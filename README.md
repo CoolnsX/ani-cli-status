@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 100
+Episode Name: Yozakura san Chi no Daisakusen Episode 14
 
-Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
+Episode Link: https://allanime.to/bangumi/QdcDzpRCfcjqHCNNg
 # Analytics
 
 <img src="./analytics.png">
