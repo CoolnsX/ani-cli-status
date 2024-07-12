@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yozakura san Chi no Daisakusen Episode 14
+Episode Name: Kimi to Boku no Saigo no Senjou Aruiwa Sekai ga Hajimaru Seisen Season 2 Episode 1
 
-Episode Link: https://allanime.to/bangumi/QdcDzpRCfcjqHCNNg
+Episode Link: https://allanime.to/bangumi/oegpXaZ9fbejMgH3E
 # Analytics
 
 <img src="./analytics.png">
