@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The Fable Episode 14
+Episode Name: Chiikawa Episode 100
 
-Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
+Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
 # Analytics
 
 <img src="./analytics.png">
