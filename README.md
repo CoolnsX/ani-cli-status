@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tasuuketsu Episode 2
+Episode Name: Tokidoki Bosotto Russia go de Dereru Tonari no Alya san Episode 2
 
-Episode Link: https://allanime.to/bangumi/zjHarwaPRswKAsR8M
+Episode Link: https://allanime.to/bangumi/iv4jDGx4DbuzXyM6J
 # Analytics
 
 <img src="./analytics.png">
