@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tasogare Out Focus Episode 2
+Episode Name: Tasuuketsu Episode 2
 
-Episode Link: https://allanime.to/bangumi/fcYY9Kd6qr83advLM
+Episode Link: https://allanime.to/bangumi/zjHarwaPRswKAsR8M
 # Analytics
 
 <img src="./analytics.png">
