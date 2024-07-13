@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Egumi Legacy Episode 1
+Episode Name: Himitsu no AiPri Episode 14
 
-Episode Link: https://allanime.to/bangumi/xCedxSdE7Fnji5dMp
+Episode Link: https://allanime.to/bangumi/TAY6dqJNwKKSECHaB
 # Analytics
 
 <img src="./analytics.png">
