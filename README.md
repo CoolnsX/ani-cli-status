@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Himitsu no AiPri Episode 14
+Episode Name: Monogatari Series Off Monster Season Episode 2
 
-Episode Link: https://allanime.to/bangumi/TAY6dqJNwKKSECHaB
+Episode Link: https://allanime.to/bangumi/KskTkSCsQHiGkYgAZ
 # Analytics
 
 <img src="./analytics.png">
