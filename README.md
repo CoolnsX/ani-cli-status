@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hazurewaku no Episode 2
+Episode Name: Mob kara Hajimaru Tansaku Eiyuutan Episode 3
 
-Episode Link: https://allanime.to/bangumi/s6NHpcHusoPXMsMKh
+Episode Link: https://allanime.to/bangumi/ATiT5RkzK8nB97zJi
 # Analytics
 
 <img src="./analytics.png">
