@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Elf san wa Yaserarenai Episode 2
+Episode Name: Hazurewaku no Episode 2
 
-Episode Link: https://allanime.to/bangumi/QpieRGp28ocWT2jWf
+Episode Link: https://allanime.to/bangumi/s6NHpcHusoPXMsMKh
 # Analytics
 
 <img src="./analytics.png">
