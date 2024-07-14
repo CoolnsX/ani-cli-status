@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mob kara Hajimaru Tansaku Eiyuutan Episode 3
+Episode Name: Dead Dead Demons Dededede Destruction Episode 7
 
-Episode Link: https://allanime.to/bangumi/ATiT5RkzK8nB97zJi
+Episode Link: https://allanime.to/bangumi/2z6h3kbiB4xSafQcj
 # Analytics
 
 <img src="./analytics.png">
