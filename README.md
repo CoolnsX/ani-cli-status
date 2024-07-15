@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tsue to Tsurugi no Wistoria Episode 2
+Episode Name: Dungeon no Naka no Hito Episode 2
 
-Episode Link: https://allanime.to/bangumi/RZ8kKEvdYnFBZAQvj
+Episode Link: https://allanime.to/bangumi/D68gKz5f7GofRuXWf
 # Analytics
 
 <img src="./analytics.png">
