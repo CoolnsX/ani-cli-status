@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dead Dead Demons Dededede Destruction Episode 7
+Episode Name: Tsue to Tsurugi no Wistoria Episode 2
 
-Episode Link: https://allanime.to/bangumi/2z6h3kbiB4xSafQcj
+Episode Link: https://allanime.to/bangumi/RZ8kKEvdYnFBZAQvj
 # Analytics
 
 <img src="./analytics.png">
