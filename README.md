@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shoushimin Series Episode 2
+Episode Name: Shadowverse Flame Arc hen Episode 13
 
-Episode Link: https://allanime.to/bangumi/XxTCm6axpDvYFauzC
+Episode Link: https://allanime.to/bangumi/RXf5Lv3Y643ovwztk
 # Analytics
 
 <img src="./analytics.png">
