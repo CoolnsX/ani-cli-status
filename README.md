@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Cardfight Vanguard Divinez Season 2 Episode 2
+Episode Name: Wonderful Precure Episode 24
 
-Episode Link: https://allanime.to/bangumi/4tSzWvpxo7bxJHtLw
+Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
 # Analytics
 
 <img src="./analytics.png">
