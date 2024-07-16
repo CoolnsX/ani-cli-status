@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kono Sekai wa Fukanzen Sugiru Episode 2
+Episode Name: Code Geass Dakkan no Rozé Episode 4
 
-Episode Link: https://allanime.to/bangumi/ivbTxfse5YsDAGAYB
+Episode Link: https://allanime.to/bangumi/GrbSzn2HjpdmeuNaN
 # Analytics
 
 <img src="./analytics.png">
