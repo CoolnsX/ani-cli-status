@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Code Geass Dakkan no Rozé Episode 4
+Episode Name: Na Nare Hana Nare Episode 2
 
-Episode Link: https://allanime.to/bangumi/GrbSzn2HjpdmeuNaN
+Episode Link: https://allanime.to/bangumi/cCCroE6RoAQ98cbPy
 # Analytics
 
 <img src="./analytics.png">
