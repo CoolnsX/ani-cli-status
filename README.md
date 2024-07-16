@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Na Nare Hana Nare Episode 2
+Episode Name: Make Heroine ga Oosugiru Episode 1
 
-Episode Link: https://allanime.to/bangumi/cCCroE6RoAQ98cbPy
+Episode Link: https://allanime.to/bangumi/6v8MgBNsJQWGavdWz
 # Analytics
 
 <img src="./analytics.png">
