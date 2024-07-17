@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 88
+Episode Name: 0 saiji Start Dash Monogatari Episode 1
 
-Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
+Episode Link: https://allanime.to/bangumi/5rxL7CbzWyoazMaGy
 # Analytics
 
 <img src="./analytics.png">
