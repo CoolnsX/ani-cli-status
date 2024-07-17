@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1112
+Episode Name: Mayonaka Punch Episode 2
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/uh2ewCtjmXwKb3b6w
 # Analytics
 
 <img src="./analytics.png">
