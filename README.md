@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Monogatari Series Off Monster Season Episode 2
+Episode Name: Mayonaka Punch Episode 2
 
-Episode Link: https://allanime.to/bangumi/KskTkSCsQHiGkYgAZ
+Episode Link: https://allanime.to/bangumi/uh2ewCtjmXwKb3b6w
 # Analytics
 
 <img src="./analytics.png">
