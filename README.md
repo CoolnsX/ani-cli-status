@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 125
+Episode Name: Shikanoko Nokonoko Koshitantan Episode 3
 
-Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
+Episode Link: https://allanime.to/bangumi/sav3h2CXtpHtP2c5x
 # Analytics
 
 <img src="./analytics.png">
