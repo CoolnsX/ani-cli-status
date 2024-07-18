@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Maougun Saikyou no Majutsushi wa Ningen datta Episode 4
+Episode Name: Fairy Tail 100 nen Quest Episode 2
 
-Episode Link: https://allanime.to/bangumi/orNA54BecxDNf2NbY
+Episode Link: https://allanime.to/bangumi/edPKR5wfPHapavFQQ
 # Analytics
 
 <img src="./analytics.png">
