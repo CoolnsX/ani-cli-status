@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensui no Sakuna hime Episode 2
+Episode Name: Shoushimin Series Episode 2
 
-Episode Link: https://allanime.to/bangumi/vvfeEk6eEtr5YrqD2
+Episode Link: https://allanime.to/bangumi/XxTCm6axpDvYFauzC
 # Analytics
 
 <img src="./analytics.png">
