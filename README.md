@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shoushimin Series Episode 2
+Episode Name: Maougun Saikyou no Majutsushi wa Ningen datta Episode 4
 
-Episode Link: https://allanime.to/bangumi/XxTCm6axpDvYFauzC
+Episode Link: https://allanime.to/bangumi/orNA54BecxDNf2NbY
 # Analytics
 
 <img src="./analytics.png">
