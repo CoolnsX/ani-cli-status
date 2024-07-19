@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tokidoki Bosotto Russia go de Dereru Tonari no Alya san Episode 3
+Episode Name: Ninjala Episode 126
 
-Episode Link: https://allanime.to/bangumi/iv4jDGx4DbuzXyM6J
+Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
 # Analytics
 
 <img src="./analytics.png">
