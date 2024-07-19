@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ramen Akaneko Episode 3
+Episode Name: Himitsu no AiPri Episode 15
 
-Episode Link: https://allanime.to/bangumi/LdA9pzrKg5md6xmXi
+Episode Link: https://allanime.to/bangumi/TAY6dqJNwKKSECHaB
 # Analytics
 
 <img src="./analytics.png">
