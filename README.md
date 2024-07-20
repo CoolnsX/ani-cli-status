@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dead Dead Demons Dededede Destruction Episode 8
+Episode Name: Senpai wa Otokonoko Episode 3
 
-Episode Link: https://allanime.to/bangumi/2z6h3kbiB4xSafQcj
+Episode Link: https://allanime.to/bangumi/5CchzJk4vK9F2y6jn
 # Analytics
 
 <img src="./analytics.png">
