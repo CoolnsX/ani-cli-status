@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hazurewaku no Episode 3
+Episode Name: Chiikawa Episode 101
 
-Episode Link: https://allanime.to/bangumi/s6NHpcHusoPXMsMKh
+Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
 # Analytics
 
 <img src="./analytics.png">
