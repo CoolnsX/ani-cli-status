@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Code Geass Dakkan no Rozé Episode 5
+Episode Name: Ore wa Subete wo Episode 3
 
-Episode Link: https://allanime.to/bangumi/GrbSzn2HjpdmeuNaN
+Episode Link: https://allanime.to/bangumi/EbFttcGsJ5AmN6A68
 # Analytics
 
 <img src="./analytics.png">
