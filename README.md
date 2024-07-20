@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Himitsu no AiPri Episode 15
+Episode Name: Code Geass Dakkan no Rozé Episode 5
 
-Episode Link: https://allanime.to/bangumi/TAY6dqJNwKKSECHaB
+Episode Link: https://allanime.to/bangumi/GrbSzn2HjpdmeuNaN
 # Analytics
 
 <img src="./analytics.png">
