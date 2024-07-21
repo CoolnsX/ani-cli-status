@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The Fable Episode 16
+Episode Name: Nige Jouzu no Wakagimi Episode 3
 
-Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
+Episode Link: https://allanime.to/bangumi/x8k9P88s9fFCG35hd
 # Analytics
 
 <img src="./analytics.png">
