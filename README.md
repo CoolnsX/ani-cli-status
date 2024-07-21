@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Senpai wa Otokonoko Episode 3
+Episode Name: NieR Automata Ver1 1a Part 2 Episode 3
 
-Episode Link: https://allanime.to/bangumi/5CchzJk4vK9F2y6jn
+Episode Link: https://allanime.to/bangumi/5a3z6Y3TyZaiAPozA
 # Analytics
 
 <img src="./analytics.png">
