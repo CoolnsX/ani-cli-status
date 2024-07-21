@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Isekai Suicide Squad Episode 6
+Episode Name: Tensui no Sakuna hime Episode 3
 
-Episode Link: https://allanime.to/bangumi/rSv4f43vPEEaE7bGE
+Episode Link: https://allanime.to/bangumi/vvfeEk6eEtr5YrqD2
 # Analytics
 
 <img src="./analytics.png">
