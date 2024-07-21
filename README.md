@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensui no Sakuna hime Episode 3
+Episode Name: The Fable Episode 16
 
-Episode Link: https://allanime.to/bangumi/vvfeEk6eEtr5YrqD2
+Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
 # Analytics
 
 <img src="./analytics.png">
