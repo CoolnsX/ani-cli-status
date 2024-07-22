@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 2 5 jigen no Ririsa Episode 3
+Episode Name: Bye Bye Earth Episode 2
 
-Episode Link: https://allanime.to/bangumi/cyYRa6ii6jG5GGXZd
+Episode Link: https://allanime.to/bangumi/S8DmkfBXY3dxy8DgZ
 # Analytics
 
 <img src="./analytics.png">
