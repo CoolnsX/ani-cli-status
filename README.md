@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Tsuma wa Kanjou ga Nai Episode 4
+Episode Name: Shadowverse Flame Arc hen Episode 14
 
-Episode Link: https://allanime.to/bangumi/6ReQ4XCHNkmZyLw2n
+Episode Link: https://allanime.to/bangumi/RXf5Lv3Y643ovwztk
 # Analytics
 
 <img src="./analytics.png">
