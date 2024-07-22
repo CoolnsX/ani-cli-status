@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinkalion Change the World Episode 15
+Episode Name: Shadowverse Flame Episode 89
 
-Episode Link: https://allanime.to/bangumi/MsQMzfMtztc93Eiui
+Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
 # Analytics
 
 <img src="./analytics.png">
