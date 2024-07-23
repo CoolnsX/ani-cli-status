@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kono Sekai wa Fukanzen Sugiru Episode 3
+Episode Name: Monogatari Series Off Monster Season Episode 3
 
-Episode Link: https://allanime.to/bangumi/ivbTxfse5YsDAGAYB
+Episode Link: https://allanime.to/bangumi/KskTkSCsQHiGkYgAZ
 # Analytics
 
 <img src="./analytics.png">
