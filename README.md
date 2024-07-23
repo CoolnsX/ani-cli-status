@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wonderful Precure Episode 25
+Episode Name: Ookami to Koushinryou Merchant Meets the Wise Wolf Episode 17
 
-Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
+Episode Link: https://allanime.to/bangumi/yCkrq8Mdgs6t983iL
 # Analytics
 
 <img src="./analytics.png">
