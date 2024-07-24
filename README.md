@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tsue to Tsurugi no Wistoria Episode 4
+Episode Name: Shinkalion Change the World Episode 15
 
-Episode Link: https://allanime.to/bangumi/RZ8kKEvdYnFBZAQvj
+Episode Link: https://allanime.to/bangumi/MsQMzfMtztc93Eiui
 # Analytics
 
 <img src="./analytics.png">
