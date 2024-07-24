@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Naze Boku no Sekai wo Daremo Oboeteinai no ka Episode 2
+Episode Name: Nige Jouzu no Wakagimi Episode 3
 
-Episode Link: https://allanime.to/bangumi/2vMfpsfvHxJcL5r4A
+Episode Link: https://allanime.to/bangumi/x8k9P88s9fFCG35hd
 # Analytics
 
 <img src="./analytics.png">
