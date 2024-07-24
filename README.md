@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wonderful Precure Episode 25
+Episode Name: Shinmai Ossan Boukensha Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru Episode 4
 
-Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
+Episode Link: https://allanime.to/bangumi/5QN3sznB2tFoR8zww
 # Analytics
 
 <img src="./analytics.png">
