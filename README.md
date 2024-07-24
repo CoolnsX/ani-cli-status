@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Monogatari Series Off Monster Season Episode 3
+Episode Name: The Fable Episode 16
 
-Episode Link: https://allanime.to/bangumi/KskTkSCsQHiGkYgAZ
+Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
 # Analytics
 
 <img src="./analytics.png">
