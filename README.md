@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Katsute Mahou Shoujo to Aku wa Tekitai shiteita Episode 3
+Episode Name:  Episode 4
 
-Episode Link: https://allanime.to/bangumi/6A39uiW7BsygpSaco
+Episode Link: https://allanime.to/bangumi/pxoBGA54cmpk56MLA
 # Analytics
 
 <img src="./analytics.png">
