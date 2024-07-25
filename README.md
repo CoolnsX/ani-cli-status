@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nige Jouzu no Wakagimi Episode 3
+Episode Name: Na Nare Hana Nare Episode 3
 
-Episode Link: https://allanime.to/bangumi/x8k9P88s9fFCG35hd
+Episode Link: https://allanime.to/bangumi/cCCroE6RoAQ98cbPy
 # Analytics
 
 <img src="./analytics.png">
