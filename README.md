@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinkalion Change the World Episode 15
+Episode Name: 0 saiji Start Dash Monogatari Episode 2
 
-Episode Link: https://allanime.to/bangumi/MsQMzfMtztc93Eiui
+Episode Link: https://allanime.to/bangumi/5rxL7CbzWyoazMaGy
 # Analytics
 
 <img src="./analytics.png">
