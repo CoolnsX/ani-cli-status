@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Saint October Episode 26
+Episode Name: Senpai wa Otokonoko Episode 4
 
-Episode Link: https://allanime.to/bangumi/ZZ7TQoeK6vJowMKqD
+Episode Link: https://allanime.to/bangumi/5CchzJk4vK9F2y6jn
 # Analytics
 
 <img src="./analytics.png">
