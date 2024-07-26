@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Senpai wa Otokonoko Episode 4
+Episode Name: Shy Season 2 Episode 4
 
-Episode Link: https://allanime.to/bangumi/5CchzJk4vK9F2y6jn
+Episode Link: https://allanime.to/bangumi/ggpPkwsAN5wC6qQRv
 # Analytics
 
 <img src="./analytics.png">
