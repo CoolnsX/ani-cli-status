@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 0 saiji Start Dash Monogatari Episode 2
+Episode Name: Megami no Café Terrace Season 2 Episode 4
 
-Episode Link: https://allanime.to/bangumi/5rxL7CbzWyoazMaGy
+Episode Link: https://allanime.to/bangumi/Kbb5Ayha2xXWyvBWF
 # Analytics
 
 <img src="./analytics.png">
