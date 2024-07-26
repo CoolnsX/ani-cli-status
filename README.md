@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Megami no Café Terrace Season 2 Episode 4
+Episode Name: Shinmai Ossan Boukensha Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru Episode 4
 
-Episode Link: https://allanime.to/bangumi/Kbb5Ayha2xXWyvBWF
+Episode Link: https://allanime.to/bangumi/5QN3sznB2tFoR8zww
 # Analytics
 
 <img src="./analytics.png">
