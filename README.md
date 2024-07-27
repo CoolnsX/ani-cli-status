@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 102
+Episode Name: Kono Sekai wa Fukanzen Sugiru Episode 4
 
-Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
+Episode Link: https://allanime.to/bangumi/ivbTxfse5YsDAGAYB
 # Analytics
 
 <img src="./analytics.png">
