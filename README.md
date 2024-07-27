@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name:  Episode 4
+Episode Name: Koi wa Futago de Warikirenai Episode 3
 
-Episode Link: https://allanime.to/bangumi/pxoBGA54cmpk56MLA
+Episode Link: https://allanime.to/bangumi/pnC4B57HbHSxw6yyz
 # Analytics
 
 <img src="./analytics.png">
