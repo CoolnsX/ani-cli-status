@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Koi wa Futago de Warikirenai Episode 3
+Episode Name: Giji Harem Episode 4
 
-Episode Link: https://allanime.to/bangumi/pnC4B57HbHSxw6yyz
+Episode Link: https://allanime.to/bangumi/pwuBX6ZWejtfW55fw
 # Analytics
 
 <img src="./analytics.png">
