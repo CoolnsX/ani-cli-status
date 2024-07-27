@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Giji Harem Episode 4
+Episode Name: Isekai Suicide Squad Episode 7
 
-Episode Link: https://allanime.to/bangumi/pwuBX6ZWejtfW55fw
+Episode Link: https://allanime.to/bangumi/rSv4f43vPEEaE7bGE
 # Analytics
 
 <img src="./analytics.png">
