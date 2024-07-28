@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Elf san wa Yaserarenai Episode 4
+Episode Name: Tensei shitara Slime Datta Ken Season 3 Episode 16
 
-Episode Link: https://allanime.to/bangumi/QpieRGp28ocWT2jWf
+Episode Link: https://allanime.to/bangumi/KB5XDvwPdtLFEkoQZ
 # Analytics
 
 <img src="./analytics.png">
