@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Giji Harem Episode 4
+Episode Name: Dungeon no Naka no Hito Episode 4
 
-Episode Link: https://allanime.to/bangumi/pwuBX6ZWejtfW55fw
+Episode Link: https://allanime.to/bangumi/D68gKz5f7GofRuXWf
 # Analytics
 
 <img src="./analytics.png">
