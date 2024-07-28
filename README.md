@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yozakura san Chi no Daisakusen Episode 17
+Episode Name: Ramen Akaneko Episode 4
 
-Episode Link: https://allanime.to/bangumi/QdcDzpRCfcjqHCNNg
+Episode Link: https://allanime.to/bangumi/LdA9pzrKg5md6xmXi
 # Analytics
 
 <img src="./analytics.png">
