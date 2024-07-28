@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ramen Akaneko Episode 4
+Episode Name: Code Geass Dakkan no Rozé Episode 6
 
-Episode Link: https://allanime.to/bangumi/LdA9pzrKg5md6xmXi
+Episode Link: https://allanime.to/bangumi/GrbSzn2HjpdmeuNaN
 # Analytics
 
 <img src="./analytics.png">
