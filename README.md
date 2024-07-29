@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Make Heroine ga Oosugiru Episode 3
+Episode Name: Bye Bye Earth Episode 3
 
-Episode Link: https://allanime.to/bangumi/6v8MgBNsJQWGavdWz
+Episode Link: https://allanime.to/bangumi/S8DmkfBXY3dxy8DgZ
 # Analytics
 
 <img src="./analytics.png">
