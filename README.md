@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Senpai wa Otokonoko Episode 4
+Episode Name: Make Heroine ga Oosugiru Episode 3
 
-Episode Link: https://allanime.to/bangumi/5CchzJk4vK9F2y6jn
+Episode Link: https://allanime.to/bangumi/6v8MgBNsJQWGavdWz
 # Analytics
 
 <img src="./analytics.png">
