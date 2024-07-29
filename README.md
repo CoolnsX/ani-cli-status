@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Code Geass Dakkan no Rozé Episode 6
+Episode Name: Senpai wa Otokonoko Episode 4
 
-Episode Link: https://allanime.to/bangumi/GrbSzn2HjpdmeuNaN
+Episode Link: https://allanime.to/bangumi/5CchzJk4vK9F2y6jn
 # Analytics
 
 <img src="./analytics.png">
