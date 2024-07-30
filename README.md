@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Grendizer U Episode 4
+Episode Name: Cardfight Vanguard Divinez Season 2 Episode 4
 
-Episode Link: https://allanime.to/bangumi/Y6oCwAH97LidHQgZu
+Episode Link: https://allanime.to/bangumi/4tSzWvpxo7bxJHtLw
 # Analytics
 
 <img src="./analytics.png">
