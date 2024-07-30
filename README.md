@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mob kara Hajimaru Tansaku Eiyuutan Episode 5
+Episode Name: Na Nare Hana Nare Episode 4
 
-Episode Link: https://allanime.to/bangumi/ATiT5RkzK8nB97zJi
+Episode Link: https://allanime.to/bangumi/cCCroE6RoAQ98cbPy
 # Analytics
 
 <img src="./analytics.png">
