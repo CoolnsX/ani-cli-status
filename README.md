@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinmai Ossan Boukensha Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru Episode 5
+Episode Name: Atri My Dear Moments Episode 3
 
-Episode Link: https://allanime.to/bangumi/5QN3sznB2tFoR8zww
+Episode Link: https://allanime.to/bangumi/dNqXzJGW2qR8hrKa9
 # Analytics
 
 <img src="./analytics.png">
