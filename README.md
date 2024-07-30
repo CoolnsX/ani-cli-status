@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Atri My Dear Moments Episode 3
+Episode Name: Wonderful Precure Episode 26
 
-Episode Link: https://allanime.to/bangumi/dNqXzJGW2qR8hrKa9
+Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
 # Analytics
 
 <img src="./analytics.png">
