@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Grendizer U Episode 4
+Episode Name: Shinmai Ossan Boukensha Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru Episode 5
 
-Episode Link: https://allanime.to/bangumi/Y6oCwAH97LidHQgZu
+Episode Link: https://allanime.to/bangumi/5QN3sznB2tFoR8zww
 # Analytics
 
 <img src="./analytics.png">
