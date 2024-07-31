@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wonderful Precure Episode 26
+Episode Name: Elf san wa Yaserarenai Episode 4
 
-Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
+Episode Link: https://allanime.to/bangumi/QpieRGp28ocWT2jWf
 # Analytics
 
 <img src="./analytics.png">
