@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1000 nen Joou Queen Millennia Episode 1
+Episode Name: Wonderful Precure Episode 26
 
-Episode Link: https://allanime.to/bangumi/8tTbTEobtjmvvoups
+Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
 # Analytics
 
 <img src="./analytics.png">
