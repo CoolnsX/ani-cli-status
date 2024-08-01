@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Maougun Saikyou no Majutsushi wa Ningen datta Episode 6
+Episode Name: 1000 nen Joou Queen Millennia Episode 1
 
-Episode Link: https://allanime.to/bangumi/orNA54BecxDNf2NbY
+Episode Link: https://allanime.to/bangumi/8tTbTEobtjmvvoups
 # Analytics
 
 <img src="./analytics.png">
