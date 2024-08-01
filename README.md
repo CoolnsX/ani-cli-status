@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Elf san wa Yaserarenai Episode 4
+Episode Name: Egumi Legacy Episode 4
 
-Episode Link: https://allanime.to/bangumi/QpieRGp28ocWT2jWf
+Episode Link: https://allanime.to/bangumi/xCedxSdE7Fnji5dMp
 # Analytics
 
 <img src="./analytics.png">
