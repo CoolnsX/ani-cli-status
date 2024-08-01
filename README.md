@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wonderful Precure Episode 26
+Episode Name: Isekai Suicide Squad Episode 8
 
-Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
+Episode Link: https://allanime.to/bangumi/rSv4f43vPEEaE7bGE
 # Analytics
 
 <img src="./analytics.png">
