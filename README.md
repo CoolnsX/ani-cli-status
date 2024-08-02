@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Perman 1983 Episode 526
+Episode Name: Paul no Miracle Daisakusen Episode 50
 
-Episode Link: https://allanime.to/bangumi/Jke3SKvdRvyBj6dzR
+Episode Link: https://allanime.to/bangumi/ENyTLFK8ci6HqDqxD
 # Analytics
 
 <img src="./analytics.png">
