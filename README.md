@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kimi to Boku no Saigo no Senjou Aruiwa Sekai ga Hajimaru Seisen Season 2 Episode 4
+Episode Name: Tensei shitara Slime Datta Ken Season 3 Episode 17
 
-Episode Link: https://allanime.to/bangumi/oegpXaZ9fbejMgH3E
+Episode Link: https://allanime.to/bangumi/KB5XDvwPdtLFEkoQZ
 # Analytics
 
 <img src="./analytics.png">
