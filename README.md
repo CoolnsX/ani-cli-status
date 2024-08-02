@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Megami no Café Terrace Season 2 Episode 5
+Episode Name:  Episode 5
 
-Episode Link: https://allanime.to/bangumi/Kbb5Ayha2xXWyvBWF
+Episode Link: https://allanime.to/bangumi/pxoBGA54cmpk56MLA
 # Analytics
 
 <img src="./analytics.png">
