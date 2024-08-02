@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Egumi Legacy Episode 4
+Episode Name: Shy Season 2 Episode 5
 
-Episode Link: https://allanime.to/bangumi/xCedxSdE7Fnji5dMp
+Episode Link: https://allanime.to/bangumi/ggpPkwsAN5wC6qQRv
 # Analytics
 
 <img src="./analytics.png">
