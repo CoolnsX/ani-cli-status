@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Paul no Miracle Daisakusen Episode 50
+Episode Name: Kimi to Boku no Saigo no Senjou Aruiwa Sekai ga Hajimaru Seisen Season 2 Episode 4
 
-Episode Link: https://allanime.to/bangumi/ENyTLFK8ci6HqDqxD
+Episode Link: https://allanime.to/bangumi/oegpXaZ9fbejMgH3E
 # Analytics
 
 <img src="./analytics.png">
