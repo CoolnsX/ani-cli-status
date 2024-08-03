@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Senpai wa Otokonoko Episode 5
+Episode Name: Sengoku Youko Senma Konton hen Episode 3
 
-Episode Link: https://allanime.to/bangumi/5CchzJk4vK9F2y6jn
+Episode Link: https://allanime.to/bangumi/DRjsbnqqdsrj6XYjf
 # Analytics
 
 <img src="./analytics.png">
