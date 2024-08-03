@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: NieR Automata Ver1 1a Part 2 Episode 5
+Episode Name: Shikanoko Nokonoko Koshitantan Episode 5
 
-Episode Link: https://allanime.to/bangumi/5a3z6Y3TyZaiAPozA
+Episode Link: https://allanime.to/bangumi/sav3h2CXtpHtP2c5x
 # Analytics
 
 <img src="./analytics.png">
