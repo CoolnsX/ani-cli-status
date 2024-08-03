@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1000 nen Joou Queen Millennia Episode 1
+Episode Name: NieR Automata Ver1 1a Part 2 Episode 5
 
-Episode Link: https://allanime.to/bangumi/8tTbTEobtjmvvoups
+Episode Link: https://allanime.to/bangumi/5a3z6Y3TyZaiAPozA
 # Analytics
 
 <img src="./analytics.png">
