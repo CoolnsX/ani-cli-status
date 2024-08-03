@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ohayou Spank Episode 32
+Episode Name: Senpai wa Otokonoko Episode 5
 
-Episode Link: https://allanime.to/bangumi/362y7tCsFLzB7tfSd
+Episode Link: https://allanime.to/bangumi/5CchzJk4vK9F2y6jn
 # Analytics
 
 <img src="./analytics.png">
