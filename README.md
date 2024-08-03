@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Isekai Suicide Squad Episode 8
+Episode Name: Ramen Akaneko Episode 5
 
-Episode Link: https://allanime.to/bangumi/rSv4f43vPEEaE7bGE
+Episode Link: https://allanime.to/bangumi/LdA9pzrKg5md6xmXi
 # Analytics
 
 <img src="./analytics.png">
