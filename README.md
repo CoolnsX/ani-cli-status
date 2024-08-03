@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shikanoko Nokonoko Koshitantan Episode 5
+Episode Name: Isekai Suicide Squad Episode 8
 
-Episode Link: https://allanime.to/bangumi/sav3h2CXtpHtP2c5x
+Episode Link: https://allanime.to/bangumi/rSv4f43vPEEaE7bGE
 # Analytics
 
 <img src="./analytics.png">
