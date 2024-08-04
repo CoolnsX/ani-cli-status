@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Youkai Ningen Bem 2006 Episode 1
+Episode Name: Tsue to Tsurugi no Wistoria Episode 4
 
-Episode Link: https://allanime.to/bangumi/8yN9TPhb54twFvzPC
+Episode Link: https://allanime.to/bangumi/RZ8kKEvdYnFBZAQvj
 # Analytics
 
 <img src="./analytics.png">
