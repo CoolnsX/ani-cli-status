@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Giji Harem Episode 5
+Episode Name: Make Heroine ga Oosugiru Episode 4
 
-Episode Link: https://allanime.to/bangumi/pwuBX6ZWejtfW55fw
+Episode Link: https://allanime.to/bangumi/6v8MgBNsJQWGavdWz
 # Analytics
 
 <img src="./analytics.png">
