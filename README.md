@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gimai Seikatsu Episode 5
+Episode Name: Ramen Akaneko Episode 5
 
-Episode Link: https://allanime.to/bangumi/42rJA8uTPMKqWH6qw
+Episode Link: https://allanime.to/bangumi/LdA9pzrKg5md6xmXi
 # Analytics
 
 <img src="./analytics.png">
