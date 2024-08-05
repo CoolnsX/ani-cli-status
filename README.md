@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Make Heroine ga Oosugiru Episode 4
+Episode Name: 2 5 jigen no Ririsa Episode 5
 
-Episode Link: https://allanime.to/bangumi/6v8MgBNsJQWGavdWz
+Episode Link: https://allanime.to/bangumi/cyYRa6ii6jG5GGXZd
 # Analytics
 
 <img src="./analytics.png">
