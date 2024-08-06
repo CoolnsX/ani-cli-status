@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Youkai Ningen Bem 2006 Episode 1
+Episode Name: Wonderful Precure Episode 27
 
-Episode Link: https://allanime.to/bangumi/8yN9TPhb54twFvzPC
+Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
 # Analytics
 
 <img src="./analytics.png">
