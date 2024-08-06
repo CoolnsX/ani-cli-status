@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Hero Academia 7th Season Episode 12
+Episode Name: Youkai Ningen Bem 2006 Episode 1
 
-Episode Link: https://allanime.to/bangumi/cskJzx6rseAgcGcAe
+Episode Link: https://allanime.to/bangumi/8yN9TPhb54twFvzPC
 # Analytics
 
 <img src="./analytics.png">
