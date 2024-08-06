@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Isekai Yururi Kikou Kosodateshinagara Boukensha Shimasu Episode 6
+Episode Name: Madougushi Dahliya wa Utsumukanai Episode 5
 
-Episode Link: https://allanime.to/bangumi/gNqtezWx6oKaanQEm
+Episode Link: https://allanime.to/bangumi/ti6qjYajBCabuKDwm
 # Analytics
 
 <img src="./analytics.png">
