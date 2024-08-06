@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wonderful Precure Episode 27
+Episode Name: Isekai Yururi Kikou Kosodateshinagara Boukensha Shimasu Episode 6
 
-Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
+Episode Link: https://allanime.to/bangumi/gNqtezWx6oKaanQEm
 # Analytics
 
 <img src="./analytics.png">
