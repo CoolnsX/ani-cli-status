@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Atashin chi Next Episode 3
+Episode Name: Youkai Ningen Bem Episode 26
 
-Episode Link: https://allanime.to/bangumi/bqSX6EuziZqWwRWce
+Episode Link: https://allanime.to/bangumi/uWGEfeimj5xuFiCfH
 # Analytics
 
 <img src="./analytics.png">
