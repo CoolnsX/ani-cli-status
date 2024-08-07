@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Youkai Ningen Bem Episode 26
+Episode Name: 0 saiji Start Dash Monogatari Episode 3
 
-Episode Link: https://allanime.to/bangumi/uWGEfeimj5xuFiCfH
+Episode Link: https://allanime.to/bangumi/5rxL7CbzWyoazMaGy
 # Analytics
 
 <img src="./analytics.png">
