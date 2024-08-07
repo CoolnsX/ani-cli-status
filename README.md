@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Tsuma wa Kanjou ga Nai Episode 6
+Episode Name: Atashin chi Next Episode 3
 
-Episode Link: https://allanime.to/bangumi/6ReQ4XCHNkmZyLw2n
+Episode Link: https://allanime.to/bangumi/bqSX6EuziZqWwRWce
 # Analytics
 
 <img src="./analytics.png">
