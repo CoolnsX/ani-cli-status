@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Atri My Dear Moments Episode 4
+Episode Name: 1P Episode 1114
 
-Episode Link: https://allanime.to/bangumi/dNqXzJGW2qR8hrKa9
+Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
 # Analytics
 
 <img src="./analytics.png">
