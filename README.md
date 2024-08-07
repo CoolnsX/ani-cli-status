@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1114
+Episode Name: Katsute Mahou Shoujo to Aku wa Tekitai shiteita Episode 5
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/6A39uiW7BsygpSaco
 # Analytics
 
 <img src="./analytics.png">
