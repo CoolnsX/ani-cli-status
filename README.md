@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 0 saiji Start Dash Monogatari Episode 3
+Episode Name: Dr Slump Arale chan Episode 163
 
-Episode Link: https://allanime.to/bangumi/5rxL7CbzWyoazMaGy
+Episode Link: https://allanime.to/bangumi/PGqQKyyef49RWDzsc
 # Analytics
 
 <img src="./analytics.png">
