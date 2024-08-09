@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Egumi Legacy Episode 5
+Episode Name: Maougun Saikyou no Majutsushi wa Ningen datta Episode 7
 
-Episode Link: https://allanime.to/bangumi/xCedxSdE7Fnji5dMp
+Episode Link: https://allanime.to/bangumi/orNA54BecxDNf2NbY
 # Analytics
 
 <img src="./analytics.png">
