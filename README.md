@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yozakura san Chi no Daisakusen Episode 18
+Episode Name: Koi wa Futago de Warikirenai Episode 5
 
-Episode Link: https://allanime.to/bangumi/QdcDzpRCfcjqHCNNg
+Episode Link: https://allanime.to/bangumi/pnC4B57HbHSxw6yyz
 # Analytics
 
 <img src="./analytics.png">
