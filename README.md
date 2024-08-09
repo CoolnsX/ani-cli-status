@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Maougun Saikyou no Majutsushi wa Ningen datta Episode 7
+Episode Name: Katsute Mahou Shoujo to Aku wa Tekitai shiteita Episode 5
 
-Episode Link: https://allanime.to/bangumi/orNA54BecxDNf2NbY
+Episode Link: https://allanime.to/bangumi/6A39uiW7BsygpSaco
 # Analytics
 
 <img src="./analytics.png">
