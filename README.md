@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: NieR Automata Ver1 1a Part 2 Episode 6
+Episode Name: Yami Shibai 13 Episode 4
 
-Episode Link: https://allanime.to/bangumi/5a3z6Y3TyZaiAPozA
+Episode Link: https://allanime.to/bangumi/d8DiEpFr37soJeNcX
 # Analytics
 
 <img src="./analytics.png">
