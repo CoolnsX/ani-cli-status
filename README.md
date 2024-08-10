@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Atashin chi Next Episode 3
+Episode Name: Katsute Mahou Shoujo to Aku wa Tekitai shiteita Episode 5
 
-Episode Link: https://allanime.to/bangumi/bqSX6EuziZqWwRWce
+Episode Link: https://allanime.to/bangumi/6A39uiW7BsygpSaco
 # Analytics
 
 <img src="./analytics.png">
