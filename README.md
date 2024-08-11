@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Delico s Nursery Episode 1
+Episode Name: Tasogare Out Focus Episode 6
 
-Episode Link: https://allanime.to/bangumi/FPv4tyNTu6qqt7zyJ
+Episode Link: https://allanime.to/bangumi/fcYY9Kd6qr83advLM
 # Analytics
 
 <img src="./analytics.png">
