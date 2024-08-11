@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tasogare Out Focus Episode 6
+Episode Name: Kono Sekai wa Fukanzen Sugiru Episode 6
 
-Episode Link: https://allanime.to/bangumi/fcYY9Kd6qr83advLM
+Episode Link: https://allanime.to/bangumi/ivbTxfse5YsDAGAYB
 # Analytics
 
 <img src="./analytics.png">
