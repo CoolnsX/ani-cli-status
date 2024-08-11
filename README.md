@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 104
+Episode Name: Getter Robo Go Episode 30
 
-Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
+Episode Link: https://allanime.to/bangumi/LL3bLCEHKd7gPWYjE
 # Analytics
 
 <img src="./analytics.png">
