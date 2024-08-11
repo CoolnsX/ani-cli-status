@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kono Sekai wa Fukanzen Sugiru Episode 6
+Episode Name: Delico s Nursery Episode 1
 
-Episode Link: https://allanime.to/bangumi/ivbTxfse5YsDAGAYB
+Episode Link: https://allanime.to/bangumi/FPv4tyNTu6qqt7zyJ
 # Analytics
 
 <img src="./analytics.png">
