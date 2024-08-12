@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensei shitara Slime Datta Ken Season 3 Episode 17 5
+Episode Name: Dungeon no Naka no Hito Episode 5
 
-Episode Link: https://allanime.to/bangumi/KB5XDvwPdtLFEkoQZ
+Episode Link: https://allanime.to/bangumi/D68gKz5f7GofRuXWf
 # Analytics
 
 <img src="./analytics.png">
