@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dungeon no Naka no Hito Episode 5
+Episode Name: Getter Robo Go Episode 30
 
-Episode Link: https://allanime.to/bangumi/D68gKz5f7GofRuXWf
+Episode Link: https://allanime.to/bangumi/LL3bLCEHKd7gPWYjE
 # Analytics
 
 <img src="./analytics.png">
