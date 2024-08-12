@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 13 Episode 5
+Episode Name: Cardfight Vanguard Divinez Season 2 Episode 6
 
-Episode Link: https://allanime.to/bangumi/d8DiEpFr37soJeNcX
+Episode Link: https://allanime.to/bangumi/4tSzWvpxo7bxJHtLw
 # Analytics
 
 <img src="./analytics.png">
