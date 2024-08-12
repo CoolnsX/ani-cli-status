@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Getter Robo Go Episode 30
+Episode Name: Yami Shibai 13 Episode 5
 
-Episode Link: https://allanime.to/bangumi/LL3bLCEHKd7gPWYjE
+Episode Link: https://allanime.to/bangumi/d8DiEpFr37soJeNcX
 # Analytics
 
 <img src="./analytics.png">
