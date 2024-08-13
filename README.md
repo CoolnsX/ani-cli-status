@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1115
+Episode Name: Himitsu no AiPri Episode 18
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/TAY6dqJNwKKSECHaB
 # Analytics
 
 <img src="./analytics.png">
