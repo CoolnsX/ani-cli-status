@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Fairy Tail 100 nen Quest Episode 6
+Episode Name: Shy Season 2 Episode 6
 
-Episode Link: https://allanime.to/bangumi/edPKR5wfPHapavFQQ
+Episode Link: https://allanime.to/bangumi/ggpPkwsAN5wC6qQRv
 # Analytics
 
 <img src="./analytics.png">
