@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Tsuma wa Kanjou ga Nai Episode 7
+Episode Name: Tiger Mask Episode 81
 
-Episode Link: https://allanime.to/bangumi/6ReQ4XCHNkmZyLw2n
+Episode Link: https://allanime.to/bangumi/3Qs2YAfH6BtAn9yhy
 # Analytics
 
 <img src="./analytics.png">
