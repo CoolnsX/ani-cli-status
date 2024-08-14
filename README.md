@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Isekai Yururi Kikou Kosodateshinagara Boukensha Shimasu Episode 7
+Episode Name: Chibi Maruko chan 1995 Episode 1300
 
-Episode Link: https://allanime.to/bangumi/gNqtezWx6oKaanQEm
+Episode Link: https://allanime.to/bangumi/SuD2BZMM2kjmuqX74
 # Analytics
 
 <img src="./analytics.png">
