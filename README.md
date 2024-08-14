@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kami no Tou Ouji no Kikan Episode 6
+Episode Name: Isekai Yururi Kikou Kosodateshinagara Boukensha Shimasu Episode 7
 
-Episode Link: https://allanime.to/bangumi/vbr4nDimxwKrNzbWg
+Episode Link: https://allanime.to/bangumi/gNqtezWx6oKaanQEm
 # Analytics
 
 <img src="./analytics.png">
