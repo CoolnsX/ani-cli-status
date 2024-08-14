@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Super Zugan Episode 21
+Episode Name: Boku no Tsuma wa Kanjou ga Nai Episode 7
 
-Episode Link: https://allanime.to/bangumi/ajRKsGrGhdN5dRMp3
+Episode Link: https://allanime.to/bangumi/6ReQ4XCHNkmZyLw2n
 # Analytics
 
 <img src="./analytics.png">
