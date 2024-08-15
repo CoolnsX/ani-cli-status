@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1115
+Episode Name: Shoukoushi Cedie Episode 43
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/5CGC2v3n5tNg2R3cJ
 # Analytics
 
 <img src="./analytics.png">
