@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shoukoushi Cedie Episode 43
+Episode Name: Katsute Mahou Shoujo to Aku wa Tekitai shiteita Episode 6
 
-Episode Link: https://allanime.to/bangumi/5CGC2v3n5tNg2R3cJ
+Episode Link: https://allanime.to/bangumi/6A39uiW7BsygpSaco
 # Analytics
 
 <img src="./analytics.png">
