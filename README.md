@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mirai Kara Kita Shounen Super Jetter Episode 30
+Episode Name: Atri My Dear Moments Episode 5
 
-Episode Link: https://allanime.to/bangumi/WYTBE8yQrB9c89WaE
+Episode Link: https://allanime.to/bangumi/dNqXzJGW2qR8hrKa9
 # Analytics
 
 <img src="./analytics.png">
