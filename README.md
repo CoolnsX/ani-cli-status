@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Egumi Legacy Episode 6
+Episode Name: Ramen Akaneko Episode 7
 
-Episode Link: https://allanime.to/bangumi/xCedxSdE7Fnji5dMp
+Episode Link: https://allanime.to/bangumi/LdA9pzrKg5md6xmXi
 # Analytics
 
 <img src="./analytics.png">
