@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ramen Akaneko Episode 7
+Episode Name: Sengoku Youko Senma Konton hen Episode 5
 
-Episode Link: https://allanime.to/bangumi/LdA9pzrKg5md6xmXi
+Episode Link: https://allanime.to/bangumi/DRjsbnqqdsrj6XYjf
 # Analytics
 
 <img src="./analytics.png">
