@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 130
+Episode Name: Oishinbo Episode 52
 
-Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
+Episode Link: https://allanime.to/bangumi/x9hvM6xxnXBhhhJCn
 # Analytics
 
 <img src="./analytics.png">
