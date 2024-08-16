@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rick and Morty The Anime Episode 1
+Episode Name: Sengoku Youko Senma Konton hen Episode 5
 
-Episode Link: https://allanime.to/bangumi/MGdcmnCB6nsWybv7F
+Episode Link: https://allanime.to/bangumi/DRjsbnqqdsrj6XYjf
 # Analytics
 
 <img src="./analytics.png">
