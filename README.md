@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ramen Akaneko Episode 7
+Episode Name: Bye Bye Earth Episode 6
 
-Episode Link: https://allanime.to/bangumi/LdA9pzrKg5md6xmXi
+Episode Link: https://allanime.to/bangumi/S8DmkfBXY3dxy8DgZ
 # Analytics
 
 <img src="./analytics.png">
