@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Koi wa Futago de Warikirenai Episode 6
+Episode Name: Isekai Suicide Squad Episode 10
 
-Episode Link: https://allanime.to/bangumi/pnC4B57HbHSxw6yyz
+Episode Link: https://allanime.to/bangumi/rSv4f43vPEEaE7bGE
 # Analytics
 
 <img src="./analytics.png">
