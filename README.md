@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Senpai wa Otokonoko Episode 6
+Episode Name: Koi wa Futago de Warikirenai Episode 6
 
-Episode Link: https://allanime.to/bangumi/5CchzJk4vK9F2y6jn
+Episode Link: https://allanime.to/bangumi/pnC4B57HbHSxw6yyz
 # Analytics
 
 <img src="./analytics.png">
