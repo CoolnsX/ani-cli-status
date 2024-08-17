@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bye Bye Earth Episode 6
+Episode Name: Shoushimin Series Episode 6
 
-Episode Link: https://allanime.to/bangumi/S8DmkfBXY3dxy8DgZ
+Episode Link: https://allanime.to/bangumi/XxTCm6axpDvYFauzC
 # Analytics
 
 <img src="./analytics.png">
