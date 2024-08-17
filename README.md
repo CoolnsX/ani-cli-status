@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Isekai Suicide Squad Episode 10
+Episode Name: Kengan Ashura Season 2 Part 2 Episode 16
 
-Episode Link: https://allanime.to/bangumi/rSv4f43vPEEaE7bGE
+Episode Link: https://allanime.to/bangumi/XhGo33CKY3NLDp4Nt
 # Analytics
 
 <img src="./analytics.png">
