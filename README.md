@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Bakugan Battle Brawlers Episode 17
+Episode Name: Ramen Akaneko Episode 7
 
-Episode Link: https://allanime.to/bangumi/HLJNkFHDEuEBrzX24
+Episode Link: https://allanime.to/bangumi/LdA9pzrKg5md6xmXi
 # Analytics
 
 <img src="./analytics.png">
