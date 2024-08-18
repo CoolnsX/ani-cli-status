@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Elf san wa Yaserarenai Episode 7
+Episode Name: Ninjala Episode 130
 
-Episode Link: https://allanime.to/bangumi/QpieRGp28ocWT2jWf
+Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
 # Analytics
 
 <img src="./analytics.png">
