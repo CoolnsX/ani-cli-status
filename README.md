@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Make Heroine ga Oosugiru Episode 6
+Episode Name: Elf san wa Yaserarenai Episode 7
 
-Episode Link: https://allanime.to/bangumi/6v8MgBNsJQWGavdWz
+Episode Link: https://allanime.to/bangumi/QpieRGp28ocWT2jWf
 # Analytics
 
 <img src="./analytics.png">
