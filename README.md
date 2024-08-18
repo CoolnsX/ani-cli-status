@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shoushimin Series Episode 6
+Episode Name: Dead Dead Demons Dededede Destruction Episode 12
 
-Episode Link: https://allanime.to/bangumi/XxTCm6axpDvYFauzC
+Episode Link: https://allanime.to/bangumi/2z6h3kbiB4xSafQcj
 # Analytics
 
 <img src="./analytics.png">
