@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wonderful Precure Episode 29
+Episode Name: Madougushi Dahliya wa Utsumukanai Episode 7
 
-Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
+Episode Link: https://allanime.to/bangumi/ti6qjYajBCabuKDwm
 # Analytics
 
 <img src="./analytics.png">
