@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The Fable Episode 19
+Episode Name: Mob kara Hajimaru Tansaku Eiyuutan Episode 8
 
-Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
+Episode Link: https://allanime.to/bangumi/ATiT5RkzK8nB97zJi
 # Analytics
 
 <img src="./analytics.png">
