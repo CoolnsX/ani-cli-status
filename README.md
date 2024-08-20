@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mob kara Hajimaru Tansaku Eiyuutan Episode 8
+Episode Name: Kono Sekai wa Fukanzen Sugiru Episode 7
 
-Episode Link: https://allanime.to/bangumi/ATiT5RkzK8nB97zJi
+Episode Link: https://allanime.to/bangumi/ivbTxfse5YsDAGAYB
 # Analytics
 
 <img src="./analytics.png">
