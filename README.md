@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kono Sekai wa Fukanzen Sugiru Episode 7
+Episode Name: Rick and Morty The Anime Episode 1
 
-Episode Link: https://allanime.to/bangumi/ivbTxfse5YsDAGAYB
+Episode Link: https://allanime.to/bangumi/MGdcmnCB6nsWybv7F
 # Analytics
 
 <img src="./analytics.png">
