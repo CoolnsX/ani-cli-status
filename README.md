@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Fairy Tail 100 nen Quest Episode 7
+Episode Name: Make Heroine ga Oosugiru Episode 6
 
-Episode Link: https://allanime.to/bangumi/edPKR5wfPHapavFQQ
+Episode Link: https://allanime.to/bangumi/6v8MgBNsJQWGavdWz
 # Analytics
 
 <img src="./analytics.png">
