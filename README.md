@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Na Nare Hana Nare Episode 7
+Episode Name: Naze Boku no Sekai wo Daremo Oboeteinai no ka Episode 6
 
-Episode Link: https://allanime.to/bangumi/cCCroE6RoAQ98cbPy
+Episode Link: https://allanime.to/bangumi/2vMfpsfvHxJcL5r4A
 # Analytics
 
 <img src="./analytics.png">
