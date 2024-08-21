@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Isekai Yururi Kikou Kosodateshinagara Boukensha Shimasu Episode 8
+Episode Name: Fairy Tail 100 nen Quest Episode 7
 
-Episode Link: https://allanime.to/bangumi/gNqtezWx6oKaanQEm
+Episode Link: https://allanime.to/bangumi/edPKR5wfPHapavFQQ
 # Analytics
 
 <img src="./analytics.png">
