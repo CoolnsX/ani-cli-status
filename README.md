@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Atri My Dear Moments Episode 6
+Episode Name: Katsute Mahou Shoujo to Aku wa Tekitai shiteita Episode 7
 
-Episode Link: https://allanime.to/bangumi/dNqXzJGW2qR8hrKa9
+Episode Link: https://allanime.to/bangumi/6A39uiW7BsygpSaco
 # Analytics
 
 <img src="./analytics.png">
