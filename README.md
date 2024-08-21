@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Naze Boku no Sekai wo Daremo Oboeteinai no ka Episode 6
+Episode Name: Atri My Dear Moments Episode 6
 
-Episode Link: https://allanime.to/bangumi/2vMfpsfvHxJcL5r4A
+Episode Link: https://allanime.to/bangumi/dNqXzJGW2qR8hrKa9
 # Analytics
 
 <img src="./analytics.png">
