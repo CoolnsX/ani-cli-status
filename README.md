@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rick and Morty The Anime Episode 1
+Episode Name: Na Nare Hana Nare Episode 7
 
-Episode Link: https://allanime.to/bangumi/MGdcmnCB6nsWybv7F
+Episode Link: https://allanime.to/bangumi/cCCroE6RoAQ98cbPy
 # Analytics
 
 <img src="./analytics.png">
