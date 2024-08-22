@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kami no Tou Ouji no Kikan Episode 7
+Episode Name: Grendizer U Episode 7
 
-Episode Link: https://allanime.to/bangumi/vbr4nDimxwKrNzbWg
+Episode Link: https://allanime.to/bangumi/Y6oCwAH97LidHQgZu
 # Analytics
 
 <img src="./analytics.png">
