@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Grendizer U Episode 7
+Episode Name: Delico s Nursery Episode 3
 
-Episode Link: https://allanime.to/bangumi/Y6oCwAH97LidHQgZu
+Episode Link: https://allanime.to/bangumi/FPv4tyNTu6qqt7zyJ
 # Analytics
 
 <img src="./analytics.png">
