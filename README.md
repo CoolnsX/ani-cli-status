@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Na Nare Hana Nare Episode 7
+Episode Name: Kami no Tou Ouji no Kikan Episode 7
 
-Episode Link: https://allanime.to/bangumi/cCCroE6RoAQ98cbPy
+Episode Link: https://allanime.to/bangumi/vbr4nDimxwKrNzbWg
 # Analytics
 
 <img src="./analytics.png">
