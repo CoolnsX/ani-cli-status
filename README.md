@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Koi wa Futago de Warikirenai Episode 7
+Episode Name: The Fable Episode 19
 
-Episode Link: https://allanime.to/bangumi/pnC4B57HbHSxw6yyz
+Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
 # Analytics
 
 <img src="./analytics.png">
