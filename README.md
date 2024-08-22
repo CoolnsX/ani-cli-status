@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Delico s Nursery Episode 3
+Episode Name: Na Nare Hana Nare Episode 7
 
-Episode Link: https://allanime.to/bangumi/FPv4tyNTu6qqt7zyJ
+Episode Link: https://allanime.to/bangumi/cCCroE6RoAQ98cbPy
 # Analytics
 
 <img src="./analytics.png">
