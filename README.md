@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Beyblade X Episode 44
+Episode Name: Egumi Legacy Episode 7
 
-Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
+Episode Link: https://allanime.to/bangumi/xCedxSdE7Fnji5dMp
 # Analytics
 
 <img src="./analytics.png">
