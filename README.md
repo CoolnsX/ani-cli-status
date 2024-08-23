@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name:  Episode 8
+Episode Name: Idol Land PriPara Episode 9
 
-Episode Link: https://allanime.to/bangumi/pxoBGA54cmpk56MLA
+Episode Link: https://allanime.to/bangumi/vMPXhG8mfKNtcK8dy
 # Analytics
 
 <img src="./analytics.png">
