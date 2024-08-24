@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tiger Mask Episode 105
+Episode Name: Tasuuketsu Episode 6
 
-Episode Link: https://allanime.to/bangumi/3Qs2YAfH6BtAn9yhy
+Episode Link: https://allanime.to/bangumi/zjHarwaPRswKAsR8M
 # Analytics
 
 <img src="./analytics.png">
