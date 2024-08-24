@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gimai Seikatsu Episode 8
+Episode Name: Idol Land PriPara Episode 9
 
-Episode Link: https://allanime.to/bangumi/42rJA8uTPMKqWH6qw
+Episode Link: https://allanime.to/bangumi/vMPXhG8mfKNtcK8dy
 # Analytics
 
 <img src="./analytics.png">
