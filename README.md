@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Idol Land PriPara Episode 9
+Episode Name: Tasogare Out Focus Episode 8
 
-Episode Link: https://allanime.to/bangumi/vMPXhG8mfKNtcK8dy
+Episode Link: https://allanime.to/bangumi/fcYY9Kd6qr83advLM
 # Analytics
 
 <img src="./analytics.png">
