@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Code Geass Dakkan no Rozé Episode 10
+Episode Name: Bye Bye Earth Episode 7
 
-Episode Link: https://allanime.to/bangumi/GrbSzn2HjpdmeuNaN
+Episode Link: https://allanime.to/bangumi/S8DmkfBXY3dxy8DgZ
 # Analytics
 
 <img src="./analytics.png">
