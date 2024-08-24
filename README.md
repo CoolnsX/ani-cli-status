@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dungeon no Naka no Hito Episode 7
+Episode Name: Gimai Seikatsu Episode 8
 
-Episode Link: https://allanime.to/bangumi/D68gKz5f7GofRuXWf
+Episode Link: https://allanime.to/bangumi/42rJA8uTPMKqWH6qw
 # Analytics
 
 <img src="./analytics.png">
