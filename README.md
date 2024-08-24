@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Idol Land PriPara Episode 9
+Episode Name: Tiger Mask Episode 105
 
-Episode Link: https://allanime.to/bangumi/vMPXhG8mfKNtcK8dy
+Episode Link: https://allanime.to/bangumi/3Qs2YAfH6BtAn9yhy
 # Analytics
 
 <img src="./analytics.png">
