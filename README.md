@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dead Dead Demons Dededede Destruction Episode 13
+Episode Name: The Fable Episode 20
 
-Episode Link: https://allanime.to/bangumi/2z6h3kbiB4xSafQcj
+Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
 # Analytics
 
 <img src="./analytics.png">
