@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shoushimin Series Episode 7
+Episode Name: Madougushi Dahliya wa Utsumukanai Episode 8
 
-Episode Link: https://allanime.to/bangumi/XxTCm6axpDvYFauzC
+Episode Link: https://allanime.to/bangumi/ti6qjYajBCabuKDwm
 # Analytics
 
 <img src="./analytics.png">
