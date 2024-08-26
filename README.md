@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Karasu wa Aruji wo Erabanai Episode 16
+Episode Name: Detective Conan TV Episode 1133
 
-Episode Link: https://allanime.to/bangumi/54QXLa5bTNaaPjsfg
+Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
 # Analytics
 
 <img src="./analytics.png">
