@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The Fable Episode 21
+Episode Name: Shadowverse Flame Episode 93
 
-Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
+Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
 # Analytics
 
 <img src="./analytics.png">
