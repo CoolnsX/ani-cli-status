@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Hero Academia 7th Season Episode 14
+Episode Name: Tensui no Sakuna hime Episode 8
 
-Episode Link: https://allanime.to/bangumi/cskJzx6rseAgcGcAe
+Episode Link: https://allanime.to/bangumi/vvfeEk6eEtr5YrqD2
 # Analytics
 
 <img src="./analytics.png">
