@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kono Sekai wa Fukanzen Sugiru Episode 8
+Episode Name: Dungeon no Naka no Hito Episode 7
 
-Episode Link: https://allanime.to/bangumi/ivbTxfse5YsDAGAYB
+Episode Link: https://allanime.to/bangumi/D68gKz5f7GofRuXWf
 # Analytics
 
 <img src="./analytics.png">
