@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan 1995 Episode 1302
+Episode Name: Karasu wa Aruji wo Erabanai Episode 16
 
-Episode Link: https://allanime.to/bangumi/SuD2BZMM2kjmuqX74
+Episode Link: https://allanime.to/bangumi/54QXLa5bTNaaPjsfg
 # Analytics
 
 <img src="./analytics.png">
