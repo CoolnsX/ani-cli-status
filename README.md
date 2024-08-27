@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 93
+Episode Name: Haai Step Jun Episode 22
 
-Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
+Episode Link: https://allanime.to/bangumi/5dC9GDoPPJ5agJg2C
 # Analytics
 
 <img src="./analytics.png">
