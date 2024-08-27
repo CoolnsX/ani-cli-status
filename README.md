@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensui no Sakuna hime Episode 8
+Episode Name: Atri My Dear Moments Episode 7
 
-Episode Link: https://allanime.to/bangumi/vvfeEk6eEtr5YrqD2
+Episode Link: https://allanime.to/bangumi/dNqXzJGW2qR8hrKa9
 # Analytics
 
 <img src="./analytics.png">
