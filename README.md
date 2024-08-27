@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mayonaka Punch Episode 8
+Episode Name: Shadowverse Flame Episode 93
 
-Episode Link: https://allanime.to/bangumi/uh2ewCtjmXwKb3b6w
+Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
 # Analytics
 
 <img src="./analytics.png">
