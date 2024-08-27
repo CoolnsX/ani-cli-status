@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 93
+Episode Name: Kono Sekai wa Fukanzen Sugiru Episode 8
 
-Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
+Episode Link: https://allanime.to/bangumi/ivbTxfse5YsDAGAYB
 # Analytics
 
 <img src="./analytics.png">
