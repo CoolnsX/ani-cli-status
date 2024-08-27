@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Atri My Dear Moments Episode 7
+Episode Name: Fairy Tail 100 nen Quest Episode 8
 
-Episode Link: https://allanime.to/bangumi/dNqXzJGW2qR8hrKa9
+Episode Link: https://allanime.to/bangumi/edPKR5wfPHapavFQQ
 # Analytics
 
 <img src="./analytics.png">
