@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Na Nare Hana Nare Episode 8
+Episode Name: Fairy Tail 100 nen Quest Episode 8
 
-Episode Link: https://allanime.to/bangumi/cCCroE6RoAQ98cbPy
+Episode Link: https://allanime.to/bangumi/edPKR5wfPHapavFQQ
 # Analytics
 
 <img src="./analytics.png">
