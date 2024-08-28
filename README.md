@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Toushi Gordian Episode 49
+Episode Name: Katsute Mahou Shoujo to Aku wa Tekitai shiteita Episode 8
 
-Episode Link: https://allanime.to/bangumi/Whq7eSyEiwEh4mCp5
+Episode Link: https://allanime.to/bangumi/6A39uiW7BsygpSaco
 # Analytics
 
 <img src="./analytics.png">
