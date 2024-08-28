@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinmai Ossan Boukensha Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru Episode 8
+Episode Name: Tensui no Sakuna hime Episode 8
 
-Episode Link: https://allanime.to/bangumi/5QN3sznB2tFoR8zww
+Episode Link: https://allanime.to/bangumi/vvfeEk6eEtr5YrqD2
 # Analytics
 
 <img src="./analytics.png">
