@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dr Slump Arale chan Episode 164
+Episode Name: Kami no Tou Ouji no Kikan Episode 8
 
-Episode Link: https://allanime.to/bangumi/PGqQKyyef49RWDzsc
+Episode Link: https://allanime.to/bangumi/vbr4nDimxwKrNzbWg
 # Analytics
 
 <img src="./analytics.png">
