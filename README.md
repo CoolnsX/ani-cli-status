@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nige Jouzu no Wakagimi Episode 8
+Episode Name: Dr Slump Arale chan Episode 164
 
-Episode Link: https://allanime.to/bangumi/x8k9P88s9fFCG35hd
+Episode Link: https://allanime.to/bangumi/PGqQKyyef49RWDzsc
 # Analytics
 
 <img src="./analytics.png">
