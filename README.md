@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shikanoko Nokonoko Koshitantan Episode 9
+Episode Name: Shoushimin Series Episode 7
 
-Episode Link: https://allanime.to/bangumi/sav3h2CXtpHtP2c5x
+Episode Link: https://allanime.to/bangumi/XxTCm6axpDvYFauzC
 # Analytics
 
 <img src="./analytics.png">
