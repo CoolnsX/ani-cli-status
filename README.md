@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Megami no Café Terrace Season 2 Episode 9
+Episode Name: Ore wa Subete wo Episode 9
 
-Episode Link: https://allanime.to/bangumi/Kbb5Ayha2xXWyvBWF
+Episode Link: https://allanime.to/bangumi/EbFttcGsJ5AmN6A68
 # Analytics
 
 <img src="./analytics.png">
