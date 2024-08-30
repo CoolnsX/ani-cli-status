@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 13 Episode 7
+Episode Name: Haai Step Jun Episode 22
 
-Episode Link: https://allanime.to/bangumi/d8DiEpFr37soJeNcX
+Episode Link: https://allanime.to/bangumi/5dC9GDoPPJ5agJg2C
 # Analytics
 
 <img src="./analytics.png">
