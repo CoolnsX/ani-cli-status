@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ore wa Subete wo Episode 9
+Episode Name: Gimai Seikatsu Episode 9
 
-Episode Link: https://allanime.to/bangumi/EbFttcGsJ5AmN6A68
+Episode Link: https://allanime.to/bangumi/42rJA8uTPMKqWH6qw
 # Analytics
 
 <img src="./analytics.png">
