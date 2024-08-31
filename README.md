@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Code Geass Dakkan no Rozé Episode 11
+Episode Name: Delico s Nursery Episode 4
 
-Episode Link: https://allanime.to/bangumi/GrbSzn2HjpdmeuNaN
+Episode Link: https://allanime.to/bangumi/FPv4tyNTu6qqt7zyJ
 # Analytics
 
 <img src="./analytics.png">
