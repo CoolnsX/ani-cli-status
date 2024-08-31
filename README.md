@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Akuma kun Episode 14
+Episode Name: Dead Dead Demons Dededede Destruction Episode 14
 
-Episode Link: https://allanime.to/bangumi/dBMYMLpfH8bZS47ou
+Episode Link: https://allanime.to/bangumi/2z6h3kbiB4xSafQcj
 # Analytics
 
 <img src="./analytics.png">
