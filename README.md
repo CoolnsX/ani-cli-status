@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Madougushi Dahliya wa Utsumukanai Episode 9
+Episode Name: Make Heroine ga Oosugiru Episode 8
 
-Episode Link: https://allanime.to/bangumi/ti6qjYajBCabuKDwm
+Episode Link: https://allanime.to/bangumi/6v8MgBNsJQWGavdWz
 # Analytics
 
 <img src="./analytics.png">
