@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shoushimin Series Episode 8
+Episode Name: Isekai Yururi Kikou Kosodateshinagara Boukensha Shimasu Episode 10
 
-Episode Link: https://allanime.to/bangumi/XxTCm6axpDvYFauzC
+Episode Link: https://allanime.to/bangumi/gNqtezWx6oKaanQEm
 # Analytics
 
 <img src="./analytics.png">
