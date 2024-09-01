@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Naze Boku no Sekai wo Daremo Oboeteinai no ka Episode 8
+Episode Name: Shoushimin Series Episode 8
 
-Episode Link: https://allanime.to/bangumi/2vMfpsfvHxJcL5r4A
+Episode Link: https://allanime.to/bangumi/XxTCm6axpDvYFauzC
 # Analytics
 
 <img src="./analytics.png">
