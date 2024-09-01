@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1117
+Episode Name: Chiikawa Episode 107
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
 # Analytics
 
 <img src="./analytics.png">
