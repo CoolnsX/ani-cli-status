@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Make Heroine ga Oosugiru Episode 8
+Episode Name: Naze Boku no Sekai wo Daremo Oboeteinai no ka Episode 8
 
-Episode Link: https://allanime.to/bangumi/6v8MgBNsJQWGavdWz
+Episode Link: https://allanime.to/bangumi/2vMfpsfvHxJcL5r4A
 # Analytics
 
 <img src="./analytics.png">
