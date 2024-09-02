@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rick and Morty The Anime Episode 3
+Episode Name: NieR Automata Ver1 1a Part 2 Episode 8
 
-Episode Link: https://allanime.to/bangumi/MGdcmnCB6nsWybv7F
+Episode Link: https://allanime.to/bangumi/5a3z6Y3TyZaiAPozA
 # Analytics
 
 <img src="./analytics.png">
