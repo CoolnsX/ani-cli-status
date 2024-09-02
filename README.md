@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mob kara Hajimaru Tansaku Eiyuutan Episode 10
+Episode Name: 2 5 jigen no Ririsa Episode 9
 
-Episode Link: https://allanime.to/bangumi/ATiT5RkzK8nB97zJi
+Episode Link: https://allanime.to/bangumi/cyYRa6ii6jG5GGXZd
 # Analytics
 
 <img src="./analytics.png">
