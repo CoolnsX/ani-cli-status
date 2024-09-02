@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensui no Sakuna hime Episode 9
+Episode Name: Shy Season 2 Episode 9
 
-Episode Link: https://allanime.to/bangumi/vvfeEk6eEtr5YrqD2
+Episode Link: https://allanime.to/bangumi/ggpPkwsAN5wC6qQRv
 # Analytics
 
 <img src="./analytics.png">
