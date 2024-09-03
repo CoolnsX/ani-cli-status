@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ochamegami Monogatari Korokoro Pollon Episode 10
+Episode Name: Shadowverse Flame Episode 94
 
-Episode Link: https://allanime.to/bangumi/aF9gaE9kwjDADbjGy
+Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
 # Analytics
 
 <img src="./analytics.png">
