@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shy Season 2 Episode 9
+Episode Name: Boku no Tsuma wa Kanjou ga Nai Episode 10
 
-Episode Link: https://allanime.to/bangumi/ggpPkwsAN5wC6qQRv
+Episode Link: https://allanime.to/bangumi/6ReQ4XCHNkmZyLw2n
 # Analytics
 
 <img src="./analytics.png">
