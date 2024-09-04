@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nige Jouzu no Wakagimi Episode 9
+Episode Name: Grendizer U Episode 9
 
-Episode Link: https://allanime.to/bangumi/x8k9P88s9fFCG35hd
+Episode Link: https://allanime.to/bangumi/Y6oCwAH97LidHQgZu
 # Analytics
 
 <img src="./analytics.png">
