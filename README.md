@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Elf san wa Yaserarenai Episode 9
+Episode Name: Ochamegami Monogatari Korokoro Pollon Episode 10
 
-Episode Link: https://allanime.to/bangumi/QpieRGp28ocWT2jWf
+Episode Link: https://allanime.to/bangumi/aF9gaE9kwjDADbjGy
 # Analytics
 
 <img src="./analytics.png">
