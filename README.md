@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Grendizer U Episode 9
+Episode Name: Ochamegami Monogatari Korokoro Pollon Episode 10
 
-Episode Link: https://allanime.to/bangumi/Y6oCwAH97LidHQgZu
+Episode Link: https://allanime.to/bangumi/aF9gaE9kwjDADbjGy
 # Analytics
 
 <img src="./analytics.png">
