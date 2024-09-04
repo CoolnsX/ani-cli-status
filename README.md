@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mob kara Hajimaru Tansaku Eiyuutan Episode 10
+Episode Name: Elf san wa Yaserarenai Episode 9
 
-Episode Link: https://allanime.to/bangumi/ATiT5RkzK8nB97zJi
+Episode Link: https://allanime.to/bangumi/QpieRGp28ocWT2jWf
 # Analytics
 
 <img src="./analytics.png">
