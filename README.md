@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nige Jouzu no Wakagimi Episode 9
+Episode Name: Mob kara Hajimaru Tansaku Eiyuutan Episode 10
 
-Episode Link: https://allanime.to/bangumi/x8k9P88s9fFCG35hd
+Episode Link: https://allanime.to/bangumi/ATiT5RkzK8nB97zJi
 # Analytics
 
 <img src="./analytics.png">
