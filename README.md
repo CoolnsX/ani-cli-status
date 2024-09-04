@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ochamegami Monogatari Korokoro Pollon Episode 10
+Episode Name: Nige Jouzu no Wakagimi Episode 9
 
-Episode Link: https://allanime.to/bangumi/aF9gaE9kwjDADbjGy
+Episode Link: https://allanime.to/bangumi/x8k9P88s9fFCG35hd
 # Analytics
 
 <img src="./analytics.png">
