@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Akuu Daisakusen Srungle Episode 16
+Episode Name: Delico s Nursery Episode 5
 
-Episode Link: https://allanime.to/bangumi/ubHHFajrB572iAuAr
+Episode Link: https://allanime.to/bangumi/FPv4tyNTu6qqt7zyJ
 # Analytics
 
 <img src="./analytics.png">
