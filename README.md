@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Wonderful Precure Episode 31
+Episode Name: Akuu Daisakusen Srungle Episode 16
 
-Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
+Episode Link: https://allanime.to/bangumi/ubHHFajrB572iAuAr
 # Analytics
 
 <img src="./analytics.png">
