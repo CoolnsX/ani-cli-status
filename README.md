@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Muu no Hakugei Episode 5
+Episode Name: Shoushimin Series Episode 8
 
-Episode Link: https://allanime.to/bangumi/eDZ9AzEzXu3LQ3uTK
+Episode Link: https://allanime.to/bangumi/XxTCm6axpDvYFauzC
 # Analytics
 
 <img src="./analytics.png">
