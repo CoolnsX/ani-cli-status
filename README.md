@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Delico s Nursery Episode 5
+Episode Name: Wonderful Precure Episode 31
 
-Episode Link: https://allanime.to/bangumi/FPv4tyNTu6qqt7zyJ
+Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
 # Analytics
 
 <img src="./analytics.png">
