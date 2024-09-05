@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Himitsu no AiPri Episode 22
+Episode Name: Ore wa Subete wo Episode 10
 
-Episode Link: https://allanime.to/bangumi/TAY6dqJNwKKSECHaB
+Episode Link: https://allanime.to/bangumi/EbFttcGsJ5AmN6A68
 # Analytics
 
 <img src="./analytics.png">
