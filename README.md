@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Murai no Koi Episode 1
+Episode Name: Ribbon no Kishi Episode 27
 
-Episode Link: https://allanime.to/bangumi/4nBrSD3zWMsCt9ax8
+Episode Link: https://allanime.to/bangumi/JJHH4bczh8u9dNqyW
 # Analytics
 
 <img src="./analytics.png">
