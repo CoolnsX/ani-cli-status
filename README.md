@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Gimai Seikatsu Episode 10
+Episode Name: Murai no Koi Episode 1
 
-Episode Link: https://allanime.to/bangumi/42rJA8uTPMKqWH6qw
+Episode Link: https://allanime.to/bangumi/4nBrSD3zWMsCt9ax8
 # Analytics
 
 <img src="./analytics.png">
