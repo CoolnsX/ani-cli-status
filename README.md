@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Katsute Mahou Shoujo to Aku wa Tekitai shiteita Episode 9
+Episode Name: Tokidoki Bosotto Russia go de Dereru Tonari no Alya san Episode 10
 
-Episode Link: https://allanime.to/bangumi/6A39uiW7BsygpSaco
+Episode Link: https://allanime.to/bangumi/iv4jDGx4DbuzXyM6J
 # Analytics
 
 <img src="./analytics.png">
