@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tokidoki Bosotto Russia go de Dereru Tonari no Alya san Episode 10
+Episode Name: Dead Dead Demons Dededede Destruction Episode 15
 
-Episode Link: https://allanime.to/bangumi/iv4jDGx4DbuzXyM6J
+Episode Link: https://allanime.to/bangumi/2z6h3kbiB4xSafQcj
 # Analytics
 
 <img src="./analytics.png">
