@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ore wa Subete wo Episode 10
+Episode Name: Katsute Mahou Shoujo to Aku wa Tekitai shiteita Episode 9
 
-Episode Link: https://allanime.to/bangumi/EbFttcGsJ5AmN6A68
+Episode Link: https://allanime.to/bangumi/6A39uiW7BsygpSaco
 # Analytics
 
 <img src="./analytics.png">
