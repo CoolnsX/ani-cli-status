@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Blue Lock Episode Nagi Episode 1
+Episode Name: Atashin chi Next Episode 4
 
-Episode Link: https://allanime.to/bangumi/8673BwY7THejvnswe
+Episode Link: https://allanime.to/bangumi/bqSX6EuziZqWwRWce
 # Analytics
 
 <img src="./analytics.png">
