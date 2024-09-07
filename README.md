@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Atashin chi Next Episode 4
+Episode Name: Beyblade X Episode 46
 
-Episode Link: https://allanime.to/bangumi/bqSX6EuziZqWwRWce
+Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
 # Analytics
 
 <img src="./analytics.png">
