@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 2 5 jigen no Ririsa Episode 10
+Episode Name: Atri My Dear Moments Episode 9
 
-Episode Link: https://allanime.to/bangumi/cyYRa6ii6jG5GGXZd
+Episode Link: https://allanime.to/bangumi/dNqXzJGW2qR8hrKa9
 # Analytics
 
 <img src="./analytics.png">
