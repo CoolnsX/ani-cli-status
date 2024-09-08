@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Make Heroine ga Oosugiru Episode 9
+Episode Name: Tasogare Out Focus Episode 10
 
-Episode Link: https://allanime.to/bangumi/6v8MgBNsJQWGavdWz
+Episode Link: https://allanime.to/bangumi/fcYY9Kd6qr83advLM
 # Analytics
 
 <img src="./analytics.png">
