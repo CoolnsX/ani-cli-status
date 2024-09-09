@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dead Dead Demons Dededede Destruction Episode 15
+Episode Name: Shadowverse Flame Arc hen Episode 20
 
-Episode Link: https://allanime.to/bangumi/2z6h3kbiB4xSafQcj
+Episode Link: https://allanime.to/bangumi/RXf5Lv3Y643ovwztk
 # Analytics
 
 <img src="./analytics.png">
