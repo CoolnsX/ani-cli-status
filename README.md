@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensei shitara Slime Datta Ken Season 3 Episode 21
+Episode Name: 2 5 jigen no Ririsa Episode 10
 
-Episode Link: https://allanime.to/bangumi/KB5XDvwPdtLFEkoQZ
+Episode Link: https://allanime.to/bangumi/cyYRa6ii6jG5GGXZd
 # Analytics
 
 <img src="./analytics.png">
