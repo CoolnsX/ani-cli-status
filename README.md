@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 2 5 jigen no Ririsa Episode 10
+Episode Name: Dead Dead Demons Dededede Destruction Episode 15
 
-Episode Link: https://allanime.to/bangumi/cyYRa6ii6jG5GGXZd
+Episode Link: https://allanime.to/bangumi/2z6h3kbiB4xSafQcj
 # Analytics
 
 <img src="./analytics.png">
