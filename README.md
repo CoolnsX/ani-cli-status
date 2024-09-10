@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Tsuma wa Kanjou ga Nai Episode 11
+Episode Name: Naze Boku no Sekai wo Daremo Oboeteinai no ka Episode 9
 
-Episode Link: https://allanime.to/bangumi/6ReQ4XCHNkmZyLw2n
+Episode Link: https://allanime.to/bangumi/2vMfpsfvHxJcL5r4A
 # Analytics
 
 <img src="./analytics.png">
