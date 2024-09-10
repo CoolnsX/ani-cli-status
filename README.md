@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Isekai Yururi Kikou Kosodateshinagara Boukensha Shimasu Episode 11
+Episode Name: Boku no Hero Academia 7th Season Episode 16
 
-Episode Link: https://allanime.to/bangumi/gNqtezWx6oKaanQEm
+Episode Link: https://allanime.to/bangumi/cskJzx6rseAgcGcAe
 # Analytics
 
 <img src="./analytics.png">
