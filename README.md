@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Naze Boku no Sekai wo Daremo Oboeteinai no ka Episode 9
+Episode Name: Kami no Tou Ouji no Kikan Episode 10
 
-Episode Link: https://allanime.to/bangumi/2vMfpsfvHxJcL5r4A
+Episode Link: https://allanime.to/bangumi/vbr4nDimxwKrNzbWg
 # Analytics
 
 <img src="./analytics.png">
