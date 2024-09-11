@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The Fable Episode 22
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 124
 
-Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
+Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
 # Analytics
 
 <img src="./analytics.png">
