@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Hero Academia 7th Season Episode 16
+Episode Name: Mayonaka Punch Episode 10
 
-Episode Link: https://allanime.to/bangumi/cskJzx6rseAgcGcAe
+Episode Link: https://allanime.to/bangumi/uh2ewCtjmXwKb3b6w
 # Analytics
 
 <img src="./analytics.png">
