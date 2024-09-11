@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Fairy Tail 100 nen Quest Episode 10
+Episode Name: The Fable Episode 22
 
-Episode Link: https://allanime.to/bangumi/edPKR5wfPHapavFQQ
+Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
 # Analytics
 
 <img src="./analytics.png">
