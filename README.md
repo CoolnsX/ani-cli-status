@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kami no Tou Ouji no Kikan Episode 10
+Episode Name: Boku no Tsuma wa Kanjou ga Nai Episode 11
 
-Episode Link: https://allanime.to/bangumi/vbr4nDimxwKrNzbWg
+Episode Link: https://allanime.to/bangumi/6ReQ4XCHNkmZyLw2n
 # Analytics
 
 <img src="./analytics.png">
