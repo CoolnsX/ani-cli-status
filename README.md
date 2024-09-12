@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tsue to Tsurugi no Wistoria Episode 9
+Episode Name: Mayonaka Punch Episode 10
 
-Episode Link: https://allanime.to/bangumi/RZ8kKEvdYnFBZAQvj
+Episode Link: https://allanime.to/bangumi/uh2ewCtjmXwKb3b6w
 # Analytics
 
 <img src="./analytics.png">
