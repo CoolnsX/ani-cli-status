@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Mayonaka Punch Episode 10
+Episode Name: Shikanoko Nokonoko Koshitantan Episode 11
 
-Episode Link: https://allanime.to/bangumi/uh2ewCtjmXwKb3b6w
+Episode Link: https://allanime.to/bangumi/sav3h2CXtpHtP2c5x
 # Analytics
 
 <img src="./analytics.png">
