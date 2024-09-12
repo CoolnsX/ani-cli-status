@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Fairy Tail 100 nen Quest Episode 10
+Episode Name: Tsue to Tsurugi no Wistoria Episode 9
 
-Episode Link: https://allanime.to/bangumi/edPKR5wfPHapavFQQ
+Episode Link: https://allanime.to/bangumi/RZ8kKEvdYnFBZAQvj
 # Analytics
 
 <img src="./analytics.png">
