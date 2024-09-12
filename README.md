@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensui no Sakuna hime Episode 10
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 124
 
-Episode Link: https://allanime.to/bangumi/vvfeEk6eEtr5YrqD2
+Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
 # Analytics
 
 <img src="./analytics.png">
