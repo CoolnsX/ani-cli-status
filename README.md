@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinmai Ossan Boukensha Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru Episode 10
+Episode Name: Hazurewaku no Episode 10
 
-Episode Link: https://allanime.to/bangumi/5QN3sznB2tFoR8zww
+Episode Link: https://allanime.to/bangumi/s6NHpcHusoPXMsMKh
 # Analytics
 
 <img src="./analytics.png">
