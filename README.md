@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hazurewaku no Episode 10
+Episode Name: Rick and Morty The Anime Episode 5
 
-Episode Link: https://allanime.to/bangumi/s6NHpcHusoPXMsMKh
+Episode Link: https://allanime.to/bangumi/MGdcmnCB6nsWybv7F
 # Analytics
 
 <img src="./analytics.png">
