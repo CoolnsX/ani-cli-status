@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ramen Akaneko Episode 11
+Episode Name: Murai no Koi Episode 2
 
-Episode Link: https://allanime.to/bangumi/LdA9pzrKg5md6xmXi
+Episode Link: https://allanime.to/bangumi/4nBrSD3zWMsCt9ax8
 # Analytics
 
 <img src="./analytics.png">
