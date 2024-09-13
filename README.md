@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Egumi Legacy Episode 10
+Episode Name: Fairy Tail 100 nen Quest Episode 10
 
-Episode Link: https://allanime.to/bangumi/xCedxSdE7Fnji5dMp
+Episode Link: https://allanime.to/bangumi/edPKR5wfPHapavFQQ
 # Analytics
 
 <img src="./analytics.png">
