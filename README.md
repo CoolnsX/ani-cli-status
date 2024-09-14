@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Hero Academia 7th Season Episode 17
+Episode Name: Rick and Morty The Anime Episode 5
 
-Episode Link: https://allanime.to/bangumi/cskJzx6rseAgcGcAe
+Episode Link: https://allanime.to/bangumi/MGdcmnCB6nsWybv7F
 # Analytics
 
 <img src="./analytics.png">
