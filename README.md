@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rick and Morty The Anime Episode 5
+Episode Name: Megami no Café Terrace Season 2 Episode 11
 
-Episode Link: https://allanime.to/bangumi/MGdcmnCB6nsWybv7F
+Episode Link: https://allanime.to/bangumi/Kbb5Ayha2xXWyvBWF
 # Analytics
 
 <img src="./analytics.png">
