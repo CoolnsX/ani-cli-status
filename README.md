@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Pole Princess Movie Episode 1
+Episode Name: Boku no Hero Academia 7th Season Episode 17
 
-Episode Link: https://allanime.to/bangumi/t7LLhC29Cgqb75F4x
+Episode Link: https://allanime.to/bangumi/cskJzx6rseAgcGcAe
 # Analytics
 
 <img src="./analytics.png">
