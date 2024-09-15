@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: NieR Automata Ver1 1a Part 2 Episode 10
+Episode Name: Chibi Maruko chan 1995 Episode 1305
 
-Episode Link: https://allanime.to/bangumi/5a3z6Y3TyZaiAPozA
+Episode Link: https://allanime.to/bangumi/SuD2BZMM2kjmuqX74
 # Analytics
 
 <img src="./analytics.png">
