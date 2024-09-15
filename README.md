@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Rick and Morty The Anime Episode 5
+Episode Name: Make Heroine ga Oosugiru Episode 10
 
-Episode Link: https://allanime.to/bangumi/MGdcmnCB6nsWybv7F
+Episode Link: https://allanime.to/bangumi/6v8MgBNsJQWGavdWz
 # Analytics
 
 <img src="./analytics.png">
