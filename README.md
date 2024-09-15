@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ninjala Episode 134
+Episode Name: Kono Sekai wa Fukanzen Sugiru Episode 11
 
-Episode Link: https://allanime.to/bangumi/L32rWRjwz57uxfjbB
+Episode Link: https://allanime.to/bangumi/ivbTxfse5YsDAGAYB
 # Analytics
 
 <img src="./analytics.png">
