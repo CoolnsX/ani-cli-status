@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Boku no Hero Academia 7th Season Episode 17
+Episode Name: Yami Shibai 13 Episode 10
 
-Episode Link: https://allanime.to/bangumi/cskJzx6rseAgcGcAe
+Episode Link: https://allanime.to/bangumi/d8DiEpFr37soJeNcX
 # Analytics
 
 <img src="./analytics.png">
