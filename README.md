@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Na Nare Hana Nare Episode 11
+Episode Name: 1P Episode 1119
 
-Episode Link: https://allanime.to/bangumi/cCCroE6RoAQ98cbPy
+Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
 # Analytics
 
 <img src="./analytics.png">
