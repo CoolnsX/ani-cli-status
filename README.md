@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensui no Sakuna hime Episode 11
+Episode Name: Boku no Tsuma wa Kanjou ga Nai Episode 12
 
-Episode Link: https://allanime.to/bangumi/vvfeEk6eEtr5YrqD2
+Episode Link: https://allanime.to/bangumi/6ReQ4XCHNkmZyLw2n
 # Analytics
 
 <img src="./analytics.png">
