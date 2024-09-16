@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Animal 1 Episode 1
+Episode Name: Boku no Hero Academia 7th Season Episode 17
 
-Episode Link: https://allanime.to/bangumi/SCYMEZnHxB87LmX6o
+Episode Link: https://allanime.to/bangumi/cskJzx6rseAgcGcAe
 # Analytics
 
 <img src="./analytics.png">
