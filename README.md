@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 13 Episode 10
+Episode Name: Fairy Tail 100 nen Quest Episode 11
 
-Episode Link: https://allanime.to/bangumi/d8DiEpFr37soJeNcX
+Episode Link: https://allanime.to/bangumi/edPKR5wfPHapavFQQ
 # Analytics
 
 <img src="./analytics.png">
