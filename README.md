@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Fairy Tail 100 nen Quest Episode 11
+Episode Name: Shadowverse Flame Episode 96
 
-Episode Link: https://allanime.to/bangumi/edPKR5wfPHapavFQQ
+Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
 # Analytics
 
 <img src="./analytics.png">
