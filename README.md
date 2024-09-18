@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1119
+Episode Name:  Episode 11
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/pxoBGA54cmpk56MLA
 # Analytics
 
 <img src="./analytics.png">
