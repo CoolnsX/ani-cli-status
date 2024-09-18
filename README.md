@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kankin Kuiki Level X Episode 2
+Episode Name: Isekai Shikkaku Episode 11
 
-Episode Link: https://allanime.to/bangumi/poHf4DfvXfGuWbgEp
+Episode Link: https://allanime.to/bangumi/M3iES4TqWyp6YLPQJ
 # Analytics
 
 <img src="./analytics.png">
