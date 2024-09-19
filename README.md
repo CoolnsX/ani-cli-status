@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tsue to Tsurugi no Wistoria Episode 10
+Episode Name: Kami no Tou Ouji no Kikan Episode 11
 
-Episode Link: https://allanime.to/bangumi/RZ8kKEvdYnFBZAQvj
+Episode Link: https://allanime.to/bangumi/vbr4nDimxwKrNzbWg
 # Analytics
 
 <img src="./analytics.png">
