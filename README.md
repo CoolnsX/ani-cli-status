@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tasuuketsu Episode 10
+Episode Name: Shikanoko Nokonoko Koshitantan Episode 12
 
-Episode Link: https://allanime.to/bangumi/zjHarwaPRswKAsR8M
+Episode Link: https://allanime.to/bangumi/sav3h2CXtpHtP2c5x
 # Analytics
 
 <img src="./analytics.png">
