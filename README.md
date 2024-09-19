@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The Fable Episode 23
+Episode Name: Gimai Seikatsu Episode 12
 
-Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
+Episode Link: https://allanime.to/bangumi/42rJA8uTPMKqWH6qw
 # Analytics
 
 <img src="./analytics.png">
