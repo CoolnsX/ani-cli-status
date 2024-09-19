@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ookami to Koushinryou Merchant Meets the Wise Wolf Episode 24
+Episode Name: The Fable Episode 23
 
-Episode Link: https://allanime.to/bangumi/yCkrq8Mdgs6t983iL
+Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
 # Analytics
 
 <img src="./analytics.png">
