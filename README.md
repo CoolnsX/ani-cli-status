@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shikanoko Nokonoko Koshitantan Episode 12
+Episode Name: Ookami to Koushinryou Merchant Meets the Wise Wolf Episode 24
 
-Episode Link: https://allanime.to/bangumi/sav3h2CXtpHtP2c5x
+Episode Link: https://allanime.to/bangumi/yCkrq8Mdgs6t983iL
 # Analytics
 
 <img src="./analytics.png">
