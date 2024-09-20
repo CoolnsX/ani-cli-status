@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinkalion Change the World Episode 22
+Episode Name: Gimai Seikatsu Episode 12
 
-Episode Link: https://allanime.to/bangumi/MsQMzfMtztc93Eiui
+Episode Link: https://allanime.to/bangumi/42rJA8uTPMKqWH6qw
 # Analytics
 
 <img src="./analytics.png">
