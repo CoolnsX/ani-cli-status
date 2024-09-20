@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 13 Episode 10
+Episode Name: Katsute Mahou Shoujo to Aku wa Tekitai shiteita Episode 11
 
-Episode Link: https://allanime.to/bangumi/d8DiEpFr37soJeNcX
+Episode Link: https://allanime.to/bangumi/6A39uiW7BsygpSaco
 # Analytics
 
 <img src="./analytics.png">
