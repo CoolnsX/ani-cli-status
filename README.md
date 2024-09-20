@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Katsute Mahou Shoujo to Aku wa Tekitai shiteita Episode 11
+Episode Name: Shinkalion Change the World Episode 22
 
-Episode Link: https://allanime.to/bangumi/6A39uiW7BsygpSaco
+Episode Link: https://allanime.to/bangumi/MsQMzfMtztc93Eiui
 # Analytics
 
 <img src="./analytics.png">
