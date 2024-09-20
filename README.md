@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 110
+Episode Name: Egumi Legacy Episode 11
 
-Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
+Episode Link: https://allanime.to/bangumi/xCedxSdE7Fnji5dMp
 # Analytics
 
 <img src="./analytics.png">
