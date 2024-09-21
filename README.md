@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Dungeon no Naka no Hito Episode 11
+Episode Name: Shadowverse Flame Episode 97
 
-Episode Link: https://allanime.to/bangumi/D68gKz5f7GofRuXWf
+Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
 # Analytics
 
 <img src="./analytics.png">
