@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Magic Knight Rayearth Pilot Episode 1
+Episode Name: Dungeon no Naka no Hito Episode 11
 
-Episode Link: https://allanime.to/bangumi/ateZrqGTRceq7sLNs
+Episode Link: https://allanime.to/bangumi/D68gKz5f7GofRuXWf
 # Analytics
 
 <img src="./analytics.png">
