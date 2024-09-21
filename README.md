@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Episode 97
+Episode Name: Rick and Morty The Anime Episode 6
 
-Episode Link: https://allanime.to/bangumi/QJYZNwWCYS7g5BLmj
+Episode Link: https://allanime.to/bangumi/MGdcmnCB6nsWybv7F
 # Analytics
 
 <img src="./analytics.png">
