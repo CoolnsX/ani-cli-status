@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 126
+Episode Name: Hazurewaku no Episode 11
 
-Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
+Episode Link: https://allanime.to/bangumi/s6NHpcHusoPXMsMKh
 # Analytics
 
 <img src="./analytics.png">
