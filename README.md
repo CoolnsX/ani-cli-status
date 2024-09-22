@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Hazurewaku no Episode 11
+Episode Name: Shadowverse Flame Arc hen Episode 22
 
-Episode Link: https://allanime.to/bangumi/s6NHpcHusoPXMsMKh
+Episode Link: https://allanime.to/bangumi/RXf5Lv3Y643ovwztk
 # Analytics
 
 <img src="./analytics.png">
