@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ranma ½ Nettou Uta Gassen Episode 2
+Episode Name: Fairy Tail 100 nen Quest Episode 12
 
-Episode Link: https://allanime.to/bangumi/f9xyhmim5f9k8bMsE
+Episode Link: https://allanime.to/bangumi/edPKR5wfPHapavFQQ
 # Analytics
 
 <img src="./analytics.png">
