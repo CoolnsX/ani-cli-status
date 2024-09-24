@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shinmai Ossan Boukensha Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru Episode 12
+Episode Name: Ookami to Koushinryou Merchant Meets the Wise Wolf Episode 25
 
-Episode Link: https://allanime.to/bangumi/5QN3sznB2tFoR8zww
+Episode Link: https://allanime.to/bangumi/yCkrq8Mdgs6t983iL
 # Analytics
 
 <img src="./analytics.png">
