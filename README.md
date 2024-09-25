@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kami no Tou Ouji no Kikan Episode 12
+Episode Name: The Fable Episode 24
 
-Episode Link: https://allanime.to/bangumi/vbr4nDimxwKrNzbWg
+Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
 # Analytics
 
 <img src="./analytics.png">
