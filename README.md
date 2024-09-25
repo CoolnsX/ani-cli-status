@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ookami to Koushinryou Merchant Meets the Wise Wolf Episode 25
+Episode Name: Chibi Maruko chan Watashi no Suki na Uta Episode 1306
 
-Episode Link: https://allanime.to/bangumi/yCkrq8Mdgs6t983iL
+Episode Link: https://allanime.to/bangumi/2oZ46Ag7ZMi2iBZa3
 # Analytics
 
 <img src="./analytics.png">
