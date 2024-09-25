@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Time Bokan Series Gyakuten Ippatsuman Episode 35
+Episode Name: Elf san wa Yaserarenai Episode 12
 
-Episode Link: https://allanime.to/bangumi/Ffz7aEAMe98zkXAqT
+Episode Link: https://allanime.to/bangumi/QpieRGp28ocWT2jWf
 # Analytics
 
 <img src="./analytics.png">
