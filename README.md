@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Watashi no Suki na Uta Episode 1306
+Episode Name: Yu☆Gi☆Oh Go Rush Episode 126
 
-Episode Link: https://allanime.to/bangumi/2oZ46Ag7ZMi2iBZa3
+Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
 # Analytics
 
 <img src="./analytics.png">
