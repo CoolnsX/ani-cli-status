@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yu☆Gi☆Oh Go Rush Episode 126
+Episode Name: Na Nare Hana Nare Episode 12
 
-Episode Link: https://allanime.to/bangumi/C6DdMx7nogeqT3uco
+Episode Link: https://allanime.to/bangumi/cCCroE6RoAQ98cbPy
 # Analytics
 
 <img src="./analytics.png">
