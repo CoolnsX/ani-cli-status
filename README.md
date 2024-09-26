@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 1P Episode 1120
+Episode Name: Poketoon Episode 10
 
-Episode Link: https://allanime.to/bangumi/ReooPAxPMsHM4KPMY
+Episode Link: https://allanime.to/bangumi/uNLKrNqPDkk4iAeDe
 # Analytics
 
 <img src="./analytics.png">
