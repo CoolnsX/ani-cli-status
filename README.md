@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Kami no Tou Ouji no Kikan Episode 12
+Episode Name: Hitoribocchi no Isekai Kouryaku Episode 1
 
-Episode Link: https://allanime.to/bangumi/vbr4nDimxwKrNzbWg
+Episode Link: https://allanime.to/bangumi/CoDCuQcqrKk7eWQDc
 # Analytics
 
 <img src="./analytics.png">
