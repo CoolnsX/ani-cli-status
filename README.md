@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nige Jouzu no Wakagimi Episode 11
+Episode Name: Kami no Tou Ouji no Kikan Episode 12
 
-Episode Link: https://allanime.to/bangumi/x8k9P88s9fFCG35hd
+Episode Link: https://allanime.to/bangumi/vbr4nDimxwKrNzbWg
 # Analytics
 
 <img src="./analytics.png">
