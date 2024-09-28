@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chibi Maruko chan Watashi no Suki na Uta Episode 1306
+Episode Name: Yami Shibai 13 Episode 11
 
-Episode Link: https://allanime.to/bangumi/2oZ46Ag7ZMi2iBZa3
+Episode Link: https://allanime.to/bangumi/d8DiEpFr37soJeNcX
 # Analytics
 
 <img src="./analytics.png">
