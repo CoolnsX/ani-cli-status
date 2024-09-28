@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Chiikawa Episode 111
+Episode Name: Shadowverse Flame Arc hen Episode 23
 
-Episode Link: https://allanime.to/bangumi/dBjYbRzRyWg59E57c
+Episode Link: https://allanime.to/bangumi/RXf5Lv3Y643ovwztk
 # Analytics
 
 <img src="./analytics.png">
