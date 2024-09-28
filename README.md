@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Ultraman Graffiti Episode 1
+Episode Name: Sengoku Youko Senma Konton hen Episode 10 5
 
-Episode Link: https://allanime.to/bangumi/4P96xNgoFRqK2Fsjm
+Episode Link: https://allanime.to/bangumi/DRjsbnqqdsrj6XYjf
 # Analytics
 
 <img src="./analytics.png">
