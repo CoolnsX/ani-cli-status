@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Shadowverse Flame Arc hen Episode 23
+Episode Name: 2 5 jigen no Ririsa Episode 13
 
-Episode Link: https://allanime.to/bangumi/RXf5Lv3Y643ovwztk
+Episode Link: https://allanime.to/bangumi/cyYRa6ii6jG5GGXZd
 # Analytics
 
 <img src="./analytics.png">
