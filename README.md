@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Nakoruru Ano Hito kara no Okurimono Episode 1
+Episode Name: Fairy Tail 100 nen Quest Episode 13
 
-Episode Link: https://allanime.to/bangumi/TD2pKXaKE8u7ZmnHJ
+Episode Link: https://allanime.to/bangumi/edPKR5wfPHapavFQQ
 # Analytics
 
 <img src="./analytics.png">
