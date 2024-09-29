@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: NieR Automata Ver1 1a Part 2 Episode 12
+Episode Name: Beyblade X Episode 49
 
-Episode Link: https://allanime.to/bangumi/5a3z6Y3TyZaiAPozA
+Episode Link: https://allanime.to/bangumi/YoodqaHGpwQg6bSJH
 # Analytics
 
 <img src="./analytics.png">
