@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: 2 5 jigen no Ririsa Episode 13
+Episode Name: Nakoruru Ano Hito kara no Okurimono Episode 1
 
-Episode Link: https://allanime.to/bangumi/cyYRa6ii6jG5GGXZd
+Episode Link: https://allanime.to/bangumi/TD2pKXaKE8u7ZmnHJ
 # Analytics
 
 <img src="./analytics.png">
