@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: The Fable Episode 25
+Episode Name: Rick and Morty The Anime Episode 7
 
-Episode Link: https://allanime.to/bangumi/w4w7kjeaW6dbWpJRZ
+Episode Link: https://allanime.to/bangumi/MGdcmnCB6nsWybv7F
 # Analytics
 
 <img src="./analytics.png">
