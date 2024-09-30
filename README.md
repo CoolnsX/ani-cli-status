@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Tensui no Sakuna hime Episode 13
+Episode Name: Ultraman Graffiti Episode 1
 
-Episode Link: https://allanime.to/bangumi/vvfeEk6eEtr5YrqD2
+Episode Link: https://allanime.to/bangumi/4P96xNgoFRqK2Fsjm
 # Analytics
 
 <img src="./analytics.png">
