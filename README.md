@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Genma Taisen Episode 1
+Episode Name: Yami Shibai 13 Episode 12
 
-Episode Link: https://allanime.to/bangumi/kHDeHDQkPoc4WT3uQ
+Episode Link: https://allanime.to/bangumi/d8DiEpFr37soJeNcX
 # Analytics
 
 <img src="./analytics.png">
