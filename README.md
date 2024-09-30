@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Yami Shibai 13 Episode 12
+Episode Name: Wonderful Precure Episode 35
 
-Episode Link: https://allanime.to/bangumi/d8DiEpFr37soJeNcX
+Episode Link: https://allanime.to/bangumi/zZLPHFxwEWKmY9qCJ
 # Analytics
 
 <img src="./analytics.png">
