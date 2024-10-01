@@ -6,9 +6,9 @@ This script scrapes from allanime homepage by fetching the random anime and then
 
 #### Selected Episode details
 
-Episode Name: Uzumaki Episode 1
+Episode Name: Detective Conan TV Episode 1136
 
-Episode Link: https://allanime.to/bangumi/gS2NDcevGsks9tGrk
+Episode Link: https://allanime.to/bangumi/taSxDp8w4JTADN9hJ
 # Analytics
 
 <img src="./analytics.png">
